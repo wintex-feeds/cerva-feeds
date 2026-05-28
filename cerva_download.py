@@ -13,7 +13,7 @@ PARTNER_ID = os.environ.get('CERVA_PARTNER_ID')
 COUNTRY    = 'sk'
 LANG       = 'sk'
 
- FEEDS_TO_DOWNLOAD = ['CATALOG', 'PRICES', 'DISPO', 'HEUREKA']
+FEEDS_TO_DOWNLOAD = ['CATALOG', 'PRICES', 'DISPO', 'HEUREKA']
 OUTPUT_DIR = 'feeds'
 
 # ============================================================
