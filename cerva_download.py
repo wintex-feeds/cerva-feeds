@@ -64,7 +64,7 @@ def get_feed_url(token, feed_name):
         feeds = data if isinstance(data, list) else [data]
 
         for feed in feeds:
-            name = (feed.get('name') or feed.get('type') or '').upper()
+            name = (feed.get('feedType') or feed.get('name') or feed.get('type') or '').upper()
             if name == feed_name.upper():
                 status = feed.get('status', '')
                 if status == 'WAITING':
