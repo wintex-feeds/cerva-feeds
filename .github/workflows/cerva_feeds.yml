@@ -1,0 +1,40 @@
+name: Stiahni CERVA feedy
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # každú noc o 02:00 UTC (= 03:00 SK letný čas)
+  workflow_dispatch:        # umožní aj manuálne spustenie jedným kliknutím
+
+jobs:
+  download-feeds:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write       # potrebné na uloženie XML súborov do repozitára
+
+    steps:
+      - name: Stiahni repozitár
+        uses: actions/checkout@v4
+
+      - name: Nastav Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Nainštaluj knižnice
+        run: pip install requests
+
+      - name: Spusti CERVA download script
+        env:
+          CERVA_USERNAME:   ${{ secrets.CERVA_USERNAME }}
+          CERVA_PASSWORD:   ${{ secrets.CERVA_PASSWORD }}
+          CERVA_PARTNER_ID: ${{ secrets.CERVA_PARTNER_ID }}
+        run: python cerva_download.py
+
+      - name: Ulož XML súbory do repozitára
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add feeds/
+          git diff --staged --quiet || git commit -m "Aktualizácia CERVA feedov: $(date +'%Y-%m-%d %H:%M')"
+          git push
