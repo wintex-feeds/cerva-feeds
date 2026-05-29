@@ -411,7 +411,6 @@
    </product>
    <product code="01020083" title="VACHER rukavice">
       <variant code="0102008370110" title="VACHER rukavice žltá 11" price="7.791" currency="EUR" unit="PÁR"/>
-      <variant code="0102008370100" title="VACHER rukavice žltá 10" price="7.791" currency="EUR" unit="PÁR"/>
       <variant code="0102008370090" title="VACHER rukavice žltá 9" price="7.791" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01020104" title="POWER KIXX rukavice celokožené">
@@ -14613,7 +14612,6 @@
    <product code="03040178" title="SALI tričko">
       <variant code="03040178D7006" title="SALI tričko modrá/biela 3XL" price="11.858" currency="EUR" unit="KS"/>
       <variant code="03040178D7003" title="SALI tričko modrá/biela L" price="11.858" currency="EUR" unit="KS"/>
-      <variant code="03040178D7001" title="SALI tričko modrá/biela S" price="11.858" currency="EUR" unit="KS"/>
       <variant code="03040178D7000" title="SALI tričko modrá/biela XS" price="11.858" currency="EUR" unit="KS"/>
       <variant code="0304017864003" title="SALI tričko černá/žltá L" price="11.858" currency="EUR" unit="KS"/>
       <variant code="0304017864000" title="SALI tričko černá/žltá XS" price="11.858" currency="EUR" unit="KS"/>
@@ -24890,6 +24888,9 @@
    </product>
    <product code="0504015499999" title="3M 169215 svetlo na kukly:Task Light Kit">
       <variant code="0504015499999" title="3M 169215 svetlo na kukly:Task Light Kit" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
+   <product code="0504015599999" title="3M 528028 Vnútorné ochr.sklíčko G5-03">
+      <variant code="0504015599999" title="3M 528028 Vnútorné ochr.sklíčko G5-03" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0505000299999" title="EVO Non Vented Gas okular.">
       <variant code="0505000299999" title="EVO Non Vented Gas okular." price="23.815" currency="EUR" unit="KS"/>
