@@ -6198,7 +6198,6 @@
       <variant code="0202085760037" title="TORNAFORT MF S3S SR členok HRO čierna 37" price="71.95" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02020858" title="HOMBEE O2 SRC členok">
-      <variant code="0202085882046" title="HOMBEE O2 SRC členok bežová 46" price="91.931" currency="EUR" unit="PÁR"/>
       <variant code="0202085882045" title="HOMBEE O2 SRC členok bežová 45" price="91.931" currency="EUR" unit="PÁR"/>
       <variant code="0202085882043" title="HOMBEE O2 SRC členok bežová 43" price="91.931" currency="EUR" unit="PÁR"/>
       <variant code="0202085882042" title="HOMBEE O2 SRC členok bežová 42" price="91.931" currency="EUR" unit="PÁR"/>
@@ -15240,9 +15239,9 @@
       <variant code="0306007290000" title="KNOXFIELD HV mikina oranžová XS" price="6.891" currency="EUR" unit="KS"/>
    </product>
    <product code="03060073" title="KNOXFIELD HVPS mikina s kapucňou">
-      <variant code="0306007390006" title="KNOXFIELD HVPS mikina s kapucň.oranž 3XL" price="64.739" currency="EUR" unit="KS"/>
       <variant code="0306007390005" title="KNOXFIELD HVPS mikina s kapucň.oranž XXL" price="64.739" currency="EUR" unit="KS"/>
       <variant code="0306007390004" title="KNOXFIELD HVPS mikina s kapucň.oranž XL" price="64.739" currency="EUR" unit="KS"/>
+      <variant code="0306007390003" title="KNOXFIELD HVPS mikina s kapucň.oranž L" price="64.739" currency="EUR" unit="KS"/>
       <variant code="0306007390001" title="KNOXFIELD HVPS mikina s kapucň.oranž S" price="64.739" currency="EUR" unit="KS"/>
       <variant code="0306007390000" title="KNOXFIELD HVPS mikina s kapucň.oranž XS" price="64.739" currency="EUR" unit="KS"/>
       <variant code="0306007370006" title="KNOXFIELD HVPS mikina s kapucňou žlt 3XL" price="64.739" currency="EUR" unit="KS"/>
@@ -15821,7 +15820,6 @@
       <variant code="0310002170056" title="KNOXFIELD HV 290 šortky žltá 56" price="33.067" currency="EUR" unit="KS"/>
       <variant code="0310002170048" title="KNOXFIELD HV 290 šortky žltá 48" price="33.067" currency="EUR" unit="KS"/>
       <variant code="0310002120058" title="KNOXFIELD HV 290 šortky červená 58" price="33.067" currency="EUR" unit="KS"/>
-      <variant code="0310002120050" title="KNOXFIELD HV 290 šortky červená 50" price="33.067" currency="EUR" unit="KS"/>
       <variant code="0310002120048" title="KNOXFIELD HV 290 šortky červená 48" price="33.067" currency="EUR" unit="KS"/>
       <variant code="0310002120046" title="KNOXFIELD HV 290 šortky červená 46" price="33.067" currency="EUR" unit="KS"/>
    </product>
@@ -21703,7 +21701,6 @@
       <variant code="0353000641052" title="BADAJOZ RFLX náprs.nohavice navy 52" price="28.972" currency="EUR" unit="KS"/>
       <variant code="0353000641050" title="BADAJOZ RFLX náprs.nohavice navy 50" price="28.972" currency="EUR" unit="KS"/>
       <variant code="0353000641048" title="BADAJOZ RFLX náprs.nohavice navy 48" price="28.972" currency="EUR" unit="KS"/>
-      <variant code="0353000600064" title="BADAJOZ RFLX náprs.nohavice sivá 64" price="28.972" currency="EUR" unit="KS"/>
       <variant code="0353000600060" title="BADAJOZ RFLX náprs.nohavice sivá 60" price="28.972" currency="EUR" unit="KS"/>
       <variant code="0353000600058" title="BADAJOZ RFLX náprs.nohavice sivá 58" price="28.972" currency="EUR" unit="KS"/>
       <variant code="0353000600054" title="BADAJOZ RFLX náprs.nohavice sivá 54" price="28.972" currency="EUR" unit="KS"/>
