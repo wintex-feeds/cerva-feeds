@@ -3011,6 +3011,10 @@
             <color code="99" title="-"/>
          </colors>
          <standards>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
+            <standard code="EN 12477" title="EN 12477 | Type_A"/>
+            <standard code="EN 388" title="EN 388 | 4244X"/>
+            <standard code="EN 407" title="EN 407 | 423X4X"/>
          </standards>
          <brand>CERV</brand>
          <images>
@@ -18705,41 +18709,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             </image>
             <image>
                <path>https://media.cerva.com/medias/0201018260-ULM-SC-02-006-O1-SRC-low-01.jpg?context=bWFzdGVyfGltYWdlc3w4NDQ1MXxpbWFnZS9qcGVnfDg5ODI2Mjg4NTk5MzQvMDIwMTAxODI2MF9VTE1fU0NfMDJfMDA2X08xX1NSQ19sb3ctMDEuanBnfDk3Yzk0ZjAyZWNiYmMyZDUxMmRlMGZiYzIyYTNiYWQ4MDI1ZWMwZTNkYjcyZmUwZDBkNzI3NzY5OTNhNDc2YTQ</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010192</code>
-         <title>HENNE poltopánka S3 SRC</title>
-         <description>• S3 SRC bezpečnostná poltopánka s kompozitnou bezpečnostnou špicou a stielkou odolnou voči prepichnutiu • PU/PU podošva rezistentná voči olejom • vysoká odolnosť voči pošmyknutiu • zvršok z kvalitnej prírodnej kože Crazy horse</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-         </standards>
-         <brand>OS</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTkyMnxpbWFnZS93ZWJwfDkyNDk3NTU3NTg2MjIvMDIwMTAxOTJfSEVOTkVfTE9XX1MzU1JDX0NFUlZBXzIwMTZfMDJfMzIyMzAudGlmLnBuZ3w5YTRjYWRkN2I4MGY3ZDQ0OTc3Y2JhNjk2ODBjM2M3MWE0NDJkODdhY2M3ZmM3OGFkNjU2ZmU0NWE5NTMwMTUx</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NzkwfGltYWdlL3dlYnB8OTI0OTU5ODA0NjIzOC8wMjAxMDE5Ml9IRU5ORV9MT1dfUzNTUkNfc29sZV8xOTM4OS50aWYucG5nfDAyNzM4NThlNzgwNTIyY2MzOThmYzU2OWVhMGRiMDE5ZmY1MDY3ZTI4ODBiOWNjMzBiODgyNTFmOGMyYzJjYTk</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -65292,7 +65261,7 @@ Poznámka 2: Trieda 3 podľa normy EN ISO 20471:2013+A1:2016 je v komplete s KNO
       </product>
       <product>
          <code>0401002199999</code>
-         <title>3M 1100R náhr.náplň zátok , 2000pár</title>
+         <title>3M 1100R náhr.náplň zátok , 500 párov</title>
          <description/>
          <categoryPath>Produkty/Ochrana sluchu/Zátkové chrániče</categoryPath>
          <packaging></packaging>

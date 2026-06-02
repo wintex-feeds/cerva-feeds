@@ -3807,14 +3807,6 @@
       <variant code="0201018260036" title="ULM O1 FO SR poltopánka 36 čierna" price="17.3" currency="EUR" unit="PÁR"/>
       <variant code="0201018260035" title="ULM O1 FO SR poltopánka 35 čierna" price="17.3" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="02010192" title="HENNE poltopánka S3 SRC">
-      <variant code="0201019260047" title="HENNE poltopánka S3 SRC 47 čierna" price="0.006" currency="EUR" unit="PÁR"/>
-      <variant code="0201019260046" title="HENNE poltopánka S3 SRC 46 čierna" price="0.006" currency="EUR" unit="PÁR"/>
-      <variant code="0201019260045" title="HENNE poltopánka S3 SRC 45 čierna" price="0.006" currency="EUR" unit="PÁR"/>
-      <variant code="0201019260041" title="HENNE poltopánka S3 SRC 41 čierna" price="0.006" currency="EUR" unit="PÁR"/>
-      <variant code="0201019260040" title="HENNE poltopánka S3 SRC 40 čierna" price="0.006" currency="EUR" unit="PÁR"/>
-      <variant code="0201019260039" title="HENNE poltopánka S3 SRC 39 čierna" price="0.006" currency="EUR" unit="PÁR"/>
-   </product>
    <product code="02010195" title="RAVEN S2 SRC mokasíny">
       <variant code="0201019580048" title="RAVEN S2 SRC mokasíny 48 biela" price="13.416" currency="EUR" unit="PÁR"/>
    </product>
@@ -11354,7 +11346,6 @@
       <variant code="0302003441048" title="EMERTON nohavice náprs. s nápr.navy 48" price="35.0" currency="EUR" unit="KS"/>
    </product>
    <product code="03020036" title="EMERTON nohavice">
-      <variant code="0302003690062" title="EMERTON nohavice - 62" price="29.44" currency="EUR" unit="KS"/>
       <variant code="0302003690060" title="EMERTON nohavice - 60" price="29.44" currency="EUR" unit="KS"/>
       <variant code="0302003690054" title="EMERTON nohavice - 54" price="29.44" currency="EUR" unit="KS"/>
       <variant code="0302003690050" title="EMERTON nohavice - 50" price="29.44" currency="EUR" unit="KS"/>
@@ -23506,8 +23497,8 @@
    <product code="0401001899999" title="3M 1100 zátky">
       <variant code="0401001899999" title="3M 1100 zátky" price="36.36" currency="EUR" unit="BOX"/>
    </product>
-   <product code="0401002199999" title="3M 1100R náhr.náplň zátok , 2000pár">
-      <variant code="0401002199999" title="3M 1100R náhr.náplň zátok , 2000pár" price="369.8" currency="EUR" unit="BOX"/>
+   <product code="0401002199999" title="3M 1100R náhr.náplň zátok , 500 párov">
+      <variant code="0401002199999" title="3M 1100R náhr.náplň zátok , 500 párov" price="54.22" currency="EUR" unit="BOX"/>
    </product>
    <product code="0401002299999" title="3M 1110 zátky so šnúrkou">
       <variant code="0401002299999" title="3M 1110 zátky so šnúrkou" price="0.459" currency="EUR" unit="PÁR"/>
