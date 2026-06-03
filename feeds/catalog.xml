@@ -3305,7 +3305,7 @@
             <color code="60" title="čierna"/>
          </colors>
          <standards>
-            <standard code="EN 420" title="EN 420"/>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
          </standards>
          <brand>CERV</brand>
          <images>
@@ -11411,34 +11411,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>BOX</unit>
       </product>
       <product>
-         <code>01090012</code>
-         <title>ANSELL 69-210 Touch N Tuf</title>
-         <description>• jednorazové rukavice z prírodného 0,12 mm silného latexu • vodeodolné • pudrované</description>
-         <categoryPath>Rizika/Nepříznivé počasí/EN 20471</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="065" title="6"/>
-            <size code="075" title="7"/>
-            <size code="085" title="8"/>
-            <size code="105" title="10"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-         </standards>
-         <brand>ANSE</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzI5OHxpbWFnZS93ZWJwfDkyNTEwNDI5NTExOTgvMDEwOTAwMTJfVG91Y2hOVHVmZiA2OS0yMTAgV2hpdGUgUHJvZHVjdC50aWYucG5nfDFhM2NhNDJjOWJhZDRmZGJiMzFmOGU2NGQ2ZTY0NTI3YTQwYzQ1MTc2MGM2MDUzZGRhZDkwYWIwOWJlYTEwOTk</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDk0MHxpbWFnZS93ZWJwfDkyNDYzNzg4ODUxNTAvMDEwOTAwMTJfVG91Y2hOVHVmZiA2OS0yMTAgQm94IEZyb250IDNEIC0gQm94IE9ubHkudGlmLnBuZ3w1NjEwYTA2ODUyNDUzYzBlNmVlOTc3MWM3OGIxMWI3Y2U0MWRmMGY5OGFkY2UzZTBkNzU0NDhiMTgwMDUzYzcx</path>
-            </image>
-         </images>
-         <unit>BOX</unit>
-      </product>
-      <product>
          <code>01090013</code>
          <title>Ansell 69-318 Touch N Tuf</title>
          <description>• jednorazové rukavice z prírodného 0,12 mm silného latexu • vodeodolné • nepudrované</description>
@@ -18714,48 +18686,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02010195</code>
-         <title>RAVEN S2 SRC mokasíny</title>
-         <description>Bezpečnostné mokasíny s bezpečnostnou špicou. PU jednohustotná antistatická protišmyková podošva rezistentná voči olejom a oderu, s absorpciou energie v päte. Zvršok – vodeodolné mikrovlákno, priedušná podšívka s antibakteriálnymi vlastnosťami.</description>
-         <categoryPath>Produkty/Obuv/Mokasíny</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="80" title="biela"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S2 SRC"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NzA4fGltYWdlL3dlYnB8OTI1MTEwMzI0NDMxOC8wMjAxMDE5NV9SQVZFTl9XSElURV9NT0NDQVNJTl9TMlNSQ19DRVJWQSAyMDE4XzE5OTA1LnRpZi5wbmd8YWZkNDM5ZDFiMWZjZWM1NTVmZjVmZDFiYzJhNjk1YjM1MjM0MGM5M2I2N2QxZjJiOTQwMTQxMjdkODc1ZjBmNw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MDIwfGltYWdlL3dlYnB8OTI0OTgwMjcxNTE2Ni8wMjAxMDE5NV9SQVZFTl9XSElURV9NT0NDQVNJTl9TMlNSQ19zb2xlX0NFUlZBIDIwMTcgMDJfMjAxMTY2LnRpZi5wbmd8NzNlN2I1NmFkNjMyOWJiZWUxOGU5NWRhYjRhOWI2MTQzM2I4YzQ4MGViOTFmNGEzMDFjOWU0ZTlmMDhmMDIyZA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDU2fGltYWdlL3dlYnB8OTI0NjQ1NDA4NzcxMC8wMjAxMDE5NTgwX1JhdmVuX1MyX1NSQ19tb2Nhc2luLTAxLmpwZ3xlYWI1YjY5MDRlZTcwZDg5ZjdlNTRmNzUyYTVjMDkyMWY5ZTkwZDY0MDgxZmRiNTgyMGU1NTAxYWI3MmE3NTdj</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02010196</code>
          <title>RAVEN O2 SRC mokasíny</title>
          <description>Pracovné mokasíny s PU jednohustotnou antistatickou protišmykovou podošvou rezistentnou voči olejom a oderu, s absorpciou energie v päte. Zvršok - vodeodolné mikrovlákno, priedušná podšívka s antibakteriálnymi vlastnosťami.</description>
@@ -20698,6 +20628,7 @@ Obuv neobsahuje kovové súčasti a je vybavená funkciou ESD. Preto je to ideá
          </colors>
          <standards>
             <standard code="EN ISO 20345" title="EN ISO 20345 | S1 SRC"/>
+            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 FO SR"/>
          </standards>
          <brand>CERV</brand>
          <images>
@@ -20765,6 +20696,7 @@ Obuv neobsahuje kovové súčasti a je vybavená funkciou ESD. Preto je to ideá
          </colors>
          <standards>
             <standard code="EN ISO 20347" title="EN ISO 20347 | O1 FO SRC"/>
+            <standard code="EN ISO 20347" title="EN ISO 20347"/>
          </standards>
          <brand>CERV</brand>
          <images>
@@ -40001,83 +39933,6 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDQzMHxpbWFnZS93ZWJwfDkyNTExMTQ5MDk3MjYvMDMwMjAyNDRfTEFIUl9wYW50c19zYW5kX0NFUlZBXzIwMTYwNF9DRVJWQSBET0ZPMzQwOTFfcHJvZHVrdF96ZXphZHUudGlmLnBuZ3w0MzI4ZDBkYjc5MTQ1YWJhNjQ0ODNlYjAwZWVkZDJlYzEyNGYxYzZkOWQ0NzQ0ZDhjNzBhZGE3ZTY5YzkyM2Jj</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
-         <code>03020245</code>
-         <title>RENMARK nohavice náprs.</title>
-         <description>• pánske pracovné nohavice s náprsenkou • odnímateľné multifunkčné vrecká v prednej časti s možnosťou vloženia priestranných predných vreciek • 1 multifunkčné bočné vrecko na nohavici s pútkom na kladivo • 2 vrecká na náradie na druhej nohavici • 2 veľké vrecká s chlopňou so zapínaním na suchý zips v zadnej časti • zosilnené kolenné vrecká z oxfordskej tkaniny vhodné na vloženie kolenných chráničov • 2 multifunkčné náprsné vrecká • zapínanie na zips prekrytý légou so zapínaním na suchý zips • nastaviteľná dĺžka šľapiek • elastický pás • džínsové gombíky na bočnej časti • trojité švy a pruhové štítky na zosilnenie • nastaviteľná dĺžka nohavíc • reflexné lemovanie v zadnej kolennej časti</description>
-         <categoryPath>Produkty/Odevy/Nohavice a overaly/Nohavice</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="044" title="44"/>
-            <size code="046" title="46"/>
-            <size code="048" title="48"/>
-            <size code="050" title="50"/>
-            <size code="052" title="52"/>
-            <size code="054" title="54"/>
-            <size code="056" title="56"/>
-            <size code="058" title="58"/>
-            <size code="060" title="60"/>
-            <size code="062" title="62"/>
-            <size code="064" title="64"/>
-            <size code="066" title="66"/>
-         </sizes>
-         <colors>
-            <color code="00" title="sivá"/>
-            <color code="84" title="piesková"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 13688" title="EN ISO 13688"/>
-            <standard code="EN ISO 13688" title="EN ISO 13688"/>
-         </standards>
-         <brand>ASNT</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MTkyfGltYWdlL3dlYnB8OTI1MDU1ODczODQ2Mi8wMzAyMDI0NV9SRU5NQVJLX2JpYnBhbnRzX3NhbmRfNzJfQ0VSVkEgRE9GT18zNDgxNC50aWYucG5nfGE4MTUyYmIzYzc3NzEyMGJlOWM1ZWRkZDcxMWFkMmM4MjZiNjhmOWYxNDg0NmIzOWIxZDUzNGM4ODM3MmZkNGU</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NDc2fGltYWdlL3dlYnB8OTI0NjE2OTAzODg3OC8wMzAyMDI0NV9SRU5NQVJLX2JpYnBhbnRzX0NFUlZBXzIwMTYwNF9DRVJWQSBET0ZPMzQxNjEudGlmLnBuZ3w4OTdlNjU3YzEzM2E3Njk0ZWJlN2YwNjIwNDVjMDEzMGFmOGU4N2NmODA3MmNjZTEyYWJhZjVlMjA4YmM3YTAw</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
-         <code>03020248</code>
-         <title>TAUPO nohavice náprs.</title>
-         <description>• pánske pracovné nohavice s náprsenkou • 2 bočné vrecká v džínsovom štýle na prednom diele • 1 bočné vrecko s príklopkou na suchý zips na nohavici • 2 priestorné vrecká na náradie na druhej nohavici • 2 skladané zadné vrecká s príklopkou na suchý zips • zosilnená časť v oblasti kolien s možnosťou vloženia kolenných výstuh • 1 multifunkčné náprsné vrecko na zips • bočné zapínanie na gombíky • nastaviteľná dĺžka trakov • čiastočne elastický pás • spevnenie švov trojitým prešitím • znásobené prešitie v namáhaných miestach • upraviteľná dĺžka nohavíc</description>
-         <categoryPath>Produkty/Odevy/Nohavice a overaly/Nohavice</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="044" title="44"/>
-            <size code="046" title="46"/>
-            <size code="048" title="48"/>
-            <size code="050" title="50"/>
-            <size code="052" title="52"/>
-            <size code="054" title="54"/>
-            <size code="056" title="56"/>
-            <size code="058" title="58"/>
-            <size code="060" title="60"/>
-            <size code="062" title="62"/>
-            <size code="064" title="64"/>
-            <size code="066" title="66"/>
-         </sizes>
-         <colors>
-            <color code="80" title="biela"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 13688" title="EN ISO 13688"/>
-            <standard code="EN ISO 13688" title="EN ISO 13688"/>
-         </standards>
-         <brand>ASNT</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NTQ2fGltYWdlL3dlYnB8OTI1MDkwNDA0NzY0Ni8wMzAyMDI0OF9UQVVQT19iaWJwYW50c183Ml9DRVJWQSBET0ZPXzM0ODA3LnRpZi5wbmd8NjQwMzMwMDlmMDUxZGQ3NmY1NTIzOTUxZWNjYzc2YmJjOWIwYWNmZmE2ZTJlMjgzZjgzNzMwYTJkMmNkY2MzNQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5ODkyfGltYWdlL3dlYnB8OTI0OTU4NTQzMDU1OC8wMzAyMDI0OF9UQVVQT19iaWJwYW50c19DRVJWQV8yMDE2MDRfbW9kZWxfQ0VSVkEgRE9GT18zNDM0MS50aWYucG5nfDVlOGIyZDI4MjMwZjUzNzdmZjk0MmNkN2M3ZjA0YjA2MDg4OGQ0YjRhZjVjZDlhN2M2OGYzZWZmMTk5OWFmMzA</path>
             </image>
          </images>
          <unit>KS</unit>
