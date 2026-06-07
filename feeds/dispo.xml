@@ -2120,8 +2120,8 @@
          <detail dispo="4440" site="Centrála v ČR"/>
          <detail dispo="12" site="Senec"/>
       </product>
-      <product code="0107000699100" generic="01070006" title="ROLLER ruk.nitril celomáč. úplet.manž" totalDispo="23256" unit="PÁR">
-         <detail dispo="23052" site="Centrála v ČR"/>
+      <product code="0107000699100" generic="01070006" title="ROLLER ruk.nitril celomáč. úplet.manž" totalDispo="23232" unit="PÁR">
+         <detail dispo="23028" site="Centrála v ČR"/>
          <detail dispo="204" site="Senec"/>
       </product>
       <product code="0107000699090" generic="01070006" title="ROLLER ruk.nitril celomáč. úplet.m - 9" totalDispo="2580" unit="PÁR">
@@ -3408,9 +3408,9 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="672" site="Senec"/>
       </product>
-      <product code="0108004599090BN" generic="01080045BN" title="BUNTING EVO BLACK rukavice blister - 9" totalDispo="7164" unit="PÁR">
+      <product code="0108004599090BN" generic="01080045BN" title="BUNTING EVO BLACK rukavice blister - 9" totalDispo="7152" unit="PÁR">
          <detail date="2026-06-18" dispo="6336" site="Centrála v ČR"/>
-         <detail dispo="828" site="Senec"/>
+         <detail dispo="816" site="Senec"/>
       </product>
       <product code="0108004599080BN" generic="01080045BN" title="BUNTING EVO BLACK rukavice blister - 8" totalDispo="156" unit="PÁR">
          <detail dispo="0" site="Centrála v ČR"/>
@@ -10908,8 +10908,8 @@
          <detail date="2026-06-12" dispo="4" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201036460040" generic="02010364" title="RAVEN XT S3 SR SC poltopánka 40 čierna" totalDispo="47" unit="PÁR">
-         <detail date="2026-06-12" dispo="42" site="Centrála v ČR"/>
+      <product code="0201036460040" generic="02010364" title="RAVEN XT S3 SR SC poltopánka 40 čierna" totalDispo="46" unit="PÁR">
+         <detail date="2026-06-12" dispo="41" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
       <product code="0201036460039" generic="02010364" title="RAVEN XT S3 SR SC poltopánka 39 čierna" totalDispo="0" unit="PÁR">
@@ -14644,12 +14644,12 @@
          <detail dispo="8" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0201061760046" generic="02010617" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.46" totalDispo="36" unit="PÁR">
-         <detail date="2026-06-29" dispo="2" site="Centrála v ČR"/>
+      <product code="0201061760046" generic="02010617" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.46" totalDispo="34" unit="PÁR">
+         <detail date="2026-06-29" dispo="0" site="Centrála v ČR"/>
          <detail dispo="34" site="Senec"/>
       </product>
-      <product code="0201061760045" generic="02010617" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.45" totalDispo="47" unit="PÁR">
-         <detail dispo="3" site="Centrála v ČR"/>
+      <product code="0201061760045" generic="02010617" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.45" totalDispo="44" unit="PÁR">
+         <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="44" site="Senec"/>
       </product>
       <product code="0201061760044" generic="02010617" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.44" totalDispo="66" unit="PÁR">
@@ -14664,8 +14664,8 @@
          <detail date="2026-06-29" dispo="8" site="Centrála v ČR"/>
          <detail dispo="38" site="Senec"/>
       </product>
-      <product code="0201061760041" generic="02010617" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.41" totalDispo="58" unit="PÁR">
-         <detail date="2026-06-29" dispo="4" site="Centrála v ČR"/>
+      <product code="0201061760041" generic="02010617" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.41" totalDispo="54" unit="PÁR">
+         <detail date="2026-06-29" dispo="0" site="Centrála v ČR"/>
          <detail dispo="54" site="Senec"/>
       </product>
       <product code="0201061760040" generic="02010617" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.40" totalDispo="47" unit="PÁR">
@@ -14888,33 +14888,33 @@
          <detail dispo="108" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201061908045" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 45" totalDispo="101" unit="PÁR">
+      <product code="0201061908045" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 45" totalDispo="100" unit="PÁR">
          <detail dispo="98" site="Centrála v ČR"/>
-         <detail dispo="3" site="Senec"/>
+         <detail dispo="2" site="Senec"/>
       </product>
       <product code="0201061908044" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 44" totalDispo="77" unit="PÁR">
          <detail date="2026-07-16" dispo="77" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201061908043" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 43" totalDispo="7" unit="PÁR">
+      <product code="0201061908043" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 43" totalDispo="6" unit="PÁR">
          <detail date="2026-07-16" dispo="0" site="Centrála v ČR"/>
-         <detail dispo="7" site="Senec"/>
+         <detail dispo="6" site="Senec"/>
       </product>
       <product code="0201061908042" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 42" totalDispo="0" unit="PÁR">
          <detail date="2026-06-25" dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201061908041" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 41" totalDispo="101" unit="PÁR">
+      <product code="0201061908041" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 41" totalDispo="100" unit="PÁR">
          <detail dispo="95" site="Centrála v ČR"/>
-         <detail dispo="6" site="Senec"/>
+         <detail dispo="5" site="Senec"/>
       </product>
       <product code="0201061908040" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 40" totalDispo="4" unit="PÁR">
          <detail dispo="1" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
-      <product code="0201061908039" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 39" totalDispo="195" unit="PÁR">
+      <product code="0201061908039" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 39" totalDispo="194" unit="PÁR">
          <detail dispo="194" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201061908038" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 38" totalDispo="545" unit="PÁR">
          <detail dispo="545" site="Centrála v ČR"/>
@@ -14996,13 +14996,13 @@
          <detail dispo="3" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201062008046" generic="02010620" title="GRIMMA S1P SR poltop. sivá/červená 46" totalDispo="71" unit="PÁR">
+      <product code="0201062008046" generic="02010620" title="GRIMMA S1P SR poltop. sivá/červená 46" totalDispo="70" unit="PÁR">
          <detail dispo="70" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201062008045" generic="02010620" title="GRIMMA S1P SR poltop. sivá/červená 45" totalDispo="81" unit="PÁR">
+      <product code="0201062008045" generic="02010620" title="GRIMMA S1P SR poltop. sivá/červená 45" totalDispo="80" unit="PÁR">
          <detail dispo="80" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201062008044" generic="02010620" title="GRIMMA S1P SR poltop. sivá/červená 44" totalDispo="0" unit="PÁR">
          <detail dispo="0" site="Centrála v ČR"/>
@@ -15012,9 +15012,9 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201062008042" generic="02010620" title="GRIMMA S1P SR poltop. sivá/červená 42" totalDispo="5" unit="PÁR">
+      <product code="0201062008042" generic="02010620" title="GRIMMA S1P SR poltop. sivá/červená 42" totalDispo="3" unit="PÁR">
          <detail dispo="0" site="Centrála v ČR"/>
-         <detail dispo="5" site="Senec"/>
+         <detail dispo="3" site="Senec"/>
       </product>
       <product code="0201062008041" generic="02010620" title="GRIMMA S1P SR poltop. sivá/červená 41" totalDispo="0" unit="PÁR">
          <detail dispo="0" site="Centrála v ČR"/>
@@ -16416,8 +16416,8 @@
          <detail dispo="67" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0202001675046" generic="02020016" title="MONVISO S3 SRC členok hnedá - 46" totalDispo="220" unit="PÁR">
-         <detail dispo="218" site="Centrála v ČR"/>
+      <product code="0202001675046" generic="02020016" title="MONVISO S3 SRC členok hnedá - 46" totalDispo="204" unit="PÁR">
+         <detail dispo="202" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
       <product code="0202001675045" generic="02020016" title="MONVISO S3 SRC členok hnedá - 45" totalDispo="461" unit="PÁR">
@@ -16436,8 +16436,8 @@
          <detail dispo="575" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="0202001675041" generic="02020016" title="MONVISO S3 SRC členok hnedá - 41" totalDispo="309" unit="PÁR">
-         <detail dispo="302" site="Centrála v ČR"/>
+      <product code="0202001675041" generic="02020016" title="MONVISO S3 SRC členok hnedá - 41" totalDispo="297" unit="PÁR">
+         <detail dispo="290" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
       <product code="0202001675040" generic="02020016" title="MONVISO S3 SRC členok hnedá - 40" totalDispo="152" unit="PÁR">
@@ -36284,8 +36284,8 @@
          <detail date="2026-07-02" dispo="256" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0302000342058" generic="03020003" title="STANMORE nohavice náprs tm.modrá 58" totalDispo="538" unit="KS">
-         <detail date="2026-07-02" dispo="535" site="Centrála v ČR"/>
+      <product code="0302000342058" generic="03020003" title="STANMORE nohavice náprs tm.modrá 58" totalDispo="537" unit="KS">
+         <detail date="2026-07-02" dispo="534" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
       <product code="0302000342056" generic="03020003" title="STANMORE nohavice náprs tm.modrá 56" totalDispo="963" unit="KS">
@@ -52796,8 +52796,8 @@
          <detail date="2026-07-16" dispo="447" site="Centrála v ČR"/>
          <detail dispo="42" site="Senec"/>
       </product>
-      <product code="0310001512003" generic="03100015" title="CRAMBE šortky camouflage L" totalDispo="262" unit="KS">
-         <detail date="2026-07-16" dispo="226" site="Centrála v ČR"/>
+      <product code="0310001512003" generic="03100015" title="CRAMBE šortky camouflage L" totalDispo="257" unit="KS">
+         <detail date="2026-07-16" dispo="221" site="Centrála v ČR"/>
          <detail dispo="36" site="Senec"/>
       </product>
       <product code="0310001512002" generic="03100015" title="CRAMBE šortky camouflage M" totalDispo="333" unit="KS">
@@ -53100,24 +53100,24 @@
          <detail dispo="341" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0310002761054" generic="03100027" title="DAYBORO šortky antracit 54" totalDispo="612" unit="KS">
-         <detail dispo="603" site="Centrála v ČR"/>
+      <product code="0310002761054" generic="03100027" title="DAYBORO šortky antracit 54" totalDispo="607" unit="KS">
+         <detail dispo="598" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0310002761052" generic="03100027" title="DAYBORO šortky antracit 52" totalDispo="957" unit="KS">
-         <detail dispo="941" site="Centrála v ČR"/>
+      <product code="0310002761052" generic="03100027" title="DAYBORO šortky antracit 52" totalDispo="954" unit="KS">
+         <detail dispo="938" site="Centrála v ČR"/>
          <detail dispo="16" site="Senec"/>
       </product>
       <product code="0310002761050" generic="03100027" title="DAYBORO šortky antracit 50" totalDispo="772" unit="KS">
          <detail dispo="764" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="0310002761048" generic="03100027" title="DAYBORO šortky antracit 48" totalDispo="706" unit="KS">
-         <detail dispo="695" site="Centrála v ČR"/>
+      <product code="0310002761048" generic="03100027" title="DAYBORO šortky antracit 48" totalDispo="705" unit="KS">
+         <detail dispo="694" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0310002761046" generic="03100027" title="DAYBORO šortky antracit 46" totalDispo="195" unit="KS">
-         <detail dispo="195" site="Centrála v ČR"/>
+      <product code="0310002761046" generic="03100027" title="DAYBORO šortky antracit 46" totalDispo="194" unit="KS">
+         <detail dispo="194" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0310002761044" generic="03100027" title="DAYBORO šortky antracit 44" totalDispo="55" unit="KS">
@@ -57944,17 +57944,17 @@
          <detail dispo="87" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0316002200745" generic="03160022" title="SEGIN ponožky 3pack 45/46" totalDispo="314" unit="BAL">
+      <product code="0316002200745" generic="03160022" title="SEGIN ponožky 3pack 45/46" totalDispo="311" unit="BAL">
          <detail dispo="274" site="Centrála v ČR"/>
-         <detail dispo="40" site="Senec"/>
+         <detail dispo="37" site="Senec"/>
       </product>
-      <product code="0316002200743" generic="03160022" title="SEGIN ponožky 3pack 43/44" totalDispo="361" unit="BAL">
+      <product code="0316002200743" generic="03160022" title="SEGIN ponožky 3pack 43/44" totalDispo="358" unit="BAL">
          <detail dispo="300" site="Centrála v ČR"/>
-         <detail dispo="61" site="Senec"/>
+         <detail dispo="58" site="Senec"/>
       </product>
-      <product code="0316002200741" generic="03160022" title="SEGIN ponožky 3pack 41/42" totalDispo="473" unit="BAL">
+      <product code="0316002200741" generic="03160022" title="SEGIN ponožky 3pack 41/42" totalDispo="470" unit="BAL">
          <detail dispo="424" site="Centrála v ČR"/>
-         <detail dispo="49" site="Senec"/>
+         <detail dispo="46" site="Senec"/>
       </product>
       <product code="0316002200739" generic="03160022" title="SEGIN ponožky 3pack 39/40" totalDispo="380" unit="BAL">
          <detail dispo="364" site="Centrála v ČR"/>
@@ -58292,21 +58292,21 @@
          <detail dispo="560" site="Centrála v ČR"/>
          <detail dispo="187" site="Senec"/>
       </product>
-      <product code="0316006482743" generic="03160064" title="KRAZ bamboo ponožky bežová 43/44" totalDispo="903" unit="PÁR">
+      <product code="0316006482743" generic="03160064" title="KRAZ bamboo ponožky bežová 43/44" totalDispo="898" unit="PÁR">
          <detail dispo="756" site="Centrála v ČR"/>
-         <detail dispo="147" site="Senec"/>
-      </product>
-      <product code="0316006482741" generic="03160064" title="KRAZ bamboo ponožky bežová 41/42" totalDispo="1081" unit="PÁR">
-         <detail dispo="939" site="Centrála v ČR"/>
          <detail dispo="142" site="Senec"/>
+      </product>
+      <product code="0316006482741" generic="03160064" title="KRAZ bamboo ponožky bežová 41/42" totalDispo="1076" unit="PÁR">
+         <detail dispo="939" site="Centrála v ČR"/>
+         <detail dispo="137" site="Senec"/>
       </product>
       <product code="0316006482739" generic="03160064" title="KRAZ bamboo ponožky bežová 39/40" totalDispo="382" unit="PÁR">
          <detail dispo="267" site="Centrála v ČR"/>
          <detail dispo="115" site="Senec"/>
       </product>
-      <product code="0316006482737" generic="03160064" title="KRAZ bamboo ponožky bežová 37/38" totalDispo="274" unit="PÁR">
+      <product code="0316006482737" generic="03160064" title="KRAZ bamboo ponožky bežová 37/38" totalDispo="269" unit="PÁR">
          <detail dispo="255" site="Centrála v ČR"/>
-         <detail dispo="19" site="Senec"/>
+         <detail dispo="14" site="Senec"/>
       </product>
       <product code="0316006660745" generic="03160066" title="STIRLING STRETCH ponožky čierna 45/46" totalDispo="655" unit="PÁR">
          <detail dispo="644" site="Centrála v ČR"/>
@@ -71164,17 +71164,17 @@
          <detail dispo="120" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0352012660056" generic="03520126" title="MAX ECO STRETCH nohavice čierna 56" totalDispo="269" unit="KS">
+      <product code="0352012660056" generic="03520126" title="MAX ECO STRETCH nohavice čierna 56" totalDispo="268" unit="KS">
          <detail dispo="268" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
       <product code="0352012660054" generic="03520126" title="MAX ECO STRETCH nohavice čierna 54" totalDispo="264" unit="KS">
          <detail dispo="262" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0352012660052" generic="03520126" title="MAX ECO STRETCH nohavice čierna 52" totalDispo="277" unit="KS">
+      <product code="0352012660052" generic="03520126" title="MAX ECO STRETCH nohavice čierna 52" totalDispo="276" unit="KS">
          <detail dispo="275" site="Centrála v ČR"/>
-         <detail dispo="2" site="Senec"/>
+         <detail dispo="1" site="Senec"/>
       </product>
       <product code="0352012660050" generic="03520126" title="MAX ECO STRETCH nohavice čierna 50" totalDispo="390" unit="KS">
          <detail dispo="388" site="Centrála v ČR"/>
@@ -81776,9 +81776,9 @@
          <detail date="2026-07-16" dispo="342" site="Centrála v ČR"/>
          <detail dispo="42" site="Senec"/>
       </product>
-      <product code="0502002699999" generic="0502002699999" title="MAXSHIELD 3500 štít +držiak polycarb" totalDispo="1326" unit="KS">
+      <product code="0502002699999" generic="0502002699999" title="MAXSHIELD 3500 štít +držiak polycarb" totalDispo="1325" unit="KS">
          <detail date="2026-08-06" dispo="1299" site="Centrála v ČR"/>
-         <detail dispo="27" site="Senec"/>
+         <detail dispo="26" site="Senec"/>
       </product>
       <product code="0502003799999" generic="0502003799999" title="Okula Štít S-P 6" totalDispo="0" unit="KS">
          <detail dispo="0" site="Centrála v ČR"/>
@@ -83908,9 +83908,9 @@
          <detail dispo="162" site="Centrála v ČR"/>
          <detail dispo="191" site="Senec"/>
       </product>
-      <product code="0702000799020" generic="07020007" title="3M 6200 polomaska stredná M" totalDispo="332" unit="KS">
+      <product code="0702000799020" generic="07020007" title="3M 6200 polomaska stredná M" totalDispo="331" unit="KS">
          <detail dispo="148" site="Centrála v ČR"/>
-         <detail dispo="184" site="Senec"/>
+         <detail dispo="183" site="Senec"/>
       </product>
       <product code="0702000799010" generic="07020007" title="3M 6100 polomaska malá S" totalDispo="25" unit="KS">
          <detail dispo="8" site="Centrála v ČR"/>
