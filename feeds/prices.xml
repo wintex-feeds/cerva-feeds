@@ -5223,7 +5223,6 @@
    <product code="02010624" title="GERA S3 SR  poltopánka">
       <variant code="0201062468044" title="GERA S3 SR  poltopánka čierna/sivá 44" price="30.18" currency="EUR" unit="PÁR"/>
       <variant code="0201062468043" title="GERA S3 SR  poltopánka čierna/sivá 43" price="30.18" currency="EUR" unit="PÁR"/>
-      <variant code="0201062468041" title="GERA S3 SR  poltopánka čierna/sivá 41" price="30.18" currency="EUR" unit="PÁR"/>
       <variant code="0201062468040" title="GERA S3 SR  poltopánka čierna/sivá 40" price="30.18" currency="EUR" unit="PÁR"/>
       <variant code="0201062468039" title="GERA S3 SR  poltopánka čierna/sivá 39" price="30.18" currency="EUR" unit="PÁR"/>
       <variant code="0201062468038" title="GERA S3 SR  poltopánka čierna/sivá 38" price="30.18" currency="EUR" unit="PÁR"/>
@@ -14298,7 +14297,6 @@
       <variant code="0304010912000" title="CRAMBE triko camouflage XS" price="10.48" currency="EUR" unit="KS"/>
    </product>
    <product code="03040110" title="KNOXFIELD triko">
-      <variant code="03040110A2001" title="KNOXFIELD triko antracit/oranžová S" price="1.74" currency="EUR" unit="KS"/>
       <variant code="03040110A2000" title="KNOXFIELD triko antracit/oranžová XS" price="1.74" currency="EUR" unit="KS"/>
       <variant code="03040110A1000" title="KNOXFIELD triko antracit/žltá XS" price="1.74" currency="EUR" unit="KS"/>
       <variant code="03040110A0001" title="KNOXFIELD triko antracit/červená S" price="1.74" currency="EUR" unit="KS"/>
@@ -14331,6 +14329,8 @@
       <variant code="0304011298001" title="LATTON HV triko žltá/oranžová S" price="24.595" currency="EUR" unit="KS"/>
    </product>
    <product code="03040124" title="NOYO ESD triko">
+      <variant code="0304012480008" title="NOYO ESD triko biela 5XL" price="15.178" currency="EUR" unit="KS"/>
+      <variant code="0304012480007" title="NOYO ESD triko biela 4XL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012480006" title="NOYO ESD triko biela 3XL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012480005" title="NOYO ESD triko biela XXL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012480004" title="NOYO ESD triko biela XL" price="15.178" currency="EUR" unit="KS"/>
@@ -14345,6 +14345,8 @@
       <variant code="0304012460002" title="NOYO ESD triko čierna M" price="14.825" currency="EUR" unit="KS"/>
       <variant code="0304012460001" title="NOYO ESD triko čierna S" price="14.825" currency="EUR" unit="KS"/>
       <variant code="0304012460000" title="NOYO ESD triko čierna XS" price="14.825" currency="EUR" unit="KS"/>
+      <variant code="0304012450008" title="NOYO ESD triko royal modrá 5XL" price="15.178" currency="EUR" unit="KS"/>
+      <variant code="0304012450007" title="NOYO ESD triko royal modrá 4XL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012450006" title="NOYO ESD triko royal modrá 3XL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012450005" title="NOYO ESD triko royal modrá XXL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012450004" title="NOYO ESD triko royal modrá XL" price="15.178" currency="EUR" unit="KS"/>
@@ -14352,6 +14354,8 @@
       <variant code="0304012450002" title="NOYO ESD triko royal modrá M" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012450001" title="NOYO ESD triko royal modrá S" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012450000" title="NOYO ESD triko royal modrá XS" price="15.178" currency="EUR" unit="KS"/>
+      <variant code="0304012441008" title="NOYO ESD triko navy 5XL" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0304012441007" title="NOYO ESD triko navy 4XL" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0304012441006" title="NOYO ESD triko navy 3XL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012441005" title="NOYO ESD triko navy XXL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012441004" title="NOYO ESD triko navy XL" price="15.178" currency="EUR" unit="KS"/>
@@ -14359,6 +14363,8 @@
       <variant code="0304012441002" title="NOYO ESD triko navy M" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012441001" title="NOYO ESD triko navy S" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012441000" title="NOYO ESD triko navy XS" price="15.178" currency="EUR" unit="KS"/>
+      <variant code="0304012400008" title="NOYO ESD triko sivá 5XL" price="15.178" currency="EUR" unit="KS"/>
+      <variant code="0304012400007" title="NOYO ESD triko sivá 4XL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012400006" title="NOYO ESD triko sivá 3XL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012400005" title="NOYO ESD triko sivá XXL" price="15.178" currency="EUR" unit="KS"/>
       <variant code="0304012400004" title="NOYO ESD triko sivá XL" price="15.178" currency="EUR" unit="KS"/>
