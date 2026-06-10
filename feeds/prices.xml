@@ -3643,7 +3643,6 @@
       <variant code="0201008999047" title="MONZA S3 SRC poltopánka 47 -" price="11.989" currency="EUR" unit="PÁR"/>
       <variant code="0201008999039" title="MONZA S3 SRC poltopánka 39 -" price="11.989" currency="EUR" unit="PÁR"/>
       <variant code="0201008999038" title="MONZA S3 SRC poltopánka 38 -" price="11.989" currency="EUR" unit="PÁR"/>
-      <variant code="0201008999036" title="MONZA S3 SRC poltopánka 36 -" price="11.989" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010096" title="PANTERA S3 SRC poltopánka">
       <variant code="0201009699048" title="PANTERA S3 SRC poltopánka 48 -" price="46.454" currency="EUR" unit="PÁR"/>
@@ -9445,7 +9444,6 @@
    <product code="03010321" title="EMERTON FLANNEL bunda">
       <variant code="0301032160062" title="EMERTON FLANNEL bunda čierna 62" price="54.303" currency="EUR" unit="KS"/>
       <variant code="0301032160060" title="EMERTON FLANNEL bunda čierna 60" price="54.303" currency="EUR" unit="KS"/>
-      <variant code="0301032160058" title="EMERTON FLANNEL bunda čierna 58" price="54.303" currency="EUR" unit="KS"/>
       <variant code="0301032160056" title="EMERTON FLANNEL bunda čierna 56" price="54.303" currency="EUR" unit="KS"/>
       <variant code="0301032160054" title="EMERTON FLANNEL bunda čierna 54" price="54.303" currency="EUR" unit="KS"/>
       <variant code="0301032160052" title="EMERTON FLANNEL bunda čierna 52" price="54.303" currency="EUR" unit="KS"/>
@@ -13480,7 +13478,6 @@
       <variant code="0303013996001" title="LYNX PROFI vesta HV oranžová S" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013979006" title="LYNX PROFI vesta HV žltá 3XL" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013979005" title="LYNX PROFI vesta HV žltá XXL" price="8.23" currency="EUR" unit="KS"/>
-      <variant code="0303013979004" title="LYNX PROFI vesta HV žltá XL" price="8.23" currency="EUR" unit="KS"/>
    </product>
    <product code="03030140" title="LYNX RWS 510870 vesta">
       <variant code="0303014096999" title="LYNX RWS 510870 vesta HV oranžová" price="7.653" currency="EUR" unit="KS"/>
