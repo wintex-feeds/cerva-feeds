@@ -85327,27 +85327,6 @@ Cenově výhodné předfiltry pro ochranu proti částicím s nízkým úhlem pr
          <unit>KS</unit>
       </product>
       <product>
-         <code>0704012799999</code>
-         <title>JSP filter AB1 P2 pre Maximask/FORCE8</title>
-         <description>classic filter designed for Force®8 JSP half mask and Force®10 Typhoon™ JSP full mask</description>
-         <categoryPath>Produkty/Ochrana dýchacích ciest/Príslušenstvo/Príslušenstvo pre polomasky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-         </sizes>
-         <colors>
-         </colors>
-         <standards>
-            <standard code="EN 14387" title="EN 14387 | AB1P2R"/>
-         </standards>
-         <brand>JSP</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTc5NnxpbWFnZS93ZWJwfDkyNDYzMzY4NDM4MDYvMDcwNDAxMjdfRm9yY2U4X2NsYXNzaWNfZmlsdGVyX0FCMVAyLnRpZi5wbmd8ZDllNzhlMzBjMWQ0ODQwZDAwNWEwM2IyMTMyY2VjYTMyZWMyZjRhNTEyZTEzYTNkMzk5ZjFjMTkwODA3ODY1OQ</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
          <code>0704012899999</code>
          <title>JSP filter A1P2 pre Maximask/FORCE8</title>
          <description>classic filter designed for Force®8 JSP half mask and Force®10 Typhoon™ JSP full mask</description>
