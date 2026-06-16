@@ -3390,6 +3390,7 @@
       <variant code="0118003599305" title="Ansell 11-250 HyFlex narrow - 305mm" price="6.936" currency="EUR" unit="KS"/>
    </product>
    <product code="01180036" title="Ansell 11-251 HyFlex narrow">
+      <variant code="0118003699845" title="Ansell 11-251 HyFlex narrow - 45 cm" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0118003699406" title="Ansell 11-251 HyFlex narrow - 406mm" price="8.351" currency="EUR" unit="KS"/>
       <variant code="0118003699305" title="Ansell 11-251 HyFlex narrow - 305mm" price="6.778" currency="EUR" unit="KS"/>
    </product>
@@ -3881,8 +3882,6 @@
       <variant code="0201026260036" title="REGATA MF S3 SRC poltopánka 36 čierna" price="57.823" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010287" title="RAVEN XT S1P SR SC poltopánka">
-      <variant code="0201028760047" title="RAVEN XT S1P SR SC poltopánka 47 čierna" price="32.905" currency="EUR" unit="PÁR"/>
-      <variant code="0201028760043" title="RAVEN XT S1P SR SC poltopánka 43 čierna" price="32.905" currency="EUR" unit="PÁR"/>
       <variant code="0201028760042" title="RAVEN XT S1P SR SC poltopánka 42 čierna" price="32.905" currency="EUR" unit="PÁR"/>
       <variant code="0201028760040" title="RAVEN XT S1P SR SC poltopánka 40 čierna" price="32.905" currency="EUR" unit="PÁR"/>
       <variant code="0201028760037" title="RAVEN XT S1P SR SC poltopánka 37 čierna" price="32.905" currency="EUR" unit="PÁR"/>
@@ -7386,6 +7385,8 @@
    </product>
    <product code="02030094" title="YPSILON S1 SRC sandále">
       <variant code="0203009499046" title="YPSILON S1 SRC sandále 46 -" price="31.193" currency="EUR" unit="PÁR"/>
+      <variant code="0203009499044" title="YPSILON S1 SRC sandále 44 -" price="29.488" currency="EUR" unit="PÁR"/>
+      <variant code="0203009499037" title="YPSILON S1 SRC sandále 37 -" price="29.488" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02030095" title="BIALBERO MF S1 SRC sandále">
       <variant code="0203009599044" title="BIALBERO MF S1 SRC sandále 44 -" price="61.766" currency="EUR" unit="PÁR"/>
@@ -7602,7 +7603,6 @@
    <product code="02030145" title="MONTROSE ROYAL ESD S1P SRC sandále">
       <variant code="0203014599048" title="MONTROSE ROYAL ESD S1P SRC sandále 48 -" price="22.841" currency="EUR" unit="PÁR"/>
       <variant code="0203014599047" title="MONTROSE ROYAL ESD S1P SRC sandále 47 -" price="22.841" currency="EUR" unit="PÁR"/>
-      <variant code="0203014599038" title="MONTROSE ROYAL ESD S1P SRC sandále 38 -" price="22.841" currency="EUR" unit="PÁR"/>
       <variant code="0203014599037" title="MONTROSE ROYAL ESD S1P SRC sandále 37 -" price="22.841" currency="EUR" unit="PÁR"/>
       <variant code="0203014599036" title="MONTROSE ROYAL ESD S1P SRC sandále 36 -" price="22.841" currency="EUR" unit="PÁR"/>
    </product>
@@ -9262,9 +9262,6 @@
    <product code="03010042" title="DESMAN bunda">
       <variant code="0301004290064" title="DESMAN bunda sivá/oranžová 64" price="21.785" currency="EUR" unit="KS"/>
       <variant code="0301004290062" title="DESMAN bunda sivá/oranžová 62" price="21.785" currency="EUR" unit="KS"/>
-      <variant code="0301004290060" title="DESMAN bunda sivá/oranžová 60" price="21.785" currency="EUR" unit="KS"/>
-      <variant code="0301004290058" title="DESMAN bunda sivá/oranžová 58" price="21.785" currency="EUR" unit="KS"/>
-      <variant code="0301004290056" title="DESMAN bunda sivá/oranžová 56" price="21.785" currency="EUR" unit="KS"/>
       <variant code="0301004290054" title="DESMAN bunda sivá/oranžová 54" price="21.785" currency="EUR" unit="KS"/>
       <variant code="0301004290052" title="DESMAN bunda sivá/oranžová 52" price="21.785" currency="EUR" unit="KS"/>
       <variant code="0301004290050" title="DESMAN bunda sivá/oranžová 50" price="21.785" currency="EUR" unit="KS"/>
@@ -11933,7 +11930,6 @@
       <variant code="0302003641056" title="EMERTON nohavice navy 56" price="28.02" currency="EUR" unit="KS"/>
       <variant code="0302003641054" title="EMERTON nohavice navy 54" price="28.02" currency="EUR" unit="KS"/>
       <variant code="0302003612062" title="EMERTON nohavice camouflage 62" price="29.04" currency="EUR" unit="KS"/>
-      <variant code="0302003612060" title="EMERTON nohavice camouflage 60" price="29.04" currency="EUR" unit="KS"/>
    </product>
    <product code="03020044" title="TITAN nohavice s náprs. zateplené">
       <variant code="0302004440005" title="TITAN nohavice s náprs. zate modré XXL" price="25.291" currency="EUR" unit="KS"/>
@@ -22260,7 +22256,6 @@
       <variant code="0353000641050" title="BADAJOZ RFLX náprs.nohavice navy 50" price="28.972" currency="EUR" unit="KS"/>
       <variant code="0353000641048" title="BADAJOZ RFLX náprs.nohavice navy 48" price="28.972" currency="EUR" unit="KS"/>
       <variant code="0353000600054" title="BADAJOZ RFLX náprs.nohavice sivá 54" price="28.972" currency="EUR" unit="KS"/>
-      <variant code="0353000600050" title="BADAJOZ RFLX náprs.nohavice sivá 50" price="28.972" currency="EUR" unit="KS"/>
       <variant code="0353000600046" title="BADAJOZ RFLX náprs.nohavice sivá 46" price="28.972" currency="EUR" unit="KS"/>
    </product>
    <product code="03530007" title="GREENDALE nohavice náprs.">
@@ -27507,7 +27502,6 @@
    </product>
    <product code="08010008" title="LX2 postroj">
       <variant code="0801000899905" title="LX2 postroj - XXL" price="89.875" currency="EUR" unit="KS"/>
-      <variant code="0801000899904" title="LX2 postroj - L-XL" price="89.875" currency="EUR" unit="KS"/>
    </product>
    <product code="08010009" title="PROFI EVO postroj">
       <variant code="0801000999904" title="PROFI EVO postroj - XXL" price="164.887" currency="EUR" unit="KS"/>
