@@ -2651,11 +2651,11 @@
       <variant code="0110014210070" title="GREBE GREEN SHORT 31,5  ruk.nitriená 7" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="01100147" title="Ansell AlphaTec 87118 rukavice">
-      <variant code="0110014799105" title="Ansell AlphaTec 87118 rukavice - 10" price="3.905" currency="EUR" unit="PÁR"/>
-      <variant code="0110014799095" title="Ansell AlphaTec 87118 rukavice - 9" price="3.905" currency="EUR" unit="PÁR"/>
-      <variant code="0110014799085" title="Ansell AlphaTec 87118 rukavice - 8" price="3.905" currency="EUR" unit="PÁR"/>
-      <variant code="0110014799075" title="Ansell AlphaTec 87118 rukavice - 7" price="3.905" currency="EUR" unit="PÁR"/>
-      <variant code="0110014799065" title="Ansell AlphaTec 87118 rukavice - 6" price="3.905" currency="EUR" unit="PÁR"/>
+      <variant code="0110014799105" title="Ansell AlphaTec 87118 rukavice - 11" price="3.905" currency="EUR" unit="PÁR"/>
+      <variant code="0110014799095" title="Ansell AlphaTec 87118 rukavice - 10" price="3.905" currency="EUR" unit="PÁR"/>
+      <variant code="0110014799085" title="Ansell AlphaTec 87118 rukavice - 9" price="3.905" currency="EUR" unit="PÁR"/>
+      <variant code="0110014799075" title="Ansell AlphaTec 87118 rukavice - 8" price="3.905" currency="EUR" unit="PÁR"/>
+      <variant code="0110014799065" title="Ansell AlphaTec 87118 rukavice - 7" price="3.905" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01100149" title="Alphatec 87-063">
       <variant code="0110014970105" title="Alphatec 87-063 žltá 10" price="4.673" currency="EUR" unit="PÁR"/>
@@ -4082,10 +4082,7 @@
       <variant code="0201038160035" title="EVE MF S3 SRC poltopánka 35 čierna" price="41.679" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010382" title="X-N2 S3 HRO SRC poltopánka">
-      <variant code="0201038260048" title="X-N2 S3 HRO SRC poltopánka 48 čierna" price="106.412" currency="EUR" unit="PÁR"/>
-      <variant code="0201038260047" title="X-N2 S3 HRO SRC poltopánka 47 čierna" price="106.412" currency="EUR" unit="PÁR"/>
       <variant code="0201038260046" title="X-N2 S3 HRO SRC poltopánka 46 čierna" price="106.412" currency="EUR" unit="PÁR"/>
-      <variant code="0201038260045" title="X-N2 S3 HRO SRC poltopánka 45 čierna" price="106.412" currency="EUR" unit="PÁR"/>
       <variant code="0201038260044" title="X-N2 S3 HRO SRC poltopánka 44 čierna" price="106.412" currency="EUR" unit="PÁR"/>
       <variant code="0201038260043" title="X-N2 S3 HRO SRC poltopánka 43 čierna" price="106.412" currency="EUR" unit="PÁR"/>
       <variant code="0201038260042" title="X-N2 S3 HRO SRC poltopánka 42 čierna" price="106.412" currency="EUR" unit="PÁR"/>
@@ -4289,11 +4286,6 @@
       <variant code="0201056599048" title="SUPER SET BLUE ESD S1P SRC poltopán - 48" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056599047" title="SUPER SET BLUE ESD S1P SRC poltopánka 47" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056599046" title="SUPER SET BLUE ESD S1P SRC poltopánka 46" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599045" title="SUPER SET BLUE ESD S1P SRC poltopánka 45" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599044" title="SUPER SET BLUE ESD S1P SRC poltopánka 44" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599043" title="SUPER SET BLUE ESD S1P SRC poltopánka 43" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599042" title="SUPER SET BLUE ESD S1P SRC poltopánka 42" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599041" title="SUPER SET BLUE ESD S1P SRC poltopánka 41" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056599040" title="SUPER SET BLUE ESD S1P SRC poltopánka 40" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056599039" title="SUPER SET BLUE ESD S1P SRC poltopánka 39" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056599038" title="SUPER SET BLUE ESD S1P SRC poltopánka 38" price="110.969" currency="EUR" unit="PÁR"/>
@@ -4304,8 +4296,6 @@
       <variant code="0201056699048" title="SUPER SET RED ESD S1P SRC poltopánka 48" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056699047" title="SUPER SET RED ESD S1P SRC poltopánka 47" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056699046" title="SUPER SET RED ESD S1P SRC poltopánka 46" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056699045" title="SUPER SET RED ESD S1P SRC poltopánka 45" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056699044" title="SUPER SET RED ESD S1P SRC poltopánka 44" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056699043" title="SUPER SET RED ESD S1P SRC poltopánka 43" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056699042" title="SUPER SET RED ESD S1P SRC poltopánka 42" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056699041" title="SUPER SET RED ESD S1P SRC poltopánka 41" price="110.969" currency="EUR" unit="PÁR"/>
@@ -4335,13 +4325,9 @@
       <variant code="0201056899047" title="SUPER SET YELLOW ESD S1P SRC poltopán.47" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056899046" title="SUPER SET YELLOW ESD S1P SRC poltopán.46" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056899045" title="SUPER SET YELLOW ESD S1P SRC poltopán.45" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899044" title="SUPER SET YELLOW ESD S1P SRC poltopán.44" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899043" title="SUPER SET YELLOW ESD S1P SRC poltopán.43" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899042" title="SUPER SET YELLOW ESD S1P SRC poltopán.42" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056899041" title="SUPER SET YELLOW ESD S1P SRC poltopán.41" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056899040" title="SUPER SET YELLOW ESD S1P SRC poltopán.40" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056899039" title="SUPER SET YELLOW ESD S1P SRC poltopán.39" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899038" title="SUPER SET YELLOW ESD S1P SRC poltopán.38" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056899037" title="SUPER SET YELLOW ESD S1P SRC poltopán.37" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056899036" title="SUPER SET YELLOW ESD S1P SRC poltopán.36" price="110.969" currency="EUR" unit="PÁR"/>
    </product>
@@ -4880,7 +4866,6 @@
       <variant code="0201060760045" title="X-508 S1P ESD SRC poltopánka čierna 45" price="77.892" currency="EUR" unit="PÁR"/>
       <variant code="0201060760044" title="X-508 S1P ESD SRC poltopánka čierna 44" price="77.892" currency="EUR" unit="PÁR"/>
       <variant code="0201060760043" title="X-508 S1P ESD SRC poltopánka čierna 43" price="77.892" currency="EUR" unit="PÁR"/>
-      <variant code="0201060760042" title="X-508 S1P ESD SRC poltopánka čierna 42" price="77.892" currency="EUR" unit="PÁR"/>
       <variant code="0201060760041" title="X-508 S1P ESD SRC poltopánka čierna 41" price="77.892" currency="EUR" unit="PÁR"/>
       <variant code="0201060760040" title="X-508 S1P ESD SRC poltopánka čierna 40" price="77.892" currency="EUR" unit="PÁR"/>
       <variant code="0201060760039" title="X-508 S1P ESD SRC poltopánka čierna 39" price="77.892" currency="EUR" unit="PÁR"/>
@@ -4896,12 +4881,7 @@
       <variant code="0201060860044" title="X-509 S3 ESD SRC poltopánka čierna 44" price="89.163" currency="EUR" unit="PÁR"/>
       <variant code="0201060860043" title="X-509 S3 ESD SRC poltopánka čierna 43" price="89.163" currency="EUR" unit="PÁR"/>
       <variant code="0201060860042" title="X-509 S3 ESD SRC poltopánka čierna 42" price="89.163" currency="EUR" unit="PÁR"/>
-      <variant code="0201060860041" title="X-509 S3 ESD SRC poltopánka čierna 41" price="89.163" currency="EUR" unit="PÁR"/>
       <variant code="0201060860040" title="X-509 S3 ESD SRC poltopánka čierna 40" price="89.163" currency="EUR" unit="PÁR"/>
-      <variant code="0201060860039" title="X-509 S3 ESD SRC poltopánka čierna 39" price="89.163" currency="EUR" unit="PÁR"/>
-      <variant code="0201060860038" title="X-509 S3 ESD SRC poltopánka čierna 38" price="89.163" currency="EUR" unit="PÁR"/>
-      <variant code="0201060860037" title="X-509 S3 ESD SRC poltopánka čierna 37" price="89.163" currency="EUR" unit="PÁR"/>
-      <variant code="0201060860036" title="X-509 S3 ESD SRC poltopánka čierna 36" price="89.163" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010609" title="OHM WR WRU HRO SB P SRC poltopánka">
       <variant code="0201060960047" title="OHM WR WRU HRO SB P SRC poltop.čierna 47" price="106.542" currency="EUR" unit="PÁR"/>
@@ -24373,9 +24353,6 @@
    <product code="0402013899999" title="SECURE 2H sluchátka">
       <variant code="0402013899999" title="SECURE 2H sluchátka" price="31.189" currency="EUR" unit="KS"/>
    </product>
-   <product code="0402013999999" title="SECURE 1C sluchátka">
-      <variant code="0402013999999" title="SECURE 1C sluchátka" price="30.524" currency="EUR" unit="KS"/>
-   </product>
    <product code="0402014099999" title="SECURE 2C sluchátka">
       <variant code="0402014099999" title="SECURE 2C sluchátka" price="33.119" currency="EUR" unit="KS"/>
    </product>
@@ -28365,9 +28342,6 @@
    </product>
    <product code="9940000499999" title="Dobíjacie svietidlo P2307">
       <variant code="9940000499999" title="Dobíjacie svietidlo P2307" price="59.357" currency="EUR" unit="KS"/>
-   </product>
-   <product code="9940000799999" title="COB LED Dobíjacie svietidlo+6led P4518">
-      <variant code="9940000799999" title="COB LED Dobíjacie svietidlo+6led P4518" price="50.737" currency="EUR" unit="KS"/>
    </product>
    <product code="9940000899999" title="LED svietidlo 3xAAA 3W COB P3888">
       <variant code="9940000899999" title="LED svietidlo 3xAAA 3W COB P3888" price="12.646" currency="EUR" unit="KS"/>
