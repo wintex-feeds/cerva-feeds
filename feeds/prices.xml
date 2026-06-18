@@ -4997,21 +4997,10 @@
       <variant code="0201061560036" title="HALWILL PRO MF ESD S1PS SR polt.čier.36" price="57.95" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010616" title="ULTRALIGHT MF ESD S1 SR poltop.">
-      <variant code="02010616W6048" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 48" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6047" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 47" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6046" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 46" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6045" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 45" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6044" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 44" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6043" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 43" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6042" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 42" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6041" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 41" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6040" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 40" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6039" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 39" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6038" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 38" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6037" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 37" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6036" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 36" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6035" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 35" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6034" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 34" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666048" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 48" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666047" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 47" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666046" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 46" price="49.83" currency="EUR" unit="PÁR"/>
@@ -7479,7 +7468,6 @@
       <variant code="0203012980035" title="RAVEN ESD O1 SRC sandále 35 biela" price="30.051" currency="EUR" unit="PÁR"/>
       <variant code="0203012960047" title="RAVEN ESD O1 SRC sandále 47 čierna" price="30.051" currency="EUR" unit="PÁR"/>
       <variant code="0203012960046" title="RAVEN ESD O1 SRC sandále 46 čierna" price="30.051" currency="EUR" unit="PÁR"/>
-      <variant code="0203012960042" title="RAVEN ESD O1 SRC sandále 42 čierna" price="30.051" currency="EUR" unit="PÁR"/>
       <variant code="0203012960041" title="RAVEN ESD O1 SRC sandále 41 čierna" price="30.051" currency="EUR" unit="PÁR"/>
       <variant code="0203012960040" title="RAVEN ESD O1 SRC sandále 40 čierna" price="30.051" currency="EUR" unit="PÁR"/>
       <variant code="0203012960039" title="RAVEN ESD O1 SRC sandále 39 čierna" price="30.051" currency="EUR" unit="PÁR"/>
@@ -14021,7 +14009,6 @@
       <variant code="0303013472001" title="Burton vesta žltá/navy S" price="84.601" currency="EUR" unit="KS"/>
    </product>
    <product code="03030136" title="KNOXFIELD HV vesta">
-      <variant code="0303013690001" title="KNOXFIELD HV vesta oranžová S" price="9.693" currency="EUR" unit="KS"/>
       <variant code="0303013620002" title="KNOXFIELD HV vesta červená M" price="9.693" currency="EUR" unit="KS"/>
       <variant code="0303013620001" title="KNOXFIELD HV vesta červená S" price="9.693" currency="EUR" unit="KS"/>
    </product>
@@ -26115,9 +26102,6 @@
    </product>
    <product code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL">
       <variant code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL" price="10.58" currency="EUR" unit="KS"/>
-   </product>
-   <product code="0701010999999" title="SPIROTEK VS2100V resp.FFP1 s vent.10/BAL">
-      <variant code="0701010999999" title="SPIROTEK VS2100V resp.FFP1 s vent.10/BAL" price="5.842" currency="EUR" unit="BOX"/>
    </product>
    <product code="0701011899999" title="3M 9936 Resp.FFP3 vent,akt.uhlia">
       <variant code="0701011899999" title="3M 9936 Resp.FFP3 vent,akt.uhlia" price="Bude upresnené" currency="" unit="KS"/>
