@@ -1999,7 +1999,6 @@
       <variant code="0108026899060" title="POZON DOT rukavice - 6" price="4.239" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01080269" title="FF BABBLER FULL light rukavice">
-      <variant code="0108026999110" title="FF BABBLER FULL light rukavice - 11" price="0.985" currency="EUR" unit="PÁR"/>
       <variant code="0108026999100" title="FF BABBLER FULL light rukavice - 10" price="0.985" currency="EUR" unit="PÁR"/>
       <variant code="0108026999090" title="FF BABBLER FULL light rukavice - 9" price="0.985" currency="EUR" unit="PÁR"/>
       <variant code="0108026999080" title="FF BABBLER FULL light rukavice - 8" price="0.985" currency="EUR" unit="PÁR"/>
@@ -7205,6 +7204,7 @@
    </product>
    <product code="02030007" title="GAMMA S1 SRC sandále">
       <variant code="0203000799048" title="GAMMA S1 SRC sandále - 48" price="32.866" currency="EUR" unit="PÁR"/>
+      <variant code="0203000799044" title="GAMMA S1 SRC sandále - 44" price="32.866" currency="EUR" unit="PÁR"/>
       <variant code="0203000799041" title="GAMMA S1 SRC sandále - 41" price="32.866" currency="EUR" unit="PÁR"/>
       <variant code="0203000799040" title="GAMMA S1 SRC sandále - 40" price="32.866" currency="EUR" unit="PÁR"/>
       <variant code="0203000799037" title="GAMMA S1 SRC sandále - 37" price="32.866" currency="EUR" unit="PÁR"/>
@@ -7355,6 +7355,8 @@
    <product code="02030094" title="YPSILON S1 SRC sandále">
       <variant code="0203009499046" title="YPSILON S1 SRC sandále 46 -" price="31.193" currency="EUR" unit="PÁR"/>
       <variant code="0203009499044" title="YPSILON S1 SRC sandále 44 -" price="29.488" currency="EUR" unit="PÁR"/>
+      <variant code="0203009499041" title="YPSILON S1 SRC sandále 41 -" price="29.488" currency="EUR" unit="PÁR"/>
+      <variant code="0203009499039" title="YPSILON S1 SRC sandále 39 -" price="29.488" currency="EUR" unit="PÁR"/>
       <variant code="0203009499037" title="YPSILON S1 SRC sandále 37 -" price="29.488" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02030095" title="BIALBERO MF S1 SRC sandále">
@@ -13678,7 +13680,6 @@
       <variant code="0303001010001" title="NYALA vesta zelená S" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001000006" title="NYALA vesta šedá 3XL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001000005" title="NYALA vesta šedá XXL" price="28.77" currency="EUR" unit="KS"/>
-      <variant code="0303001000004" title="NYALA vesta šedá XL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001000001" title="NYALA vesta šedá S" price="28.77" currency="EUR" unit="KS"/>
    </product>
    <product code="03030014" title="EMERTON WINTER vesta">
