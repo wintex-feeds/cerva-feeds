@@ -11167,6 +11167,7 @@
       <variant code="0301058000006" title="NULATO bunda sivá 3XL" price="58.186" currency="EUR" unit="KS"/>
       <variant code="0301058000005" title="NULATO bunda sivá XXL" price="58.186" currency="EUR" unit="KS"/>
       <variant code="0301058000004" title="NULATO bunda sivá XL" price="58.186" currency="EUR" unit="KS"/>
+      <variant code="0301058000003" title="NULATO bunda sivá L" price="58.186" currency="EUR" unit="KS"/>
       <variant code="0301058000002" title="NULATO bunda sivá M" price="58.186" currency="EUR" unit="KS"/>
       <variant code="0301058000001" title="NULATO bunda sivá S" price="58.186" currency="EUR" unit="KS"/>
    </product>
@@ -12532,14 +12533,10 @@
       <variant code="0302024118058" title="MAX RFLX nohavice náp zelená/čierna 58" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="03020244" title="LAHR nohavice do pása">
-      <variant code="0302024484060" title="LAHR nohavice do pása piesková 60" price="70.056" currency="EUR" unit="KS"/>
       <variant code="0302024400048" title="LAHR nohavice do pása sivá 48" price="70.056" currency="EUR" unit="KS"/>
    </product>
    <product code="03020250" title="ERDING nohavice do pasu">
       <variant code="0302025000066" title="ERDING nohavice do pasu sivá 66" price="53.539" currency="EUR" unit="KS"/>
-   </product>
-   <product code="03020251" title="LYDDEN nohavice do pása">
-      <variant code="0302025180044" title="LYDDEN nohavice do pása biela 44" price="40.944" currency="EUR" unit="KS"/>
    </product>
    <product code="03020252" title="CRAMBE nohavice">
       <variant code="03020252W0006" title="CRAMBE nohavice béžová kamufláž 3XL" price="28.414" currency="EUR" unit="KS"/>
@@ -24029,9 +24026,6 @@
    </product>
    <product code="0401002299999" title="3M 1110 zátky so šnúrkou">
       <variant code="0401002299999" title="3M 1110 zátky so šnúrkou" price="0.459" currency="EUR" unit="PÁR"/>
-   </product>
-   <product code="0401002799999" title="3M 1261 zátky">
-      <variant code="0401002799999" title="3M 1261 zátky" price="1.52" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401002899999" title="3M 1271 zátky so šnúrkou">
       <variant code="0401002899999" title="3M 1271 zátky so šnúrkou" price="1.54" currency="EUR" unit="PÁR"/>

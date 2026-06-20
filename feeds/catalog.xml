@@ -41524,44 +41524,6 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
          <unit>KS</unit>
       </product>
       <product>
-         <code>03020251</code>
-         <title>LYDDEN nohavice do pása</title>
-         <description>• pánske pracovné nohavice do pása, s hornými prednými vreckami v džínsovom štýle • 1 bočné skladané vrecko s príklopkou na suchý zips • 1 bočné vrecko s pútkom na náradie • 2 zadné vrecká, z toho jedno s príklopkou na suchý zips • nastaviteľná dĺžka nohavíc • elastický pás • spevnenie švov trojitým prešitím • znásobené prešitie v namáhaných miestach</description>
-         <categoryPath>Produkty/Odevy/Nohavice a overaly/Nohavice</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="044" title="44"/>
-            <size code="046" title="46"/>
-            <size code="048" title="48"/>
-            <size code="050" title="50"/>
-            <size code="052" title="52"/>
-            <size code="054" title="54"/>
-            <size code="056" title="56"/>
-            <size code="058" title="58"/>
-            <size code="060" title="60"/>
-            <size code="062" title="62"/>
-            <size code="064" title="64"/>
-            <size code="066" title="66"/>
-         </sizes>
-         <colors>
-            <color code="80" title="biela"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 13688" title="EN ISO 13688"/>
-            <standard code="EN ISO 13688" title="EN ISO 13688"/>
-         </standards>
-         <brand>ASNT</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MDQyfGltYWdlL3dlYnB8OTI1MDExMTk0Njc4Mi8wMzAyMDI1MV9MWURERU5fcGFudHNfNzJfQ0VSVkEgRE9GT18zNDc5OS50aWYucG5nfDA0MTRlMzExOTg4NmY1MDc2MGE5ZjFmMGU5NDM1MTIzZWI5YTYzOTFkY2VmNjRhODA1ODQ1YzU4ZTQxZGNjZDI</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NjYyfGltYWdlL3dlYnB8OTI1MTA1NDAyNjc4Mi8wMzA0MDA3OF9NSUxMRVJfdHNoaXJ0XzAzMDIwMjUxX0xZRERFTl9wYW50c19DRVJWQV8yMDE2MDRfQ0VSVkEgRE9GT18zNDMxNi50aWYucG5nfDM4ZjIxNDQ1NWZjN2Q4ZjMxZmZjMDQ5YjBhMjQ3N2IxODg1NDI2NDc5OGI5OWUzNDNkZjJmZjMzZTA0YTBkZTQ</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
          <code>03020252</code>
          <title>CRAMBE nohavice</title>
          <description>Pánske nohavice z ľahkého T/C twillu 190 gsm, 2 zadné vrecká, 2 bočné vrecká a 2 multifunkčné kargo vrecká, zosilnené časti kolien, dobrý strih.</description>
@@ -66717,30 +66679,6 @@ Poznámka 2: Trieda 3 podľa normy EN ISO 20471:2013+A1:2016 je v komplete s KNO
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDMyNnxpbWFnZS93ZWJwfDkyNTEwMzc5Mzc2OTR8MWQxNzhhZDA0Y2RhZjFhMmI0OGRhNWUxMjdhZTEyZTVmMGRkYzJkOGM5OTY1NzJkMGZmY2Y0NGMxZWZlYzFhOA</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>0401002799999</code>
-         <title>3M 1261 zátky</title>
-         <description>Zátkové chrániče sluchu z mäkkého materiálu pre viacnásobné použitie, jednoduché zavedenie do zvukovodu vďaka novému dizajnu. Baleno v papierovom boxe.</description>
-         <categoryPath>Produkty/Ochrana sluchu/Zátkové chrániče</categoryPath>
-         <packaging></packaging>
-         <sizes>
-         </sizes>
-         <colors>
-         </colors>
-         <standards>
-            <standard code="EN 352-2" title="EN 352-2"/>
-         </standards>
-         <brand>3M</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzA3NHxpbWFnZS93ZWJwfDkyNDYzNTk3ODE0MDYvMDQwMTAwMjdfM00gMTI2MSBlYXIgcGx1Z3MudGlmLnBuZ3xlMGE1M2YzZjJhZjQyNDQ4Mzc4MzlkMzMxNDY0NWI2NGYwYjNkYTg5MmE0ZmJlZGU0NTYxZGJhZTY4OTZjZDNm</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NDY4fGltYWdlL3dlYnB8OTI1MDk3Nzc0Mjg3OC8wNDAxMDAyN18zTV8xMjYxX2Vhcl9wbHVnc19wYWNraW5nLnRpZi5wbmd8NzhkZjRmNmFlZDAwMDczYThmYmYwNDdlNjRjN2I3Nzg2ZTg2ZGM3YTg4MzdlMzUzMDhjMWU1YWVmNjI1YjdmYg</path>
             </image>
          </images>
          <unit>PÁR</unit>

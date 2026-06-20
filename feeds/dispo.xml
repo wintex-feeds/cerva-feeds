@@ -64,13 +64,13 @@
          <detail dispo="1717" site="Centrála v ČR"/>
          <detail dispo="49" site="Senec"/>
       </product>
-      <product code="0101001699110" generic="01010016" title="EIDER RED rukavice kombin.červená - 11" totalDispo="14675" unit="PÁR">
+      <product code="0101001699110" generic="01010016" title="EIDER RED rukavice kombin.červená - 11" totalDispo="14663" unit="PÁR">
          <detail dispo="13391" site="Centrála v ČR"/>
-         <detail dispo="1284" site="Senec"/>
+         <detail dispo="1272" site="Senec"/>
       </product>
-      <product code="0101001699105" generic="01010016" title="EIDER rukavice kombinované žltá - 10" totalDispo="11277" unit="PÁR">
+      <product code="0101001699105" generic="01010016" title="EIDER rukavice kombinované žltá - 10" totalDispo="11265" unit="PÁR">
          <detail dispo="10425" site="Centrála v ČR"/>
-         <detail dispo="852" site="Senec"/>
+         <detail dispo="840" site="Senec"/>
       </product>
       <product code="0101001640090" generic="01010016" title="EIDER rukavice kombinované modrá - 9" totalDispo="19385" unit="PÁR">
          <detail date="2026-07-27" dispo="19145" site="Centrála v ČR"/>
@@ -184,8 +184,8 @@
          <detail dispo="1325" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0101003399100BN" generic="01010033BN" title="CORAX rukavice blistr - 10" totalDispo="775" unit="PÁR">
-         <detail date="2026-07-16" dispo="722" site="Centrála v ČR"/>
+      <product code="0101003399100BN" generic="01010033BN" title="CORAX rukavice blistr - 10" totalDispo="774" unit="PÁR">
+         <detail date="2026-07-16" dispo="721" site="Centrála v ČR"/>
          <detail dispo="53" site="Senec"/>
       </product>
       <product code="0101003399090BN" generic="01010033BN" title="CORAX rukavice blistr - 9" totalDispo="9" unit="PÁR">
@@ -204,8 +204,8 @@
          <detail date="2026-07-09" dispo="38244" site="Centrála v ČR"/>
          <detail dispo="2124" site="Senec"/>
       </product>
-      <product code="0101006899090" generic="01010068" title="PELICAN Blue rukavice kombinované - 9" totalDispo="8810" unit="PÁR">
-         <detail date="2026-07-09" dispo="8510" site="Centrála v ČR"/>
+      <product code="0101006899090" generic="01010068" title="PELICAN Blue rukavice kombinované - 9" totalDispo="8090" unit="PÁR">
+         <detail date="2026-07-09" dispo="7790" site="Centrála v ČR"/>
          <detail dispo="300" site="Senec"/>
       </product>
       <product code="0101006899080" generic="01010068" title="PELICAN Blue rukavice kombinované - 8" totalDispo="0" unit="PÁR">
@@ -252,17 +252,17 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0101008099110BN" generic="01010080BN" title="EPOPS rukavice kombin.blistr - 11" totalDispo="3524" unit="PÁR">
+      <product code="0101008099110BN" generic="01010080BN" title="EPOPS rukavice kombin.blistr - 11" totalDispo="3522" unit="PÁR">
          <detail date="2026-07-30" dispo="3452" site="Centrála v ČR"/>
-         <detail dispo="72" site="Senec"/>
+         <detail dispo="70" site="Senec"/>
       </product>
-      <product code="0101008099100BN" generic="01010080BN" title="EPOPS rukavice kombin.blistr - 10" totalDispo="32" unit="PÁR">
+      <product code="0101008099100BN" generic="01010080BN" title="EPOPS rukavice kombin.blistr - 10" totalDispo="27" unit="PÁR">
          <detail date="2026-07-30" dispo="0" site="Centrála v ČR"/>
-         <detail dispo="32" site="Senec"/>
+         <detail dispo="27" site="Senec"/>
       </product>
-      <product code="0101008099090BN" generic="01010080BN" title="EPOPS rukavice kombin.blistr - 9" totalDispo="85" unit="PÁR">
+      <product code="0101008099090BN" generic="01010080BN" title="EPOPS rukavice kombin.blistr - 9" totalDispo="83" unit="PÁR">
          <detail date="2026-07-30" dispo="0" site="Centrála v ČR"/>
-         <detail dispo="85" site="Senec"/>
+         <detail dispo="83" site="Senec"/>
       </product>
       <product code="0101008199100" generic="01010081" title="NIGRA rukavice kombinované - 10" totalDispo="0" unit="PÁR">
          <detail dispo="0" site="Centrála v ČR"/>
@@ -412,9 +412,9 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="16" site="Senec"/>
       </product>
-      <product code="0101010999100" generic="01010109" title="FF TERN LIGHT rukavice - 10" totalDispo="11316" unit="PÁR">
+      <product code="0101010999100" generic="01010109" title="FF TERN LIGHT rukavice - 10" totalDispo="11268" unit="PÁR">
          <detail date="2026-07-27" dispo="10776" site="Centrála v ČR"/>
-         <detail dispo="540" site="Senec"/>
+         <detail dispo="492" site="Senec"/>
       </product>
       <product code="0101010999100BN" generic="01010109BN" title="FF TERN LIGHT rukavice blister 10" totalDispo="0" unit="PÁR">
          <detail date="2026-07-27" dispo="0" site="Centrála v ČR"/>
@@ -752,12 +752,12 @@
          <detail date="2026-07-27" dispo="1968" site="Centrála v ČR"/>
          <detail dispo="72" site="Senec"/>
       </product>
-      <product code="0102000599105" generic="01020005" title="PIGEON rukavice celokožené - 10" totalDispo="10992" unit="PÁR">
-         <detail date="2026-07-27" dispo="9912" site="Centrála v ČR"/>
+      <product code="0102000599105" generic="01020005" title="PIGEON rukavice celokožené - 10" totalDispo="10980" unit="PÁR">
+         <detail date="2026-07-27" dispo="9900" site="Centrála v ČR"/>
          <detail dispo="1080" site="Senec"/>
       </product>
-      <product code="0102000599090" generic="01020005" title="PIGEON rukavice celokožené - 9" totalDispo="2104" unit="PÁR">
-         <detail date="2026-07-27" dispo="1924" site="Centrála v ČR"/>
+      <product code="0102000599090" generic="01020005" title="PIGEON rukavice celokožené - 9" totalDispo="2092" unit="PÁR">
+         <detail date="2026-07-27" dispo="1912" site="Centrála v ČR"/>
          <detail dispo="180" site="Senec"/>
       </product>
       <product code="0102000699105" generic="01020006" title="FRANCOLIN rukavice celokožené - 10" totalDispo="8592" unit="PÁR">
@@ -1348,12 +1348,12 @@
          <detail dispo="10548" site="Centrála v ČR"/>
          <detail dispo="108" site="Senec"/>
       </product>
-      <product code="0104000799100" generic="01040007" title="SKUA rukavice silon.biele pánske - 10" totalDispo="216" unit="PÁR">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+      <product code="0104000799100" generic="01040007" title="SKUA rukavice silon.biele pánske - 10" totalDispo="15901" unit="PÁR">
+         <detail date="2026-08-09" dispo="15685" site="Centrála v ČR"/>
          <detail dispo="216" site="Senec"/>
       </product>
-      <product code="0104000799090" generic="01040007" title="SKUA rukavice silon.biele dámské - 9" totalDispo="9660" unit="PÁR">
-         <detail date="2026-06-26" dispo="9228" site="Centrála v ČR"/>
+      <product code="0104000799090" generic="01040007" title="SKUA rukavice silon.biele dámské - 9" totalDispo="24960" unit="PÁR">
+         <detail date="2026-08-09" dispo="24528" site="Centrála v ČR"/>
          <detail dispo="432" site="Senec"/>
       </product>
       <product code="0104001599090" generic="01040015" title="ANSELL EDGE 76100 rukavice - 9" totalDispo="0" unit="PÁR">
@@ -1548,8 +1548,8 @@
          <detail dispo="6216" site="Centrála v ČR"/>
          <detail dispo="216" site="Senec"/>
       </product>
-      <product code="0105000199070" generic="01050001" title="BUSTARD 07 ruk.bavlna čierna+PVC terč" totalDispo="4728" unit="PÁR">
-         <detail dispo="4728" site="Centrála v ČR"/>
+      <product code="0105000199070" generic="01050001" title="BUSTARD 07 ruk.bavlna čierna+PVC terč" totalDispo="4704" unit="PÁR">
+         <detail dispo="4704" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0105000199060" generic="01050001" title="BUSTARD 06 ruk.bavlna čierna+PVC terč" totalDispo="5520" unit="PÁR">
@@ -1896,12 +1896,12 @@
          <detail dispo="2945" site="Centrála v ČR"/>
          <detail dispo="12" site="Senec"/>
       </product>
-      <product code="0106001799110" generic="01060017" title="PALAWAN WINTER rukavice latex HV žlté 11" totalDispo="182" unit="PÁR">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+      <product code="0106001799110" generic="01060017" title="PALAWAN WINTER rukavice latex HV žlté 11" totalDispo="6254" unit="PÁR">
+         <detail date="2026-06-26" dispo="6072" site="Centrála v ČR"/>
          <detail dispo="182" site="Senec"/>
       </product>
-      <product code="0106001799100" generic="01060017" title="PALAWAN WINTER rukavice latex HV žlté 10" totalDispo="20" unit="PÁR">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+      <product code="0106001799100" generic="01060017" title="PALAWAN WINTER rukavice latex HV žlté 10" totalDispo="11132" unit="PÁR">
+         <detail date="2026-06-26" dispo="11112" site="Centrála v ČR"/>
          <detail dispo="20" site="Senec"/>
       </product>
       <product code="0106001799090" generic="01060017" title="PALAWAN WINTER rukavice latex HV žlté 9" totalDispo="6450" unit="PÁR">
@@ -2612,8 +2612,8 @@
          <detail date="2026-07-16" dispo="4922" site="Centrála v ČR"/>
          <detail dispo="144" site="Senec"/>
       </product>
-      <product code="0108000299100" generic="01080002" title="HORNBILL ruk. plet.nylon. máčané - 10" totalDispo="23172" unit="PÁR">
-         <detail date="2026-07-16" dispo="22404" site="Centrála v ČR"/>
+      <product code="0108000299100" generic="01080002" title="HORNBILL ruk. plet.nylon. máčané - 10" totalDispo="23292" unit="PÁR">
+         <detail date="2026-07-16" dispo="22524" site="Centrála v ČR"/>
          <detail dispo="768" site="Senec"/>
       </product>
       <product code="0108000299090" generic="01080002" title="HORNBILL ruk. plet.nylon. máčané - 9" totalDispo="14352" unit="PÁR">
@@ -2780,9 +2780,9 @@
          <detail date="2026-06-26" dispo="21456" site="Centrála v ČR"/>
          <detail dispo="600" site="Senec"/>
       </product>
-      <product code="0108000699100" generic="01080006" title="BUNTING EVOLUTION ruk.polyester PU - 10" totalDispo="101164" unit="PÁR">
+      <product code="0108000699100" generic="01080006" title="BUNTING EVOLUTION ruk.polyester PU - 10" totalDispo="101140" unit="PÁR">
          <detail date="2026-09-04" dispo="98200" site="Centrála v ČR"/>
-         <detail dispo="2964" site="Senec"/>
+         <detail dispo="2940" site="Senec"/>
       </product>
       <product code="0108000699090" generic="01080006" title="BUNTING EVOLUTION ruk.polyester PU - 9" totalDispo="163644" unit="PÁR">
          <detail date="2026-06-26" dispo="152508" site="Centrála v ČR"/>
@@ -3248,40 +3248,40 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0108002999110" generic="01080029" title="PALAWAN rukavice nylon. latex. dlaň - 11" totalDispo="16393" unit="PÁR">
-         <detail date="2026-06-26" dispo="15241" site="Centrála v ČR"/>
-         <detail dispo="1152" site="Senec"/>
+      <product code="0108002999110" generic="01080029" title="PALAWAN rukavice nylon. latex. dlaň - 11" totalDispo="33673" unit="PÁR">
+         <detail date="2026-07-09" dispo="32641" site="Centrála v ČR"/>
+         <detail dispo="1032" site="Senec"/>
       </product>
-      <product code="0108002999100" generic="01080029" title="PALAWAN rukavice nylon. late dlaň - 10" totalDispo="85920" unit="PÁR">
-         <detail date="2026-06-26" dispo="68520" site="Centrála v ČR"/>
-         <detail dispo="17400" site="Senec"/>
+      <product code="0108002999100" generic="01080029" title="PALAWAN rukavice nylon. late dlaň - 10" totalDispo="88476" unit="PÁR">
+         <detail date="2026-06-26" dispo="71136" site="Centrála v ČR"/>
+         <detail dispo="17340" site="Senec"/>
       </product>
-      <product code="0108002999090" generic="01080029" title="PALAWAN rukavice nylon. latex. dlaň - 9" totalDispo="71748" unit="PÁR">
-         <detail date="2026-06-26" dispo="54828" site="Centrála v ČR"/>
-         <detail dispo="16920" site="Senec"/>
+      <product code="0108002999090" generic="01080029" title="PALAWAN rukavice nylon. latex. dlaň - 9" totalDispo="111468" unit="PÁR">
+         <detail date="2026-06-26" dispo="94560" site="Centrála v ČR"/>
+         <detail dispo="16908" site="Senec"/>
       </product>
-      <product code="0108002999080" generic="01080029" title="PALAWAN rukavice nylon. latex. dlaň - 8" totalDispo="42024" unit="PÁR">
-         <detail date="2026-06-26" dispo="31248" site="Centrála v ČR"/>
-         <detail dispo="10776" site="Senec"/>
+      <product code="0108002999080" generic="01080029" title="PALAWAN rukavice nylon. latex. dlaň - 8" totalDispo="45744" unit="PÁR">
+         <detail date="2026-06-26" dispo="35028" site="Centrála v ČR"/>
+         <detail dispo="10716" site="Senec"/>
       </product>
-      <product code="0108002999070" generic="01080029" title="PALAWAN rukavice nylon. latex. dlaň - 7" totalDispo="20267" unit="PÁR">
-         <detail date="2026-07-09" dispo="19043" site="Centrála v ČR"/>
+      <product code="0108002999070" generic="01080029" title="PALAWAN rukavice nylon. latex. dlaň - 7" totalDispo="20231" unit="PÁR">
+         <detail date="2026-07-09" dispo="19007" site="Centrála v ČR"/>
          <detail dispo="1224" site="Senec"/>
       </product>
-      <product code="0108002999110BN" generic="01080029BN" title="PALAWAN s blistrom žltá - 11" totalDispo="3806" unit="PÁR">
-         <detail date="2026-06-26" dispo="3638" site="Centrála v ČR"/>
+      <product code="0108002999110BN" generic="01080029BN" title="PALAWAN s blistrom žltá - 11" totalDispo="6206" unit="PÁR">
+         <detail date="2026-08-09" dispo="6038" site="Centrála v ČR"/>
          <detail dispo="168" site="Senec"/>
       </product>
       <product code="0108002999100BN" generic="01080029BN" title="PALAWAN s blistrom žltá - 10" totalDispo="11580" unit="PÁR">
          <detail date="2026-07-16" dispo="11076" site="Centrála v ČR"/>
          <detail dispo="504" site="Senec"/>
       </product>
-      <product code="0108002999090BN" generic="01080029BN" title="PALAWAN s blistrom žltá - 9" totalDispo="3204" unit="PÁR">
-         <detail date="2026-06-26" dispo="2892" site="Centrála v ČR"/>
+      <product code="0108002999090BN" generic="01080029BN" title="PALAWAN s blistrom žltá - 9" totalDispo="11604" unit="PÁR">
+         <detail date="2026-08-09" dispo="11292" site="Centrála v ČR"/>
          <detail dispo="312" site="Senec"/>
       </product>
-      <product code="0108002999080BN" generic="01080029BN" title="PALAWAN s blistrom žltá - 8" totalDispo="0" unit="PÁR">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+      <product code="0108002999080BN" generic="01080029BN" title="PALAWAN s blistrom žltá - 8" totalDispo="688" unit="PÁR">
+         <detail date="2026-07-16" dispo="688" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0108002999070BN" generic="01080029BN" title="PALAWAN s blistrom žltá - 7" totalDispo="1" unit="PÁR">
@@ -3380,12 +3380,12 @@
          <detail date="2026-07-11" dispo="135225" site="Centrála v ČR"/>
          <detail dispo="24576" site="Senec"/>
       </product>
-      <product code="0108004599090" generic="01080045" title="BUNTING EVOLUTION BLACK rukavice PU - 9" totalDispo="144924" unit="PÁR">
-         <detail date="2026-07-02" dispo="126648" site="Centrála v ČR"/>
+      <product code="0108004599090" generic="01080045" title="BUNTING EVOLUTION BLACK rukavice PU - 9" totalDispo="144900" unit="PÁR">
+         <detail date="2026-07-02" dispo="126624" site="Centrála v ČR"/>
          <detail dispo="18276" site="Senec"/>
       </product>
-      <product code="0108004599080" generic="01080045" title="BUNTING EVOLUTION BLACK rukavice PU - 8" totalDispo="66456" unit="PÁR">
-         <detail date="2026-07-02" dispo="61668" site="Centrála v ČR"/>
+      <product code="0108004599080" generic="01080045" title="BUNTING EVOLUTION BLACK rukavice PU - 8" totalDispo="66408" unit="PÁR">
+         <detail date="2026-07-02" dispo="61620" site="Centrála v ČR"/>
          <detail dispo="4788" site="Senec"/>
       </product>
       <product code="0108004599070" generic="01080045" title="BUNTING EVOLUTION BLACK rukavice PU - 7" totalDispo="53662" unit="PÁR">
@@ -3488,8 +3488,8 @@
          <detail date="2026-08-03" dispo="196848" site="Centrála v ČR"/>
          <detail dispo="3528" site="Senec"/>
       </product>
-      <product code="0108006380090" generic="01080063" title="FF BUNTING LIGHT rukavice biela 9" totalDispo="153492" unit="PÁR">
-         <detail date="2026-08-03" dispo="147804" site="Centrála v ČR"/>
+      <product code="0108006380090" generic="01080063" title="FF BUNTING LIGHT rukavice biela 9" totalDispo="153528" unit="PÁR">
+         <detail date="2026-08-03" dispo="147840" site="Centrála v ČR"/>
          <detail dispo="5688" site="Senec"/>
       </product>
       <product code="0108006380080" generic="01080063" title="FF BUNTING LIGHT rukavice biela 8" totalDispo="210072" unit="PÁR">
@@ -3676,12 +3676,12 @@
          <detail date="2026-06-29" dispo="1200" site="Centrála v ČR"/>
          <detail dispo="153" site="Senec"/>
       </product>
-      <product code="0108007099100" generic="01080070" title="NYROCA MAXIM DOTS rukavice - 10" totalDispo="7476" unit="PÁR">
-         <detail date="2026-06-29" dispo="6891" site="Centrála v ČR"/>
+      <product code="0108007099100" generic="01080070" title="NYROCA MAXIM DOTS rukavice - 10" totalDispo="7440" unit="PÁR">
+         <detail date="2026-06-29" dispo="6855" site="Centrála v ČR"/>
          <detail dispo="585" site="Senec"/>
       </product>
-      <product code="0108007099090" generic="01080070" title="NYROCA MAXIM DOTS rukavice - 9" totalDispo="3809" unit="PÁR">
-         <detail date="2026-06-29" dispo="3396" site="Centrála v ČR"/>
+      <product code="0108007099090" generic="01080070" title="NYROCA MAXIM DOTS rukavice - 9" totalDispo="3773" unit="PÁR">
+         <detail date="2026-06-29" dispo="3360" site="Centrála v ČR"/>
          <detail dispo="413" site="Senec"/>
       </product>
       <product code="0108007099080" generic="01080070" title="NYROCA MAXIM DOTS rukavice - 8" totalDispo="6367" unit="PÁR">
@@ -3824,24 +3824,24 @@
          <detail dispo="664" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0108008499100" generic="01080084" title="FIRECREST nylon/nitril rukavice - 10" totalDispo="288" unit="PÁR">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+      <product code="0108008499100" generic="01080084" title="FIRECREST nylon/nitril rukavice - 10" totalDispo="8472" unit="PÁR">
+         <detail dispo="8184" site="Centrála v ČR"/>
          <detail dispo="288" site="Senec"/>
       </product>
       <product code="0108008499090" generic="01080084" title="FIRECREST nylon/nitril rukavice - 9" totalDispo="6252" unit="PÁR">
          <detail dispo="5892" site="Centrála v ČR"/>
          <detail dispo="360" site="Senec"/>
       </product>
-      <product code="0108008499080" generic="01080084" title="FIRECREST nylon/nitril rukavice - 8" totalDispo="74" unit="PÁR">
-         <detail date="2026-06-26" dispo="14" site="Centrála v ČR"/>
+      <product code="0108008499080" generic="01080084" title="FIRECREST nylon/nitril rukavice - 8" totalDispo="1274" unit="PÁR">
+         <detail dispo="1214" site="Centrála v ČR"/>
          <detail dispo="60" site="Senec"/>
       </product>
-      <product code="0108008499070" generic="01080084" title="FIRECREST nylon/nitril rukavice - 7" totalDispo="661" unit="PÁR">
-         <detail date="2026-06-26" dispo="625" site="Centrála v ČR"/>
+      <product code="0108008499070" generic="01080084" title="FIRECREST nylon/nitril rukavice - 7" totalDispo="1861" unit="PÁR">
+         <detail dispo="1825" site="Centrála v ČR"/>
          <detail dispo="36" site="Senec"/>
       </product>
-      <product code="0108008499060" generic="01080084" title="FIRECREST nylon/nitril rukavice - 6" totalDispo="2538" unit="PÁR">
-         <detail date="2026-06-26" dispo="2538" site="Centrála v ČR"/>
+      <product code="0108008499060" generic="01080084" title="FIRECREST nylon/nitril rukavice - 6" totalDispo="3738" unit="PÁR">
+         <detail dispo="3738" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0108008587090" generic="01080085" title="PINTAIL ruk. plet.nylon. hnedá/zelená 9" totalDispo="1332" unit="PÁR">
@@ -3856,16 +3856,16 @@
          <detail dispo="5328" site="Centrála v ČR"/>
          <detail dispo="143" site="Senec"/>
       </product>
-      <product code="0108008539090" generic="01080085" title="PINTAIL ruk. plet.n navy/sv. fialová 9" totalDispo="814" unit="PÁR">
-         <detail date="2026-06-26" dispo="598" site="Centrála v ČR"/>
+      <product code="0108008539090" generic="01080085" title="PINTAIL ruk. plet.n navy/sv. fialová 9" totalDispo="1894" unit="PÁR">
+         <detail dispo="1678" site="Centrála v ČR"/>
          <detail dispo="216" site="Senec"/>
       </product>
-      <product code="0108008539080" generic="01080085" title="PINTAIL ruk. plet.n navy/sv. fialová 8" totalDispo="7539" unit="PÁR">
-         <detail date="2026-06-26" dispo="7443" site="Centrála v ČR"/>
+      <product code="0108008539080" generic="01080085" title="PINTAIL ruk. plet.n navy/sv. fialová 8" totalDispo="11619" unit="PÁR">
+         <detail dispo="11523" site="Centrála v ČR"/>
          <detail dispo="96" site="Senec"/>
       </product>
-      <product code="0108008539070" generic="01080085" title="PINTAIL ruk. plet.n navy/sv. fialová 7" totalDispo="7050" unit="PÁR">
-         <detail date="2026-06-26" dispo="7003" site="Centrála v ČR"/>
+      <product code="0108008539070" generic="01080085" title="PINTAIL ruk. plet.n navy/sv. fialová 7" totalDispo="11370" unit="PÁR">
+         <detail dispo="11323" site="Centrála v ČR"/>
          <detail dispo="47" site="Senec"/>
       </product>
       <product code="0108008539090BN" generic="01080085BN" title="PINTAIL rukavic blist navy/sv.fialová 9" totalDispo="4896" unit="PÁR">
@@ -5156,8 +5156,8 @@
          <detail dispo="1320" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0108026410110" generic="01080264" title="SALANGANA rukavice zelená 11" totalDispo="0" unit="PÁR">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+      <product code="0108026410110" generic="01080264" title="SALANGANA rukavice zelená 11" totalDispo="4604" unit="PÁR">
+         <detail dispo="4604" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0108026410100" generic="01080264" title="SALANGANA rukavice zelená 10" totalDispo="19076" unit="PÁR">
@@ -5172,8 +5172,8 @@
          <detail dispo="6934" site="Centrála v ČR"/>
          <detail dispo="276" site="Senec"/>
       </product>
-      <product code="0108026410070" generic="01080264" title="SALANGANA rukavice zelená 7" totalDispo="1105" unit="PÁR">
-         <detail date="2026-06-26" dispo="985" site="Centrála v ČR"/>
+      <product code="0108026410070" generic="01080264" title="SALANGANA rukavice zelená 7" totalDispo="2305" unit="PÁR">
+         <detail dispo="2185" site="Centrála v ČR"/>
          <detail dispo="120" site="Senec"/>
       </product>
       <product code="0108026410060" generic="01080264" title="SALANGANA rukavice zelená 6" totalDispo="589" unit="PÁR">
@@ -5232,20 +5232,20 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0108026425100BN" generic="01080264BN" title="SALANGANA rukavice blister ružová 10" totalDispo="0" unit="PÁR">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+      <product code="0108026425100BN" generic="01080264BN" title="SALANGANA rukavice blister ružová 10" totalDispo="468" unit="PÁR">
+         <detail dispo="468" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0108026425090BN" generic="01080264BN" title="SALANGANA rukavice blister ružová 9" totalDispo="0" unit="PÁR">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+      <product code="0108026425090BN" generic="01080264BN" title="SALANGANA rukavice blister ružová 9" totalDispo="240" unit="PÁR">
+         <detail dispo="240" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0108026425080BN" generic="01080264BN" title="SALANGANA rukavice blister ružová 8" totalDispo="9" unit="PÁR">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+      <product code="0108026425080BN" generic="01080264BN" title="SALANGANA rukavice blister ružová 8" totalDispo="1754" unit="PÁR">
+         <detail dispo="1745" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0108026425070BN" generic="01080264BN" title="SALANGANA rukavice blister ružová 7" totalDispo="0" unit="PÁR">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+      <product code="0108026425070BN" generic="01080264BN" title="SALANGANA rukavice blister ružová 7" totalDispo="1584" unit="PÁR">
+         <detail dispo="1584" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0108026425060BN" generic="01080264BN" title="SALANGANA rukavice blister ružová 6" totalDispo="192" unit="PÁR">
@@ -5280,8 +5280,8 @@
          <detail dispo="888" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0108026410100BN" generic="01080264BN" title="SALANGANA rukavice blister zelená 10" totalDispo="4200" unit="PÁR">
-         <detail date="2026-06-26" dispo="4200" site="Centrála v ČR"/>
+      <product code="0108026410100BN" generic="01080264BN" title="SALANGANA rukavice blister zelená 10" totalDispo="10200" unit="PÁR">
+         <detail dispo="10200" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0108026410090BN" generic="01080264BN" title="SALANGANA rukavice blister zelená 9" totalDispo="10188" unit="PÁR">
@@ -5952,12 +5952,12 @@
          <detail dispo="939" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0108033260100" generic="01080332" title="ECO foam rukavice čierna 10" totalDispo="2041" unit="PÁR">
-         <detail date="2026-08-06" dispo="2041" site="Centrála v ČR"/>
+      <product code="0108033260100" generic="01080332" title="ECO foam rukavice čierna 10" totalDispo="1981" unit="PÁR">
+         <detail date="2026-08-06" dispo="1981" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0108033260090" generic="01080332" title="ECO foam rukavice čierna 9" totalDispo="3021" unit="PÁR">
-         <detail date="2026-08-06" dispo="3021" site="Centrála v ČR"/>
+      <product code="0108033260090" generic="01080332" title="ECO foam rukavice čierna 9" totalDispo="2961" unit="PÁR">
+         <detail date="2026-08-06" dispo="2961" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0108033260080" generic="01080332" title="ECO foam rukavice čierna 8" totalDispo="0" unit="PÁR">
@@ -6076,9 +6076,9 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0109000199090" generic="01090001" title="LOON rukavice jednoraz.latex - L" totalDispo="1496" unit="BOX">
+      <product code="0109000199090" generic="01090001" title="LOON rukavice jednoraz.latex - L" totalDispo="1495" unit="BOX">
          <detail dispo="1376" site="Centrála v ČR"/>
-         <detail dispo="120" site="Senec"/>
+         <detail dispo="119" site="Senec"/>
       </product>
       <product code="0109000199080" generic="01090001" title="LOON rukavice jednoraz.latex - M" totalDispo="1751" unit="BOX">
          <detail dispo="1589" site="Centrála v ČR"/>
@@ -6104,16 +6104,16 @@
          <detail dispo="1216" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0109000399100" generic="01090003" title="SPOONBIL XLruk.jednor.nitril.nepud.24cm" totalDispo="1686" unit="BOX">
-         <detail dispo="1292" site="Centrála v ČR"/>
+      <product code="0109000399100" generic="01090003" title="SPOONBIL XLruk.jednor.nitril.nepud.24cm" totalDispo="1681" unit="BOX">
+         <detail dispo="1287" site="Centrála v ČR"/>
          <detail dispo="394" site="Senec"/>
       </product>
-      <product code="0109000399090" generic="01090003" title="SPOONBIL L ruk.jednor.nitril.nepud.24cm" totalDispo="2360" unit="BOX">
-         <detail dispo="1990" site="Centrála v ČR"/>
+      <product code="0109000399090" generic="01090003" title="SPOONBIL L ruk.jednor.nitril.nepud.24cm" totalDispo="2349" unit="BOX">
+         <detail dispo="1979" site="Centrála v ČR"/>
          <detail dispo="370" site="Senec"/>
       </product>
-      <product code="0109000399080" generic="01090003" title="SPOONBIL M ruk.jednor.nitril.nepud.24cm" totalDispo="4596" unit="BOX">
-         <detail dispo="4271" site="Centrála v ČR"/>
+      <product code="0109000399080" generic="01090003" title="SPOONBIL M ruk.jednor.nitril.nepud.24cm" totalDispo="4592" unit="BOX">
+         <detail dispo="4267" site="Centrála v ČR"/>
          <detail dispo="325" site="Senec"/>
       </product>
       <product code="0109000399070" generic="01090003" title="SPOONBIL S ruk.jednor.nitril.nepud.24cm" totalDispo="166" unit="BOX">
@@ -6212,12 +6212,12 @@
          <detail dispo="16" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0109002199100" generic="01090021" title="ANSELL  92-600/100 Touch N Tuff" totalDispo="160" unit="BOX">
-         <detail dispo="160" site="Centrála v ČR"/>
+      <product code="0109002199100" generic="01090021" title="ANSELL  92-600/100 Touch N Tuff" totalDispo="80" unit="BOX">
+         <detail dispo="80" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0109002199090" generic="01090021" title="ANSELL  92-600/090 Touch N Tuff" totalDispo="173" unit="BOX">
-         <detail dispo="173" site="Centrála v ČR"/>
+      <product code="0109002199090" generic="01090021" title="ANSELL  92-600/090 Touch N Tuff" totalDispo="53" unit="BOX">
+         <detail dispo="53" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0109002199080" generic="01090021" title="ANSELL  92-600/080 Touch N Tuff" totalDispo="177" unit="BOX">
@@ -6232,8 +6232,8 @@
          <detail dispo="19" site="Centrála v ČR"/>
          <detail dispo="37" site="Senec"/>
       </product>
-      <product code="0109002299090" generic="01090022" title="ANSELL  92-670/090 Touch N Tuff" totalDispo="37" unit="BOX">
-         <detail dispo="26" site="Centrála v ČR"/>
+      <product code="0109002299090" generic="01090022" title="ANSELL  92-670/090 Touch N Tuff" totalDispo="11" unit="BOX">
+         <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
       <product code="0109002299080" generic="01090022" title="ANSELL  92-670/080 Touch N Tuff" totalDispo="22" unit="BOX">
@@ -6432,16 +6432,16 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0109007899100" generic="01090078" title="SPOONBILL BLACK rukav.nitr.nepudr. 10/XL" totalDispo="2775" unit="BOX">
-         <detail dispo="2703" site="Centrála v ČR"/>
+      <product code="0109007899100" generic="01090078" title="SPOONBILL BLACK rukav.nitr.nepudr. 10/XL" totalDispo="2770" unit="BOX">
+         <detail dispo="2698" site="Centrála v ČR"/>
          <detail dispo="72" site="Senec"/>
       </product>
-      <product code="0109007899090" generic="01090078" title="SPOONBILL BLACK rukav.nitr.nepudr. 9/L" totalDispo="4636" unit="BOX">
-         <detail dispo="4514" site="Centrála v ČR"/>
+      <product code="0109007899090" generic="01090078" title="SPOONBILL BLACK rukav.nitr.nepudr. 9/L" totalDispo="4631" unit="BOX">
+         <detail dispo="4509" site="Centrála v ČR"/>
          <detail dispo="122" site="Senec"/>
       </product>
-      <product code="0109007899080" generic="01090078" title="SPOONBILL BLACK rukav.nitr.nepudr. 8/M" totalDispo="9312" unit="BOX">
-         <detail dispo="9219" site="Centrála v ČR"/>
+      <product code="0109007899080" generic="01090078" title="SPOONBILL BLACK rukav.nitr.nepudr. 8/M" totalDispo="9308" unit="BOX">
+         <detail dispo="9215" site="Centrála v ČR"/>
          <detail dispo="93" site="Senec"/>
       </product>
       <product code="0109007899070" generic="01090078" title="SPOONBILL BLACK rukav.nitr.nepudr. 7/S" totalDispo="168" unit="BOX">
@@ -6592,12 +6592,12 @@
          <detail dispo="259" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0109010799110" generic="01090107" title="SPOONBILL GRIP nitril rukavice - XXL" totalDispo="2611" unit="BOX">
-         <detail dispo="2502" site="Centrála v ČR"/>
+      <product code="0109010799110" generic="01090107" title="SPOONBILL GRIP nitril rukavice - XXL" totalDispo="2606" unit="BOX">
+         <detail dispo="2497" site="Centrála v ČR"/>
          <detail dispo="109" site="Senec"/>
       </product>
-      <product code="0109010799100" generic="01090107" title="SPOONBILL GRIP nitril rukavice - XL" totalDispo="1214" unit="BOX">
-         <detail dispo="1061" site="Centrála v ČR"/>
+      <product code="0109010799100" generic="01090107" title="SPOONBILL GRIP nitril rukavice - XL" totalDispo="1210" unit="BOX">
+         <detail dispo="1057" site="Centrála v ČR"/>
          <detail dispo="153" site="Senec"/>
       </product>
       <product code="0109010799090" generic="01090107" title="SPOONBILL GRIP nitril rukavice - L" totalDispo="72" unit="BOX">
@@ -6920,12 +6920,12 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0110006799100" generic="01100067" title="Alphatec 87-900(Bi-Colour) rukavice - 10" totalDispo="4248" unit="PÁR">
-         <detail dispo="2844" site="Centrála v ČR"/>
+      <product code="0110006799100" generic="01100067" title="Alphatec 87-900(Bi-Colour) rukavice - 10" totalDispo="4188" unit="PÁR">
+         <detail dispo="2784" site="Centrála v ČR"/>
          <detail dispo="1404" site="Senec"/>
       </product>
-      <product code="0110006799090" generic="01100067" title="Alphatec 87-900(Bi-Colour) rukavice - 9" totalDispo="3026" unit="PÁR">
-         <detail dispo="1932" site="Centrála v ČR"/>
+      <product code="0110006799090" generic="01100067" title="Alphatec 87-900(Bi-Colour) rukavice - 9" totalDispo="3002" unit="PÁR">
+         <detail dispo="1908" site="Centrála v ČR"/>
          <detail dispo="1094" site="Senec"/>
       </product>
       <product code="0110006799080" generic="01100067" title="Alphatec 87-900(Bi-Colour) rukavice - 8" totalDispo="3854" unit="PÁR">
@@ -6996,16 +6996,16 @@
          <detail dispo="1670" site="Centrála v ČR"/>
          <detail dispo="25" site="Senec"/>
       </product>
-      <product code="0110011799100" generic="01100117" title="CASPIA rukavice latex/neopren - 10" totalDispo="16120" unit="PÁR">
-         <detail dispo="16120" site="Centrála v ČR"/>
+      <product code="0110011799100" generic="01100117" title="CASPIA rukavice latex/neopren - 10" totalDispo="15244" unit="PÁR">
+         <detail dispo="15244" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0110011799090" generic="01100117" title="CASPIA rukavice latex/neopren - 9" totalDispo="4560" unit="PÁR">
-         <detail dispo="4560" site="Centrála v ČR"/>
+      <product code="0110011799090" generic="01100117" title="CASPIA rukavice latex/neopren - 9" totalDispo="4116" unit="PÁR">
+         <detail dispo="4116" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0110011799080" generic="01100117" title="CASPIA rukavice latex/neopren - 8" totalDispo="1990" unit="PÁR">
-         <detail dispo="1756" site="Centrála v ČR"/>
+      <product code="0110011799080" generic="01100117" title="CASPIA rukavice latex/neopren - 8" totalDispo="1978" unit="PÁR">
+         <detail dispo="1744" site="Centrála v ČR"/>
          <detail dispo="234" site="Senec"/>
       </product>
       <product code="0110011799070" generic="01100117" title="CASPIA rukavice latex/neopren - 7" totalDispo="2138" unit="PÁR">
@@ -7680,8 +7680,8 @@
          <detail dispo="2714" site="Centrála v ČR"/>
          <detail dispo="49" site="Senec"/>
       </product>
-      <product code="0113000899100" generic="01130008" title="CROPPER DOT 10 ruk.plet.zo synt.vlák.ter" totalDispo="1124" unit="PÁR">
-         <detail date="2026-06-26" dispo="1091" site="Centrála v ČR"/>
+      <product code="0113000899100" generic="01130008" title="CROPPER DOT 10 ruk.plet.zo synt.vlák.ter" totalDispo="1664" unit="PÁR">
+         <detail dispo="1631" site="Centrála v ČR"/>
          <detail dispo="33" site="Senec"/>
       </product>
       <product code="0113000899080" generic="01130008" title="CROPPER DOT 8 ruk.plet.zo synt.vlák.terč" totalDispo="214" unit="PÁR">
@@ -7876,8 +7876,8 @@
          <detail dispo="14163" site="Centrála v ČR"/>
          <detail dispo="88" site="Senec"/>
       </product>
-      <product code="0113007599100" generic="01130075" title="STINT rukavice cut B melír - 10" totalDispo="83635" unit="PÁR">
-         <detail dispo="83544" site="Centrála v ČR"/>
+      <product code="0113007599100" generic="01130075" title="STINT rukavice cut B melír - 10" totalDispo="83275" unit="PÁR">
+         <detail dispo="83184" site="Centrála v ČR"/>
          <detail dispo="91" site="Senec"/>
       </product>
       <product code="0113007599090" generic="01130075" title="STINT rukavice cut B melír - 9" totalDispo="88628" unit="PÁR">
@@ -8112,16 +8112,16 @@
          <detail dispo="3124" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0113010099100" generic="01130100" title="SITTA PALM rukavice nitril - 10" totalDispo="7264" unit="PÁR">
-         <detail date="2026-06-26" dispo="7012" site="Centrála v ČR"/>
+      <product code="0113010099100" generic="01130100" title="SITTA PALM rukavice nitril - 10" totalDispo="8464" unit="PÁR">
+         <detail dispo="8212" site="Centrála v ČR"/>
          <detail dispo="252" site="Senec"/>
       </product>
-      <product code="0113010099090" generic="01130100" title="SITTA PALM rukavice nitril - 9" totalDispo="6188" unit="PÁR">
-         <detail date="2026-06-26" dispo="6188" site="Centrála v ČR"/>
+      <product code="0113010099090" generic="01130100" title="SITTA PALM rukavice nitril - 9" totalDispo="9788" unit="PÁR">
+         <detail dispo="9788" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0113010099080" generic="01130100" title="SITTA PALM rukavice nitril - 8" totalDispo="3022" unit="PÁR">
-         <detail date="2026-06-26" dispo="2951" site="Centrála v ČR"/>
+      <product code="0113010099080" generic="01130100" title="SITTA PALM rukavice nitril - 8" totalDispo="4222" unit="PÁR">
+         <detail dispo="4151" site="Centrála v ČR"/>
          <detail dispo="71" site="Senec"/>
       </product>
       <product code="0113010099070" generic="01130100" title="SITTA PALM rukavice nitril - 7" totalDispo="1372" unit="PÁR">
@@ -9676,9 +9676,9 @@
          <detail dispo="69" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0201001741046" generic="02010017" title="RAVEN SPORT poltopánka navy - 46" totalDispo="206" unit="PÁR">
+      <product code="0201001741046" generic="02010017" title="RAVEN SPORT poltopánka navy - 46" totalDispo="205" unit="PÁR">
          <detail dispo="197" site="Centrála v ČR"/>
-         <detail dispo="9" site="Senec"/>
+         <detail dispo="8" site="Senec"/>
       </product>
       <product code="0201001741045" generic="02010017" title="RAVEN SPORT poltopánka navy - 45" totalDispo="282" unit="PÁR">
          <detail dispo="274" site="Centrála v ČR"/>
@@ -9740,40 +9740,40 @@
          <detail dispo="87" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201002899046" generic="02010028" title="STRADA S1 SRC poltopánka - 46" totalDispo="205" unit="PÁR">
-         <detail dispo="205" site="Centrála v ČR"/>
+      <product code="0201002899046" generic="02010028" title="STRADA S1 SRC poltopánka - 46" totalDispo="204" unit="PÁR">
+         <detail dispo="204" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201002899045" generic="02010028" title="STRADA S1 SRC poltopánka - 45" totalDispo="452" unit="PÁR">
-         <detail dispo="443" site="Centrála v ČR"/>
+      <product code="0201002899045" generic="02010028" title="STRADA S1 SRC poltopánka - 45" totalDispo="451" unit="PÁR">
+         <detail dispo="442" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0201002899044" generic="02010028" title="STRADA S1 SRC poltopánka - 44" totalDispo="458" unit="PÁR">
-         <detail dispo="453" site="Centrála v ČR"/>
+      <product code="0201002899044" generic="02010028" title="STRADA S1 SRC poltopánka - 44" totalDispo="457" unit="PÁR">
+         <detail dispo="452" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
-      <product code="0201002899043" generic="02010028" title="STRADA S1 SRC poltopánka - 43" totalDispo="819" unit="PÁR">
-         <detail dispo="812" site="Centrála v ČR"/>
+      <product code="0201002899043" generic="02010028" title="STRADA S1 SRC poltopánka - 43" totalDispo="817" unit="PÁR">
+         <detail dispo="810" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0201002899042" generic="02010028" title="STRADA S1 SRC poltopánka - 42" totalDispo="709" unit="PÁR">
-         <detail dispo="698" site="Centrála v ČR"/>
+      <product code="0201002899042" generic="02010028" title="STRADA S1 SRC poltopánka - 42" totalDispo="706" unit="PÁR">
+         <detail dispo="695" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0201002899041" generic="02010028" title="STRADA S1 SRC poltopánka - 41" totalDispo="334" unit="PÁR">
-         <detail dispo="321" site="Centrála v ČR"/>
+      <product code="0201002899041" generic="02010028" title="STRADA S1 SRC poltopánka - 41" totalDispo="332" unit="PÁR">
+         <detail dispo="319" site="Centrála v ČR"/>
          <detail dispo="13" site="Senec"/>
       </product>
-      <product code="0201002899040" generic="02010028" title="STRADA S1 SRC poltopánka - 40" totalDispo="144" unit="PÁR">
-         <detail dispo="139" site="Centrála v ČR"/>
+      <product code="0201002899040" generic="02010028" title="STRADA S1 SRC poltopánka - 40" totalDispo="140" unit="PÁR">
+         <detail dispo="135" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
-      <product code="0201002899039" generic="02010028" title="STRADA S1 SRC poltopánka - 39" totalDispo="114" unit="PÁR">
-         <detail dispo="107" site="Centrála v ČR"/>
+      <product code="0201002899039" generic="02010028" title="STRADA S1 SRC poltopánka - 39" totalDispo="112" unit="PÁR">
+         <detail dispo="105" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0201002899038" generic="02010028" title="STRADA S1 SRC poltopánka - 38" totalDispo="89" unit="PÁR">
-         <detail dispo="82" site="Centrála v ČR"/>
+      <product code="0201002899038" generic="02010028" title="STRADA S1 SRC poltopánka - 38" totalDispo="87" unit="PÁR">
+         <detail dispo="80" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
       <product code="0201002899037" generic="02010028" title="STRADA S1 SRC poltopánka - 37" totalDispo="83" unit="PÁR">
@@ -9932,16 +9932,16 @@
          <detail dispo="24" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201014880043" generic="02010148" title="PRESTIGE poltopánka 43 biela" totalDispo="48" unit="PÁR">
-         <detail dispo="48" site="Centrála v ČR"/>
+      <product code="0201014880043" generic="02010148" title="PRESTIGE poltopánka 43 biela" totalDispo="47" unit="PÁR">
+         <detail dispo="47" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201014880042" generic="02010148" title="PRESTIGE poltopánka 42 biela" totalDispo="43" unit="PÁR">
-         <detail dispo="43" site="Centrála v ČR"/>
+      <product code="0201014880042" generic="02010148" title="PRESTIGE poltopánka 42 biela" totalDispo="42" unit="PÁR">
+         <detail dispo="42" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201014880041" generic="02010148" title="PRESTIGE poltopánka 41 biela" totalDispo="32" unit="PÁR">
-         <detail dispo="32" site="Centrála v ČR"/>
+      <product code="0201014880041" generic="02010148" title="PRESTIGE poltopánka 41 biela" totalDispo="31" unit="PÁR">
+         <detail dispo="31" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201014880040" generic="02010148" title="PRESTIGE poltopánka 40 biela" totalDispo="11" unit="PÁR">
@@ -9956,8 +9956,8 @@
          <detail dispo="17" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201014880037" generic="02010148" title="PRESTIGE poltopánka 37 biela" totalDispo="13" unit="PÁR">
-         <detail dispo="13" site="Centrála v ČR"/>
+      <product code="0201014880037" generic="02010148" title="PRESTIGE poltopánka 37 biela" totalDispo="12" unit="PÁR">
+         <detail dispo="12" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201014880036" generic="02010148" title="PRESTIGE poltopánka 36 biela" totalDispo="7" unit="PÁR">
@@ -10012,8 +10012,8 @@
          <detail dispo="47" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201014860038" generic="02010148" title="PRESTIGE poltopánka 38 čierna" totalDispo="27" unit="PÁR">
-         <detail dispo="27" site="Centrála v ČR"/>
+      <product code="0201014860038" generic="02010148" title="PRESTIGE poltopánka 38 čierna" totalDispo="26" unit="PÁR">
+         <detail dispo="26" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201014860037" generic="02010148" title="PRESTIGE poltopánka 37 čierna" totalDispo="14" unit="PÁR">
@@ -10044,12 +10044,12 @@
          <detail dispo="11" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201014980044" generic="02010149" title="PRESTIGE SPORT poltopán 44 bieločierna" totalDispo="7" unit="PÁR">
-         <detail dispo="6" site="Centrála v ČR"/>
+      <product code="0201014980044" generic="02010149" title="PRESTIGE SPORT poltopán 44 bieločierna" totalDispo="6" unit="PÁR">
+         <detail dispo="5" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0201014980043" generic="02010149" title="PRESTIGE SPORT poltopán 43 bieločierna" totalDispo="19" unit="PÁR">
-         <detail dispo="19" site="Centrála v ČR"/>
+      <product code="0201014980043" generic="02010149" title="PRESTIGE SPORT poltopán 43 bieločierna" totalDispo="18" unit="PÁR">
+         <detail dispo="18" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201014980042" generic="02010149" title="PRESTIGE SPORT poltopán 42 bieločierna" totalDispo="13" unit="PÁR">
@@ -10064,8 +10064,8 @@
          <detail dispo="14" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0201014980039" generic="02010149" title="PRESTIGE SPORT poltopán 39 bieločierna" totalDispo="8" unit="PÁR">
-         <detail dispo="8" site="Centrála v ČR"/>
+      <product code="0201014980039" generic="02010149" title="PRESTIGE SPORT poltopán 39 bieločierna" totalDispo="7" unit="PÁR">
+         <detail dispo="7" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201014980038" generic="02010149" title="PRESTIGE SPORT poltopán 38 bieločierna" totalDispo="10" unit="PÁR">
@@ -10096,8 +10096,8 @@
          <detail dispo="31" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201014960044" generic="02010149" title="PRESTIGE SPORT poltopánka 44 čierna" totalDispo="35" unit="PÁR">
-         <detail dispo="35" site="Centrála v ČR"/>
+      <product code="0201014960044" generic="02010149" title="PRESTIGE SPORT poltopánka 44 čierna" totalDispo="34" unit="PÁR">
+         <detail dispo="34" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201014960043" generic="02010149" title="PRESTIGE SPORT poltopánka 43 čierna" totalDispo="65" unit="PÁR">
@@ -10108,8 +10108,8 @@
          <detail dispo="56" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201014960041" generic="02010149" title="PRESTIGE SPORT poltopánka 41 čierna" totalDispo="44" unit="PÁR">
-         <detail dispo="42" site="Centrála v ČR"/>
+      <product code="0201014960041" generic="02010149" title="PRESTIGE SPORT poltopánka 41 čierna" totalDispo="43" unit="PÁR">
+         <detail dispo="41" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
       <product code="0201014960040" generic="02010149" title="PRESTIGE SPORT poltopánka 40 čierna" totalDispo="20" unit="PÁR">
@@ -11228,8 +11228,8 @@
          <detail dispo="20" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201038060045" generic="02010380" title="BRAKE MF S3 HRO SRC poltopánka 45 čierna" totalDispo="14" unit="PÁR">
-         <detail dispo="14" site="Centrála v ČR"/>
+      <product code="0201038060045" generic="02010380" title="BRAKE MF S3 HRO SRC poltopánka 45 čierna" totalDispo="13" unit="PÁR">
+         <detail dispo="13" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201038060044" generic="02010380" title="BRAKE MF S3 HRO SRC poltopánka 44 čierna" totalDispo="34" unit="PÁR">
@@ -11240,8 +11240,8 @@
          <detail dispo="23" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201038060042" generic="02010380" title="BRAKE MF S3 HRO SRC poltopánka 42 čierna" totalDispo="18" unit="PÁR">
-         <detail dispo="18" site="Centrála v ČR"/>
+      <product code="0201038060042" generic="02010380" title="BRAKE MF S3 HRO SRC poltopánka 42 čierna" totalDispo="16" unit="PÁR">
+         <detail dispo="16" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201038060041" generic="02010380" title="BRAKE MF S3 HRO SRC poltopánka 41 čierna" totalDispo="0" unit="PÁR">
@@ -11856,56 +11856,56 @@
          <detail date="2026-07-09" dispo="10" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201055700048" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 48" totalDispo="100" unit="PÁR">
-         <detail date="2026-07-30" dispo="100" site="Centrála v ČR"/>
+      <product code="0201055700048" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 48" totalDispo="99" unit="PÁR">
+         <detail date="2026-07-30" dispo="99" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201055700047" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 47" totalDispo="121" unit="PÁR">
-         <detail date="2026-07-30" dispo="121" site="Centrála v ČR"/>
+      <product code="0201055700047" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 47" totalDispo="119" unit="PÁR">
+         <detail date="2026-07-30" dispo="119" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201055700046" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 46" totalDispo="240" unit="PÁR">
-         <detail date="2026-07-30" dispo="239" site="Centrála v ČR"/>
+      <product code="0201055700046" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 46" totalDispo="233" unit="PÁR">
+         <detail date="2026-07-30" dispo="232" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0201055700045" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 45" totalDispo="525" unit="PÁR">
-         <detail date="2026-07-30" dispo="518" site="Centrála v ČR"/>
+      <product code="0201055700045" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 45" totalDispo="516" unit="PÁR">
+         <detail date="2026-07-30" dispo="509" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0201055700044" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 44" totalDispo="1065" unit="PÁR">
-         <detail date="2026-07-30" dispo="1049" site="Centrála v ČR"/>
+      <product code="0201055700044" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 44" totalDispo="1055" unit="PÁR">
+         <detail date="2026-07-30" dispo="1039" site="Centrála v ČR"/>
          <detail dispo="16" site="Senec"/>
       </product>
-      <product code="0201055700043" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 43" totalDispo="904" unit="PÁR">
-         <detail date="2026-07-09" dispo="883" site="Centrála v ČR"/>
+      <product code="0201055700043" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 43" totalDispo="889" unit="PÁR">
+         <detail date="2026-07-09" dispo="868" site="Centrála v ČR"/>
          <detail dispo="21" site="Senec"/>
       </product>
-      <product code="0201055700042" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 42" totalDispo="1104" unit="PÁR">
-         <detail date="2026-07-30" dispo="1093" site="Centrála v ČR"/>
+      <product code="0201055700042" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 42" totalDispo="1082" unit="PÁR">
+         <detail date="2026-07-30" dispo="1071" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0201055700041" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 41" totalDispo="664" unit="PÁR">
-         <detail date="2026-07-09" dispo="653" site="Centrála v ČR"/>
+      <product code="0201055700041" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 41" totalDispo="656" unit="PÁR">
+         <detail date="2026-07-09" dispo="645" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0201055700040" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 40" totalDispo="545" unit="PÁR">
-         <detail date="2026-07-09" dispo="542" site="Centrála v ČR"/>
+      <product code="0201055700040" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 40" totalDispo="538" unit="PÁR">
+         <detail date="2026-07-09" dispo="535" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
-      <product code="0201055700039" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 39" totalDispo="352" unit="PÁR">
-         <detail date="2026-07-30" dispo="348" site="Centrála v ČR"/>
+      <product code="0201055700039" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 39" totalDispo="347" unit="PÁR">
+         <detail date="2026-07-30" dispo="343" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0201055700038" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 38" totalDispo="270" unit="PÁR">
-         <detail date="2026-07-30" dispo="270" site="Centrála v ČR"/>
+      <product code="0201055700038" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 38" totalDispo="264" unit="PÁR">
+         <detail date="2026-07-30" dispo="264" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201055700037" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 37" totalDispo="338" unit="PÁR">
-         <detail date="2026-07-30" dispo="335" site="Centrála v ČR"/>
+      <product code="0201055700037" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 37" totalDispo="328" unit="PÁR">
+         <detail date="2026-07-30" dispo="325" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
-      <product code="0201055700036" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 36" totalDispo="190" unit="PÁR">
-         <detail date="2026-07-30" dispo="190" site="Centrála v ČR"/>
+      <product code="0201055700036" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 36" totalDispo="187" unit="PÁR">
+         <detail date="2026-07-30" dispo="187" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201055700035" generic="02010557" title="ZURRUM MF ESD S1PS SR poltopánka sivá 35" totalDispo="124" unit="PÁR">
@@ -12316,25 +12316,25 @@
          <detail date="2026-07-09" dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201057400047" generic="02010574" title="GEARGRINT S1 MF SRC poltopánka sivá 47" totalDispo="23" unit="PÁR">
+      <product code="0201057400047" generic="02010574" title="GEARGRINT S1 MF SRC poltopánka sivá 47" totalDispo="22" unit="PÁR">
          <detail dispo="22" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201057400046" generic="02010574" title="GEARGRINT S1 MF SRC poltopánka sivá 46" totalDispo="35" unit="PÁR">
+      <product code="0201057400046" generic="02010574" title="GEARGRINT S1 MF SRC poltopánka sivá 46" totalDispo="34" unit="PÁR">
          <detail date="2026-07-09" dispo="32" site="Centrála v ČR"/>
-         <detail dispo="3" site="Senec"/>
+         <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0201057400045" generic="02010574" title="GEARGRINT S1 MF SRC poltopánka sivá 45" totalDispo="299" unit="PÁR">
+      <product code="0201057400045" generic="02010574" title="GEARGRINT S1 MF SRC poltopánka sivá 45" totalDispo="298" unit="PÁR">
          <detail date="2026-07-30" dispo="293" site="Centrála v ČR"/>
-         <detail dispo="6" site="Senec"/>
+         <detail dispo="5" site="Senec"/>
       </product>
       <product code="0201057400044" generic="02010574" title="GEARGRINT S1 MF SRC poltopánka sivá 44" totalDispo="225" unit="PÁR">
          <detail date="2026-07-30" dispo="216" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0201057400043" generic="02010574" title="GEARGRINT S1 MF SRC poltopánka sivá 43" totalDispo="38" unit="PÁR">
+      <product code="0201057400043" generic="02010574" title="GEARGRINT S1 MF SRC poltopánka sivá 43" totalDispo="37" unit="PÁR">
          <detail date="2026-07-09" dispo="26" site="Centrála v ČR"/>
-         <detail dispo="12" site="Senec"/>
+         <detail dispo="11" site="Senec"/>
       </product>
       <product code="0201057400042" generic="02010574" title="GEARGRINT S1 MF SRC poltopánka sivá 42" totalDispo="77" unit="PÁR">
          <detail date="2026-07-09" dispo="66" site="Centrála v ČR"/>
@@ -12560,17 +12560,17 @@
          <detail dispo="221" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0201057900045" generic="02010579" title="LAMBDA NEOS S1 SRC poltop. sivá 45" totalDispo="399" unit="PÁR">
+      <product code="0201057900045" generic="02010579" title="LAMBDA NEOS S1 SRC poltop. sivá 45" totalDispo="398" unit="PÁR">
          <detail dispo="394" site="Centrála v ČR"/>
-         <detail dispo="5" site="Senec"/>
+         <detail dispo="4" site="Senec"/>
       </product>
       <product code="0201057900044" generic="02010579" title="LAMBDA NEOS S1 SRC poltop. sivá 44" totalDispo="659" unit="PÁR">
          <detail dispo="650" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0201057900043" generic="02010579" title="LAMBDA NEOS S1 SRC poltop. sivá 43" totalDispo="1052" unit="PÁR">
+      <product code="0201057900043" generic="02010579" title="LAMBDA NEOS S1 SRC poltop. sivá 43" totalDispo="1051" unit="PÁR">
          <detail dispo="1027" site="Centrála v ČR"/>
-         <detail dispo="25" site="Senec"/>
+         <detail dispo="24" site="Senec"/>
       </product>
       <product code="0201057900042" generic="02010579" title="LAMBDA NEOS S1 SRC poltop. sivá 42" totalDispo="938" unit="PÁR">
          <detail dispo="911" site="Centrála v ČR"/>
@@ -12668,40 +12668,40 @@
          <detail dispo="2" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201058360048" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 48" totalDispo="3" unit="PÁR">
-         <detail dispo="3" site="Centrála v ČR"/>
+      <product code="0201058360048" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 48" totalDispo="2" unit="PÁR">
+         <detail dispo="2" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201058360047" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 47" totalDispo="17" unit="PÁR">
-         <detail dispo="17" site="Centrála v ČR"/>
-         <detail dispo="0" site="Senec"/>
-      </product>
-      <product code="0201058360046" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 46" totalDispo="20" unit="PÁR">
-         <detail dispo="20" site="Centrála v ČR"/>
-         <detail dispo="0" site="Senec"/>
-      </product>
-      <product code="0201058360045" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 45" totalDispo="38" unit="PÁR">
-         <detail dispo="38" site="Centrála v ČR"/>
-         <detail dispo="0" site="Senec"/>
-      </product>
-      <product code="0201058360044" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 44" totalDispo="31" unit="PÁR">
-         <detail dispo="31" site="Centrála v ČR"/>
-         <detail dispo="0" site="Senec"/>
-      </product>
-      <product code="0201058360043" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 43" totalDispo="50" unit="PÁR">
-         <detail dispo="50" site="Centrála v ČR"/>
-         <detail dispo="0" site="Senec"/>
-      </product>
-      <product code="0201058360042" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 42" totalDispo="69" unit="PÁR">
-         <detail dispo="68" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
-      </product>
-      <product code="0201058360041" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 41" totalDispo="17" unit="PÁR">
+      <product code="0201058360047" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 47" totalDispo="16" unit="PÁR">
          <detail dispo="16" site="Centrála v ČR"/>
+         <detail dispo="0" site="Senec"/>
+      </product>
+      <product code="0201058360046" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 46" totalDispo="14" unit="PÁR">
+         <detail dispo="14" site="Centrála v ČR"/>
+         <detail dispo="0" site="Senec"/>
+      </product>
+      <product code="0201058360045" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 45" totalDispo="25" unit="PÁR">
+         <detail dispo="25" site="Centrála v ČR"/>
+         <detail dispo="0" site="Senec"/>
+      </product>
+      <product code="0201058360044" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 44" totalDispo="24" unit="PÁR">
+         <detail dispo="24" site="Centrála v ČR"/>
+         <detail dispo="0" site="Senec"/>
+      </product>
+      <product code="0201058360043" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 43" totalDispo="30" unit="PÁR">
+         <detail dispo="30" site="Centrála v ČR"/>
+         <detail dispo="0" site="Senec"/>
+      </product>
+      <product code="0201058360042" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 42" totalDispo="58" unit="PÁR">
+         <detail dispo="57" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0201058360040" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 40" totalDispo="43" unit="PÁR">
-         <detail dispo="43" site="Centrála v ČR"/>
+      <product code="0201058360041" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 41" totalDispo="10" unit="PÁR">
+         <detail dispo="9" site="Centrála v ČR"/>
+         <detail dispo="1" site="Senec"/>
+      </product>
+      <product code="0201058360040" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 40" totalDispo="42" unit="PÁR">
+         <detail dispo="42" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201058360039" generic="02010583" title="ULTRA STRADA MF S3 SRC poltop. čierna 39" totalDispo="17" unit="PÁR">
@@ -12724,16 +12724,16 @@
          <detail dispo="57" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201058460045" generic="02010584" title="NUOVO STRADA S1 SRC poltopánka čierna 45" totalDispo="180" unit="PÁR">
-         <detail dispo="180" site="Centrála v ČR"/>
+      <product code="0201058460045" generic="02010584" title="NUOVO STRADA S1 SRC poltopánka čierna 45" totalDispo="179" unit="PÁR">
+         <detail dispo="179" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201058460044" generic="02010584" title="NUOVO STRADA S1 SRC poltopánka čierna 44" totalDispo="137" unit="PÁR">
          <detail dispo="137" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201058460043" generic="02010584" title="NUOVO STRADA S1 SRC poltopánka čierna 43" totalDispo="356" unit="PÁR">
-         <detail dispo="356" site="Centrála v ČR"/>
+      <product code="0201058460043" generic="02010584" title="NUOVO STRADA S1 SRC poltopánka čierna 43" totalDispo="354" unit="PÁR">
+         <detail dispo="354" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201058460042" generic="02010584" title="NUOVO STRADA S1 SRC poltopánka čierna 42" totalDispo="328" unit="PÁR">
@@ -14412,8 +14412,8 @@
          <detail dispo="201" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0201061468040" generic="02010614" title="GERA O1 SR poltopánka čierna/sivá 40" totalDispo="149" unit="PÁR">
-         <detail dispo="144" site="Centrála v ČR"/>
+      <product code="0201061468040" generic="02010614" title="GERA O1 SR poltopánka čierna/sivá 40" totalDispo="148" unit="PÁR">
+         <detail dispo="143" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
       <product code="0201061468039" generic="02010614" title="GERA O1 SR poltopánka čierna/sivá 39" totalDispo="3" unit="PÁR">
@@ -14692,9 +14692,9 @@
          <detail dispo="21" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
-      <product code="02010618W6043" generic="02010618" title="ULTRALIGHT ESD O1 SR poltop.sivá/biel 43" totalDispo="75" unit="PÁR">
+      <product code="02010618W6043" generic="02010618" title="ULTRALIGHT ESD O1 SR poltop.sivá/biel 43" totalDispo="74" unit="PÁR">
          <detail dispo="69" site="Centrála v ČR"/>
-         <detail dispo="6" site="Senec"/>
+         <detail dispo="5" site="Senec"/>
       </product>
       <product code="02010618W6042" generic="02010618" title="ULTRALIGHT ESD O1 SR poltop.sivá/biel 42" totalDispo="99" unit="PÁR">
          <detail dispo="92" site="Centrála v ČR"/>
@@ -14888,8 +14888,8 @@
          <detail date="2026-08-19" dispo="0" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
-      <product code="0201061908039" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 39" totalDispo="84" unit="PÁR">
-         <detail dispo="84" site="Centrála v ČR"/>
+      <product code="0201061908039" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 39" totalDispo="83" unit="PÁR">
+         <detail dispo="83" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201061908038" generic="02010619" title="GRIMMA S1 SR poltop. sivá/červená 38" totalDispo="533" unit="PÁR">
@@ -16708,8 +16708,8 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0201068760041" generic="02010687" title="FOREMAN ESD O1 FO SR poltopánka čier. 41" totalDispo="9" unit="PÁR">
-         <detail dispo="9" site="Centrála v ČR"/>
+      <product code="0201068760041" generic="02010687" title="FOREMAN ESD O1 FO SR poltopánka čier. 41" totalDispo="8" unit="PÁR">
+         <detail dispo="8" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0201068760040" generic="02010687" title="FOREMAN ESD O1 FO SR poltopánka čier. 40" totalDispo="0" unit="PÁR">
@@ -19004,8 +19004,8 @@
          <detail date="2026-06-26" dispo="62" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0202064860041" generic="02020648" title="HALWILL MF ESD S1P SRC členok 41 čierna" totalDispo="112" unit="PÁR">
-         <detail dispo="112" site="Centrála v ČR"/>
+      <product code="0202064860041" generic="02020648" title="HALWILL MF ESD S1P SRC členok 41 čierna" totalDispo="110" unit="PÁR">
+         <detail dispo="110" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0202064860040" generic="02020648" title="HALWILL MF ESD S1P SRC členok 40 čierna" totalDispo="101" unit="PÁR">
@@ -19880,8 +19880,8 @@
          <detail dispo="76" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
-      <product code="0202072160041" generic="02020721" title="BK FARMER O2 CI SRC členok 41 čierna" totalDispo="137" unit="PÁR">
-         <detail dispo="136" site="Centrála v ČR"/>
+      <product code="0202072160041" generic="02020721" title="BK FARMER O2 CI SRC členok 41 čierna" totalDispo="136" unit="PÁR">
+         <detail dispo="135" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
       <product code="0202072160040" generic="02020721" title="BK FARMER O2 CI SRC členok 40 čierna" totalDispo="89" unit="PÁR">
@@ -22500,8 +22500,8 @@
          <detail dispo="83" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0203005860038" generic="02030058" title="BONN S1 FO SR sandále 38 čierna" totalDispo="271" unit="PÁR">
-         <detail dispo="259" site="Centrála v ČR"/>
+      <product code="0203005860038" generic="02030058" title="BONN S1 FO SR sandále 38 čierna" totalDispo="270" unit="PÁR">
+         <detail dispo="258" site="Centrála v ČR"/>
          <detail dispo="12" site="Senec"/>
       </product>
       <product code="0203005860037" generic="02030058" title="BONN S1 FO SR sandále 37 čierna" totalDispo="194" unit="PÁR">
@@ -22528,8 +22528,8 @@
          <detail dispo="88" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0203006480045" generic="02030064" title="LYBRA O1 SRC sandále 45 biela" totalDispo="114" unit="PÁR">
-         <detail dispo="111" site="Centrála v ČR"/>
+      <product code="0203006480045" generic="02030064" title="LYBRA O1 SRC sandále 45 biela" totalDispo="113" unit="PÁR">
+         <detail dispo="110" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
       <product code="0203006480044" generic="02030064" title="LYBRA O1 SRC sandále 44 biela" totalDispo="185" unit="PÁR">
@@ -23028,40 +23028,40 @@
          <detail date="2026-07-13" dispo="76" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0203011760046" generic="02030117" title="HENFORD MF S1 SR sandále 46 čierna" totalDispo="91" unit="PÁR">
-         <detail date="2026-07-13" dispo="91" site="Centrála v ČR"/>
+      <product code="0203011760046" generic="02030117" title="HENFORD MF S1 SR sandále 46 čierna" totalDispo="90" unit="PÁR">
+         <detail date="2026-07-13" dispo="90" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0203011760045" generic="02030117" title="HENFORD MF S1 SR sandále 45 čierna" totalDispo="316" unit="PÁR">
-         <detail date="2026-07-13" dispo="316" site="Centrála v ČR"/>
+      <product code="0203011760045" generic="02030117" title="HENFORD MF S1 SR sandále 45 čierna" totalDispo="313" unit="PÁR">
+         <detail date="2026-07-13" dispo="313" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0203011760044" generic="02030117" title="HENFORD MF S1 SR sandále 44 čierna" totalDispo="352" unit="PÁR">
-         <detail date="2026-07-13" dispo="352" site="Centrála v ČR"/>
+      <product code="0203011760044" generic="02030117" title="HENFORD MF S1 SR sandále 44 čierna" totalDispo="351" unit="PÁR">
+         <detail date="2026-07-13" dispo="351" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0203011760043" generic="02030117" title="HENFORD MF S1 SR sandále 43 čierna" totalDispo="548" unit="PÁR">
-         <detail date="2026-07-13" dispo="548" site="Centrála v ČR"/>
+      <product code="0203011760043" generic="02030117" title="HENFORD MF S1 SR sandále 43 čierna" totalDispo="540" unit="PÁR">
+         <detail date="2026-07-13" dispo="540" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0203011760042" generic="02030117" title="HENFORD MF S1 SR sandále 42 čierna" totalDispo="435" unit="PÁR">
-         <detail date="2026-07-13" dispo="435" site="Centrála v ČR"/>
+      <product code="0203011760042" generic="02030117" title="HENFORD MF S1 SR sandále 42 čierna" totalDispo="429" unit="PÁR">
+         <detail date="2026-07-13" dispo="429" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0203011760041" generic="02030117" title="HENFORD MF S1 SR sandále 41 čierna" totalDispo="393" unit="PÁR">
-         <detail date="2026-07-13" dispo="393" site="Centrála v ČR"/>
+      <product code="0203011760041" generic="02030117" title="HENFORD MF S1 SR sandále 41 čierna" totalDispo="390" unit="PÁR">
+         <detail date="2026-07-13" dispo="390" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0203011760040" generic="02030117" title="HENFORD MF S1 SR sandále 40 čierna" totalDispo="160" unit="PÁR">
-         <detail date="2026-07-13" dispo="160" site="Centrála v ČR"/>
+      <product code="0203011760040" generic="02030117" title="HENFORD MF S1 SR sandále 40 čierna" totalDispo="158" unit="PÁR">
+         <detail date="2026-07-13" dispo="158" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0203011760039" generic="02030117" title="HENFORD MF S1 SR sandále 39 čierna" totalDispo="83" unit="PÁR">
          <detail date="2026-07-13" dispo="83" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0203011760038" generic="02030117" title="HENFORD MF S1 SR sandále 38 čierna" totalDispo="188" unit="PÁR">
-         <detail date="2026-07-13" dispo="188" site="Centrála v ČR"/>
+      <product code="0203011760038" generic="02030117" title="HENFORD MF S1 SR sandále 38 čierna" totalDispo="185" unit="PÁR">
+         <detail date="2026-07-13" dispo="185" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0203011760037" generic="02030117" title="HENFORD MF S1 SR sandále 37 čierna" totalDispo="107" unit="PÁR">
@@ -23496,8 +23496,8 @@
          <detail dispo="27" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0203014599047" generic="02030145" title="MONTROSE ROYAL ESD S1P SRC sandále 47 -" totalDispo="36" unit="PÁR">
-         <detail dispo="36" site="Centrála v ČR"/>
+      <product code="0203014599047" generic="02030145" title="MONTROSE ROYAL ESD S1P SRC sandále 47 -" totalDispo="35" unit="PÁR">
+         <detail dispo="35" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0203014599037" generic="02030145" title="MONTROSE ROYAL ESD S1P SRC sandále 37 -" totalDispo="3" unit="PÁR">
@@ -25052,28 +25052,28 @@
          <detail dispo="9" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0204001110046" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 46" totalDispo="108" unit="PÁR">
-         <detail dispo="107" site="Centrála v ČR"/>
+      <product code="0204001110046" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 46" totalDispo="119" unit="PÁR">
+         <detail dispo="118" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0204001110045" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 45" totalDispo="89" unit="PÁR">
-         <detail dispo="65" site="Centrála v ČR"/>
+      <product code="0204001110045" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 45" totalDispo="97" unit="PÁR">
+         <detail dispo="73" site="Centrála v ČR"/>
          <detail dispo="24" site="Senec"/>
       </product>
       <product code="0204001110044" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 44" totalDispo="167" unit="PÁR">
          <detail dispo="147" site="Centrála v ČR"/>
          <detail dispo="20" site="Senec"/>
       </product>
-      <product code="0204001110043" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 43" totalDispo="364" unit="PÁR">
-         <detail dispo="334" site="Centrála v ČR"/>
+      <product code="0204001110043" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 43" totalDispo="374" unit="PÁR">
+         <detail dispo="344" site="Centrála v ČR"/>
          <detail dispo="30" site="Senec"/>
       </product>
-      <product code="0204001110042" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 42" totalDispo="263" unit="PÁR">
-         <detail dispo="243" site="Centrála v ČR"/>
+      <product code="0204001110042" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 42" totalDispo="268" unit="PÁR">
+         <detail dispo="248" site="Centrála v ČR"/>
          <detail dispo="20" site="Senec"/>
       </product>
-      <product code="0204001110041" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 41" totalDispo="142" unit="PÁR">
-         <detail dispo="135" site="Centrála v ČR"/>
+      <product code="0204001110041" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 41" totalDispo="156" unit="PÁR">
+         <detail dispo="149" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
       <product code="0204001110040" generic="02040011" title="POLAR OB SRA zateplené čižmy zelené - 40" totalDispo="105" unit="PÁR">
@@ -25812,9 +25812,9 @@
          <detail dispo="45" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0204010670045" generic="02040106" title="BC SAFETY S5 SRA čižmy 45 žltá" totalDispo="983" unit="PÁR">
+      <product code="0204010670045" generic="02040106" title="BC SAFETY S5 SRA čižmy 45 žltá" totalDispo="981" unit="PÁR">
          <detail dispo="981" site="Centrála v ČR"/>
-         <detail dispo="2" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
       <product code="0204010670044" generic="02040106" title="BC SAFETY S5 SRA čižmy 44 žltá" totalDispo="45" unit="PÁR">
          <detail dispo="42" site="Centrála v ČR"/>
@@ -25824,13 +25824,13 @@
          <detail dispo="107" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0204010670042" generic="02040106" title="BC SAFETY S5 SRA čižmy 42 žltá" totalDispo="73" unit="PÁR">
+      <product code="0204010670042" generic="02040106" title="BC SAFETY S5 SRA čižmy 42 žltá" totalDispo="71" unit="PÁR">
          <detail dispo="65" site="Centrála v ČR"/>
-         <detail dispo="8" site="Senec"/>
+         <detail dispo="6" site="Senec"/>
       </product>
-      <product code="0204010670041" generic="02040106" title="BC SAFETY S5 SRA čižmy 41 žltá" totalDispo="40" unit="PÁR">
+      <product code="0204010670041" generic="02040106" title="BC SAFETY S5 SRA čižmy 41 žltá" totalDispo="39" unit="PÁR">
          <detail dispo="39" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
       <product code="0204010670040" generic="02040106" title="BC SAFETY S5 SRA čižmy 40 žltá" totalDispo="6" unit="PÁR">
          <detail dispo="6" site="Centrála v ČR"/>
@@ -25852,8 +25852,8 @@
          <detail dispo="229" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0204010660045" generic="02040106" title="BC SAFETY S5 SRA čižmy 45 čierna" totalDispo="9" unit="PÁR">
-         <detail dispo="1" site="Centrála v ČR"/>
+      <product code="0204010660045" generic="02040106" title="BC SAFETY S5 SRA čižmy 45 čierna" totalDispo="8" unit="PÁR">
+         <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
       <product code="0204010660044" generic="02040106" title="BC SAFETY S5 SRA čižmy 44 čierna" totalDispo="439" unit="PÁR">
@@ -26420,8 +26420,8 @@
          <detail dispo="159" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0206000360045" generic="02060003" title="PUDU šľapky čierne - 45" totalDispo="143" unit="PÁR">
-         <detail dispo="140" site="Centrála v ČR"/>
+      <product code="0206000360045" generic="02060003" title="PUDU šľapky čierne - 45" totalDispo="141" unit="PÁR">
+         <detail dispo="138" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
       <product code="0206000360044" generic="02060003" title="PUDU šľapky čierne - 44" totalDispo="122" unit="PÁR">
@@ -26432,32 +26432,32 @@
          <detail dispo="266" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0206000360042" generic="02060003" title="PUDU šľapky čierne - 42" totalDispo="306" unit="PÁR">
-         <detail dispo="290" site="Centrála v ČR"/>
+      <product code="0206000360042" generic="02060003" title="PUDU šľapky čierne - 42" totalDispo="304" unit="PÁR">
+         <detail dispo="288" site="Centrála v ČR"/>
          <detail dispo="16" site="Senec"/>
       </product>
-      <product code="0206000360041" generic="02060003" title="PUDU šľapky čierne - 41" totalDispo="277" unit="PÁR">
-         <detail dispo="266" site="Centrála v ČR"/>
+      <product code="0206000360041" generic="02060003" title="PUDU šľapky čierne - 41" totalDispo="271" unit="PÁR">
+         <detail dispo="260" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0206000360040" generic="02060003" title="PUDU šľapky čierne - 40" totalDispo="289" unit="PÁR">
-         <detail dispo="278" site="Centrála v ČR"/>
+      <product code="0206000360040" generic="02060003" title="PUDU šľapky čierne - 40" totalDispo="276" unit="PÁR">
+         <detail dispo="265" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0206000360039" generic="02060003" title="PUDU šľapky čierne - 39" totalDispo="177" unit="PÁR">
-         <detail dispo="167" site="Centrála v ČR"/>
+      <product code="0206000360039" generic="02060003" title="PUDU šľapky čierne - 39" totalDispo="171" unit="PÁR">
+         <detail dispo="161" site="Centrála v ČR"/>
          <detail dispo="10" site="Senec"/>
       </product>
-      <product code="0206000360038" generic="02060003" title="PUDU šľapky čierne - 38" totalDispo="221" unit="PÁR">
-         <detail dispo="215" site="Centrála v ČR"/>
+      <product code="0206000360038" generic="02060003" title="PUDU šľapky čierne - 38" totalDispo="213" unit="PÁR">
+         <detail dispo="207" site="Centrála v ČR"/>
          <detail dispo="6" site="Senec"/>
       </product>
-      <product code="0206000360037" generic="02060003" title="PUDU šľapky čierne - 37" totalDispo="90" unit="PÁR">
-         <detail dispo="87" site="Centrála v ČR"/>
+      <product code="0206000360037" generic="02060003" title="PUDU šľapky čierne - 37" totalDispo="89" unit="PÁR">
+         <detail dispo="86" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
-      <product code="0206000360036" generic="02060003" title="PUDU šľapky čierne - 36" totalDispo="31" unit="PÁR">
-         <detail dispo="30" site="Centrála v ČR"/>
+      <product code="0206000360036" generic="02060003" title="PUDU šľapky čierne - 36" totalDispo="30" unit="PÁR">
+         <detail dispo="29" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
       <product code="0206002180041" generic="02060021" title="TARUCA LADY OB šľapky 41 biela" totalDispo="235" unit="PÁR">
@@ -26556,9 +26556,9 @@
          <detail dispo="1321" site="Centrála v ČR"/>
          <detail dispo="78" site="Senec"/>
       </product>
-      <product code="0206003180037" generic="02060031" title="TANOHA OB šľapky 37 biela" totalDispo="894" unit="PÁR">
+      <product code="0206003180037" generic="02060031" title="TANOHA OB šľapky 37 biela" totalDispo="893" unit="PÁR">
          <detail dispo="845" site="Centrála v ČR"/>
-         <detail dispo="49" site="Senec"/>
+         <detail dispo="48" site="Senec"/>
       </product>
       <product code="0206003180036" generic="02060031" title="TANOHA OB šľapky 36 biela" totalDispo="529" unit="PÁR">
          <detail dispo="494" site="Centrála v ČR"/>
@@ -26708,8 +26708,8 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0206008313037" generic="02060083" title="WAIPI LADY 53650 šľapky sv.zelená 37" totalDispo="38" unit="PÁR">
-         <detail dispo="35" site="Centrála v ČR"/>
+      <product code="0206008313037" generic="02060083" title="WAIPI LADY 53650 šľapky sv.zelená 37" totalDispo="37" unit="PÁR">
+         <detail dispo="34" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
       <product code="0206008313036" generic="02060083" title="WAIPI LADY 53650 šľapky sv.zelená 36" totalDispo="83" unit="PÁR">
@@ -26728,8 +26728,8 @@
          <detail dispo="17" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0206008300037" generic="02060083" title="WAIPI LADY 53650 šľapky sivá 37" totalDispo="30" unit="PÁR">
-         <detail dispo="30" site="Centrála v ČR"/>
+      <product code="0206008300037" generic="02060083" title="WAIPI LADY 53650 šľapky sivá 37" totalDispo="29" unit="PÁR">
+         <detail dispo="29" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0206008300036" generic="02060083" title="WAIPI LADY 53650 šľapky sivá 36" totalDispo="7" unit="PÁR">
@@ -26776,8 +26776,8 @@
          <detail dispo="111" site="Centrála v ČR"/>
          <detail dispo="13" site="Senec"/>
       </product>
-      <product code="0206008460044" generic="02060084" title="WAIPI MAN 56650 šľapky čierna 44" totalDispo="109" unit="PÁR">
-         <detail dispo="109" site="Centrála v ČR"/>
+      <product code="0206008460044" generic="02060084" title="WAIPI MAN 56650 šľapky čierna 44" totalDispo="108" unit="PÁR">
+         <detail dispo="108" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0206008460043" generic="02060084" title="WAIPI MAN 56650 šľapky čierna 43" totalDispo="141" unit="PÁR">
@@ -29932,16 +29932,16 @@
          <detail date="2026-07-16" dispo="437" site="Centrála v ČR"/>
          <detail dispo="83" site="Senec"/>
       </product>
-      <product code="0301007170004" generic="03010071" title="CLOVELLY pilot bunda HV žltá XL" totalDispo="1039" unit="KS">
-         <detail date="2026-07-16" dispo="975" site="Centrála v ČR"/>
+      <product code="0301007170004" generic="03010071" title="CLOVELLY pilot bunda HV žltá XL" totalDispo="1040" unit="KS">
+         <detail date="2026-07-16" dispo="976" site="Centrála v ČR"/>
          <detail dispo="64" site="Senec"/>
       </product>
-      <product code="0301007170003" generic="03010071" title="CLOVELLY pilot bunda HV žltá L" totalDispo="570" unit="KS">
-         <detail date="2026-07-16" dispo="501" site="Centrála v ČR"/>
+      <product code="0301007170003" generic="03010071" title="CLOVELLY pilot bunda HV žltá L" totalDispo="572" unit="KS">
+         <detail date="2026-07-16" dispo="503" site="Centrála v ČR"/>
          <detail dispo="69" site="Senec"/>
       </product>
-      <product code="0301007170002" generic="03010071" title="CLOVELLY pilot bunda HV žltá M" totalDispo="1093" unit="KS">
-         <detail date="2026-07-16" dispo="1046" site="Centrála v ČR"/>
+      <product code="0301007170002" generic="03010071" title="CLOVELLY pilot bunda HV žltá M" totalDispo="1097" unit="KS">
+         <detail date="2026-07-16" dispo="1050" site="Centrála v ČR"/>
          <detail dispo="47" site="Senec"/>
       </product>
       <product code="0301007170001" generic="03010071" title="CLOVELLY pilot bunda HV žltá S" totalDispo="605" unit="KS">
@@ -34884,13 +34884,13 @@
          <detail dispo="147" site="Centrála v ČR"/>
          <detail dispo="6" site="Senec"/>
       </product>
-      <product code="0301055561058" generic="03010555" title="DAYBORO bunda antracit 58" totalDispo="276" unit="KS">
+      <product code="0301055561058" generic="03010555" title="DAYBORO bunda antracit 58" totalDispo="274" unit="KS">
          <detail dispo="272" site="Centrála v ČR"/>
-         <detail dispo="4" site="Senec"/>
+         <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0301055561056" generic="03010555" title="DAYBORO bunda antracit 56" totalDispo="467" unit="KS">
+      <product code="0301055561056" generic="03010555" title="DAYBORO bunda antracit 56" totalDispo="463" unit="KS">
          <detail dispo="458" site="Centrála v ČR"/>
-         <detail dispo="9" site="Senec"/>
+         <detail dispo="5" site="Senec"/>
       </product>
       <product code="0301055561054" generic="03010555" title="DAYBORO bunda antracit 54" totalDispo="482" unit="KS">
          <detail dispo="473" site="Centrála v ČR"/>
@@ -36188,6 +36188,10 @@
          <detail dispo="103" site="Centrála v ČR"/>
          <detail dispo="13" site="Senec"/>
       </product>
+      <product code="0301058000003" generic="03010580" title="NULATO bunda sivá L" totalDispo="6" unit="KS">
+         <detail dispo="0" site="Centrála v ČR"/>
+         <detail dispo="6" site="Senec"/>
+      </product>
       <product code="0301058000002" generic="03010580" title="NULATO bunda sivá M" totalDispo="22" unit="KS">
          <detail dispo="7" site="Centrála v ČR"/>
          <detail dispo="15" site="Senec"/>
@@ -37344,20 +37348,20 @@
          <detail dispo="357" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0301066264004" generic="03010662" title="MAX VIVO LIGHT bunda černá/žltá XL" totalDispo="554" unit="KS">
-         <detail dispo="553" site="Centrála v ČR"/>
+      <product code="0301066264004" generic="03010662" title="MAX VIVO LIGHT bunda černá/žltá XL" totalDispo="560" unit="KS">
+         <detail dispo="559" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
       <product code="0301066264003" generic="03010662" title="MAX VIVO LIGHT bunda černá/žltá L" totalDispo="497" unit="KS">
          <detail dispo="497" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0301066264002" generic="03010662" title="MAX VIVO LIGHT bunda černá/žltá M" totalDispo="402" unit="KS">
-         <detail dispo="400" site="Centrála v ČR"/>
+      <product code="0301066264002" generic="03010662" title="MAX VIVO LIGHT bunda černá/žltá M" totalDispo="403" unit="KS">
+         <detail dispo="401" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0301066264001" generic="03010662" title="MAX VIVO LIGHT bunda černá/žltá S" totalDispo="161" unit="KS">
-         <detail dispo="161" site="Centrála v ČR"/>
+      <product code="0301066264001" generic="03010662" title="MAX VIVO LIGHT bunda černá/žltá S" totalDispo="162" unit="KS">
+         <detail dispo="162" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0301067141006" generic="03010671" title="MAX NEO LADY LIGHT bunda navy 3XL" totalDispo="62" unit="KS">
@@ -38264,36 +38268,36 @@
          <detail dispo="18" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0302000469062" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 62" totalDispo="0" unit="KS">
-         <detail dispo="0" site="Centrála v ČR"/>
+      <product code="0302000469062" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 62" totalDispo="3" unit="KS">
+         <detail dispo="3" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0302000469060" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 60" totalDispo="0" unit="KS">
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0302000469058" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 58" totalDispo="2" unit="KS">
-         <detail dispo="0" site="Centrála v ČR"/>
+      <product code="0302000469058" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 58" totalDispo="27" unit="KS">
+         <detail dispo="25" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
       <product code="0302000469056" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 56" totalDispo="2" unit="KS">
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0302000469054" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 54" totalDispo="0" unit="KS">
-         <detail dispo="0" site="Centrála v ČR"/>
+      <product code="0302000469054" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 54" totalDispo="26" unit="KS">
+         <detail dispo="26" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0302000469052" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 52" totalDispo="207" unit="KS">
-         <detail dispo="206" site="Centrála v ČR"/>
+      <product code="0302000469052" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 52" totalDispo="217" unit="KS">
+         <detail dispo="216" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0302000469050" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 50" totalDispo="21" unit="KS">
-         <detail dispo="21" site="Centrála v ČR"/>
+      <product code="0302000469050" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 50" totalDispo="51" unit="KS">
+         <detail dispo="51" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0302000469048" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 48" totalDispo="5" unit="KS">
-         <detail dispo="5" site="Centrála v ČR"/>
+      <product code="0302000469048" generic="03020004" title="STANMORE nohav.do pása tm. hnedá 48" totalDispo="35" unit="KS">
+         <detail dispo="35" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0302000450064" generic="03020004" title="STANMORE nohav.do do pása tm. modrá 64" totalDispo="38" unit="KS">
@@ -39536,8 +39540,8 @@
          <detail dispo="283" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0302016700058" generic="03020167" title="FF CARL BE-01-003 nohavice sivá 58" totalDispo="1286" unit="KS">
-         <detail dispo="1285" site="Centrála v ČR"/>
+      <product code="0302016700058" generic="03020167" title="FF CARL BE-01-003 nohavice sivá 58" totalDispo="1281" unit="KS">
+         <detail dispo="1280" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
       <product code="0302016700056" generic="03020167" title="FF CARL BE-01-003 nohavice sivá 56" totalDispo="1815" unit="KS">
@@ -40172,29 +40176,29 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="19" site="Senec"/>
       </product>
-      <product code="0302023680050" generic="03020236" title="Zdravotnícke nohavice dámske biela 50" totalDispo="18" unit="KS">
+      <product code="0302023680050" generic="03020236" title="Zdravotnícke nohavice dámske biela 50" totalDispo="16" unit="KS">
          <detail dispo="0" site="Centrála v ČR"/>
-         <detail dispo="18" site="Senec"/>
+         <detail dispo="16" site="Senec"/>
       </product>
-      <product code="0302023680048" generic="03020236" title="Zdravotnícke nohavice dámske biela 48" totalDispo="22" unit="KS">
+      <product code="0302023680048" generic="03020236" title="Zdravotnícke nohavice dámske biela 48" totalDispo="21" unit="KS">
          <detail dispo="0" site="Centrála v ČR"/>
-         <detail dispo="22" site="Senec"/>
+         <detail dispo="21" site="Senec"/>
       </product>
-      <product code="0302023680046" generic="03020236" title="Zdravotnícke nohavice dámske biela 46" totalDispo="15" unit="KS">
+      <product code="0302023680046" generic="03020236" title="Zdravotnícke nohavice dámske biela 46" totalDispo="13" unit="KS">
          <detail dispo="0" site="Centrála v ČR"/>
-         <detail dispo="15" site="Senec"/>
+         <detail dispo="13" site="Senec"/>
       </product>
-      <product code="0302023680044" generic="03020236" title="Zdravotnícke nohavice dámske biela 44" totalDispo="6" unit="KS">
+      <product code="0302023680044" generic="03020236" title="Zdravotnícke nohavice dámske biela 44" totalDispo="3" unit="KS">
+         <detail dispo="0" site="Centrála v ČR"/>
+         <detail dispo="3" site="Senec"/>
+      </product>
+      <product code="0302023680042" generic="03020236" title="Zdravotnícke nohavice dámske biela 42" totalDispo="9" unit="KS">
+         <detail dispo="0" site="Centrála v ČR"/>
+         <detail dispo="9" site="Senec"/>
+      </product>
+      <product code="0302023680040" generic="03020236" title="Zdravotnícke nohavice dámske biela 40" totalDispo="6" unit="KS">
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="6" site="Senec"/>
-      </product>
-      <product code="0302023680042" generic="03020236" title="Zdravotnícke nohavice dámske biela 42" totalDispo="10" unit="KS">
-         <detail dispo="0" site="Centrála v ČR"/>
-         <detail dispo="10" site="Senec"/>
-      </product>
-      <product code="0302023680040" generic="03020236" title="Zdravotnícke nohavice dámske biela 40" totalDispo="8" unit="KS">
-         <detail dispo="0" site="Centrála v ČR"/>
-         <detail dispo="8" site="Senec"/>
       </product>
       <product code="0302023680038" generic="03020236" title="Zdravotnícke nohavice dámske biela 38" totalDispo="18" unit="KS">
          <detail dispo="0" site="Centrála v ČR"/>
@@ -41040,19 +41044,11 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0302024484060" generic="03020244" title="LAHR nohavice do pása piesková 60" totalDispo="1" unit="KS">
-         <detail dispo="1" site="Centrála v ČR"/>
-         <detail dispo="0" site="Senec"/>
-      </product>
       <product code="0302024400048" generic="03020244" title="LAHR nohavice do pása sivá 48" totalDispo="1" unit="KS">
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
       <product code="0302025000066" generic="03020250" title="ERDING nohavice do pasu sivá 66" totalDispo="1" unit="KS">
-         <detail dispo="1" site="Centrála v ČR"/>
-         <detail dispo="0" site="Senec"/>
-      </product>
-      <product code="0302025180044" generic="03020251" title="LYDDEN nohavice do pása biela 44" totalDispo="1" unit="KS">
          <detail dispo="1" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
@@ -43328,13 +43324,13 @@
          <detail dispo="322" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0302039661058" generic="03020396" title="DAYBORO nohavice antracit 58" totalDispo="485" unit="KS">
+      <product code="0302039661058" generic="03020396" title="DAYBORO nohavice antracit 58" totalDispo="483" unit="KS">
          <detail date="2026-07-20" dispo="477" site="Centrála v ČR"/>
-         <detail dispo="8" site="Senec"/>
+         <detail dispo="6" site="Senec"/>
       </product>
-      <product code="0302039661056" generic="03020396" title="DAYBORO nohavice antracit 56" totalDispo="954" unit="KS">
+      <product code="0302039661056" generic="03020396" title="DAYBORO nohavice antracit 56" totalDispo="950" unit="KS">
          <detail date="2026-07-20" dispo="937" site="Centrála v ČR"/>
-         <detail dispo="17" site="Senec"/>
+         <detail dispo="13" site="Senec"/>
       </product>
       <product code="0302039661054" generic="03020396" title="DAYBORO nohavice antracit 54" totalDispo="1255" unit="KS">
          <detail date="2026-07-20" dispo="1239" site="Centrála v ČR"/>
@@ -43392,8 +43388,8 @@
          <detail dispo="3139" site="Centrála v ČR"/>
          <detail dispo="22" site="Senec"/>
       </product>
-      <product code="0302039660052" generic="03020396" title="DAYBORO nohavice čierna 52" totalDispo="3543" unit="KS">
-         <detail dispo="3520" site="Centrála v ČR"/>
+      <product code="0302039660052" generic="03020396" title="DAYBORO nohavice čierna 52" totalDispo="3540" unit="KS">
+         <detail dispo="3517" site="Centrála v ČR"/>
          <detail dispo="23" site="Senec"/>
       </product>
       <product code="0302039660050" generic="03020396" title="DAYBORO nohavice čierna 50" totalDispo="3035" unit="KS">
@@ -43680,8 +43676,8 @@
          <detail date="2026-07-02" dispo="454" site="Centrála v ČR"/>
          <detail dispo="12" site="Senec"/>
       </product>
-      <product code="0302039761050" generic="03020397" title="DAYBORO náprs.nohavice antracit 50" totalDispo="507" unit="KS">
-         <detail date="2026-07-02" dispo="507" site="Centrála v ČR"/>
+      <product code="0302039761050" generic="03020397" title="DAYBORO náprs.nohavice antracit 50" totalDispo="503" unit="KS">
+         <detail date="2026-07-02" dispo="503" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0302039761048" generic="03020397" title="DAYBORO náprs.nohavice antracit 48" totalDispo="271" unit="KS">
@@ -44548,28 +44544,28 @@
          <detail dispo="55" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0302041000062" generic="03020410" title="LAGAN nohavice sivá 62" totalDispo="6" unit="KS">
-         <detail dispo="6" site="Centrála v ČR"/>
+      <product code="0302041000062" generic="03020410" title="LAGAN nohavice sivá 62" totalDispo="5" unit="KS">
+         <detail dispo="5" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0302041000060" generic="03020410" title="LAGAN nohavice sivá 60" totalDispo="4" unit="KS">
          <detail dispo="3" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0302041000058" generic="03020410" title="LAGAN nohavice sivá 58" totalDispo="44" unit="KS">
-         <detail dispo="44" site="Centrála v ČR"/>
+      <product code="0302041000058" generic="03020410" title="LAGAN nohavice sivá 58" totalDispo="42" unit="KS">
+         <detail dispo="42" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0302041000056" generic="03020410" title="LAGAN nohavice sivá 56" totalDispo="83" unit="KS">
-         <detail dispo="83" site="Centrála v ČR"/>
+      <product code="0302041000056" generic="03020410" title="LAGAN nohavice sivá 56" totalDispo="81" unit="KS">
+         <detail dispo="81" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0302041000054" generic="03020410" title="LAGAN nohavice sivá 54" totalDispo="132" unit="KS">
          <detail dispo="132" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0302041000052" generic="03020410" title="LAGAN nohavice sivá 52" totalDispo="97" unit="KS">
-         <detail dispo="97" site="Centrála v ČR"/>
+      <product code="0302041000052" generic="03020410" title="LAGAN nohavice sivá 52" totalDispo="96" unit="KS">
+         <detail dispo="96" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0302041000050" generic="03020410" title="LAGAN nohavice sivá 50" totalDispo="104" unit="KS">
@@ -45080,9 +45076,9 @@
          <detail dispo="4350" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0303000570004" generic="03030005" title="LYNX Vesta reflexná žltá XL" totalDispo="24804" unit="KS">
+      <product code="0303000570004" generic="03030005" title="LYNX Vesta reflexná žltá XL" totalDispo="24789" unit="KS">
          <detail date="2026-08-06" dispo="24336" site="Centrála v ČR"/>
-         <detail dispo="468" site="Senec"/>
+         <detail dispo="453" site="Senec"/>
       </product>
       <product code="0303000890006" generic="03030008" title="LYNX Vesta reflexná oranžová 3XL" totalDispo="3766" unit="KS">
          <detail dispo="3726" site="Centrála v ČR"/>
@@ -45156,8 +45152,8 @@
          <detail dispo="3" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0303001000005" generic="03030010" title="NYALA vesta šedá XXL" totalDispo="124" unit="KS">
-         <detail dispo="117" site="Centrála v ČR"/>
+      <product code="0303001000005" generic="03030010" title="NYALA vesta šedá XXL" totalDispo="123" unit="KS">
+         <detail dispo="116" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
       <product code="0303001000001" generic="03030010" title="NYALA vesta šedá S" totalDispo="2" unit="KS">
@@ -45328,8 +45324,8 @@
          <detail dispo="79" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
-      <product code="0303002660006" generic="03030026" title="CORONA vesta čierna 3XL" totalDispo="6" unit="KS">
-         <detail dispo="1" site="Centrála v ČR"/>
+      <product code="0303002660006" generic="03030026" title="CORONA vesta čierna 3XL" totalDispo="5" unit="KS">
+         <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
       <product code="0303002660005" generic="03030026" title="CORONA vesta čierna XXL" totalDispo="9" unit="KS">
@@ -45508,8 +45504,8 @@
          <detail dispo="2214" site="Centrála v ČR"/>
          <detail dispo="24" site="Senec"/>
       </product>
-      <product code="0303002960003" generic="03030029" title="DAVIDA vesta čierna L" totalDispo="1453" unit="KS">
-         <detail dispo="1420" site="Centrála v ČR"/>
+      <product code="0303002960003" generic="03030029" title="DAVIDA vesta čierna L" totalDispo="1452" unit="KS">
+         <detail dispo="1419" site="Centrála v ČR"/>
          <detail dispo="33" site="Senec"/>
       </product>
       <product code="0303002960002" generic="03030029" title="DAVIDA vesta čierna M" totalDispo="500" unit="KS">
@@ -46660,16 +46656,16 @@
          <detail dispo="206" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0303016160004" generic="03030161" title="MAX NEO LIGHT vesta čierna XL" totalDispo="856" unit="KS">
-         <detail dispo="846" site="Centrála v ČR"/>
+      <product code="0303016160004" generic="03030161" title="MAX NEO LIGHT vesta čierna XL" totalDispo="851" unit="KS">
+         <detail dispo="841" site="Centrála v ČR"/>
          <detail dispo="10" site="Senec"/>
       </product>
-      <product code="0303016160003" generic="03030161" title="MAX NEO LIGHT vesta čierna L" totalDispo="145" unit="KS">
-         <detail dispo="141" site="Centrála v ČR"/>
+      <product code="0303016160003" generic="03030161" title="MAX NEO LIGHT vesta čierna L" totalDispo="140" unit="KS">
+         <detail dispo="136" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0303016160002" generic="03030161" title="MAX NEO LIGHT vesta čierna M" totalDispo="737" unit="KS">
-         <detail dispo="732" site="Centrála v ČR"/>
+      <product code="0303016160002" generic="03030161" title="MAX NEO LIGHT vesta čierna M" totalDispo="732" unit="KS">
+         <detail dispo="727" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
       <product code="0303016160001" generic="03030161" title="MAX NEO LIGHT vesta čierna S" totalDispo="196" unit="KS">
@@ -48044,28 +48040,28 @@
          <detail date="2026-07-13" dispo="1178" site="Centrála v ČR"/>
          <detail dispo="101" site="Senec"/>
       </product>
-      <product code="0304004680006" generic="03040046" title="TEESTA tričko biela 3XL" totalDispo="1902" unit="KS">
-         <detail date="2026-06-27" dispo="1823" site="Centrála v ČR"/>
+      <product code="0304004680006" generic="03040046" title="TEESTA tričko biela 3XL" totalDispo="1899" unit="KS">
+         <detail date="2026-06-27" dispo="1820" site="Centrála v ČR"/>
          <detail dispo="79" site="Senec"/>
       </product>
-      <product code="0304004680005" generic="03040046" title="TEESTA tričko biela XXL" totalDispo="4309" unit="KS">
-         <detail date="2026-06-27" dispo="4235" site="Centrála v ČR"/>
+      <product code="0304004680005" generic="03040046" title="TEESTA tričko biela XXL" totalDispo="4292" unit="KS">
+         <detail date="2026-06-27" dispo="4218" site="Centrála v ČR"/>
          <detail dispo="74" site="Senec"/>
       </product>
-      <product code="0304004680004" generic="03040046" title="TEESTA tričko biela XL" totalDispo="7445" unit="KS">
-         <detail date="2026-06-27" dispo="7069" site="Centrála v ČR"/>
+      <product code="0304004680004" generic="03040046" title="TEESTA tričko biela XL" totalDispo="7422" unit="KS">
+         <detail date="2026-06-27" dispo="7046" site="Centrála v ČR"/>
          <detail dispo="376" site="Senec"/>
       </product>
-      <product code="0304004680003" generic="03040046" title="TEESTA tričko biela L" totalDispo="7550" unit="KS">
-         <detail date="2026-06-27" dispo="7071" site="Centrála v ČR"/>
+      <product code="0304004680003" generic="03040046" title="TEESTA tričko biela L" totalDispo="7524" unit="KS">
+         <detail date="2026-06-27" dispo="7045" site="Centrála v ČR"/>
          <detail dispo="479" site="Senec"/>
       </product>
-      <product code="0304004680002" generic="03040046" title="TEESTA tričko biela M" totalDispo="6488" unit="KS">
-         <detail date="2026-07-13" dispo="5990" site="Centrála v ČR"/>
+      <product code="0304004680002" generic="03040046" title="TEESTA tričko biela M" totalDispo="6473" unit="KS">
+         <detail date="2026-07-13" dispo="5975" site="Centrála v ČR"/>
          <detail dispo="498" site="Senec"/>
       </product>
-      <product code="0304004680001" generic="03040046" title="TEESTA tričko biela S" totalDispo="2007" unit="KS">
-         <detail date="2026-06-27" dispo="1871" site="Centrála v ČR"/>
+      <product code="0304004680001" generic="03040046" title="TEESTA tričko biela S" totalDispo="2000" unit="KS">
+         <detail date="2026-06-27" dispo="1864" site="Centrála v ČR"/>
          <detail dispo="136" site="Senec"/>
       </product>
       <product code="0304004680000" generic="03040046" title="TEESTA tričko biela XS" totalDispo="411" unit="KS">
@@ -48340,28 +48336,28 @@
          <detail date="2026-06-26" dispo="1832" site="Centrála v ČR"/>
          <detail dispo="85" site="Senec"/>
       </product>
-      <product code="0304004641006" generic="03040046" title="TEESTA tričko navy 3XL" totalDispo="2722" unit="KS">
-         <detail date="2026-06-26" dispo="2653" site="Centrála v ČR"/>
+      <product code="0304004641006" generic="03040046" title="TEESTA tričko navy 3XL" totalDispo="2707" unit="KS">
+         <detail date="2026-06-26" dispo="2638" site="Centrála v ČR"/>
          <detail dispo="69" site="Senec"/>
       </product>
-      <product code="0304004641005" generic="03040046" title="TEESTA tričko navy XXL" totalDispo="6136" unit="KS">
-         <detail date="2026-06-26" dispo="5901" site="Centrála v ČR"/>
+      <product code="0304004641005" generic="03040046" title="TEESTA tričko navy XXL" totalDispo="6114" unit="KS">
+         <detail date="2026-06-26" dispo="5879" site="Centrála v ČR"/>
          <detail dispo="235" site="Senec"/>
       </product>
-      <product code="0304004641004" generic="03040046" title="TEESTA tričko navy XL" totalDispo="8643" unit="KS">
-         <detail date="2026-06-26" dispo="8222" site="Centrála v ČR"/>
+      <product code="0304004641004" generic="03040046" title="TEESTA tričko navy XL" totalDispo="8600" unit="KS">
+         <detail date="2026-06-26" dispo="8179" site="Centrála v ČR"/>
          <detail dispo="421" site="Senec"/>
       </product>
-      <product code="0304004641003" generic="03040046" title="TEESTA tričko navy L" totalDispo="12182" unit="KS">
-         <detail date="2026-07-13" dispo="11718" site="Centrála v ČR"/>
+      <product code="0304004641003" generic="03040046" title="TEESTA tričko navy L" totalDispo="12150" unit="KS">
+         <detail date="2026-07-13" dispo="11686" site="Centrála v ČR"/>
          <detail dispo="464" site="Senec"/>
       </product>
-      <product code="0304004641002" generic="03040046" title="TEESTA tričko navy M" totalDispo="7543" unit="KS">
-         <detail date="2026-06-26" dispo="7259" site="Centrála v ČR"/>
+      <product code="0304004641002" generic="03040046" title="TEESTA tričko navy M" totalDispo="7533" unit="KS">
+         <detail date="2026-06-26" dispo="7249" site="Centrála v ČR"/>
          <detail dispo="284" site="Senec"/>
       </product>
-      <product code="0304004641001" generic="03040046" title="TEESTA tričko navy S" totalDispo="2575" unit="KS">
-         <detail date="2026-06-26" dispo="2460" site="Centrála v ČR"/>
+      <product code="0304004641001" generic="03040046" title="TEESTA tričko navy S" totalDispo="2572" unit="KS">
+         <detail date="2026-06-26" dispo="2457" site="Centrála v ČR"/>
          <detail dispo="115" site="Senec"/>
       </product>
       <product code="0304004641000" generic="03040046" title="TEESTA tričko navy XS" totalDispo="321" unit="KS">
@@ -48772,48 +48768,48 @@
          <detail dispo="41" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0304004741006" generic="03040047" title="GARAI tričko 190GSM navy 3XL" totalDispo="800" unit="KS">
-         <detail date="2026-06-26" dispo="777" site="Centrála v ČR"/>
+      <product code="0304004741006" generic="03040047" title="GARAI tričko 190GSM navy 3XL" totalDispo="790" unit="KS">
+         <detail date="2026-06-26" dispo="767" site="Centrála v ČR"/>
          <detail dispo="23" site="Senec"/>
       </product>
-      <product code="0304004741005" generic="03040047" title="GARAI tričko 190GSM navy XXL" totalDispo="1327" unit="KS">
-         <detail date="2026-07-21" dispo="1294" site="Centrála v ČR"/>
+      <product code="0304004741005" generic="03040047" title="GARAI tričko 190GSM navy XXL" totalDispo="1307" unit="KS">
+         <detail date="2026-07-21" dispo="1274" site="Centrála v ČR"/>
          <detail dispo="33" site="Senec"/>
       </product>
-      <product code="0304004741004" generic="03040047" title="GARAI tričko 190GSM navy XL" totalDispo="1442" unit="KS">
-         <detail date="2026-06-26" dispo="1362" site="Centrála v ČR"/>
+      <product code="0304004741004" generic="03040047" title="GARAI tričko 190GSM navy XL" totalDispo="1422" unit="KS">
+         <detail date="2026-06-26" dispo="1342" site="Centrála v ČR"/>
          <detail dispo="80" site="Senec"/>
       </product>
-      <product code="0304004741003" generic="03040047" title="GARAI tričko 190GSM navy L" totalDispo="1879" unit="KS">
-         <detail date="2026-07-13" dispo="1849" site="Centrála v ČR"/>
+      <product code="0304004741003" generic="03040047" title="GARAI tričko 190GSM navy L" totalDispo="1859" unit="KS">
+         <detail date="2026-07-13" dispo="1829" site="Centrála v ČR"/>
          <detail dispo="30" site="Senec"/>
       </product>
-      <product code="0304004741002" generic="03040047" title="GARAI tričko 190GSM navy M" totalDispo="975" unit="KS">
-         <detail date="2026-06-26" dispo="903" site="Centrála v ČR"/>
+      <product code="0304004741002" generic="03040047" title="GARAI tričko 190GSM navy M" totalDispo="965" unit="KS">
+         <detail date="2026-06-26" dispo="893" site="Centrála v ČR"/>
          <detail dispo="72" site="Senec"/>
       </product>
       <product code="0304004741001" generic="03040047" title="GARAI tričko 190GSM navy S" totalDispo="443" unit="KS">
          <detail dispo="437" site="Centrála v ČR"/>
          <detail dispo="6" site="Senec"/>
       </product>
-      <product code="0304004720006" generic="03040047" title="GARAI tričko 190GSM červená 3XL" totalDispo="349" unit="KS">
-         <detail date="2026-07-13" dispo="341" site="Centrála v ČR"/>
+      <product code="0304004720006" generic="03040047" title="GARAI tričko 190GSM červená 3XL" totalDispo="347" unit="KS">
+         <detail date="2026-07-13" dispo="339" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
       <product code="0304004720005" generic="03040047" title="GARAI tričko 190GSM červená XXL" totalDispo="890" unit="KS">
          <detail date="2026-07-13" dispo="871" site="Centrála v ČR"/>
          <detail dispo="19" site="Senec"/>
       </product>
-      <product code="0304004720004" generic="03040047" title="GARAI tričko 190GSM červená XL" totalDispo="1143" unit="KS">
-         <detail date="2026-06-26" dispo="1116" site="Centrála v ČR"/>
+      <product code="0304004720004" generic="03040047" title="GARAI tričko 190GSM červená XL" totalDispo="1139" unit="KS">
+         <detail date="2026-06-26" dispo="1112" site="Centrála v ČR"/>
          <detail dispo="27" site="Senec"/>
       </product>
-      <product code="0304004720003" generic="03040047" title="GARAI tričko 190GSM červená L" totalDispo="1159" unit="KS">
-         <detail date="2026-06-26" dispo="1077" site="Centrála v ČR"/>
+      <product code="0304004720003" generic="03040047" title="GARAI tričko 190GSM červená L" totalDispo="1153" unit="KS">
+         <detail date="2026-06-26" dispo="1071" site="Centrála v ČR"/>
          <detail dispo="82" site="Senec"/>
       </product>
-      <product code="0304004720002" generic="03040047" title="GARAI tričko 190GSM červená M" totalDispo="733" unit="KS">
-         <detail date="2026-06-26" dispo="712" site="Centrála v ČR"/>
+      <product code="0304004720002" generic="03040047" title="GARAI tričko 190GSM červená M" totalDispo="729" unit="KS">
+         <detail date="2026-06-26" dispo="708" site="Centrála v ČR"/>
          <detail dispo="21" site="Senec"/>
       </product>
       <product code="0304004720001" generic="03040047" title="GARAI tričko 190GSM červená S" totalDispo="239" unit="KS">
@@ -49064,20 +49060,20 @@
          <detail dispo="10" site="Centrála v ČR"/>
          <detail dispo="12" site="Senec"/>
       </product>
-      <product code="0304004860004" generic="03040048" title="SURMA LADY tričko čierna XL" totalDispo="185" unit="KS">
-         <detail dispo="171" site="Centrála v ČR"/>
+      <product code="0304004860004" generic="03040048" title="SURMA LADY tričko čierna XL" totalDispo="181" unit="KS">
+         <detail dispo="167" site="Centrála v ČR"/>
          <detail dispo="14" site="Senec"/>
       </product>
-      <product code="0304004860003" generic="03040048" title="SURMA LADY tričko čierna L" totalDispo="304" unit="KS">
-         <detail dispo="261" site="Centrála v ČR"/>
+      <product code="0304004860003" generic="03040048" title="SURMA LADY tričko čierna L" totalDispo="300" unit="KS">
+         <detail dispo="257" site="Centrála v ČR"/>
          <detail dispo="43" site="Senec"/>
       </product>
-      <product code="0304004860002" generic="03040048" title="SURMA LADY tričko čierna M" totalDispo="261" unit="KS">
-         <detail dispo="248" site="Centrála v ČR"/>
+      <product code="0304004860002" generic="03040048" title="SURMA LADY tričko čierna M" totalDispo="259" unit="KS">
+         <detail dispo="246" site="Centrála v ČR"/>
          <detail dispo="13" site="Senec"/>
       </product>
-      <product code="0304004860001" generic="03040048" title="SURMA LADY tričko čierna S" totalDispo="125" unit="KS">
-         <detail dispo="105" site="Centrála v ČR"/>
+      <product code="0304004860001" generic="03040048" title="SURMA LADY tričko čierna S" totalDispo="123" unit="KS">
+         <detail dispo="103" site="Centrála v ČR"/>
          <detail dispo="20" site="Senec"/>
       </product>
       <product code="0304004860000" generic="03040048" title="SURMA LADY tričko čierna XS" totalDispo="56" unit="KS">
@@ -49208,20 +49204,20 @@
          <detail dispo="127" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0304004820004" generic="03040048" title="SURMA LADY tričko červená XL" totalDispo="372" unit="KS">
-         <detail dispo="364" site="Centrála v ČR"/>
+      <product code="0304004820004" generic="03040048" title="SURMA LADY tričko červená XL" totalDispo="370" unit="KS">
+         <detail dispo="362" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="0304004820003" generic="03040048" title="SURMA LADY tričko červená L" totalDispo="266" unit="KS">
-         <detail dispo="256" site="Centrála v ČR"/>
+      <product code="0304004820003" generic="03040048" title="SURMA LADY tričko červená L" totalDispo="264" unit="KS">
+         <detail dispo="254" site="Centrála v ČR"/>
          <detail dispo="10" site="Senec"/>
       </product>
-      <product code="0304004820002" generic="03040048" title="SURMA LADY tričko červená M" totalDispo="196" unit="KS">
-         <detail dispo="186" site="Centrála v ČR"/>
+      <product code="0304004820002" generic="03040048" title="SURMA LADY tričko červená M" totalDispo="194" unit="KS">
+         <detail dispo="184" site="Centrála v ČR"/>
          <detail dispo="10" site="Senec"/>
       </product>
-      <product code="0304004820001" generic="03040048" title="SURMA LADY tričko červená S" totalDispo="88" unit="KS">
-         <detail dispo="79" site="Centrála v ČR"/>
+      <product code="0304004820001" generic="03040048" title="SURMA LADY tričko červená S" totalDispo="86" unit="KS">
+         <detail dispo="77" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
       <product code="0304004820000" generic="03040048" title="SURMA LADY tričko červená XS" totalDispo="25" unit="KS">
@@ -49552,16 +49548,16 @@
          <detail dispo="515" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0304012480004" generic="03040124" title="NOYO ESD triko biela XL" totalDispo="1451" unit="KS">
-         <detail dispo="1449" site="Centrála v ČR"/>
+      <product code="0304012480004" generic="03040124" title="NOYO ESD triko biela XL" totalDispo="1436" unit="KS">
+         <detail dispo="1434" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0304012480003" generic="03040124" title="NOYO ESD triko biela L" totalDispo="1801" unit="KS">
-         <detail dispo="1790" site="Centrála v ČR"/>
+      <product code="0304012480003" generic="03040124" title="NOYO ESD triko biela L" totalDispo="1791" unit="KS">
+         <detail dispo="1780" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0304012480002" generic="03040124" title="NOYO ESD triko biela M" totalDispo="2257" unit="KS">
-         <detail dispo="2236" site="Centrála v ČR"/>
+      <product code="0304012480002" generic="03040124" title="NOYO ESD triko biela M" totalDispo="2242" unit="KS">
+         <detail dispo="2221" site="Centrála v ČR"/>
          <detail dispo="21" site="Senec"/>
       </product>
       <product code="0304012480001" generic="03040124" title="NOYO ESD triko biela S" totalDispo="1683" unit="KS">
@@ -50604,12 +50600,12 @@
          <detail dispo="379" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0304018060003" generic="03040180" title="JINAI tričko čierna L" totalDispo="303" unit="KS">
-         <detail dispo="295" site="Centrála v ČR"/>
+      <product code="0304018060003" generic="03040180" title="JINAI tričko čierna L" totalDispo="301" unit="KS">
+         <detail dispo="293" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="0304018060002" generic="03040180" title="JINAI tričko čierna M" totalDispo="70" unit="KS">
-         <detail dispo="66" site="Centrála v ČR"/>
+      <product code="0304018060002" generic="03040180" title="JINAI tričko čierna M" totalDispo="68" unit="KS">
+         <detail dispo="64" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
       <product code="0304018060001" generic="03040180" title="JINAI tričko čierna S" totalDispo="20" unit="KS">
@@ -50664,8 +50660,8 @@
          <detail dispo="111" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0304018000004" generic="03040180" title="JINAI tričko sivá XL" totalDispo="232" unit="KS">
-         <detail dispo="232" site="Centrála v ČR"/>
+      <product code="0304018000004" generic="03040180" title="JINAI tričko sivá XL" totalDispo="231" unit="KS">
+         <detail dispo="231" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0304018000003" generic="03040180" title="JINAI tričko sivá L" totalDispo="208" unit="KS">
@@ -50852,8 +50848,8 @@
          <detail dispo="199" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0304018760004" generic="03040187" title="RUPSA RFLX tričko čierna XL" totalDispo="117" unit="KS">
-         <detail dispo="117" site="Centrála v ČR"/>
+      <product code="0304018760004" generic="03040187" title="RUPSA RFLX tričko čierna XL" totalDispo="115" unit="KS">
+         <detail dispo="115" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0304018760003" generic="03040187" title="RUPSA RFLX tričko čierna L" totalDispo="137" unit="KS">
@@ -50876,8 +50872,8 @@
          <detail dispo="99" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
-      <product code="0304018750005" generic="03040187" title="RUPSA RFLX tričko royal modrá XXL" totalDispo="103" unit="KS">
-         <detail dispo="103" site="Centrála v ČR"/>
+      <product code="0304018750005" generic="03040187" title="RUPSA RFLX tričko royal modrá XXL" totalDispo="101" unit="KS">
+         <detail dispo="101" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0304018750004" generic="03040187" title="RUPSA RFLX tričko royal modrá XL" totalDispo="0" unit="KS">
@@ -51340,24 +51336,24 @@
          <detail dispo="63" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0305002241005" generic="03050022" title="DHANU polokošeľa navy XXL" totalDispo="280" unit="KS">
-         <detail dispo="271" site="Centrála v ČR"/>
+      <product code="0305002241005" generic="03050022" title="DHANU polokošeľa navy XXL" totalDispo="269" unit="KS">
+         <detail dispo="260" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0305002241004" generic="03050022" title="DHANU polokošeľa navy XL" totalDispo="689" unit="KS">
-         <detail dispo="678" site="Centrála v ČR"/>
+      <product code="0305002241004" generic="03050022" title="DHANU polokošeľa navy XL" totalDispo="683" unit="KS">
+         <detail dispo="672" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0305002241003" generic="03050022" title="DHANU polokošeľa navy L" totalDispo="742" unit="KS">
-         <detail dispo="736" site="Centrála v ČR"/>
+      <product code="0305002241003" generic="03050022" title="DHANU polokošeľa navy L" totalDispo="736" unit="KS">
+         <detail dispo="730" site="Centrála v ČR"/>
          <detail dispo="6" site="Senec"/>
       </product>
-      <product code="0305002241002" generic="03050022" title="DHANU polokošeľa navy M" totalDispo="463" unit="KS">
-         <detail dispo="457" site="Centrála v ČR"/>
+      <product code="0305002241002" generic="03050022" title="DHANU polokošeľa navy M" totalDispo="459" unit="KS">
+         <detail dispo="453" site="Centrála v ČR"/>
          <detail dispo="6" site="Senec"/>
       </product>
-      <product code="0305002241001" generic="03050022" title="DHANU polokošeľa navy S" totalDispo="324" unit="KS">
-         <detail dispo="324" site="Centrála v ČR"/>
+      <product code="0305002241001" generic="03050022" title="DHANU polokošeľa navy S" totalDispo="318" unit="KS">
+         <detail dispo="318" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0305002227006" generic="03050022" title="DHANU polokošeľa bordó 3XL" totalDispo="0" unit="KS">
@@ -55072,12 +55068,12 @@
          <detail dispo="52" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0310002760056" generic="03100027" title="DAYBORO šortky čierna 56" totalDispo="220" unit="KS">
-         <detail dispo="215" site="Centrála v ČR"/>
+      <product code="0310002760056" generic="03100027" title="DAYBORO šortky čierna 56" totalDispo="219" unit="KS">
+         <detail dispo="214" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
-      <product code="0310002760054" generic="03100027" title="DAYBORO šortky čierna 54" totalDispo="234" unit="KS">
-         <detail dispo="220" site="Centrála v ČR"/>
+      <product code="0310002760054" generic="03100027" title="DAYBORO šortky čierna 54" totalDispo="233" unit="KS">
+         <detail dispo="219" site="Centrála v ČR"/>
          <detail dispo="14" site="Senec"/>
       </product>
       <product code="0310002760052" generic="03100027" title="DAYBORO šortky čierna 52" totalDispo="353" unit="KS">
@@ -55092,8 +55088,8 @@
          <detail dispo="262" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="0310002760046" generic="03100027" title="DAYBORO šortky čierna 46" totalDispo="123" unit="KS">
-         <detail dispo="122" site="Centrála v ČR"/>
+      <product code="0310002760046" generic="03100027" title="DAYBORO šortky čierna 46" totalDispo="122" unit="KS">
+         <detail dispo="121" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
       <product code="0310002760044" generic="03100027" title="DAYBORO šortky čierna 44" totalDispo="65" unit="KS">
@@ -55604,8 +55600,8 @@
          <detail dispo="257" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0311000480044" generic="03110004" title="FERN plášť dl. rukáv pánský biely 44" totalDispo="206" unit="KS">
-         <detail dispo="194" site="Centrála v ČR"/>
+      <product code="0311000480044" generic="03110004" title="FERN plášť dl. rukáv pánský biely 44" totalDispo="204" unit="KS">
+         <detail dispo="192" site="Centrála v ČR"/>
          <detail dispo="12" site="Senec"/>
       </product>
       <product code="0311000580060" generic="03110005" title="VERIS plášť dl. rukáv dámsky biely 60" totalDispo="33" unit="KS">
@@ -56856,9 +56852,9 @@
          <detail dispo="9" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0312003110056" generic="03120031" title="PLUTO protiporezový set zelená 56" totalDispo="18" unit="KS">
+      <product code="0312003110056" generic="03120031" title="PLUTO protiporezový set zelená 56" totalDispo="17" unit="KS">
          <detail dispo="15" site="Centrála v ČR"/>
-         <detail dispo="3" site="Senec"/>
+         <detail dispo="2" site="Senec"/>
       </product>
       <product code="0312003110054" generic="03120031" title="PLUTO protiporezový set zelená 54" totalDispo="14" unit="KS">
          <detail dispo="13" site="Centrála v ČR"/>
@@ -58112,8 +58108,8 @@
          <detail dispo="521" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0314007060999" generic="03140070" title="APLIN šatka multifunkčná zimná čierna -" totalDispo="2803" unit="KS">
-         <detail dispo="2803" site="Centrála v ČR"/>
+      <product code="0314007060999" generic="03140070" title="APLIN šatka multifunkčná zimná čierna -" totalDispo="2788" unit="KS">
+         <detail dispo="2788" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0314007299999" generic="0314007299999" title="STANMORE baseballov čiapka zelená/čierna" totalDispo="446" unit="KS">
@@ -58248,8 +58244,8 @@
          <detail dispo="867" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="03140115G5999" generic="03140115" title="DEEL LED lampa čiapka sivá kamufláž -" totalDispo="1720" unit="KS">
-         <detail dispo="1646" site="Centrála v ČR"/>
+      <product code="03140115G5999" generic="03140115" title="DEEL LED lampa čiapka sivá kamufláž -" totalDispo="1728" unit="KS">
+         <detail dispo="1654" site="Centrála v ČR"/>
          <detail dispo="74" site="Senec"/>
       </product>
       <product code="03140115E5999" generic="03140115" title="DEEL LED lampa čiapka tm.olivová -" totalDispo="811" unit="KS">
@@ -58276,12 +58272,12 @@
          <detail dispo="535" site="Centrála v ČR"/>
          <detail dispo="64" site="Senec"/>
       </product>
-      <product code="0314011570999" generic="03140115" title="DEEL LED lampa čiapka žltá -" totalDispo="764" unit="KS">
-         <detail dispo="706" site="Centrála v ČR"/>
+      <product code="0314011570999" generic="03140115" title="DEEL LED lampa čiapka žltá -" totalDispo="781" unit="KS">
+         <detail dispo="723" site="Centrála v ČR"/>
          <detail dispo="58" site="Senec"/>
       </product>
-      <product code="0314011560999" generic="03140115" title="DEEL LED lampa čiapka čierna -" totalDispo="6237" unit="KS">
-         <detail dispo="5989" site="Centrála v ČR"/>
+      <product code="0314011560999" generic="03140115" title="DEEL LED lampa čiapka čierna -" totalDispo="6247" unit="KS">
+         <detail dispo="5999" site="Centrála v ČR"/>
          <detail dispo="248" site="Senec"/>
       </product>
       <product code="0314011550999" generic="03140115" title="DEEL LED lampa čiapka royal modrá -" totalDispo="1287" unit="KS">
@@ -58296,8 +58292,8 @@
          <detail dispo="1190" site="Centrála v ČR"/>
          <detail dispo="58" site="Senec"/>
       </product>
-      <product code="0314011512999" generic="03140115" title="DEEL LED lampa čiapka camouflage -" totalDispo="3039" unit="KS">
-         <detail dispo="3009" site="Centrála v ČR"/>
+      <product code="0314011512999" generic="03140115" title="DEEL LED lampa čiapka camouflage -" totalDispo="3068" unit="KS">
+         <detail dispo="3038" site="Centrála v ČR"/>
          <detail dispo="30" site="Senec"/>
       </product>
       <product code="0314011500999" generic="03140115" title="DEEL LED lampa čiapka sivá -" totalDispo="1822" unit="KS">
@@ -58388,20 +58384,20 @@
          <detail dispo="425" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0314013079014" generic="03140130" title="CLEEVE RFLX čiapka HV žltá XL/XXL" totalDispo="981" unit="KS">
-         <detail dispo="956" site="Centrála v ČR"/>
+      <product code="0314013079014" generic="03140130" title="CLEEVE RFLX čiapka HV žltá XL/XXL" totalDispo="1000" unit="KS">
+         <detail dispo="975" site="Centrála v ČR"/>
          <detail dispo="25" site="Senec"/>
       </product>
       <product code="0314013079012" generic="03140130" title="CLEEVE RFLX čiapka HV žltá M/L" totalDispo="823" unit="KS">
          <detail dispo="821" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0314013060014" generic="03140130" title="CLEEVE RFLX čiapka čierna XL/XXL" totalDispo="148" unit="KS">
-         <detail dispo="148" site="Centrála v ČR"/>
+      <product code="0314013060014" generic="03140130" title="CLEEVE RFLX čiapka čierna XL/XXL" totalDispo="167" unit="KS">
+         <detail dispo="167" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0314013060012" generic="03140130" title="CLEEVE RFLX čiapka čierna M/L" totalDispo="558" unit="KS">
-         <detail dispo="553" site="Centrála v ČR"/>
+      <product code="0314013060012" generic="03140130" title="CLEEVE RFLX čiapka čierna M/L" totalDispo="567" unit="KS">
+         <detail dispo="562" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
       <product code="0314013196014" generic="03140131" title="WRAXALL RFLX čiapka HV oranžová XL/XXL" totalDispo="1639" unit="KS">
@@ -59724,8 +59720,8 @@
          <detail dispo="364" site="Centrála v ČR"/>
          <detail dispo="52" site="Senec"/>
       </product>
-      <product code="0316001840747" generic="03160018" title="MELNICK ponožky modrá č. 47/48" totalDispo="136" unit="PÁR">
-         <detail dispo="134" site="Centrála v ČR"/>
+      <product code="0316001840747" generic="03160018" title="MELNICK ponožky modrá č. 47/48" totalDispo="134" unit="PÁR">
+         <detail dispo="132" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
       <product code="0316001840745" generic="03160018" title="MELNICK ponožky modrá č. 45/46" totalDispo="17" unit="PÁR">
@@ -59780,8 +59776,8 @@
          <detail dispo="127" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0316001900745" generic="03160019" title="WRAY ponožky sivá č. 45/46" totalDispo="895" unit="PÁR">
-         <detail dispo="895" site="Centrála v ČR"/>
+      <product code="0316001900745" generic="03160019" title="WRAY ponožky sivá č. 45/46" totalDispo="845" unit="PÁR">
+         <detail dispo="845" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0316001900743" generic="03160019" title="WRAY ponožky sivá č. 43/44" totalDispo="1362" unit="PÁR">
@@ -62496,8 +62492,8 @@
          <detail dispo="139" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0336000100002" generic="03360001" title="CREMORNE tepláky sivá M" totalDispo="148" unit="KS">
-         <detail dispo="144" site="Centrála v ČR"/>
+      <product code="0336000100002" generic="03360001" title="CREMORNE tepláky sivá M" totalDispo="147" unit="KS">
+         <detail dispo="143" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
       <product code="0336000100001" generic="03360001" title="CREMORNE tepláky sivá S" totalDispo="70" unit="KS">
@@ -63088,8 +63084,8 @@
          <detail dispo="16" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0346003140006" generic="03460031" title="STIRLING STRETCH sveter modrá 3XL" totalDispo="53" unit="KS">
-         <detail dispo="53" site="Centrála v ČR"/>
+      <product code="0346003140006" generic="03460031" title="STIRLING STRETCH sveter modrá 3XL" totalDispo="52" unit="KS">
+         <detail dispo="52" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0346003140005" generic="03460031" title="STIRLING STRETCH sveter modrá XXL" totalDispo="134" unit="KS">
@@ -63324,12 +63320,12 @@
          <detail dispo="51" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="03510002A0058" generic="03510002" title="REUSEL bunda antracit/červená 58" totalDispo="53" unit="KS">
-         <detail dispo="53" site="Centrála v ČR"/>
+      <product code="03510002A0058" generic="03510002" title="REUSEL bunda antracit/červená 58" totalDispo="51" unit="KS">
+         <detail dispo="51" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="03510002A0056" generic="03510002" title="REUSEL bunda antracit/červená 56" totalDispo="104" unit="KS">
-         <detail dispo="104" site="Centrála v ČR"/>
+      <product code="03510002A0056" generic="03510002" title="REUSEL bunda antracit/červená 56" totalDispo="101" unit="KS">
+         <detail dispo="101" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="03510002A0054" generic="03510002" title="REUSEL bunda antracit/červená 54" totalDispo="72" unit="KS">
@@ -63344,8 +63340,8 @@
          <detail dispo="7" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="03510002A0048" generic="03510002" title="REUSEL bunda antracit/červená 48" totalDispo="29" unit="KS">
-         <detail dispo="29" site="Centrála v ČR"/>
+      <product code="03510002A0048" generic="03510002" title="REUSEL bunda antracit/červená 48" totalDispo="27" unit="KS">
+         <detail dispo="27" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="03510003E5064" generic="03510003" title="NEURUM CLS bunda tm.olivová 64" totalDispo="22" unit="KS">
@@ -65180,8 +65176,8 @@
          <detail dispo="53" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0351002541048" generic="03510025" title="MAX NEO bunda navy 48" totalDispo="86" unit="KS">
-         <detail dispo="82" site="Centrála v ČR"/>
+      <product code="0351002541048" generic="03510025" title="MAX NEO bunda navy 48" totalDispo="84" unit="KS">
+         <detail dispo="80" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
       <product code="0351002541046" generic="03510025" title="MAX NEO bunda navy 46" totalDispo="2" unit="KS">
@@ -66776,8 +66772,8 @@
          <detail dispo="824" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
-      <product code="0351004841004" generic="03510048" title="MULTINORM FUZZ FR bunda navy XL" totalDispo="451" unit="KS">
-         <detail dispo="451" site="Centrála v ČR"/>
+      <product code="0351004841004" generic="03510048" title="MULTINORM FUZZ FR bunda navy XL" totalDispo="447" unit="KS">
+         <detail dispo="447" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0351004841003" generic="03510048" title="MULTINORM FUZZ FR bunda navy L" totalDispo="358" unit="KS">
@@ -70201,7 +70197,7 @@
          <detail dispo="3" site="Senec"/>
       </product>
       <product code="0352007361068" generic="03520073" title="MAX NEO nohavice antracit 68" totalDispo="0" unit="KS">
-         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
+         <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0352007361066" generic="03520073" title="MAX NEO nohavice antracit 66" totalDispo="12" unit="KS">
@@ -70264,12 +70260,12 @@
          <detail date="2026-06-26" dispo="110" site="Centrála v ČR"/>
          <detail dispo="16" site="Senec"/>
       </product>
-      <product code="0352007360062" generic="03520073" title="MAX NEO nohavice čierna 62" totalDispo="63" unit="KS">
-         <detail date="2026-06-26" dispo="49" site="Centrála v ČR"/>
+      <product code="0352007360062" generic="03520073" title="MAX NEO nohavice čierna 62" totalDispo="61" unit="KS">
+         <detail date="2026-06-26" dispo="47" site="Centrála v ČR"/>
          <detail dispo="14" site="Senec"/>
       </product>
-      <product code="0352007360060" generic="03520073" title="MAX NEO nohavice čierna 60" totalDispo="4" unit="KS">
-         <detail date="2026-06-26" dispo="1" site="Centrála v ČR"/>
+      <product code="0352007360060" generic="03520073" title="MAX NEO nohavice čierna 60" totalDispo="3" unit="KS">
+         <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
       <product code="0352007360058" generic="03520073" title="MAX NEO nohavice čierna 58" totalDispo="369" unit="KS">
@@ -70344,8 +70340,8 @@
          <detail dispo="647" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="0352007341048" generic="03520073" title="MAX NEO nohavice navy 48" totalDispo="538" unit="KS">
-         <detail dispo="526" site="Centrála v ČR"/>
+      <product code="0352007341048" generic="03520073" title="MAX NEO nohavice navy 48" totalDispo="534" unit="KS">
+         <detail dispo="522" site="Centrála v ČR"/>
          <detail dispo="12" site="Senec"/>
       </product>
       <product code="0352007341046" generic="03520073" title="MAX NEO nohavice navy 46" totalDispo="338" unit="KS">
@@ -70604,12 +70600,12 @@
          <detail dispo="40" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0352007510060" generic="03520075" title="MAX NEO RFLX nohavice zelená 60" totalDispo="63" unit="KS">
-         <detail date="2026-06-26" dispo="63" site="Centrála v ČR"/>
+      <product code="0352007510060" generic="03520075" title="MAX NEO RFLX nohavice zelená 60" totalDispo="61" unit="KS">
+         <detail date="2026-06-26" dispo="61" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0352007510058" generic="03520075" title="MAX NEO RFLX nohavice zelená 58" totalDispo="200" unit="KS">
-         <detail dispo="198" site="Centrála v ČR"/>
+      <product code="0352007510058" generic="03520075" title="MAX NEO RFLX nohavice zelená 58" totalDispo="198" unit="KS">
+         <detail dispo="196" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
       <product code="0352007510056" generic="03520075" title="MAX NEO RFLX nohavice zelená 56" totalDispo="75" unit="KS">
@@ -71072,48 +71068,48 @@
          <detail date="2026-07-16" dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0352007760036" generic="03520077" title="MAX NEO LADY nohavice čierna 36" totalDispo="485" unit="KS">
-         <detail date="2026-07-16" dispo="455" site="Centrála v ČR"/>
+      <product code="0352007760036" generic="03520077" title="MAX NEO LADY nohavice čierna 36" totalDispo="483" unit="KS">
+         <detail date="2026-07-16" dispo="453" site="Centrála v ČR"/>
          <detail dispo="30" site="Senec"/>
       </product>
       <product code="0352007760034" generic="03520077" title="MAX NEO LADY nohavice čierna 34" totalDispo="188" unit="KS">
          <detail date="2026-07-16" dispo="174" site="Centrála v ČR"/>
          <detail dispo="14" site="Senec"/>
       </product>
-      <product code="0352007741054" generic="03520077" title="MAX NEO LADY nohavice navy 54" totalDispo="208" unit="KS">
-         <detail date="2026-06-26" dispo="203" site="Centrála v ČR"/>
+      <product code="0352007741054" generic="03520077" title="MAX NEO LADY nohavice navy 54" totalDispo="203" unit="KS">
+         <detail date="2026-06-26" dispo="198" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
-      <product code="0352007741052" generic="03520077" title="MAX NEO LADY nohavice navy 52" totalDispo="186" unit="KS">
-         <detail date="2026-06-26" dispo="166" site="Centrála v ČR"/>
+      <product code="0352007741052" generic="03520077" title="MAX NEO LADY nohavice navy 52" totalDispo="183" unit="KS">
+         <detail date="2026-06-26" dispo="163" site="Centrála v ČR"/>
          <detail dispo="20" site="Senec"/>
       </product>
-      <product code="0352007741050" generic="03520077" title="MAX NEO LADY nohavice navy 50" totalDispo="261" unit="KS">
-         <detail date="2026-06-26" dispo="240" site="Centrála v ČR"/>
+      <product code="0352007741050" generic="03520077" title="MAX NEO LADY nohavice navy 50" totalDispo="259" unit="KS">
+         <detail date="2026-06-26" dispo="238" site="Centrála v ČR"/>
          <detail dispo="21" site="Senec"/>
       </product>
-      <product code="0352007741048" generic="03520077" title="MAX NEO LADY nohavice navy 48" totalDispo="282" unit="KS">
-         <detail date="2026-06-26" dispo="269" site="Centrála v ČR"/>
+      <product code="0352007741048" generic="03520077" title="MAX NEO LADY nohavice navy 48" totalDispo="279" unit="KS">
+         <detail date="2026-06-26" dispo="266" site="Centrála v ČR"/>
          <detail dispo="13" site="Senec"/>
       </product>
-      <product code="0352007741046" generic="03520077" title="MAX NEO LADY nohavice navy 46" totalDispo="351" unit="KS">
-         <detail dispo="349" site="Centrála v ČR"/>
+      <product code="0352007741046" generic="03520077" title="MAX NEO LADY nohavice navy 46" totalDispo="349" unit="KS">
+         <detail dispo="347" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0352007741044" generic="03520077" title="MAX NEO LADY nohavice navy 44" totalDispo="468" unit="KS">
-         <detail date="2026-06-26" dispo="432" site="Centrála v ČR"/>
+      <product code="0352007741044" generic="03520077" title="MAX NEO LADY nohavice navy 44" totalDispo="465" unit="KS">
+         <detail date="2026-06-26" dispo="429" site="Centrála v ČR"/>
          <detail dispo="36" site="Senec"/>
       </product>
-      <product code="0352007741042" generic="03520077" title="MAX NEO LADY nohavice navy 42" totalDispo="420" unit="KS">
-         <detail date="2026-06-26" dispo="351" site="Centrála v ČR"/>
+      <product code="0352007741042" generic="03520077" title="MAX NEO LADY nohavice navy 42" totalDispo="418" unit="KS">
+         <detail date="2026-06-26" dispo="349" site="Centrála v ČR"/>
          <detail dispo="69" site="Senec"/>
       </product>
-      <product code="0352007741040" generic="03520077" title="MAX NEO LADY nohavice navy 40" totalDispo="538" unit="KS">
-         <detail date="2026-06-26" dispo="499" site="Centrála v ČR"/>
+      <product code="0352007741040" generic="03520077" title="MAX NEO LADY nohavice navy 40" totalDispo="535" unit="KS">
+         <detail date="2026-06-26" dispo="496" site="Centrála v ČR"/>
          <detail dispo="39" site="Senec"/>
       </product>
-      <product code="0352007741038" generic="03520077" title="MAX NEO LADY nohavice navy 38" totalDispo="692" unit="KS">
-         <detail date="2026-06-26" dispo="558" site="Centrála v ČR"/>
+      <product code="0352007741038" generic="03520077" title="MAX NEO LADY nohavice navy 38" totalDispo="690" unit="KS">
+         <detail date="2026-06-26" dispo="556" site="Centrála v ČR"/>
          <detail dispo="134" site="Senec"/>
       </product>
       <product code="0352007741036" generic="03520077" title="MAX NEO LADY nohavice navy 36" totalDispo="476" unit="KS">
@@ -71148,8 +71144,8 @@
          <detail dispo="542" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0352007740042" generic="03520077" title="MAX NEO LADY nohavice modrá 42" totalDispo="906" unit="KS">
-         <detail dispo="906" site="Centrála v ČR"/>
+      <product code="0352007740042" generic="03520077" title="MAX NEO LADY nohavice modrá 42" totalDispo="900" unit="KS">
+         <detail dispo="900" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0352007740040" generic="03520077" title="MAX NEO LADY nohavice modrá 40" totalDispo="873" unit="KS">
@@ -72060,8 +72056,8 @@
          <detail dispo="541" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0352010041004" generic="03520100" title="MULTINORM BOLT FR nohavice navy XL" totalDispo="692" unit="KS">
-         <detail dispo="691" site="Centrála v ČR"/>
+      <product code="0352010041004" generic="03520100" title="MULTINORM BOLT FR nohavice navy XL" totalDispo="688" unit="KS">
+         <detail dispo="687" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
       <product code="0352010041003" generic="03520100" title="MULTINORM BOLT FR nohavice navy L" totalDispo="622" unit="KS">
@@ -73656,8 +73652,8 @@
          <detail date="2026-08-12" dispo="390" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="03520131G3058" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 58" totalDispo="610" unit="KS">
-         <detail date="2026-08-12" dispo="597" site="Centrála v ČR"/>
+      <product code="03520131G3058" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 58" totalDispo="605" unit="KS">
+         <detail date="2026-08-12" dispo="592" site="Centrála v ČR"/>
          <detail dispo="13" site="Senec"/>
       </product>
       <product code="03520131G3056" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 56" totalDispo="834" unit="KS">
@@ -73668,20 +73664,20 @@
          <detail date="2026-08-12" dispo="1345" site="Centrála v ČR"/>
          <detail dispo="17" site="Senec"/>
       </product>
-      <product code="03520131G3052" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 52" totalDispo="982" unit="KS">
-         <detail date="2026-08-12" dispo="974" site="Centrála v ČR"/>
+      <product code="03520131G3052" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 52" totalDispo="977" unit="KS">
+         <detail date="2026-08-12" dispo="969" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="03520131G3050" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 50" totalDispo="1119" unit="KS">
-         <detail date="2026-08-12" dispo="1119" site="Centrála v ČR"/>
+      <product code="03520131G3050" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 50" totalDispo="1113" unit="KS">
+         <detail date="2026-08-12" dispo="1113" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="03520131G3048" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 48" totalDispo="963" unit="KS">
-         <detail date="2026-08-12" dispo="961" site="Centrála v ČR"/>
+      <product code="03520131G3048" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 48" totalDispo="958" unit="KS">
+         <detail date="2026-08-12" dispo="956" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="03520131G3046" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 46" totalDispo="294" unit="KS">
-         <detail date="2026-08-12" dispo="286" site="Centrála v ČR"/>
+      <product code="03520131G3046" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 46" totalDispo="289" unit="KS">
+         <detail date="2026-08-12" dispo="281" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
       <product code="03520131G3044" generic="03520131" title="EMERTON STRETCH nohavice sivá/oranž. 44" totalDispo="140" unit="KS">
@@ -73708,9 +73704,9 @@
          <detail date="2026-08-12" dispo="1015" site="Centrála v ČR"/>
          <detail dispo="10" site="Senec"/>
       </product>
-      <product code="0352013164058" generic="03520131" title="EMERTON STRETCH nohavice černá/žltá 58" totalDispo="1314" unit="KS">
+      <product code="0352013164058" generic="03520131" title="EMERTON STRETCH nohavice černá/žltá 58" totalDispo="1312" unit="KS">
          <detail date="2026-07-02" dispo="1300" site="Centrála v ČR"/>
-         <detail dispo="14" site="Senec"/>
+         <detail dispo="12" site="Senec"/>
       </product>
       <product code="0352013164056" generic="03520131" title="EMERTON STRETCH nohavice černá/žltá 56" totalDispo="1778" unit="KS">
          <detail date="2026-07-02" dispo="1756" site="Centrála v ČR"/>
@@ -74860,16 +74856,16 @@
          <detail dispo="452" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0352016060054" generic="03520160" title="STIRLING STRETCH letné nohavice čier. 54" totalDispo="742" unit="KS">
-         <detail dispo="742" site="Centrála v ČR"/>
+      <product code="0352016060054" generic="03520160" title="STIRLING STRETCH letné nohavice čier. 54" totalDispo="740" unit="KS">
+         <detail dispo="740" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0352016060052" generic="03520160" title="STIRLING STRETCH letné nohavice čier. 52" totalDispo="1093" unit="KS">
          <detail dispo="1093" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0352016060050" generic="03520160" title="STIRLING STRETCH letné nohavice čier. 50" totalDispo="714" unit="KS">
-         <detail dispo="712" site="Centrála v ČR"/>
+      <product code="0352016060050" generic="03520160" title="STIRLING STRETCH letné nohavice čier. 50" totalDispo="713" unit="KS">
+         <detail dispo="711" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
       <product code="0352016060048" generic="03520160" title="STIRLING STRETCH letné nohavice čier. 48" totalDispo="500" unit="KS">
@@ -75092,16 +75088,16 @@
          <detail dispo="42" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="03530001A0058" generic="03530001" title="REUSEL nohavice náp antracit/červená 58" totalDispo="37" unit="KS">
-         <detail dispo="37" site="Centrála v ČR"/>
+      <product code="03530001A0058" generic="03530001" title="REUSEL nohavice náp antracit/červená 58" totalDispo="35" unit="KS">
+         <detail dispo="35" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="03530001A0056" generic="03530001" title="REUSEL nohavice náp antracit/červená 56" totalDispo="108" unit="KS">
-         <detail dispo="108" site="Centrála v ČR"/>
+      <product code="03530001A0056" generic="03530001" title="REUSEL nohavice náp antracit/červená 56" totalDispo="105" unit="KS">
+         <detail dispo="105" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="03530001A0048" generic="03530001" title="REUSEL nohavice náp antracit/červená 48" totalDispo="55" unit="KS">
-         <detail dispo="55" site="Centrála v ČR"/>
+      <product code="03530001A0048" generic="03530001" title="REUSEL nohavice náp antracit/červená 48" totalDispo="53" unit="KS">
+         <detail dispo="53" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="03530001A0046" generic="03530001" title="REUSEL nohavice náp antracit/červená 46" totalDispo="1" unit="KS">
@@ -75836,20 +75832,20 @@
          <detail date="2026-06-26" dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0353003460058" generic="03530034" title="MAX NEO náprs.nohavice čierna 58" totalDispo="73" unit="KS">
-         <detail date="2026-06-26" dispo="66" site="Centrála v ČR"/>
+      <product code="0353003460058" generic="03530034" title="MAX NEO náprs.nohavice čierna 58" totalDispo="65" unit="KS">
+         <detail date="2026-06-26" dispo="58" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0353003460056" generic="03530034" title="MAX NEO náprs.nohavice čierna 56" totalDispo="229" unit="KS">
-         <detail date="2026-06-26" dispo="221" site="Centrála v ČR"/>
+      <product code="0353003460056" generic="03530034" title="MAX NEO náprs.nohavice čierna 56" totalDispo="222" unit="KS">
+         <detail date="2026-06-26" dispo="214" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="0353003460054" generic="03530034" title="MAX NEO náprs.nohavice čierna 54" totalDispo="365" unit="KS">
-         <detail date="2026-06-26" dispo="349" site="Centrála v ČR"/>
+      <product code="0353003460054" generic="03530034" title="MAX NEO náprs.nohavice čierna 54" totalDispo="362" unit="KS">
+         <detail date="2026-06-26" dispo="346" site="Centrála v ČR"/>
          <detail dispo="16" site="Senec"/>
       </product>
-      <product code="0353003460052" generic="03530034" title="MAX NEO náprs.nohavice čierna 52" totalDispo="265" unit="KS">
-         <detail date="2026-06-26" dispo="245" site="Centrála v ČR"/>
+      <product code="0353003460052" generic="03530034" title="MAX NEO náprs.nohavice čierna 52" totalDispo="263" unit="KS">
+         <detail date="2026-06-26" dispo="243" site="Centrála v ČR"/>
          <detail dispo="20" site="Senec"/>
       </product>
       <product code="0353003460050" generic="03530034" title="MAX NEO náprs.nohavice čierna 50" totalDispo="223" unit="KS">
@@ -80620,37 +80616,37 @@
          <detail dispo="36" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0357002561060" generic="03570025" title="MAX NEO šortky antracit 60" totalDispo="83" unit="KS">
-         <detail dispo="83" site="Centrála v ČR"/>
+      <product code="0357002561060" generic="03570025" title="MAX NEO šortky antracit 60" totalDispo="81" unit="KS">
+         <detail dispo="81" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0357002561058" generic="03570025" title="MAX NEO šortky antracit 58" totalDispo="79" unit="KS">
          <detail dispo="75" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0357002561056" generic="03570025" title="MAX NEO šortky antracit 56" totalDispo="205" unit="KS">
-         <detail dispo="205" site="Centrála v ČR"/>
+      <product code="0357002561056" generic="03570025" title="MAX NEO šortky antracit 56" totalDispo="202" unit="KS">
+         <detail dispo="202" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0357002561054" generic="03570025" title="MAX NEO šortky antracit 54" totalDispo="230" unit="KS">
          <detail dispo="223" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
-      <product code="0357002561052" generic="03570025" title="MAX NEO šortky antracit 52" totalDispo="291" unit="KS">
-         <detail dispo="291" site="Centrála v ČR"/>
+      <product code="0357002561052" generic="03570025" title="MAX NEO šortky antracit 52" totalDispo="287" unit="KS">
+         <detail dispo="287" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0357002561050" generic="03570025" title="MAX NEO šortky antracit 50" totalDispo="294" unit="KS">
+      <product code="0357002561050" generic="03570025" title="MAX NEO šortky antracit 50" totalDispo="293" unit="KS">
          <detail dispo="284" site="Centrála v ČR"/>
-         <detail dispo="10" site="Senec"/>
+         <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0357002561048" generic="03570025" title="MAX NEO šortky antracit 48" totalDispo="170" unit="KS">
+      <product code="0357002561048" generic="03570025" title="MAX NEO šortky antracit 48" totalDispo="169" unit="KS">
          <detail dispo="165" site="Centrála v ČR"/>
-         <detail dispo="5" site="Senec"/>
+         <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0357002561046" generic="03570025" title="MAX NEO šortky antracit 46" totalDispo="109" unit="KS">
+      <product code="0357002561046" generic="03570025" title="MAX NEO šortky antracit 46" totalDispo="108" unit="KS">
          <detail dispo="107" site="Centrála v ČR"/>
-         <detail dispo="2" site="Senec"/>
+         <detail dispo="1" site="Senec"/>
       </product>
       <product code="0357002561044" generic="03570025" title="MAX NEO šortky antracit 44" totalDispo="170" unit="KS">
          <detail dispo="170" site="Centrála v ČR"/>
@@ -80728,8 +80724,8 @@
          <detail dispo="106" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0357002541058" generic="03570025" title="MAX NEO šortky navy 58" totalDispo="167" unit="KS">
-         <detail dispo="167" site="Centrála v ČR"/>
+      <product code="0357002541058" generic="03570025" title="MAX NEO šortky navy 58" totalDispo="166" unit="KS">
+         <detail dispo="166" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0357002541056" generic="03570025" title="MAX NEO šortky navy 56" totalDispo="197" unit="KS">
@@ -80792,17 +80788,17 @@
          <detail dispo="308" site="Centrála v ČR"/>
          <detail dispo="25" site="Senec"/>
       </product>
-      <product code="0357002540052" generic="03570025" title="MAX NEO šortky modrá 52" totalDispo="443" unit="KS">
+      <product code="0357002540052" generic="03570025" title="MAX NEO šortky modrá 52" totalDispo="442" unit="KS">
          <detail dispo="433" site="Centrála v ČR"/>
-         <detail dispo="10" site="Senec"/>
+         <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0357002540050" generic="03570025" title="MAX NEO šortky modrá 50" totalDispo="322" unit="KS">
+      <product code="0357002540050" generic="03570025" title="MAX NEO šortky modrá 50" totalDispo="321" unit="KS">
          <detail dispo="305" site="Centrála v ČR"/>
-         <detail dispo="17" site="Senec"/>
+         <detail dispo="16" site="Senec"/>
       </product>
-      <product code="0357002540048" generic="03570025" title="MAX NEO šortky modrá 48" totalDispo="79" unit="KS">
+      <product code="0357002540048" generic="03570025" title="MAX NEO šortky modrá 48" totalDispo="78" unit="KS">
          <detail dispo="60" site="Centrála v ČR"/>
-         <detail dispo="19" site="Senec"/>
+         <detail dispo="18" site="Senec"/>
       </product>
       <product code="0357002540046" generic="03570025" title="MAX NEO šortky modrá 46" totalDispo="50" unit="KS">
          <detail dispo="50" site="Centrála v ČR"/>
@@ -82060,10 +82056,6 @@
          <detail date="2026-06-26" dispo="2730" site="Centrála v ČR"/>
          <detail dispo="1709" site="Senec"/>
       </product>
-      <product code="0401002799999" generic="0401002799999" title="3M 1261 zátky" totalDispo="0" unit="PÁR">
-         <detail dispo="0" site="Centrála v ČR"/>
-         <detail dispo="0" site="Senec"/>
-      </product>
       <product code="0401002899999" generic="0401002899999" title="3M 1271 zátky so šnúrkou" totalDispo="1163" unit="PÁR">
          <detail dispo="950" site="Centrála v ČR"/>
          <detail dispo="213" site="Senec"/>
@@ -82076,12 +82068,12 @@
          <detail dispo="280" site="Centrála v ČR"/>
          <detail dispo="12" site="Senec"/>
       </product>
-      <product code="0401003599999" generic="0401003599999" title="E.A.R. Classic" totalDispo="67250" unit="PÁR">
-         <detail dispo="40250" site="Centrála v ČR"/>
+      <product code="0401003599999" generic="0401003599999" title="E.A.R. Classic" totalDispo="67000" unit="PÁR">
+         <detail dispo="40000" site="Centrála v ČR"/>
          <detail dispo="27000" site="Senec"/>
       </product>
-      <product code="0401003899999" generic="0401003899999" title="E.A.R. Supersoft" totalDispo="39906" unit="PÁR">
-         <detail date="2026-06-26" dispo="30656" site="Centrála v ČR"/>
+      <product code="0401003899999" generic="0401003899999" title="E.A.R. Supersoft" totalDispo="34906" unit="PÁR">
+         <detail date="2026-06-26" dispo="25656" site="Centrála v ČR"/>
          <detail dispo="9250" site="Senec"/>
       </product>
       <product code="0401003999999" generic="0401003999999" title="E.A.R  zásobník zátok-nádoba 500 pár" totalDispo="30" unit="BAL">
@@ -82180,8 +82172,8 @@
          <detail dispo="7405" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="0401008399999" generic="0401008399999" title="ED FLEX DS náhradné ušné zátky (10 p)" totalDispo="719" unit="BAL">
-         <detail dispo="719" site="Centrála v ČR"/>
+      <product code="0401008399999" generic="0401008399999" title="ED FLEX DS náhradné ušné zátky (10 p)" totalDispo="718" unit="BAL">
+         <detail dispo="718" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0401008699999" generic="0401008699999" title="3M CLEAREAR PHARMA PACK" totalDispo="0" unit="PÁR">
@@ -82244,8 +82236,8 @@
          <detail dispo="257" site="Centrála v ČR"/>
          <detail dispo="12" site="Senec"/>
       </product>
-      <product code="0402002110999" generic="04020021" title="LASOGARD - slúchadla LA 3001 zelené" totalDispo="281" unit="KS">
-         <detail dispo="267" site="Centrála v ČR"/>
+      <product code="0402002110999" generic="04020021" title="LASOGARD - slúchadla LA 3001 zelené" totalDispo="279" unit="KS">
+         <detail dispo="265" site="Centrála v ČR"/>
          <detail dispo="14" site="Senec"/>
       </product>
       <product code="0402002399999" generic="0402002399999" title="PELTOR - sluch. H510A-401-GU/H9A" totalDispo="180" unit="KS">
@@ -82464,8 +82456,8 @@
          <detail dispo="1729" site="Centrála v ČR"/>
          <detail dispo="13" site="Senec"/>
       </product>
-      <product code="0402013460999" generic="04020134" title="FM-3 slúchadla čierna-červená" totalDispo="610" unit="KS">
-         <detail date="2026-07-27" dispo="601" site="Centrála v ČR"/>
+      <product code="0402013460999" generic="04020134" title="FM-3 slúchadla čierna-červená" totalDispo="609" unit="KS">
+         <detail date="2026-07-27" dispo="600" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
       <product code="0402013699999" generic="0402013699999" title="SECURE 3H sluchátka" totalDispo="234" unit="KS">
@@ -82756,8 +82748,8 @@
          <detail dispo="1245" site="Centrála v ČR"/>
          <detail dispo="35" site="Senec"/>
       </product>
-      <product code="0501036301999" generic="05010363" title="Okuliare ROZELLE AF, AS, UV zrkadlové" totalDispo="5957" unit="KS">
-         <detail date="2026-07-06" dispo="5820" site="Centrála v ČR"/>
+      <product code="0501036301999" generic="05010363" title="Okuliare ROZELLE AF, AS, UV zrkadlové" totalDispo="5945" unit="KS">
+         <detail date="2026-07-06" dispo="5808" site="Centrála v ČR"/>
          <detail dispo="137" site="Senec"/>
       </product>
       <product code="0501036481999" generic="05010364" title="Okuliare BARDEN AF, AS, číre AF, AS, UV" totalDispo="28777" unit="KS">
@@ -82768,8 +82760,8 @@
          <detail dispo="1368" site="Centrála v ČR"/>
          <detail dispo="40" site="Senec"/>
       </product>
-      <product code="0501036406999" generic="05010364" title="Okuliare BARDEN AF, dymové AF, AS, UV" totalDispo="6021" unit="KS">
-         <detail dispo="5682" site="Centrála v ČR"/>
+      <product code="0501036406999" generic="05010364" title="Okuliare BARDEN AF, dymové AF, AS, UV" totalDispo="6009" unit="KS">
+         <detail dispo="5670" site="Centrála v ČR"/>
          <detail dispo="339" site="Senec"/>
       </product>
       <product code="0501036581999" generic="05010365" title="TERREY okuliare číra -" totalDispo="5016" unit="KS">
@@ -82824,8 +82816,8 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0501038899999" generic="0501038899999" title="WAITARA okuliare číre, sivý lem" totalDispo="8716" unit="KS">
-         <detail dispo="8643" site="Centrála v ČR"/>
+      <product code="0501038899999" generic="0501038899999" title="WAITARA okuliare číre, sivý lem" totalDispo="8706" unit="KS">
+         <detail dispo="8633" site="Centrála v ČR"/>
          <detail dispo="73" site="Senec"/>
       </product>
       <product code="0501040899999" generic="0501040899999" title="Okuliare BA 22/L" totalDispo="13" unit="KS">
@@ -82880,8 +82872,8 @@
          <detail dispo="325" site="Centrála v ČR"/>
          <detail dispo="30" site="Senec"/>
       </product>
-      <product code="0501042406999" generic="05010424" title="Okuliare VERNON IS AF, AS dymové" totalDispo="2029" unit="KS">
-         <detail dispo="2025" site="Centrála v ČR"/>
+      <product code="0501042406999" generic="05010424" title="Okuliare VERNON IS AF, AS dymové" totalDispo="2005" unit="KS">
+         <detail dispo="2001" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
       <product code="0501043381999" generic="05010433" title="Okuliare NELLORE IS AF, AS číra" totalDispo="2450" unit="KS">
@@ -82920,8 +82912,8 @@
          <detail dispo="2246" site="Centrála v ČR"/>
          <detail dispo="269" site="Senec"/>
       </product>
-      <product code="0501048581999" generic="05010485" title="FF ODER okuliare vetrané číra" totalDispo="8683" unit="KS">
-         <detail date="2026-07-30" dispo="8657" site="Centrála v ČR"/>
+      <product code="0501048581999" generic="05010485" title="FF ODER okuliare vetrané číra" totalDispo="8671" unit="KS">
+         <detail date="2026-07-30" dispo="8645" site="Centrála v ČR"/>
          <detail dispo="26" site="Senec"/>
       </product>
       <product code="0501048681999" generic="05010486" title="LIMERRAY okuliare IS AF, AS číra -" totalDispo="6656" unit="KS">
@@ -84312,8 +84304,8 @@
          <detail dispo="1164" site="Centrála v ČR"/>
          <detail dispo="56" site="Senec"/>
       </product>
-      <product code="0601001770999" generic="06010017" title="LAS S17 prilba, plast 6b žltá" totalDispo="715" unit="KS">
-         <detail dispo="669" site="Centrála v ČR"/>
+      <product code="0601001770999" generic="06010017" title="LAS S17 prilba, plast 6b žltá" totalDispo="691" unit="KS">
+         <detail dispo="645" site="Centrála v ČR"/>
          <detail dispo="46" site="Senec"/>
       </product>
       <product code="0601001740999" generic="06010017" title="LAS S17 prilba, plast 6b modrá" totalDispo="975" unit="KS">
@@ -84836,8 +84828,8 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="3" site="Senec"/>
       </product>
-      <product code="0601013679999" generic="06010136" title="ALPINWORKER PRO prilba WR nevent.HV žltá" totalDispo="52" unit="KS">
-         <detail dispo="47" site="Centrála v ČR"/>
+      <product code="0601013679999" generic="06010136" title="ALPINWORKER PRO prilba WR nevent.HV žltá" totalDispo="51" unit="KS">
+         <detail dispo="46" site="Centrála v ČR"/>
          <detail dispo="5" site="Senec"/>
       </product>
       <product code="0601013670999" generic="06010136" title="ALPINWORKER PRO prilba WR neventil žltá" totalDispo="240" unit="KS">
@@ -85005,7 +84997,7 @@
          <detail dispo="24" site="Senec"/>
       </product>
       <product code="0601017399999" generic="0601017399999" title="Peltor G3000NOR31FH15C Les.komp.oranž" totalDispo="70" unit="KS">
-         <detail date="2026-06-30" dispo="0" site="Centrála v ČR"/>
+         <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="70" site="Senec"/>
       </product>
       <product code="0601017496999" generic="06010174" title="JSP EVO ALTA Dualswitch WR ven.CR2 HVora" totalDispo="0" unit="KS">
@@ -85100,8 +85092,8 @@
          <detail dispo="576" site="Centrála v ČR"/>
          <detail dispo="17" site="Senec"/>
       </product>
-      <product code="0603000160999" generic="06030001" title="DUIKER SE1710 čiapka bezp.čierna" totalDispo="2075" unit="KS">
-         <detail date="2026-07-16" dispo="2068" site="Centrála v ČR"/>
+      <product code="0603000160999" generic="06030001" title="DUIKER SE1710 čiapka bezp.čierna" totalDispo="2073" unit="KS">
+         <detail date="2026-07-16" dispo="2066" site="Centrála v ČR"/>
          <detail dispo="7" site="Senec"/>
       </product>
       <product code="0603000150999" generic="06030001" title="DUIKER SE1710 čiapka bezp. royal modrá" totalDispo="1380" unit="KS">
@@ -85572,9 +85564,9 @@
          <detail dispo="107" site="Centrála v ČR"/>
          <detail dispo="66" site="Senec"/>
       </product>
-      <product code="0701003299999" generic="07010032" title="REFIL 731 resp.FFP2 skl. s ventil.15/BAL" totalDispo="2446" unit="BOX">
+      <product code="0701003299999" generic="07010032" title="REFIL 731 resp.FFP2 skl. s ventil.15/BAL" totalDispo="2444" unit="BOX">
          <detail dispo="2019" site="Centrála v ČR"/>
-         <detail dispo="427" site="Senec"/>
+         <detail dispo="425" site="Senec"/>
       </product>
       <product code="0701003799999" generic="07010037" title="MANLY respirátor jednoráz.-R 1085 50/BAL" totalDispo="6999" unit="BOX">
          <detail dispo="6999" site="Centrála v ČR"/>
@@ -85820,13 +85812,13 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0702000799030" generic="07020007" title="3M 6300 polomaska veľká L" totalDispo="183" unit="KS">
+      <product code="0702000799030" generic="07020007" title="3M 6300 polomaska veľká L" totalDispo="182" unit="KS">
          <detail dispo="67" site="Centrála v ČR"/>
-         <detail dispo="116" site="Senec"/>
+         <detail dispo="115" site="Senec"/>
       </product>
-      <product code="0702000799020" generic="07020007" title="3M 6200 polomaska stredná M" totalDispo="223" unit="KS">
+      <product code="0702000799020" generic="07020007" title="3M 6200 polomaska stredná M" totalDispo="222" unit="KS">
          <detail dispo="85" site="Centrála v ČR"/>
-         <detail dispo="138" site="Senec"/>
+         <detail dispo="137" site="Senec"/>
       </product>
       <product code="0702000799010" generic="07020007" title="3M 6100 polomaska malá S" totalDispo="32" unit="KS">
          <detail date="2026-06-26" dispo="15" site="Centrála v ČR"/>
@@ -85972,20 +85964,20 @@
          <detail dispo="87" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0703000299999" generic="0703000299999" title="3M 501 držiak filtrov 2ks/BAL" totalDispo="237" unit="BAL">
-         <detail dispo="215" site="Centrála v ČR"/>
+      <product code="0703000299999" generic="0703000299999" title="3M 501 držiak filtrov 2ks/BAL" totalDispo="233" unit="BAL">
+         <detail dispo="211" site="Centrála v ČR"/>
          <detail dispo="22" site="Senec"/>
       </product>
       <product code="0703000399999" generic="0703000399999" title="3M 502 adaptér" totalDispo="24" unit="KS">
          <detail dispo="22" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0703000499999" generic="0703000499999" title="3M 603 plošina 2ks/BAL" totalDispo="38" unit="BAL">
-         <detail dispo="21" site="Centrála v ČR"/>
+      <product code="0703000499999" generic="0703000499999" title="3M 603 plošina 2ks/BAL" totalDispo="34" unit="BAL">
+         <detail dispo="17" site="Centrála v ČR"/>
          <detail dispo="17" site="Senec"/>
       </product>
-      <product code="0703000599020" generic="07030005" title="3M 6800 maska stredná" totalDispo="74" unit="KS">
-         <detail dispo="57" site="Centrála v ČR"/>
+      <product code="0703000599020" generic="07030005" title="3M 6800 maska stredná" totalDispo="67" unit="KS">
+         <detail dispo="50" site="Centrála v ČR"/>
          <detail dispo="17" site="Senec"/>
       </product>
       <product code="0703000599010" generic="07030005" title="3M 6700 maska malá" totalDispo="12" unit="KS">
@@ -86120,8 +86112,8 @@
          <detail dispo="420" site="Centrála v ČR"/>
          <detail dispo="93" site="Senec"/>
       </product>
-      <product code="0704000799999" generic="0704000799999" title="3M 5935 Filter P3  /BAL" totalDispo="203" unit="BAL">
-         <detail date="2026-06-26" dispo="74" site="Centrála v ČR"/>
+      <product code="0704000799999" generic="0704000799999" title="3M 5935 Filter P3  /BAL" totalDispo="193" unit="BAL">
+         <detail date="2026-06-26" dispo="64" site="Centrála v ČR"/>
          <detail dispo="129" site="Senec"/>
       </product>
       <product code="0704000899999" generic="0704000899999" title="3M 6035 Filter P3  /BAL" totalDispo="364" unit="BAL">
@@ -86140,13 +86132,13 @@
          <detail dispo="434" site="Centrála v ČR"/>
          <detail dispo="269" site="Senec"/>
       </product>
-      <product code="0704001299999" generic="0704001299999" title="3M 6057 Filter ABE1  /BAL" totalDispo="724" unit="BAL">
-         <detail dispo="434" site="Centrála v ČR"/>
+      <product code="0704001299999" generic="0704001299999" title="3M 6057 Filter ABE1  /BAL" totalDispo="714" unit="BAL">
+         <detail dispo="424" site="Centrála v ČR"/>
          <detail dispo="290" site="Senec"/>
       </product>
-      <product code="0704001399999" generic="0704001399999" title="3M 6059 Filter ABEK1 /BAL" totalDispo="582" unit="BAL">
+      <product code="0704001399999" generic="0704001399999" title="3M 6059 Filter ABEK1 /BAL" totalDispo="580" unit="BAL">
          <detail dispo="175" site="Centrála v ČR"/>
-         <detail dispo="407" site="Senec"/>
+         <detail dispo="405" site="Senec"/>
       </product>
       <product code="0704001499999" generic="0704001499999" title="3M 6075 Filter A1 formaldehyde /BAL" totalDispo="86" unit="BAL">
          <detail dispo="58" site="Centrála v ČR"/>
@@ -86160,8 +86152,8 @@
          <detail dispo="81" site="Centrála v ČR"/>
          <detail dispo="18" site="Senec"/>
       </product>
-      <product code="0704001799999" generic="0704001799999" title="3M 6099 Filter A2B2E2K2HgP3 R /BAL" totalDispo="144" unit="BAL">
-         <detail date="2026-06-30" dispo="90" site="Centrála v ČR"/>
+      <product code="0704001799999" generic="0704001799999" title="3M 6099 Filter A2B2E2K2HgP3 R /BAL" totalDispo="134" unit="BAL">
+         <detail date="2026-06-30" dispo="80" site="Centrála v ČR"/>
          <detail dispo="54" site="Senec"/>
       </product>
       <product code="0704004899999" generic="0704004899999" title="JSP filter A1 pre FORCE8" totalDispo="98" unit="BAL">
@@ -88404,8 +88396,8 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="9910004590050" generic="99100045" title="JSP kužeľ DOMINATOR NEW červená 50 cm" totalDispo="95" unit="KS">
-         <detail dispo="95" site="Centrála v ČR"/>
+      <product code="9910004590050" generic="99100045" title="JSP kužeľ DOMINATOR NEW červená 50 cm" totalDispo="85" unit="KS">
+         <detail dispo="85" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="9910004590001" generic="99100045" title="JSP kužeľ DOMINATOR NEW červená 1 m" totalDispo="41" unit="KS">
