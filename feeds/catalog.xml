@@ -39590,6 +39590,60 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
          <unit>KS</unit>
       </product>
       <product>
+         <code>03010731</code>
+         <title>NYALA NEO bunda</title>
+         <description> • pánská nepromokavá zateplená zimní bunda s kapucí • mechanicky odolná úprava RipStop • 2 boční kapsy, 2 náprsní kapsy na zip • nastavitelná šířka manžet rukávů pomocí suchého zipu • spodní lem ke stažení na šňůrku • reflexní doplňky </description>
+         <categoryPath>Produkty/Odevy</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="000" title="XS"/>
+            <size code="001" title="S"/>
+            <size code="002" title="M"/>
+            <size code="003" title="L"/>
+            <size code="004" title="XL"/>
+            <size code="005" title="XXL"/>
+            <size code="006" title="3XL"/>
+            <size code="007" title="4XL"/>
+            <size code="008" title="5XL"/>
+            <size code="009" title="6XL"/>
+         </sizes>
+         <colors>
+            <color code="00" title="sivá"/>
+            <color code="10" title="zelená"/>
+            <color code="20" title="červená"/>
+            <color code="40" title="modrá"/>
+            <color code="41" title="navy"/>
+            <color code="60" title="čierna"/>
+         </colors>
+         <standards>
+            <standard code="EN ISO 13688" title="EN ISO 13688"/>
+            <standard code="EN 342" title="EN 342 | Icler [B] 0,305 m²K/w3WP"/>
+            <standard code="EN 343" title="EN 343 | 31X"/>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/03010731-NYALA-NEO-jacket-navy-DSC-1776.png?context=bWFzdGVyfGltYWdlc3wyODcyOTN8aW1hZ2UvcG5nfDkzMzkyOTkyMDEwNTQvMDMwMTA3MzFfTllBTEFfTkVPX2phY2tldF9uYXZ5X0RTQ18xNzc2LnBuZ3w2MDRlMWUwMjU5NGU0MzdlNmExYmExZjU2MWJiMTU4YmJlMDQzNzhkNzhlOWI3YTEyOTRmY2M5YWNkZmMxZTNi</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03010731-NYALA-NEO-jacket-blue-DSC-1737.png?context=bWFzdGVyfGltYWdlc3wyNjgyMDJ8aW1hZ2UvcG5nfDkzMzkyODgzODc2MTQvMDMwMTA3MzFfTllBTEFfTkVPX2phY2tldF9ibHVlX0RTQ18xNzM3LnBuZ3xhNjBlZmI3ZDU5MGY3NzRlNzg3YWNmNTAxNzhhZDUwZjI4OTVhYjRhM2ZhODkzZWVhYTc3OWI0ZWQzMjk1MzNm</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03010731-NYALA-NEO-jacket-green-DSC-1725.png?context=bWFzdGVyfGltYWdlc3wyNTk0NzN8aW1hZ2UvcG5nfDkzMzkyOTE1OTg4NzgvMDMwMTA3MzFfTllBTEFfTkVPX2phY2tldF9ncmVlbl9EU0NfMTcyNS5wbmd8MTVlYzJkOTRiZjhlZWI2OGExZDNiMjRkOTlhNDE4MDE3ODZiM2UzN2NiMmFlMjRmZDZlZGQzMTc1ODE5MjVlNA</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03010731-NYALA-NEO-jacket-red-DSC-1716.png?context=bWFzdGVyfGltYWdlc3wyODY1Mjl8aW1hZ2UvcG5nfDkzMzkyOTQwODkyNDYvMDMwMTA3MzFfTllBTEFfTkVPX2phY2tldF9yZWRfRFNDXzE3MTYucG5nfDhmZTVmYjkxNDcyNDk0NjgyYjVlNGRkZTBkYjdiOTEwY2ZmZmZmNDZlYWZiMmRhYmJjNmZkOTFiYzBjOTZkNTg</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03010731-NYALA-NEO-jacket-grey-DSC-1749.png?context=bWFzdGVyfGltYWdlc3wyNDA4ODl8aW1hZ2UvcG5nfDkzMzkzMDA4Mzk0NTQvMDMwMTA3MzFfTllBTEFfTkVPX2phY2tldF9ncmV5X0RTQ18xNzQ5LnBuZ3w4Njc2ZDczZGI1NGIwYjU2NTRmOWI2YTBlNmYyNDY3ZWI4YzQyYzU1NzBhODYwZjYxNWIyMDlkYzIzY2FkNzMx</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03010731-NYALA-NEO-jacket-black-DSC-1763.png?context=bWFzdGVyfGltYWdlc3wyNDkyMzd8aW1hZ2UvcG5nfDkzMzkzMDU0MjY5NzQvMDMwMTA3MzFfTllBTEFfTkVPX2phY2tldF9ibGFja19EU0NfMTc2My5wbmd8YjljNjhmZmYyZGE1ZmI1ZWZiYzU1NWEwNjg2NzE4ZmEyYjZmZGM2NTg2ZjkzOWUxNjBlMzQ1YTc4ZTkwZGVhMg</path>
+            </image>
+         </images>
+         <unit>KS</unit>
+      </product>
+      <product>
          <code>03010739</code>
          <title>SIP PORTET Chainsaw bunda</title>
          <description>• the outer fabric of the BasePro Hi-Vis chainsaw jacket is composed of a regular polyester cotton fabric, perfectly suitable for temporary or seasonal forestry work along the public road • the BasePro chainsaw jackets, the most economic pair of SIP Protection jackets of our range, still provide the comfort you want, the protection you need and the quality you expect from SIP Protection • straight collar • zip closure • 2 inset pockets with zip closure • sleeve narrowing by press studs • ventilation on the back • elongated back • 8 layer arm, shoulder and chest protection</description>
@@ -45552,6 +45606,56 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NDY4fGltYWdlL3dlYnB8OTI2NzgxMjU2NTAyMi8wMzAzMDE3NV9FTUVSVE9OX1NUUl9ib2R5d2FybWVyX2ZsYXRsYXlfRFNDXzU3NTIucG5nfDk5MjhkYWZmYTBiYWM3NDhhNzg0MzYzYzZmMTNmNzU0MmMwZTQ2N2QwNDVkYzkyYTNjMDE3MDkwM2M5MjM1MDE</path>
+            </image>
+         </images>
+         <unit>KS</unit>
+      </product>
+      <product>
+         <code>03030182</code>
+         <title>NYALA NEO vesta</title>
+         <description> • zateplená nepromokavá pánská zimní vesta se stojáčkem • mechanicky odolná úprava RipStop •  spodní lem ke stažení na šňůrku • 2 postranní kapsy, 2 náprsní kapsy • reflexní doplňky </description>
+         <categoryPath>Produkty/Odevy/Mikiny, svetre, vesty/Vesty</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="000" title="XS"/>
+            <size code="001" title="S"/>
+            <size code="002" title="M"/>
+            <size code="003" title="L"/>
+            <size code="004" title="XL"/>
+            <size code="005" title="XXL"/>
+            <size code="006" title="3XL"/>
+            <size code="007" title="4XL"/>
+            <size code="008" title="5XL"/>
+         </sizes>
+         <colors>
+            <color code="00" title="sivá"/>
+            <color code="10" title="zelená"/>
+            <color code="20" title="červená"/>
+            <color code="40" title="modrá"/>
+            <color code="41" title="navy"/>
+            <color code="60" title="čierna"/>
+         </colors>
+         <standards>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/03030182-NYALA-NEO-vest-blue-DSC-1812.png?context=bWFzdGVyfGltYWdlc3wyMjY0ODZ8aW1hZ2UvcG5nfDkzMzkzMDk0NTc0MzgvMDMwMzAxODJfTllBTEFfTkVPX3Zlc3RfYmx1ZV9EU0NfMTgxMi5wbmd8MDgyODc1NWJjZGM3YzhhZDEwM2ZhMWU4NjBhMWUwNDBmOTA0YTNmZjZkYzBiZjI5MDE0ZWY3YTExNmRmOWI5Yw</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03030182-NYALA-NEO-vest-red-DSC-1818.png?context=bWFzdGVyfGltYWdlc3wyNDc4OTd8aW1hZ2UvcG5nfDkzMzkzMDc4MTkwMzgvMDMwMzAxODJfTllBTEFfTkVPX3Zlc3RfcmVkX0RTQ18xODE4LnBuZ3xhZTA1OWIzMjkyYmY2NDBmNjYwMTE3ZWYzNjE4MzMzMTY2NGRiZTUwNmFkOGFmNzhiMzEzZGIzZGU1NjE2M2Qw</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03030182-NYALA-NEO-vest-navy-DSC-1783.png?context=bWFzdGVyfGltYWdlc3wyNDIxODJ8aW1hZ2UvcG5nfDkzMzkzMTA5OTc1MzQvMDMwMzAxODJfTllBTEFfTkVPX3Zlc3RfbmF2eV9EU0NfMTc4My5wbmd8MjQxYjkxNDAwMjlhZmZjM2UyYzM0Yjg0MDZkMWViMjhlMGM4ODA2OGM0MmQyMjcxYTllMDdmODViOWE2OTU1OA</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03030182-NYALA-NEO-vest-green-DSC-1788.png?context=bWFzdGVyfGltYWdlc3wyMjA0MjZ8aW1hZ2UvcG5nfDkzMzkzMTM2NTE3NDIvMDMwMzAxODJfTllBTEFfTkVPX3Zlc3RfZ3JlZW5fRFNDXzE3ODgucG5nfGQ0NGFlMDc0NzUyYTJjMjM0ODFlZjcxYjY5MGU5NGVhYmNmZGRiZGRlNjJhZDJlNzk4NGY1ZGU0MzNmMjVhMzU</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03030182-NYALA-NEO-vest-grey-DSC-1795.png?context=bWFzdGVyfGltYWdlc3wyMTg1MTd8aW1hZ2UvcG5nfDkzMzkzMTc3MTQ5NzQvMDMwMzAxODJfTllBTEFfTkVPX3Zlc3RfZ3JleV9EU0NfMTc5NS5wbmd8MGM0ZmUxNmRlY2EzZjY5NmZiMzBiMTdhNDc0NzhjYWQ3NWNmNzE1ZDRlNGU1OGJiZjNhMjBiZjVhZTZiNzI2Zg</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03030182-NYALA-NEO-vest-black-DSC-1803.png?context=bWFzdGVyfGltYWdlc3wyMzEzODB8aW1hZ2UvcG5nfDkzMzkzMTA0NzMyNDYvMDMwMzAxODJfTllBTEFfTkVPX3Zlc3RfYmxhY2tfRFNDXzE4MDMucG5nfDY2MWJjODNmMjk3M2Y3MTcxNDAzOTdhNGIxMTYyZjk2NjY3ODQ4ZDRkNDdhY2VlNThjY2YwYTRlNzgxNTQ2ZTc</path>
             </image>
          </images>
          <unit>KS</unit>
@@ -63261,7 +63365,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
       <product>
          <code>03520174</code>
          <title>SIP 1RX3 protipor.nohavice</title>
-         <description/>
+         <description>• these class 3 BasePro chainsaw trousers are equipped with a large ventilation mesh fabric at the back to offset the higher weight and especially higher heat accumulation that come naturally with chainsaw protective trousers that have a higher protection level • front fly with zip closure and closing by 1 button • 1 patched pocket for measuring equipment and fixation of spark plug spanner • 1 patched back pocket • 2 inset pockets • ventilation at the back of the legs • triple-needle stitching on the back seam to the inside leg • elasticated waist with belt and attachment for suspenders • bib in back with attachment for braces • 9 layer protective inla</description>
          <categoryPath>Produkty/Odevy/Nohavice a overaly/Nohavice</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -63279,6 +63383,21 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
          </standards>
          <brand>SIP</brand>
          <images>
+            <image>
+               <path>https://media.cerva.com/medias/03520174-SIP-1RX3-Chainsaw-pants-1rx3-8351.png?context=bWFzdGVyfGltYWdlc3wxNzM1NDJ8aW1hZ2UvcG5nfDkzMzkyNTUzMjQ3MDIvMDM1MjAxNzRfU0lQXzFSWDNfQ2hhaW5zYXdfcGFudHNfMXJ4M184MzUxLnBuZ3w0OTFjMDY4ZTc5ZDg5YWFjZjA3MDEyMDE0MDMwYjRmMzMxNTkxM2MzODUzZmExZDdkZDEzODhlNzhmMGMyYjc0</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03520174-SIP-1RX3-Chainsaw-pants-1rx3-835.png?context=bWFzdGVyfGltYWdlc3wxNzI2Mzd8aW1hZ2UvcG5nfDkzMzkyNTY3NjY0OTQvMDM1MjAxNzRfU0lQXzFSWDNfQ2hhaW5zYXdfcGFudHNfMXJ4M184MzUucG5nfDg1MWE5ZGJkZTNmNjdiNWFiMzY0YjljMjFkY2U3NzZhZDQ5NWFlMTk2NGNiOWM2NGUwYzU1YWVjYmViYWNhZTc</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03520174-SIP-1RX3-Chainsaw-pants-1rx3-8354.png?context=bWFzdGVyfGltYWdlc3wxNjgzNzl8aW1hZ2UvcG5nfDkzMzkyNTYzNzMyNzgvMDM1MjAxNzRfU0lQXzFSWDNfQ2hhaW5zYXdfcGFudHNfMXJ4M184MzU0LnBuZ3xiYWU3Njg4ZWQ4N2NhODZlODVjMGU5ZmU0N2MyMjYwZDhjZTczNjU4MDE2MzgwMTlhMGNiYTZlN2VlMDcxYWIx</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03520174-SIP-1RX3-Chainsaw-pants-1rx3-8353.png?context=bWFzdGVyfGltYWdlc3wxNjY5MjJ8aW1hZ2UvcG5nfDkzMzkyNTYwNDU1OTgvMDM1MjAxNzRfU0lQXzFSWDNfQ2hhaW5zYXdfcGFudHNfMXJ4M184MzUzLnBuZ3w4ODFkZTE4MDQwMjJiMWMyMDg5NzQ5M2Q5NTE2NTVmODA4YTFiNmI0ODc4MjJjMTBiZGMzMGJlMGU5YWY2YWFk</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/03520174-SIP-1RX3-Chainsaw-pants-1rx3-8352.png?context=bWFzdGVyfGltYWdlc3wxNTk0MzZ8aW1hZ2UvcG5nfDkzMzkyNTU3MTc5MTgvMDM1MjAxNzRfU0lQXzFSWDNfQ2hhaW5zYXdfcGFudHNfMXJ4M184MzUyLnBuZ3wwYjkxZjljYzA3ZWY4NTI2OWIxMjA0ZGQ1ZTJkMGNjMWMyMDVjZjc2ZjcxMDI4NDY0YmZhYWFjYWU4YTcxMmNl</path>
+            </image>
          </images>
          <unit>KS</unit>
       </product>

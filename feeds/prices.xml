@@ -7293,7 +7293,6 @@
    <product code="02030067" title="BONN S1P FO SR sandál">
       <variant code="0203006760047" title="BONN S1P FO SR sandál 47 čierna" price="21.8" currency="EUR" unit="PÁR"/>
       <variant code="0203006760046" title="BONN S1P FO SR sandál 46 čierna" price="21.8" currency="EUR" unit="PÁR"/>
-      <variant code="0203006760045" title="BONN S1P FO SR sandál 45 čierna" price="21.8" currency="EUR" unit="PÁR"/>
       <variant code="0203006760044" title="BONN S1P FO SR sandál 44 čierna" price="21.8" currency="EUR" unit="PÁR"/>
       <variant code="0203006760042" title="BONN S1P FO SR sandál 42 čierna" price="21.8" currency="EUR" unit="PÁR"/>
       <variant code="0203006760041" title="BONN S1P FO SR sandál 41 čierna" price="21.8" currency="EUR" unit="PÁR"/>
@@ -11716,6 +11715,63 @@
       <variant code="0301072741001" title="HOMES 9934 softshell bunda navy S" price="129.471" currency="EUR" unit="KS"/>
       <variant code="0301072741000" title="HOMES 9934 softshell bunda navy XS" price="129.471" currency="EUR" unit="KS"/>
    </product>
+   <product code="03010731" title="NYALA NEO bunda">
+      <variant code="0301073160009" title="NYALA NEO bunda čierna 6XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073160008" title="NYALA NEO bunda čierna 5XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073160007" title="NYALA NEO bunda čierna 4XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073160006" title="NYALA NEO bunda čierna 3XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073160005" title="NYALA NEO bunda čierna XXL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073160004" title="NYALA NEO bunda čierna XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073160003" title="NYALA NEO bunda čierna L" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073160002" title="NYALA NEO bunda čierna M" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073160001" title="NYALA NEO bunda čierna S" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073160000" title="NYALA NEO bunda čierna XS" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073141008" title="NYALA NEO bunda navy 5XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073141007" title="NYALA NEO bunda navy 4XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073141006" title="NYALA NEO bunda navy 3XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073141005" title="NYALA NEO bunda navy XXL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073141004" title="NYALA NEO bunda navy XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073141003" title="NYALA NEO bunda navy L" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073141002" title="NYALA NEO bunda navy M" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073141001" title="NYALA NEO bunda navy S" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073141000" title="NYALA NEO bunda navy XS" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073140008" title="NYALA NEO bunda modrá 5XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073140007" title="NYALA NEO bunda modrá 4XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073140006" title="NYALA NEO bunda modrá 3XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073140005" title="NYALA NEO bunda modrá XXL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073140004" title="NYALA NEO bunda modrá XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073140003" title="NYALA NEO bunda modrá L" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073140002" title="NYALA NEO bunda modrá M" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073140001" title="NYALA NEO bunda modrá S" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073140000" title="NYALA NEO bunda modrá XS" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073120008" title="NYALA NEO bunda červená 5XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073120007" title="NYALA NEO bunda červená 4XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073120006" title="NYALA NEO bunda červená 3XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073120005" title="NYALA NEO bunda červená XXL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073120004" title="NYALA NEO bunda červená XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073120003" title="NYALA NEO bunda červená L" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073120002" title="NYALA NEO bunda červená M" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073120001" title="NYALA NEO bunda červená S" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073120000" title="NYALA NEO bunda červená XS" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073110008" title="NYALA NEO bunda zelená 5XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073110007" title="NYALA NEO bunda zelená 4XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073110006" title="NYALA NEO bunda zelená 3XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073110005" title="NYALA NEO bunda zelená XXL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073110004" title="NYALA NEO bunda zelená XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073110003" title="NYALA NEO bunda zelená L" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073110002" title="NYALA NEO bunda zelená M" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073110001" title="NYALA NEO bunda zelená S" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073110000" title="NYALA NEO bunda zelená XS" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073100008" title="NYALA NEO bunda sivá 5XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073100007" title="NYALA NEO bunda sivá 4XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073100006" title="NYALA NEO bunda sivá 3XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073100005" title="NYALA NEO bunda sivá XXL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073100004" title="NYALA NEO bunda sivá XL" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073100003" title="NYALA NEO bunda sivá L" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073100002" title="NYALA NEO bunda sivá M" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073100001" title="NYALA NEO bunda sivá S" price="42.108" currency="EUR" unit="KS"/>
+      <variant code="0301073100000" title="NYALA NEO bunda sivá XS" price="42.108" currency="EUR" unit="KS"/>
+   </product>
    <product code="03010739" title="SIP PORTET Chainsaw bunda">
       <variant code="03010739A2007" title="SIP PORTET Chainsaw bunda antr/oran 4XL" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="03010739A2006" title="SIP PORTET Chainsaw bunda antr/oran 3XL" price="Bude upresnené" currency="" unit="KS"/>
@@ -11826,7 +11882,6 @@
       <variant code="0302002590062" title="DESMAN nohavice do pás sivá/oranžová 62" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590060" title="DESMAN nohavice do pás sivá/oranžová 60" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590058" title="DESMAN nohavice do pás sivá/oranžová 58" price="23.181" currency="EUR" unit="KS"/>
-      <variant code="0302002590056" title="DESMAN nohavice do pás sivá/oranžová 56" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590054" title="DESMAN nohavice do pás sivá/oranžová 54" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590052" title="DESMAN nohavice do pás sivá/oranžová 52" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590050" title="DESMAN nohavice do pás sivá/oranžová 50" price="23.181" currency="EUR" unit="KS"/>
@@ -13092,7 +13147,6 @@
       <variant code="0302039561062" title="DAYBORO 3/4 nohavice antracit 62" price="42.679" currency="EUR" unit="KS"/>
       <variant code="0302039561060" title="DAYBORO 3/4 nohavice antracit 60" price="42.679" currency="EUR" unit="KS"/>
       <variant code="0302039561058" title="DAYBORO 3/4 nohavice antracit 58" price="42.679" currency="EUR" unit="KS"/>
-      <variant code="0302039561056" title="DAYBORO 3/4 nohavice antracit 56" price="42.679" currency="EUR" unit="KS"/>
       <variant code="0302039561054" title="DAYBORO 3/4 nohavice antracit 54" price="42.679" currency="EUR" unit="KS"/>
       <variant code="0302039561052" title="DAYBORO 3/4 nohavice antracit 52" price="42.679" currency="EUR" unit="KS"/>
       <variant code="0302039561050" title="DAYBORO 3/4 nohavice antracit 50" price="42.679" currency="EUR" unit="KS"/>
@@ -14299,6 +14353,62 @@
       <variant code="0303017560002" title="EMERTON STR zimná vesta čierna M" price="27.586" currency="EUR" unit="KS"/>
       <variant code="0303017560001" title="EMERTON STR zimná vesta čierna S" price="27.586" currency="EUR" unit="KS"/>
    </product>
+   <product code="03030182" title="NYALA NEO vesta">
+      <variant code="0303018260008" title="NYALA NEO vesta čierna 5XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018260007" title="NYALA NEO vesta čierna 4XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018260006" title="NYALA NEO vesta čierna 3XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018260005" title="NYALA NEO vesta čierna XXL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018260004" title="NYALA NEO vesta čierna XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018260003" title="NYALA NEO vesta čierna L" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018260002" title="NYALA NEO vesta čierna M" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018260001" title="NYALA NEO vesta čierna S" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018260000" title="NYALA NEO vesta čierna XS" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018241008" title="NYALA NEO vesta navy 5XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018241007" title="NYALA NEO vesta navy 4XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018241006" title="NYALA NEO vesta navy 3XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018241005" title="NYALA NEO vesta navy XXL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018241004" title="NYALA NEO vesta navy XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018241003" title="NYALA NEO vesta navy L" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018241002" title="NYALA NEO vesta navy M" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018241001" title="NYALA NEO vesta navy S" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018241000" title="NYALA NEO vesta navy XS" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018240008" title="NYALA NEO vesta modrá 5XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018240007" title="NYALA NEO vesta modrá 4XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018240006" title="NYALA NEO vesta modrá 3XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018240005" title="NYALA NEO vesta modrá XXL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018240004" title="NYALA NEO vesta modrá XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018240003" title="NYALA NEO vesta modrá L" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018240002" title="NYALA NEO vesta modrá M" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018240001" title="NYALA NEO vesta modrá S" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018240000" title="NYALA NEO vesta modrá XS" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018220008" title="NYALA NEO vesta červená 5XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018220007" title="NYALA NEO vesta červená 4XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018220006" title="NYALA NEO vesta červená 3XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018220005" title="NYALA NEO vesta červená XXL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018220004" title="NYALA NEO vesta červená XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018220003" title="NYALA NEO vesta červená L" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018220002" title="NYALA NEO vesta červená M" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018220001" title="NYALA NEO vesta červená S" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018220000" title="NYALA NEO vesta červená XS" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018210008" title="NYALA NEO vesta zelená 5XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018210007" title="NYALA NEO vesta zelená 4XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018210006" title="NYALA NEO vesta zelená 3XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018210005" title="NYALA NEO vesta zelená XXL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018210004" title="NYALA NEO vesta zelená XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018210003" title="NYALA NEO vesta zelená L" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018210002" title="NYALA NEO vesta zelená M" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018210001" title="NYALA NEO vesta zelená S" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018210000" title="NYALA NEO vesta zelená XS" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018200008" title="NYALA NEO vesta sivá 5XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018200007" title="NYALA NEO vesta sivá 4XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018200006" title="NYALA NEO vesta sivá 3XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018200005" title="NYALA NEO vesta sivá XXL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018200004" title="NYALA NEO vesta sivá XL" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018200003" title="NYALA NEO vesta sivá L" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018200002" title="NYALA NEO vesta sivá M" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018200001" title="NYALA NEO vesta sivá S" price="27.976" currency="EUR" unit="KS"/>
+      <variant code="0303018200000" title="NYALA NEO vesta sivá XS" price="27.976" currency="EUR" unit="KS"/>
+   </product>
    <product code="03040002" title="DESMAN tričko">
       <variant code="0304000200007" title="DESMAN tričko sivá/oranžová 4XL" price="7.715" currency="EUR" unit="KS"/>
       <variant code="0304000200006" title="DESMAN tričko sivá/oranžová 3XL" price="7.715" currency="EUR" unit="KS"/>
@@ -15458,12 +15568,10 @@
    <product code="03050052" title="JAEN HV polokošeľa">
       <variant code="0305005290008" title="JAEN HV polokošeľa oranžová 5XL" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290007" title="JAEN HV polokošeľa oranžová 4XL" price="16.226" currency="EUR" unit="KS"/>
-      <variant code="0305005290006" title="JAEN HV polokošeľa oranžová 3XL" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290005" title="JAEN HV polokošeľa oranžová XXL" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290004" title="JAEN HV polokošeľa oranžová XL" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290003" title="JAEN HV polokošeľa oranžová L" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290002" title="JAEN HV polokošeľa oranžová M" price="16.226" currency="EUR" unit="KS"/>
-      <variant code="0305005290001" title="JAEN HV polokošeľa oranžová S" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290000" title="JAEN HV polokošeľa oranžová XS" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005270008" title="JAEN HV polokošeľa žltá 5XL" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005270007" title="JAEN HV polokošeľa žltá 4XL" price="16.226" currency="EUR" unit="KS"/>
@@ -15482,7 +15590,6 @@
       <variant code="0305005394005" title="CADIZ HV polokošeľa žltá/sivá XXL" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394004" title="CADIZ HV polokošeľa žltá/sivá XL" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394003" title="CADIZ HV polokošeľa žltá/sivá L" price="16.498" currency="EUR" unit="KS"/>
-      <variant code="0305005394002" title="CADIZ HV polokošeľa žltá/sivá M" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394001" title="CADIZ HV polokošeľa žltá/sivá S" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394000" title="CADIZ HV polokošeľa žltá/sivá XS" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005391008" title="CADIZ HV polokošeľa oranžová/navy 5XL" price="16.498" currency="EUR" unit="KS"/>
@@ -16471,7 +16578,6 @@
       <variant code="03100028E4050" title="CREMORNE šortky sv.olivová 50" price="20.99" currency="EUR" unit="KS"/>
       <variant code="03100028E4048" title="CREMORNE šortky sv.olivová 48" price="20.99" currency="EUR" unit="KS"/>
       <variant code="03100028E4046" title="CREMORNE šortky sv.olivová 46" price="20.99" currency="EUR" unit="KS"/>
-      <variant code="0310002880064" title="CREMORNE šortky biela 64" price="20.99" currency="EUR" unit="KS"/>
       <variant code="0310002880062" title="CREMORNE šortky biela 62" price="20.99" currency="EUR" unit="KS"/>
       <variant code="0310002880060" title="CREMORNE šortky biela 60" price="20.99" currency="EUR" unit="KS"/>
       <variant code="0310002880058" title="CREMORNE šortky biela 58" price="20.99" currency="EUR" unit="KS"/>
@@ -16479,7 +16585,6 @@
       <variant code="0310002880054" title="CREMORNE šortky biela 54" price="20.99" currency="EUR" unit="KS"/>
       <variant code="0310002880052" title="CREMORNE šortky biela 52" price="20.99" currency="EUR" unit="KS"/>
       <variant code="0310002880050" title="CREMORNE šortky biela 50" price="20.99" currency="EUR" unit="KS"/>
-      <variant code="0310002880048" title="CREMORNE šortky biela 48" price="20.99" currency="EUR" unit="KS"/>
       <variant code="0310002880046" title="CREMORNE šortky biela 46" price="20.99" currency="EUR" unit="KS"/>
       <variant code="0310002855064" title="CREMORNE šortky petrolejová 64" price="20.99" currency="EUR" unit="KS"/>
       <variant code="0310002855062" title="CREMORNE šortky petrolejová 62" price="20.99" currency="EUR" unit="KS"/>
@@ -18999,7 +19104,6 @@
       <variant code="0351000355052" title="NEURUM CLS bunda petrolejová 52" price="72.014" currency="EUR" unit="KS"/>
       <variant code="0351000355050" title="NEURUM CLS bunda petrolejová 50" price="72.014" currency="EUR" unit="KS"/>
       <variant code="0351000355048" title="NEURUM CLS bunda petrolejová 48" price="72.014" currency="EUR" unit="KS"/>
-      <variant code="0351000355046" title="NEURUM CLS bunda petrolejová 46" price="72.014" currency="EUR" unit="KS"/>
       <variant code="0351000341064" title="NEURUM CLS bunda navy 64" price="72.014" currency="EUR" unit="KS"/>
       <variant code="0351000341062" title="NEURUM CLS bunda navy 62" price="72.014" currency="EUR" unit="KS"/>
       <variant code="0351000341060" title="NEURUM CLS bunda navy 60" price="72.014" currency="EUR" unit="KS"/>
@@ -19306,9 +19410,7 @@
       <variant code="03510012A5058" title="GREENDALE bunda antracit/limetková 58" price="29.03" currency="EUR" unit="KS"/>
       <variant code="03510012A5056" title="GREENDALE bunda antracit/limetková 56" price="29.03" currency="EUR" unit="KS"/>
       <variant code="03510012A5054" title="GREENDALE bunda antracit/limetková 54" price="29.03" currency="EUR" unit="KS"/>
-      <variant code="03510012A5052" title="GREENDALE bunda antracit/limetková 52" price="29.03" currency="EUR" unit="KS"/>
       <variant code="03510012A5050" title="GREENDALE bunda antracit/limetková 50" price="29.03" currency="EUR" unit="KS"/>
-      <variant code="03510012A5048" title="GREENDALE bunda antracit/limetková 48" price="29.03" currency="EUR" unit="KS"/>
       <variant code="03510012A5046" title="GREENDALE bunda antracit/limetková 46" price="29.03" currency="EUR" unit="KS"/>
    </product>
    <product code="03510013" title="FF JOHAN bunda">
@@ -19346,9 +19448,7 @@
       <variant code="03510022R4062" title="FF HANS bunda červená/antracit 62" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4060" title="FF HANS bunda červená/antracit 60" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4058" title="FF HANS bunda červená/antracit 58" price="32.129" currency="EUR" unit="KS"/>
-      <variant code="03510022R4056" title="FF HANS bunda červená/antracit 56" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4054" title="FF HANS bunda červená/antracit 54" price="32.129" currency="EUR" unit="KS"/>
-      <variant code="03510022R4052" title="FF HANS bunda červená/antracit 52" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4050" title="FF HANS bunda červená/antracit 50" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4048" title="FF HANS bunda červená/antracit 48" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4046" title="FF HANS bunda červená/antracit 46" price="32.129" currency="EUR" unit="KS"/>
@@ -23020,7 +23120,6 @@
       <variant code="0356000190054" title="PATERNA HV kombinéza oranžová 54" price="55.526" currency="EUR" unit="KS"/>
       <variant code="0356000190052" title="PATERNA HV kombinéza oranžová 52" price="55.526" currency="EUR" unit="KS"/>
       <variant code="0356000190050" title="PATERNA HV kombinéza oranžová 50" price="55.526" currency="EUR" unit="KS"/>
-      <variant code="0356000190048" title="PATERNA HV kombinéza oranžová 48" price="55.526" currency="EUR" unit="KS"/>
       <variant code="0356000190046" title="PATERNA HV kombinéza oranžová 46" price="55.526" currency="EUR" unit="KS"/>
       <variant code="0356000170064" title="PATERNA HV kombinéza žltá 64" price="55.526" currency="EUR" unit="KS"/>
       <variant code="0356000170062" title="PATERNA HV kombinéza žltá 62" price="55.526" currency="EUR" unit="KS"/>
