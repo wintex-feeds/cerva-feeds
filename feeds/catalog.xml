@@ -20634,7 +20634,7 @@ Obuv neobsahuje kovové súčasti a je vybavená funkciou ESD. Preto je to ideá
          </colors>
          <standards>
             <standard code="EN ISO 20347" title="EN ISO 20347 | O1 SRC"/>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | O1 FO SR"/>
+            <standard code="EN ISO 20347" title="EN ISO 20347"/>
             <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
             <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
          </standards>
@@ -45636,6 +45636,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
             <color code="60" title="čierna"/>
          </colors>
          <standards>
+            <standard code="EN ISO 13688" title="EN ISO 13688"/>
          </standards>
          <brand>CERV</brand>
          <images>
