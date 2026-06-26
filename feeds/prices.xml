@@ -4997,7 +4997,6 @@
    <product code="02010616" title="ULTRALIGHT MF ESD S1 SR poltop.">
       <variant code="02010616W6042" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 42" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6041" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 41" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6040" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 40" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6035" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 35" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666048" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 48" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666047" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 47" price="49.83" currency="EUR" unit="PÁR"/>
@@ -7557,7 +7556,6 @@
    <product code="02030143" title="RAVEN XT MF S1P SRC sandále">
       <variant code="0203014360048" title="RAVEN XT MF S1P SRC sandále 48 čierna" price="17.538" currency="EUR" unit="PÁR"/>
       <variant code="0203014360046" title="RAVEN XT MF S1P SRC sandále 46 čierna" price="17.538" currency="EUR" unit="PÁR"/>
-      <variant code="0203014360041" title="RAVEN XT MF S1P SRC sandále 41 čierna" price="17.538" currency="EUR" unit="PÁR"/>
       <variant code="0203014360038" title="RAVEN XT MF S1P SRC sandále 38 čierna" price="17.538" currency="EUR" unit="PÁR"/>
       <variant code="0203014360037" title="RAVEN XT MF S1P SRC sandále 37 čierna" price="17.538" currency="EUR" unit="PÁR"/>
       <variant code="0203014360036" title="RAVEN XT MF S1P SRC sandále 36 čierna" price="17.538" currency="EUR" unit="PÁR"/>
@@ -15584,7 +15582,7 @@
       <variant code="0305005394006" title="CADIZ HV polokošeľa žltá/sivá 3XL" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394005" title="CADIZ HV polokošeľa žltá/sivá XXL" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394004" title="CADIZ HV polokošeľa žltá/sivá XL" price="16.498" currency="EUR" unit="KS"/>
-      <variant code="0305005394003" title="CADIZ HV polokošeľa žltá/sivá L" price="16.498" currency="EUR" unit="KS"/>
+      <variant code="0305005394002" title="CADIZ HV polokošeľa žltá/sivá M" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394001" title="CADIZ HV polokošeľa žltá/sivá S" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394000" title="CADIZ HV polokošeľa žltá/sivá XS" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005391008" title="CADIZ HV polokošeľa oranžová/navy 5XL" price="16.498" currency="EUR" unit="KS"/>
@@ -19405,6 +19403,7 @@
       <variant code="03510012A5058" title="GREENDALE bunda antracit/limetková 58" price="29.03" currency="EUR" unit="KS"/>
       <variant code="03510012A5056" title="GREENDALE bunda antracit/limetková 56" price="29.03" currency="EUR" unit="KS"/>
       <variant code="03510012A5054" title="GREENDALE bunda antracit/limetková 54" price="29.03" currency="EUR" unit="KS"/>
+      <variant code="03510012A5052" title="GREENDALE bunda antracit/limetková 52" price="29.03" currency="EUR" unit="KS"/>
       <variant code="03510012A5050" title="GREENDALE bunda antracit/limetková 50" price="29.03" currency="EUR" unit="KS"/>
       <variant code="03510012A5046" title="GREENDALE bunda antracit/limetková 46" price="29.03" currency="EUR" unit="KS"/>
    </product>
@@ -19442,6 +19441,7 @@
       <variant code="03510022R4062" title="FF HANS bunda červená/antracit 62" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4060" title="FF HANS bunda červená/antracit 60" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4058" title="FF HANS bunda červená/antracit 58" price="32.129" currency="EUR" unit="KS"/>
+      <variant code="03510022R4056" title="FF HANS bunda červená/antracit 56" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4054" title="FF HANS bunda červená/antracit 54" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4050" title="FF HANS bunda červená/antracit 50" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022R4048" title="FF HANS bunda červená/antracit 48" price="32.129" currency="EUR" unit="KS"/>
@@ -20777,7 +20777,6 @@
       <variant code="0352001850064" title="FF JOHAN nohavice royal modrá 64" price="13.076" currency="EUR" unit="KS"/>
       <variant code="0352001850062" title="FF JOHAN nohavice royal modrá 62" price="13.076" currency="EUR" unit="KS"/>
       <variant code="0352001850060" title="FF JOHAN nohavice royal modrá 60" price="13.076" currency="EUR" unit="KS"/>
-      <variant code="0352001850058" title="FF JOHAN nohavice royal modrá 58" price="13.076" currency="EUR" unit="KS"/>
       <variant code="0352001850056" title="FF JOHAN nohavice royal modrá 56" price="13.076" currency="EUR" unit="KS"/>
       <variant code="0352001850054" title="FF JOHAN nohavice royal modrá 54" price="13.076" currency="EUR" unit="KS"/>
       <variant code="0352001850052" title="FF JOHAN nohavice royal modrá 52" price="13.076" currency="EUR" unit="KS"/>
