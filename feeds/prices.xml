@@ -4031,7 +4031,6 @@
    </product>
    <product code="02010370" title="MONTROSE ORANGE ESD S1P SRC poltopánka">
       <variant code="0201037099048" title="MONTROSE ORANGE ESD S1P SRCpoltopánka 48" price="10.824" currency="EUR" unit="PÁR"/>
-      <variant code="0201037099047" title="MONTROSE ORANGE ESD S1P SRCpoltopánka 47" price="10.824" currency="EUR" unit="PÁR"/>
       <variant code="0201037099036" title="MONTROSE ORANGE ESD S1P SRCpoltopánka 36" price="10.824" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010373" title="FARINA MF S2 SRC mokasíny">
@@ -9225,6 +9224,7 @@
    <product code="03010042" title="DESMAN bunda">
       <variant code="0301004290064" title="DESMAN bunda sivá/oranžová 64" price="21.785" currency="EUR" unit="KS"/>
       <variant code="0301004290062" title="DESMAN bunda sivá/oranžová 62" price="21.785" currency="EUR" unit="KS"/>
+      <variant code="0301004290058" title="DESMAN bunda sivá/oranžová 58" price="21.785" currency="EUR" unit="KS"/>
       <variant code="0301004290054" title="DESMAN bunda sivá/oranžová 54" price="21.785" currency="EUR" unit="KS"/>
       <variant code="0301004290052" title="DESMAN bunda sivá/oranžová 52" price="21.785" currency="EUR" unit="KS"/>
       <variant code="0301004290050" title="DESMAN bunda sivá/oranžová 50" price="21.785" currency="EUR" unit="KS"/>
@@ -11865,6 +11865,7 @@
       <variant code="0302002490062" title="DESMAN nohavice náprs. sivá/oranžová 62" price="29.93" currency="EUR" unit="KS"/>
       <variant code="0302002490060" title="DESMAN nohavice náprs. sivá/oranžová 60" price="29.93" currency="EUR" unit="KS"/>
       <variant code="0302002490058" title="DESMAN nohavice náprs. sivá/oranžová 58" price="29.93" currency="EUR" unit="KS"/>
+      <variant code="0302002490056" title="DESMAN nohavice náprs. sivá/oranžová 56" price="29.93" currency="EUR" unit="KS"/>
       <variant code="0302002490054" title="DESMAN nohavice náprs. sivá/oranžová 54" price="29.93" currency="EUR" unit="KS"/>
       <variant code="0302002490052" title="DESMAN nohavice náprs. sivá/oranžová 52" price="29.93" currency="EUR" unit="KS"/>
       <variant code="0302002490050" title="DESMAN nohavice náprs. sivá/oranžová 50" price="29.93" currency="EUR" unit="KS"/>
