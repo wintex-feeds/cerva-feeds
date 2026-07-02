@@ -3301,9 +3301,6 @@
    <product code="01150074" title="TB 6226L rukavice">
       <variant code="0115007499100" title="TB 6226L rukavice - 10" price="152.312" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="01150081" title="TB 6226 rukavice">
-      <variant code="0115008199100" title="TB 6226 rukavice - 10" price="204.149" currency="EUR" unit="PÁR"/>
-   </product>
    <product code="01150085" title="5-P22F900AL400 rukavice">
       <variant code="0115008599100" title="5-P22F900AL400 rukavice - 10" price="161.07" currency="EUR" unit="PÁR"/>
    </product>
@@ -11399,6 +11396,8 @@
       <variant code="0301059855002" title="NEURUM SOFTSHELL bunda petrolejová M" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059855001" title="NEURUM SOFTSHELL bunda petrolejová S" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841007" title="NEURUM SOFTSHELL bunda navy 4XL" price="77.069" currency="EUR" unit="KS"/>
+      <variant code="0301059841006" title="NEURUM SOFTSHELL bunda navy 3XL" price="77.069" currency="EUR" unit="KS"/>
+      <variant code="0301059841004" title="NEURUM SOFTSHELL bunda navy XL" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841003" title="NEURUM SOFTSHELL bunda navy L" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841002" title="NEURUM SOFTSHELL bunda navy M" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841001" title="NEURUM SOFTSHELL bunda navy S" price="77.069" currency="EUR" unit="KS"/>
@@ -11801,11 +11800,8 @@
       <variant code="0302000318048" title="STANMORE nohavice náp zelená/čierna 48" price="43.95" currency="EUR" unit="KS"/>
    </product>
    <product code="03020004" title="STANMORE nohav.do pása">
-      <variant code="0302000469062" title="STANMORE nohav.do pása tm. hnedá 62" price="37.859" currency="EUR" unit="KS"/>
-      <variant code="0302000469060" title="STANMORE nohav.do pása tm. hnedá 60" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469058" title="STANMORE nohav.do pása tm. hnedá 58" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469056" title="STANMORE nohav.do pása tm. hnedá 56" price="37.859" currency="EUR" unit="KS"/>
-      <variant code="0302000469054" title="STANMORE nohav.do pása tm. hnedá 54" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469052" title="STANMORE nohav.do pása tm. hnedá 52" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469050" title="STANMORE nohav.do pása tm. hnedá 50" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469048" title="STANMORE nohav.do pása tm. hnedá 48" price="37.859" currency="EUR" unit="KS"/>
@@ -11882,11 +11878,13 @@
       <variant code="0302002590048" title="DESMAN nohavice do pás sivá/oranžová 48" price="23.181" currency="EUR" unit="KS"/>
    </product>
    <product code="03020026" title="DESMAN nohavice 2v1">
-      <variant code="0302002690062" title="DESMAN nohavice 2v1 sivá/oranžová 62" price="25.605" currency="EUR" unit="KS"/>
+      <variant code="0302002690060" title="DESMAN nohavice 2v1 sivá/oranžová 60" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690058" title="DESMAN nohavice 2v1 sivá/oranžová 58" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690056" title="DESMAN nohavice 2v1 sivá/oranžová 56" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690054" title="DESMAN nohavice 2v1 sivá/oranžová 54" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690052" title="DESMAN nohavice 2v1 sivá/oranžová 52" price="25.605" currency="EUR" unit="KS"/>
+      <variant code="0302002690050" title="DESMAN nohavice 2v1 sivá/oranžová 50" price="25.605" currency="EUR" unit="KS"/>
+      <variant code="0302002690048" title="DESMAN nohavice 2v1 sivá/oranžová 48" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690046" title="DESMAN nohavice 2v1 sivá/oranžová 46" price="25.605" currency="EUR" unit="KS"/>
    </product>
    <product code="03020027" title="APUS nohavice pánske">
@@ -17851,6 +17849,11 @@
       <variant code="0315007396003" title="Tyvek 500 HV oranžová L" price="22.534" currency="EUR" unit="KS"/>
       <variant code="0315007396002" title="Tyvek 500 HV oranžová M" price="22.558" currency="EUR" unit="KS"/>
    </product>
+   <product code="03150082" title="3M 4570 Type 3/4/5/6 overal">
+      <variant code="0315008200005" title="3M 4570 Type 3/4/5/6 overal sivá XXL" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0315008200004" title="3M 4570 Type 3/4/5/6 overal sivá XL" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0315008200003" title="3M 4570 Type 3/4/5/6 overal sivá L" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
    <product code="03150085" title="MATTERHORN kombinéza">
       <variant code="0315008541006" title="MATTERHORN kombinéza navy 3XL" price="317.305" currency="EUR" unit="KS"/>
       <variant code="0315008541005" title="MATTERHORN kombinéza navy XXL" price="317.305" currency="EUR" unit="KS"/>
@@ -18747,6 +18750,7 @@
       <variant code="0332000141005" title="DAYBORO pilot bunda navy XXL" price="71.728" currency="EUR" unit="KS"/>
       <variant code="0332000141004" title="DAYBORO pilot bunda navy XL" price="71.728" currency="EUR" unit="KS"/>
       <variant code="0332000141003" title="DAYBORO pilot bunda navy L" price="71.728" currency="EUR" unit="KS"/>
+      <variant code="0332000141002" title="DAYBORO pilot bunda navy M" price="71.728" currency="EUR" unit="KS"/>
       <variant code="0332000141001" title="DAYBORO pilot bunda navy S" price="71.728" currency="EUR" unit="KS"/>
    </product>
    <product code="03320016" title="MAX NEO pilot bunda">
@@ -20774,6 +20778,7 @@
       <variant code="0352001850064" title="FF JOHAN nohavice royal modrá 64" price="13.076" currency="EUR" unit="KS"/>
       <variant code="0352001850062" title="FF JOHAN nohavice royal modrá 62" price="13.076" currency="EUR" unit="KS"/>
       <variant code="0352001850060" title="FF JOHAN nohavice royal modrá 60" price="13.076" currency="EUR" unit="KS"/>
+      <variant code="0352001850058" title="FF JOHAN nohavice royal modrá 58" price="13.076" currency="EUR" unit="KS"/>
       <variant code="0352001850056" title="FF JOHAN nohavice royal modrá 56" price="13.076" currency="EUR" unit="KS"/>
       <variant code="0352001850054" title="FF JOHAN nohavice royal modrá 54" price="13.076" currency="EUR" unit="KS"/>
       <variant code="0352001850052" title="FF JOHAN nohavice royal modrá 52" price="13.076" currency="EUR" unit="KS"/>
