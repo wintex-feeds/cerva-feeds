@@ -15679,6 +15679,30 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>PÁR</unit>
       </product>
       <product>
+         <code>01130128</code>
+         <title>TB 488STAC rukavice</title>
+         <description>• Bezešvé rukavice z HPPE, skelných vláken, ocelových vláken, uhlíkových vláken, nylonu a elastanu. • polyuretanové máčení na dlani. • Měrný odpor = 10^6 Ohm. EN388: 4X43D, EN16350</description>
+         <categoryPath>Produkty/Rukavice</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="060" title="6"/>
+            <size code="070" title="7"/>
+            <size code="080" title="8"/>
+            <size code="090" title="9"/>
+            <size code="100" title="10"/>
+            <size code="110" title="11"/>
+         </sizes>
+         <colors>
+            <color code="99" title="-"/>
+         </colors>
+         <standards>
+         </standards>
+         <brand>TB</brand>
+         <images>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
          <code>01130132</code>
          <title>TB 401G2 DYN rukavice</title>
          <description>• rukavice zo sivého HPPE úpletu a sklených vlákien • sivý polyuretánový povlak na dlani • pletené zápästie • hustota úpletu 13 GG</description>
@@ -23396,13 +23420,13 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
          <brand>UPOW</brand>
          <images>
             <image>
-               <path>https://media.cerva.com/medias/image-12.jpg?context=bWFzdGVyfGltYWdlc3wxMTM3OTN8aW1hZ2UvanBlZ3w5MzIxOTkxMDEyMzgyL2ltYWdlXzEyLmpwZ3w3NzgxNTFmMzY4ZGI3Y2VlYzNiNmZhYTRmYmYzYWMyY2I1MTY0Njc5ZjExZWFlODYyNmNjZTdiNjk3YTZkNGFj</path>
+               <path>https://media.cerva.com/medias/02010672-ARYA-ESD.jpg?context=bWFzdGVyfGltYWdlc3wxNjg0MjV8aW1hZ2UvanBlZ3w5MzQzMjU3MDUxMTY2LzAyMDEwNjcyX0FSWUFfRVNELmpwZ3xiMDg4MTNjZWY5YmUxY2RjYmMwNWY0YmI2ZWIzZTFmMTU4YzYzZTk4OTZhYzFjMjRkOGI1MDMzYzc2ZTQ4ZWRj</path>
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wzMzkyfGltYWdlL2pwZWd8OTMyNDUyNjYwMDIyMi8wMjAxMDY3Ml9BUllBX0VTRF90b3AuanBnfDRhODIzZjQ0Njg1YTljNzcxMGI2YzMxMTAwMDU0NmVmYjY4MWFjMGU1ZmJhODM2NzdlMDRiYzRmNjFmMGVlNTA</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/image-25.jpg?context=bWFzdGVyfGltYWdlc3wxNDMyODF8aW1hZ2UvanBlZ3w5MzIxOTkxMzQwMDYyL2ltYWdlXzI1LmpwZ3wwMDFkZjQ0Njk5MmFlODk2YjhjMDYyMGY4YjAwYThlYjJlYTNhODg2NjA2ZWNiNGIxMjczNjE1NzMxMWMyNTc3</path>
+               <path>https://media.cerva.com/medias/02010672-ARYA-ESD-sole.jpg?context=bWFzdGVyfGltYWdlc3w4MTQ5M3xpbWFnZS9qcGVnfDkzNDMyNTYyMzE5NjYvMDIwMTA2NzJfQVJZQV9FU0Rfc29sZS5qcGd8N2Q4NjE1NDhhMTI1MGE4NjFiN2FjOTdiMzAwYWMyYWFhNTFiZjk1OWQ1NjI2YjhjMjU0MWVhMDNjZTRjYzI3Nw</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -24200,16 +24224,16 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
          <brand>UPOW</brand>
          <images>
             <image>
-               <path>https://media.cerva.com/medias/02010971-BOLTON-DX-2537fb03e4.jpg?context=bWFzdGVyfGltYWdlc3w3NDQ5NnxpbWFnZS9qcGVnfDkzMzI2OTEwNzUxMDIvMDIwMTA5NzFfQk9MVE9OX0RYXzI1MzdmYjAzZTQuanBnfDY3NDJkMTgxNTg1MGZiYjViY2VhYmZkY2M3YWFmZGEyNWI3NWE3MTg5MGQ3YTE5Y2Y1Yzg3N2U1NTM2ZDI3ZWY</path>
+               <path>https://media.cerva.com/medias/02010971-BOLTON-DX-2537fb03e4.jpg?context=bWFzdGVyfGltYWdlc3wxNTMxODN8aW1hZ2UvanBlZ3w5MzQzMjY2NzUwNDk0LzAyMDEwOTcxX0JPTFRPTl9EWF8yNTM3ZmIwM2U0LmpwZ3wwM2ZjM2E0NzU2NWJlYzRiYzc1OGJmZWZkODE0YWNhY2IwMjk4NzQ0YzEyYzBiMGIxNDEwNDQ3YWIyYzM3MWQ2</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/02010971-BOLTON-R-f3dcdca114.jpg?context=bWFzdGVyfGltYWdlc3w0MDI1N3xpbWFnZS9qcGVnfDkzMzI2OTEyMDYxNzQvMDIwMTA5NzFfQk9MVE9OX1JfZjNkY2RjYTExNC5qcGd8MWRiZWFjMTkzZWQxYjk3OTE4MTkwNTRkZDYyZmIxOGRhN2E0YWFmMjY0MWVhNTM2ZDIwMjI2YmMxMTY1OTBlYw</path>
+               <path>https://media.cerva.com/medias/02010971-BOLTON-R-f3dcdca114.jpg?context=bWFzdGVyfGltYWdlc3wyNTMxODB8aW1hZ2UvanBlZ3w5MzQzMjY2NzE3NzI2LzAyMDEwOTcxX0JPTFRPTl9SX2YzZGNkY2ExMTQuanBnfDVjYTU3Mzg0OGFiNzNiYjQ1ZjEzN2YwNjcxNzMxOGRhNzdmZjA5NTA4MzBhMTUyMjQ2ODE4YWJjNDRlMTk4YjA</path>
             </image>
             <image>
                <path>https://media.cerva.com/medias/02010971-BOLTON-T-056f5954f1.jpg?context=bWFzdGVyfGltYWdlc3wxMDI5MzZ8aW1hZ2UvanBlZ3w5MzMyNjkxMzM3MjQ2LzAyMDEwOTcxX0JPTFRPTl9UXzA1NmY1OTU0ZjEuanBnfGFmM2VmYTMyMjc1ZTdkMTFhNjYyMmRlNmUwZWIxNDQ5ODBmYjM3NmI5ZmNiNmNmMjI0MjBiM2ZmYzQwNDE2Zjk</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/02010971-BOLTON-SUOLA-NUOVA-9260ce87ad.jpg?context=bWFzdGVyfGltYWdlc3w2NzAyOXxpbWFnZS9qcGVnfDkzMzI2OTExNDA2MzgvMDIwMTA5NzFfQk9MVE9OX1NVT0xBX05VT1ZBXzkyNjBjZTg3YWQuanBnfDE3OTg1N2E2ZDNjYWM4MWYyMGNlODRiNjA3ZmUzZjI5NTE3YTVmYmIzODQ1YTZiNWMwODI5Y2VhODZiZTMyMTY</path>
+               <path>https://media.cerva.com/medias/02010971-BOLTON-SUOLA-NUOVA-9260ce87ad.jpg?context=bWFzdGVyfGltYWdlc3w4MTA0MnxpbWFnZS9qcGVnfDkzNDMyNjYxNjA2NzAvMDIwMTA5NzFfQk9MVE9OX1NVT0xBX05VT1ZBXzkyNjBjZTg3YWQuanBnfDJhOGNhMjVkZDFiY2I1ZDBkNjRjNjNmNDY1Y2FmYzBkNTM3NjFjNmNiMTU5MzA2M2FjNmY3NWUxZTkzMGYyZGI</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -25539,7 +25563,7 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
          <brand>UPOW</brand>
          <images>
             <image>
-               <path>https://media.cerva.com/medias/02020692-hero.jpg?context=bWFzdGVyfGltYWdlc3w0MDUyOXxpbWFnZS9qcGVnfDkzMTc3MjgzODcxMDIvMDIwMjA2OTJfaGVyby5qcGd8ZTcyMDZkYWFjOTMzNGJhZDE5N2UzZDYzMTljY2NkNWU0ZGVmMzU4YmI0YjAxNjdhN2VmZmM3OTAwZTFhOTk5Yw</path>
+               <path>https://media.cerva.com/medias/02020692-LIFT-ESD.jpg?context=bWFzdGVyfGltYWdlc3wyMDQxNTV8aW1hZ2UvanBlZ3w5MzQzMjc4MTIwOTkwLzAyMDIwNjkyX0xJRlRfRVNELmpwZ3wxN2RlZjRlZWI2Zjk4MWU2ZjdjMDYwZTQ1MzQ5N2EwNmVlYzFlZjA3ZmExOGJiM2ZmZDA3ZDdkNTRiYjIzYmJl</path>
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wzNDM2fGltYWdlL2pwZWd8OTMyNDY3NDcxMTU4Mi8wMjAyMDY5Ml9MSUZUX0VTRF9zb2xlLmpwZ3wxYTAxNmM3ZWY1MDVjYTBiN2M0M2I0ZmJjZjVlNTAyYWI5ZWU0MmRhNzQ4YTBkM2I3MzkyZDQxNWI0MzZkYTVi</path>
@@ -59583,7 +59607,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
       <product>
          <code>03510063</code>
          <title>MAX ECO STRETCH bunda</title>
-         <description>• pánska pracovná bunda so zapínaním na zips prekrytým légou • 2 bočné vrecká • 2 náprsné vrecká so zapínaním na suchý zips • spevnené ramenné oblasti • odnímateľné rukávy s elastickými manžetami • elastický pás • reflexné detaily</description>
+         <description>• pánska pracovná bunda so zapínaním na zips • 2 bočné vrecká • 2 náprsné vrecká so zapínaním na suchý zips • spevnené ramenné oblasti • odnímateľné rukávy s elastickými manžetami • elastický pás • reflexné detaily</description>
          <categoryPath>Produkty/Odevy/Bundy a kabáty/Bundy</categoryPath>
          <packaging></packaging>
          <sizes>

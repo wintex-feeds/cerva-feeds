@@ -3153,6 +3153,14 @@
       <variant code="0113012799070" title="TB 484TFLN rukavice - 7" price="11.906" currency="EUR" unit="PÁR"/>
       <variant code="0113012799060" title="TB 484TFLN rukavice - 6" price="11.906" currency="EUR" unit="PÁR"/>
    </product>
+   <product code="01130128" title="TB 488STAC rukavice">
+      <variant code="0113012899110" title="TB 488STAC rukavice - 11" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0113012899100" title="TB 488STAC rukavice - 10" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0113012899090" title="TB 488STAC rukavice - 9" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0113012899080" title="TB 488STAC rukavice - 8" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0113012899070" title="TB 488STAC rukavice - 7" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0113012899060" title="TB 488STAC rukavice - 6" price="Bude upresnené" currency="" unit="PÁR"/>
+   </product>
    <product code="01130132" title="TB 401G2 DYN rukavice">
       <variant code="0113013299110" title="TB 401G2 DYN rukavice - 11" price="5.809" currency="EUR" unit="PÁR"/>
       <variant code="0113013299100" title="TB 401G2 DYN rukavice - 10" price="5.809" currency="EUR" unit="PÁR"/>
@@ -3807,7 +3815,6 @@
       <variant code="0201020865041" title="GRAFFITI ESD S3 SRC poltop. 41 čern/červ" price="103.902" currency="EUR" unit="PÁR"/>
       <variant code="0201020865040" title="GRAFFITI ESD S3 SRC poltop. 40 čern/červ" price="103.902" currency="EUR" unit="PÁR"/>
       <variant code="0201020865039" title="GRAFFITI ESD S3 SRC poltop. 39 čern/červ" price="103.902" currency="EUR" unit="PÁR"/>
-      <variant code="0201020865037" title="GRAFFITI ESD S3 SRC poltop. 37 čern/červ" price="103.902" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010209" title="URBAN ESD S3 SRC poltopánka">
       <variant code="0201020968047" title="URBAN ESD S3 SRC poltopán 47 čierna/sivá" price="103.902" currency="EUR" unit="PÁR"/>
@@ -11802,6 +11809,7 @@
    <product code="03020004" title="STANMORE nohav.do pása">
       <variant code="0302000469058" title="STANMORE nohav.do pása tm. hnedá 58" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469056" title="STANMORE nohav.do pása tm. hnedá 56" price="37.859" currency="EUR" unit="KS"/>
+      <variant code="0302000469054" title="STANMORE nohav.do pása tm. hnedá 54" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469052" title="STANMORE nohav.do pása tm. hnedá 52" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469050" title="STANMORE nohav.do pása tm. hnedá 50" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469048" title="STANMORE nohav.do pása tm. hnedá 48" price="37.859" currency="EUR" unit="KS"/>
@@ -11878,7 +11886,6 @@
       <variant code="0302002590048" title="DESMAN nohavice do pás sivá/oranžová 48" price="23.181" currency="EUR" unit="KS"/>
    </product>
    <product code="03020026" title="DESMAN nohavice 2v1">
-      <variant code="0302002690060" title="DESMAN nohavice 2v1 sivá/oranžová 60" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690058" title="DESMAN nohavice 2v1 sivá/oranžová 58" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690056" title="DESMAN nohavice 2v1 sivá/oranžová 56" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690054" title="DESMAN nohavice 2v1 sivá/oranžová 54" price="25.605" currency="EUR" unit="KS"/>
@@ -16138,9 +16145,9 @@
       <variant code="0307002324002" title="Zdravot. dámska blúza červená/bílá M" price="21.95" currency="EUR" unit="KS"/>
       <variant code="0307002324001" title="Zdravot. dámska blúza červená/bílá S" price="21.95" currency="EUR" unit="KS"/>
       <variant code="0307002324000" title="Zdravot. dámska blúza červená/bílá XS" price="21.95" currency="EUR" unit="KS"/>
-      <variant code="0307002310006" title="Zdravot. dámsk.blúza biala/zelená 3XL" price="21.95" currency="EUR" unit="KS"/>
-      <variant code="0307002310005" title="Zdravot. dámska.blúza biela/zelená XXL" price="21.95" currency="EUR" unit="KS"/>
-      <variant code="0307002310004" title="Zdravot. dámska.blúza biela/zelená XL" price="21.95" currency="EUR" unit="KS"/>
+      <variant code="0307002310006" title="Zdravot. dámska blúza biala/zelená 3XL" price="21.95" currency="EUR" unit="KS"/>
+      <variant code="0307002310005" title="Zdravot. dámska blúza biela/zelená XXL" price="21.95" currency="EUR" unit="KS"/>
+      <variant code="0307002310004" title="Zdravot. dámska blúza biela/zelená XL" price="21.95" currency="EUR" unit="KS"/>
       <variant code="0307002310003" title="Zdravot. dámska blúza biela/zelená L" price="21.95" currency="EUR" unit="KS"/>
       <variant code="0307002310002" title="Zdravot. dámska blúza biela/zelená M" price="21.95" currency="EUR" unit="KS"/>
       <variant code="0307002310001" title="Zdravot. dámska blúza biela/zelená S" price="21.95" currency="EUR" unit="KS"/>
@@ -18451,7 +18458,6 @@
       <variant code="0322000650001" title="SANGU polokošeľa dl.rukáv royal modrá S" price="10.213" currency="EUR" unit="KS"/>
       <variant code="0322000650000" title="SANGU polokošeľa dl.rukáv royal modrá XS" price="10.213" currency="EUR" unit="KS"/>
       <variant code="0322000641006" title="SANGU polokošeľa dl.rukáv navy 3XL" price="10.213" currency="EUR" unit="KS"/>
-      <variant code="0322000641005" title="SANGU polokošeľa dl.rukáv navy XXL" price="10.213" currency="EUR" unit="KS"/>
       <variant code="0322000641003" title="SANGU polokošeľa dl.rukáv navy L" price="10.213" currency="EUR" unit="KS"/>
       <variant code="0322000641002" title="SANGU polokošeľa dl.rukáv navy M" price="10.213" currency="EUR" unit="KS"/>
       <variant code="0322000641001" title="SANGU polokošeľa dl.rukáv navy S" price="10.213" currency="EUR" unit="KS"/>
@@ -22231,7 +22237,6 @@
       <variant code="03530001A0058" title="REUSEL nohavice náp antracit/červená 58" price="50.583" currency="EUR" unit="KS"/>
       <variant code="03530001A0056" title="REUSEL nohavice náp antracit/červená 56" price="50.583" currency="EUR" unit="KS"/>
       <variant code="03530001A0048" title="REUSEL nohavice náp antracit/červená 48" price="50.583" currency="EUR" unit="KS"/>
-      <variant code="03530001A0046" title="REUSEL nohavice náp antracit/červená 46" price="50.583" currency="EUR" unit="KS"/>
    </product>
    <product code="03530003" title="TELDE nohavice náprsenka">
       <variant code="0353000350058" title="TELDE nohavice náprsenka royal modrá 58" price="24.916" currency="EUR" unit="KS"/>
