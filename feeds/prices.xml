@@ -4998,8 +4998,13 @@
       <variant code="0201061560036" title="HALWILL PRO MF ESD S1PS SR polt.čier.36" price="57.95" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010616" title="ULTRALIGHT MF ESD S1 SR poltop.">
+      <variant code="02010616W6046" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 46" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6043" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 43" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6042" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 42" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6041" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 41" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6039" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 39" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6038" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 38" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6035" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 35" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666048" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 48" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666047" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 47" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666046" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 46" price="49.83" currency="EUR" unit="PÁR"/>
