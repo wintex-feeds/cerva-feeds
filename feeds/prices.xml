@@ -3648,6 +3648,7 @@
       <variant code="0201008999047" title="MONZA S3 SRC poltopánka 47 -" price="11.989" currency="EUR" unit="PÁR"/>
       <variant code="0201008999039" title="MONZA S3 SRC poltopánka 39 -" price="11.989" currency="EUR" unit="PÁR"/>
       <variant code="0201008999038" title="MONZA S3 SRC poltopánka 38 -" price="11.989" currency="EUR" unit="PÁR"/>
+      <variant code="0201008999036" title="MONZA S3 SRC poltopánka 36 -" price="11.989" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010096" title="PANTERA S3 SRC poltopánka">
       <variant code="0201009699048" title="PANTERA S3 SRC poltopánka 48 -" price="46.454" currency="EUR" unit="PÁR"/>
@@ -13777,7 +13778,6 @@
       <variant code="0303002400001" title="BEAVER vesta sivá S" price="34.479" currency="EUR" unit="KS"/>
    </product>
    <product code="03030026" title="CORONA vesta">
-      <variant code="0303002660006" title="CORONA vesta čierna 3XL" price="23.158" currency="EUR" unit="KS"/>
       <variant code="0303002660005" title="CORONA vesta čierna XXL" price="23.158" currency="EUR" unit="KS"/>
       <variant code="0303002660004" title="CORONA vesta čierna XL" price="23.158" currency="EUR" unit="KS"/>
       <variant code="0303002660003" title="CORONA vesta čierna L" price="23.158" currency="EUR" unit="KS"/>
@@ -18507,7 +18507,6 @@
       <variant code="0322000979001" title="CASBAS HV polokošeľa HV žltá S" price="97.983" currency="EUR" unit="KS"/>
    </product>
    <product code="03260001" title="YOWIE NEW leginy">
-      <variant code="0326000139002" title="YOWIE NEW leginy navy/sv.fialová M" price="15.704" currency="EUR" unit="KS"/>
       <variant code="0326000139001" title="YOWIE NEW leginy navy/sv.fialová S" price="15.704" currency="EUR" unit="KS"/>
       <variant code="0326000139000" title="YOWIE NEW leginy navy/sv.fialová XS" price="15.704" currency="EUR" unit="KS"/>
    </product>
