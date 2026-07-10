@@ -11891,11 +11891,12 @@
       <variant code="0302002590048" title="DESMAN nohavice do pás sivá/oranžová 48" price="23.181" currency="EUR" unit="KS"/>
    </product>
    <product code="03020026" title="DESMAN nohavice 2v1">
+      <variant code="0302002690060" title="DESMAN nohavice 2v1 sivá/oranžová 60" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690058" title="DESMAN nohavice 2v1 sivá/oranžová 58" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690056" title="DESMAN nohavice 2v1 sivá/oranžová 56" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690054" title="DESMAN nohavice 2v1 sivá/oranžová 54" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690052" title="DESMAN nohavice 2v1 sivá/oranžová 52" price="25.605" currency="EUR" unit="KS"/>
-      <variant code="0302002690050" title="DESMAN nohavice 2v1 sivá/oranžová 50" price="25.605" currency="EUR" unit="KS"/>
+      <variant code="0302002690048" title="DESMAN nohavice 2v1 sivá/oranžová 48" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690046" title="DESMAN nohavice 2v1 sivá/oranžová 46" price="25.605" currency="EUR" unit="KS"/>
    </product>
    <product code="03020027" title="APUS nohavice pánske">
@@ -13009,7 +13010,6 @@
       <variant code="0302038350054" title="KEILOR FP STRETCH nohavice royal mod. 54" price="43.677" currency="EUR" unit="KS"/>
       <variant code="0302038350052" title="KEILOR FP STRETCH nohavice royal mod. 52" price="43.677" currency="EUR" unit="KS"/>
       <variant code="0302038350048" title="KEILOR FP STRETCH nohavice royal mod. 48" price="43.677" currency="EUR" unit="KS"/>
-      <variant code="0302038350046" title="KEILOR FP STRETCH nohavice royal mod. 46" price="43.677" currency="EUR" unit="KS"/>
       <variant code="0302038341062" title="KEILOR FP STRETCH nohavice navy 62" price="43.677" currency="EUR" unit="KS"/>
       <variant code="0302038341060" title="KEILOR FP STRETCH nohavice navy 60" price="43.677" currency="EUR" unit="KS"/>
       <variant code="0302038341058" title="KEILOR FP STRETCH nohavice navy 58" price="43.677" currency="EUR" unit="KS"/>
@@ -13151,7 +13151,6 @@
       <variant code="0302039561050" title="DAYBORO 3/4 nohavice antracit 50" price="42.679" currency="EUR" unit="KS"/>
       <variant code="0302039561048" title="DAYBORO 3/4 nohavice antracit 48" price="42.679" currency="EUR" unit="KS"/>
       <variant code="0302039561046" title="DAYBORO 3/4 nohavice antracit 46" price="42.679" currency="EUR" unit="KS"/>
-      <variant code="0302039560064" title="DAYBORO 3/4 nohavice čierna 64" price="42.679" currency="EUR" unit="KS"/>
       <variant code="0302039560062" title="DAYBORO 3/4 nohavice čierna 62" price="42.679" currency="EUR" unit="KS"/>
       <variant code="0302039560060" title="DAYBORO 3/4 nohavice čierna 60" price="42.679" currency="EUR" unit="KS"/>
       <variant code="0302039560058" title="DAYBORO 3/4 nohavice čierna 58" price="42.679" currency="EUR" unit="KS"/>
