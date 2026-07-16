@@ -2784,6 +2784,7 @@
       <variant code="0110022370110" title="STANDARD PLUS rukavice 35cm PVC žltá 11" price="4.624" currency="EUR" unit="PÁR"/>
       <variant code="0110022370100" title="STANDARD PLUS rukavice 35cm PVC žltá 10" price="4.624" currency="EUR" unit="PÁR"/>
       <variant code="0110022370090" title="STANDARD PLUS rukavice 35cm PVC žltá 9" price="4.624" currency="EUR" unit="PÁR"/>
+      <variant code="0110022370080" title="STANDARD PLUS rukavice 35cm PVC žltá 8" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="01100225" title="Ansell 04-005 AlphaTec rukavice">
       <variant code="0110022599110" title="Ansell 04-005 AlphaTec rukavice - 11" price="15.755" currency="EUR" unit="PÁR"/>
@@ -4999,7 +5000,6 @@
    </product>
    <product code="02010616" title="ULTRALIGHT MF ESD S1 SR poltop.">
       <variant code="02010616W6046" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 46" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6043" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 43" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6042" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 42" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6041" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 41" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6039" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 39" price="49.83" currency="EUR" unit="PÁR"/>
@@ -13503,7 +13503,6 @@
       <variant code="03020407A2054" title="EMERTON PLUS nohavice antracit 54" price="44.43" currency="EUR" unit="KS"/>
       <variant code="03020407A2052" title="EMERTON PLUS nohavice antracit 52" price="44.43" currency="EUR" unit="KS"/>
       <variant code="03020407A2050" title="EMERTON PLUS nohavice antracit 50" price="44.43" currency="EUR" unit="KS"/>
-      <variant code="03020407A2048" title="EMERTON PLUS nohavice antracit 48" price="44.43" currency="EUR" unit="KS"/>
    </product>
    <product code="03020407PB" title="EMERTON PLUS PB nohavice">
       <variant code="03020407A2064PB" title="EMERTON PLUS PB nohavice antrac/oranž 64" price="Bude upresnené" currency="" unit="KS"/>
@@ -14069,7 +14068,6 @@
       <variant code="0303013996006" title="LYNX PROFI vesta HV oranžová 3XL" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013996005" title="LYNX PROFI vesta HV oranžová XXL" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013996004" title="LYNX PROFI vesta HV oranžová XL" price="8.23" currency="EUR" unit="KS"/>
-      <variant code="0303013996003" title="LYNX PROFI vesta HV oranžová L" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013996002" title="LYNX PROFI vesta HV oranžová M" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013996001" title="LYNX PROFI vesta HV oranžová S" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013979006" title="LYNX PROFI vesta HV žltá 3XL" price="8.23" currency="EUR" unit="KS"/>
@@ -27314,6 +27312,9 @@
    <product code="0706032599999" title="CST1010 CleanSpace ULTRA Power jednotka">
       <variant code="0706032599999" title="CST1010 CleanSpace ULTRA Power jednotka" price="2246.819" currency="EUR" unit="KS"/>
    </product>
+   <product code="0706032899999" title="3M Versaflo Ohňovzdorný kryt M-447">
+      <variant code="0706032899999" title="3M Versaflo Ohňovzdorný kryt M-447" price="236.08" currency="EUR" unit="KS"/>
+   </product>
    <product code="0706033199999" title="Jetstream Constructor Kit (TH2A2PSL)">
       <variant code="0706033199999" title="Jetstream Constructor Kit (TH2A2PSL)" price="1812.614" currency="EUR" unit="KS"/>
    </product>
@@ -27979,8 +27980,8 @@
    <product code="9906003699999" title="Petzl Actik E063AB00 čelovka">
       <variant code="9906003699999" title="Petzl Actik E063AB00 čelovka" price="73.543" currency="EUR" unit="KS"/>
    </product>
-   <product code="9906003799999" title="Petzl E060AA00 Tikkina 2022 sivá">
-      <variant code="9906003799999" title="Petzl E060AA00 Tikkina 2022 sivá" price="53.923" currency="EUR" unit="KS"/>
+   <product code="9906003799999" title="Petzl E060AB00 Tikkina 2026 čierná">
+      <variant code="9906003799999" title="Petzl E060AB00 Tikkina 2026 čierná" price="53.923" currency="EUR" unit="KS"/>
    </product>
    <product code="9906003899999" title="Petzl E069CA00 ARIA 1R čelovka">
       <variant code="9906003899999" title="Petzl E069CA00 ARIA 1R čelovka" price="91.834" currency="EUR" unit="KS"/>
