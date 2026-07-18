@@ -100158,6 +100158,52 @@ Balenie: 8 roliek</description>
          </images>
          <unit>KS</unit>
       </product>
+      <product>
+         <code>9999035399999</code>
+         <title>CERVA taška textilná 45x35x10</title>
+         <description/>
+         <categoryPath>Produkty/Ostatné</categoryPath>
+         <packaging></packaging>
+         <sizes>
+         </sizes>
+         <colors>
+         </colors>
+         <standards>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/99990353-CERVA-BAG-45x35x10-DSC-9646.png?context=bWFzdGVyfGltYWdlc3wyNzY5MDV8aW1hZ2UvcG5nfDkzNDg2MjI3MTI4NjIvOTk5OTAzNTNfQ0VSVkFfQkFHXzQ1eDM1eDEwX0RTQ185NjQ2LnBuZ3wyZDYxZTk4ZDUyZThmYjU2NjA1ZGRmYWUyMTAzMTY3MmRmYzM0YjlhYThkMmViYTk5NmIyNGIwZDM2YzA4MzZi</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/99990353-CERVA-BAG-45x35x10-DSC-9647.png?context=bWFzdGVyfGltYWdlc3wyNDk1MzJ8aW1hZ2UvcG5nfDkzNDg2MjIyNTQxMTAvOTk5OTAzNTNfQ0VSVkFfQkFHXzQ1eDM1eDEwX0RTQ185NjQ3LnBuZ3w1N2ZjYTMxMGNjMGM4ZjJkOGNmMWIzOWZmMWRlMzkxZGY2MmI2ZmFhZmNkMTM1YzMxZmJiNzg4MDI0MDYxZTU4</path>
+            </image>
+         </images>
+         <unit>KS</unit>
+      </product>
+      <product>
+         <code>9999035499999</code>
+         <title>CERVA taška textilná 70x50x10</title>
+         <description/>
+         <categoryPath>Produkty/Ostatné</categoryPath>
+         <packaging></packaging>
+         <sizes>
+         </sizes>
+         <colors>
+         </colors>
+         <standards>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/99990354-CERVA-BAG-70x50x10-DSC-9654.png?context=bWFzdGVyfGltYWdlc3wyOTk1MTB8aW1hZ2UvcG5nfDkzNDg2MjMxNzE2MTQvOTk5OTAzNTRfQ0VSVkFfQkFHXzcweDUweDEwX0RTQ185NjU0LnBuZ3w0Mzc2NThkYmQ4NTQ0OThiZjMxNzg3MWQ3NDc5NGJlNWRiYjczMGJmYjk4ZDQ2YmRkOWFjNzhmYTI5NjE4NjJl</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/99990354-CERVA-BAG-70x50x10-DSC-9655.png?context=bWFzdGVyfGltYWdlc3wzNDAxODV8aW1hZ2UvcG5nfDkzNDg2MjM1NjQ4MzAvOTk5OTAzNTRfQ0VSVkFfQkFHXzcweDUweDEwX0RTQ185NjU1LnBuZ3wyMzMzNjUzZmZhOTYxNTJkNzBlODRmMzY1NzQ3YzIzN2I4NmQ0YjFlOTE5YTFiZjhkYzk2NGMxYjAxNmJiOWFh</path>
+            </image>
+         </images>
+         <unit>KS</unit>
+      </product>
    </products>
    <categories>
       <category code="NN0000" path="" title="Produkty">

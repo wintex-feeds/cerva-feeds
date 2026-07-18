@@ -11887,7 +11887,6 @@
       <variant code="0302002590048" title="DESMAN nohavice do pás sivá/oranžová 48" price="23.181" currency="EUR" unit="KS"/>
    </product>
    <product code="03020026" title="DESMAN nohavice 2v1">
-      <variant code="0302002690058" title="DESMAN nohavice 2v1 sivá/oranžová 58" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690056" title="DESMAN nohavice 2v1 sivá/oranžová 56" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690054" title="DESMAN nohavice 2v1 sivá/oranžová 54" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690052" title="DESMAN nohavice 2v1 sivá/oranžová 52" price="25.605" currency="EUR" unit="KS"/>
@@ -12283,7 +12282,6 @@
       <variant code="0302020560003" title="CHENA CRV nohavice čierna L" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560002" title="CHENA CRV nohavice čierna M" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560001" title="CHENA CRV nohavice čierna S" price="36.643" currency="EUR" unit="KS"/>
-      <variant code="0302020514006" title="CHENA CRV nohavice olivová 3XL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020514005" title="CHENA CRV nohavice olivová XXL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020514004" title="CHENA CRV nohavice olivová XL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020514003" title="CHENA CRV nohavice olivová L" price="36.643" currency="EUR" unit="KS"/>
@@ -28749,5 +28747,11 @@
    </product>
    <product code="9999035099999" title="241.0373 mikroutěrka 40x40cm žltá">
       <variant code="9999035099999" title="241.0373 mikroutěrka 40x40cm žltá" price="1.2" currency="EUR" unit="KS"/>
+   </product>
+   <product code="9999035399999" title="CERVA taška textilná 45x35x10">
+      <variant code="9999035399999" title="CERVA taška textilná 45x35x10" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
+   <product code="9999035499999" title="CERVA taška textilná 70x50x10">
+      <variant code="9999035499999" title="CERVA taška textilná 70x50x10" price="Bude upresnené" currency="" unit="KS"/>
    </product>
 </catalog>
