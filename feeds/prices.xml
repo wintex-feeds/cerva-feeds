@@ -864,11 +864,11 @@
       <variant code="0107000499080" title="HARRIER RU rukavice nitrilové modré - 8" price="0.997" currency="EUR" unit="PÁR"/>
       <variant code="0107000499070" title="HARRIER RU rukavice nitrilové modré - 7" price="0.997" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="01070005" title="HARRIER žlté rukavice nitril">
+   <product code="01070005" title="HARRIER YELLOW rukavice nitril">
       <variant code="0107000570100" title="HARRIER YELLOW 10 rukavice nitril žlté" price="1.157" currency="EUR" unit="PÁR"/>
-      <variant code="0107000570090" title="HARRIER YELLOW 9 rukavice nitril žlté" price="1.157" currency="EUR" unit="PÁR"/>
-      <variant code="0107000570080" title="HARRIER YELLOW 8 rukavice nitril žlté" price="1.157" currency="EUR" unit="PÁR"/>
-      <variant code="0107000570070" title="HARRIER YELLOW 7 rukavice nitril žlté" price="1.157" currency="EUR" unit="PÁR"/>
+      <variant code="0107000570090" title="HARRIER Y YELLOW 9 rukavice nitril žlté" price="1.157" currency="EUR" unit="PÁR"/>
+      <variant code="0107000570080" title="HARRIER Y YELLOW 8 rukavice nitril žlté" price="1.157" currency="EUR" unit="PÁR"/>
+      <variant code="0107000570070" title="HARRIER Y YELLOW 7 rukavice nitril žlté" price="1.157" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01070006" title="ROLLER ruk.nitril celomáč. úplet.manž">
       <variant code="0107000699100" title="ROLLER ruk.nitril celomáč. úplet.manž" price="1.99" currency="EUR" unit="PÁR"/>
@@ -3873,7 +3873,6 @@
       <variant code="0201026260047" title="REGATA MF S3 SRC poltopánka 47 čierna" price="57.823" currency="EUR" unit="PÁR"/>
       <variant code="0201026260046" title="REGATA MF S3 SRC poltopánka 46 čierna" price="57.823" currency="EUR" unit="PÁR"/>
       <variant code="0201026260045" title="REGATA MF S3 SRC poltopánka 45 čierna" price="57.823" currency="EUR" unit="PÁR"/>
-      <variant code="0201026260044" title="REGATA MF S3 SRC poltopánka 44 čierna" price="57.823" currency="EUR" unit="PÁR"/>
       <variant code="0201026260043" title="REGATA MF S3 SRC poltopánka 43 čierna" price="57.823" currency="EUR" unit="PÁR"/>
       <variant code="0201026260042" title="REGATA MF S3 SRC poltopánka 42 čierna" price="57.823" currency="EUR" unit="PÁR"/>
       <variant code="0201026260041" title="REGATA MF S3 SRC poltopánka 41 čierna" price="57.823" currency="EUR" unit="PÁR"/>
@@ -4555,10 +4554,7 @@
       <variant code="0201058900036" title="NAPOLI MF S1 ESD SRC poltopánka sivá 36" price="48.121" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010590" title="ROMA MF S3 SRC poltopánka">
-      <variant code="0201059060048" title="ROMA MF S3 SRC poltopánka čierna 48" price="50.373" currency="EUR" unit="PÁR"/>
-      <variant code="0201059060047" title="ROMA MF S3 SRC poltopánka čierna 47" price="50.373" currency="EUR" unit="PÁR"/>
       <variant code="0201059060046" title="ROMA MF S3 SRC poltopánka čierna 46" price="50.373" currency="EUR" unit="PÁR"/>
-      <variant code="0201059060045" title="ROMA MF S3 SRC poltopánka čierna 45" price="50.373" currency="EUR" unit="PÁR"/>
       <variant code="0201059060044" title="ROMA MF S3 SRC poltopánka čierna 44" price="50.373" currency="EUR" unit="PÁR"/>
       <variant code="0201059060043" title="ROMA MF S3 SRC poltopánka čierna 43" price="50.373" currency="EUR" unit="PÁR"/>
       <variant code="0201059060042" title="ROMA MF S3 SRC poltopánka čierna 42" price="50.373" currency="EUR" unit="PÁR"/>
@@ -15575,7 +15571,6 @@
       <variant code="0305005394006" title="CADIZ HV polokošeľa žltá/sivá 3XL" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394005" title="CADIZ HV polokošeľa žltá/sivá XXL" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394004" title="CADIZ HV polokošeľa žltá/sivá XL" price="16.498" currency="EUR" unit="KS"/>
-      <variant code="0305005394002" title="CADIZ HV polokošeľa žltá/sivá M" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394001" title="CADIZ HV polokošeľa žltá/sivá S" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005394000" title="CADIZ HV polokošeľa žltá/sivá XS" price="16.498" currency="EUR" unit="KS"/>
       <variant code="0305005391008" title="CADIZ HV polokošeľa oranžová/navy 5XL" price="16.498" currency="EUR" unit="KS"/>
@@ -16425,7 +16420,6 @@
       <variant code="0310001512001" title="CRAMBE šortky camouflage S" price="24.617" currency="EUR" unit="KS"/>
    </product>
    <product code="03100021" title="KNOXFIELD HV 290 šortky">
-      <variant code="0310002190062" title="KNOXFIELD HV 290 šortky oranžová 62" price="31.005" currency="EUR" unit="KS"/>
       <variant code="0310002190048" title="KNOXFIELD HV 290 šortky oranžová 48" price="31.005" currency="EUR" unit="KS"/>
       <variant code="0310002170064" title="KNOXFIELD HV 290 šortky žltá 64" price="33.067" currency="EUR" unit="KS"/>
       <variant code="0310002170062" title="KNOXFIELD HV 290 šortky žltá 62" price="33.067" currency="EUR" unit="KS"/>
@@ -24473,6 +24467,9 @@
    <product code="0402017099999" title="17-P slúchadlá k prilbe CURRO">
       <variant code="0402017099999" title="17-P slúchadlá k prilbe CURRO" price="27.878" currency="EUR" unit="KS"/>
    </product>
+   <product code="0402017299999" title="MT73H7A4410WS6EU WS LiteCom Plus hl.pásk">
+      <variant code="0402017299999" title="MT73H7A4410WS6EU WS LiteCom Plus hl.pásk" price="1486.85" currency="EUR" unit="KS"/>
+   </product>
    <product code="0402017399999" title="MT20H682FB-68 SV sluch.ComTact XPI">
       <variant code="0402017399999" title="MT20H682FB-68 SV sluch.ComTact XPI" price="Bude upresnené" currency="" unit="KS"/>
    </product>
@@ -24493,6 +24490,9 @@
    </product>
    <product code="0402018399999" title="3M PELTOR MT74H52P3E-110 CH-3 slúch.">
       <variant code="0402018399999" title="3M PELTOR MT74H52P3E-110 CH-3 slúch." price="259.94" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0402018499999" title="3M PELTOR CH-3 MT74H52A-111 sluch.">
+      <variant code="0402018499999" title="3M PELTOR CH-3 MT74H52A-111 sluch." price="389.93" currency="EUR" unit="KS"/>
    </product>
    <product code="0402018699999" title="SECURE 2H Safe1 2H sluchatka/PC štít">
       <variant code="0402018699999" title="SECURE 2H Safe1 2H sluchatka/PC štít" price="72.745" currency="EUR" unit="KS"/>
@@ -24520,6 +24520,9 @@
    </product>
    <product code="0403001599999" title="Peltor HYM1000 Hyg.obal mikrofón-role 5m">
       <variant code="0403001599999" title="Peltor HYM1000 Hyg.obal mikrofón-role 5m" price="43.09" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0403001699999" title="PELTOR - M60/2 mikrofón">
+      <variant code="0403001699999" title="PELTOR - M60/2 mikrofón" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0403001899999" title="PELTOR - FL6N - Tactical 10 kábel">
       <variant code="0403001899999" title="PELTOR - FL6N - Tactical 10 kábel" price="Bude upresnené" currency="" unit="KS"/>
@@ -25090,6 +25093,9 @@
       <variant code="0501066581215" title="JSP EYEMAX okuliare AS,AF číra +1,5" price="18.52" currency="EUR" unit="KS"/>
       <variant code="0501066581210" title="JSP EYEMAX okuliare AS,AF číra +1" price="18.52" currency="EUR" unit="KS"/>
    </product>
+   <product code="0501066699999" title="3M SOLUS 2000 S2001AF-BLU-EU číra">
+      <variant code="0501066699999" title="3M SOLUS 2000 S2001AF-BLU-EU číra" price="13.57" currency="EUR" unit="KS"/>
+   </product>
    <product code="05010667" title="3M SecureFit 500">
       <variant code="0501066799999" title="3M SecureFit 500 SF501SGAF-BLK číra" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0501066781999" title="3M SecureFit 500 SF501AF-BLK-EU číra" price="10.79" currency="EUR" unit="KS"/>
@@ -25210,11 +25216,18 @@
    <product code="0502012799999" title="JSP EVOGuard C1 Industrial štít">
       <variant code="0502012799999" title="JSP EVOGuard C1 Industrial štít" price="38.249" currency="EUR" unit="KS"/>
    </product>
+   <product code="05020128" title="3M štít X5-SV">
+      <variant code="0502012881999" title="3M štít X5-SV01-CE číra -" price="34.49" currency="EUR" unit="KS"/>
+      <variant code="0502012870999" title="3M štít X5-SV03-CE žltá -" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
    <product code="05020129" title="JSP Inter Surefit Visor Carrier 17,5cm">
       <variant code="0502012981999" title="JSP Inter Surefit Visor Carrier 17,5cm" price="91.453" currency="EUR" unit="KS"/>
    </product>
    <product code="0502013299999" title="JSP EVOGuard C2 Industrial štít">
       <variant code="0502013299999" title="JSP EVOGuard C2 Industrial štít" price="55.763" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0502013499999" title="3M 5A-CPF acetát. štít s ochranou brady">
+      <variant code="0502013499999" title="3M 5A-CPF acetát. štít s ochranou brady" price="34.9" currency="EUR" unit="KS"/>
    </product>
    <product code="05020135" title="JSP EVOGuard C3-MAX Industrial štít">
       <variant code="0502013581999" title="JSP EVOGuard C3-MAX Industrial štít číra" price="69.025" currency="EUR" unit="KS"/>
@@ -25246,8 +25259,14 @@
    <product code="0503001799999" title="Zvar.kukla - potítka pre plast.kríže">
       <variant code="0503001799999" title="Zvar.kukla - potítka pre plast.kríže" price="1.846" currency="EUR" unit="KS"/>
    </product>
+   <product code="0503002699999" title="3M 426000 sklo vonk. pre Sp.Glass 10 ks">
+      <variant code="0503002699999" title="3M 426000 sklo vonk. pre Sp.Glass 10 ks" price="47.58" currency="EUR" unit="BAL"/>
+   </product>
    <product code="0503004699999" title="KZ109 vonkajší zorník k ASK300,110x90x1">
       <variant code="0503004699999" title="KZ109 vonkajší zorník k ASK300,110x90x1" price="1.079" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0503004899999" title="3M 705015 Speedglas  univ.hlavový košík">
+      <variant code="0503004899999" title="3M 705015 Speedglas  univ.hlavový košík" price="37.83" currency="EUR" unit="KS"/>
    </product>
    <product code="0503005199999" title="SK 200 Zváračská kukla plastová">
       <variant code="0503005199999" title="SK 200 Zváračská kukla plastová" price="9.489" currency="EUR" unit="KS"/>
@@ -25267,6 +25286,9 @@
    <product code="0503006599999" title="ASK 900krycí zorník vonkajší KZ133">
       <variant code="0503006599999" title="ASK 900krycí zorník vonkajší KZ133" price="1.586" currency="EUR" unit="KS"/>
    </product>
+   <product code="0503007999999" title="3M tvárové tesnenie pre Speedglas 9100">
+      <variant code="0503007999999" title="3M tvárové tesnenie pre Speedglas 9100" price="95.53" currency="EUR" unit="KS"/>
+   </product>
    <product code="0503008099999" title="KZ108850 Krycí zorník vnútorný k ASK900">
       <variant code="0503008099999" title="KZ108850 Krycí zorník vnútorný k ASK900" price="0.834" currency="EUR" unit="KS"/>
    </product>
@@ -25275,6 +25297,15 @@
    </product>
    <product code="0503008399999" title="3M Vnútorné sklíčko 9000V 2DIN (5 ks)">
       <variant code="0503008399999" title="3M Vnútorné sklíčko 9000V 2DIN (5 ks)" price="52.55" currency="EUR" unit="BAL"/>
+   </product>
+   <product code="0503008499999" title="3M Speedglas kazeta 9100V">
+      <variant code="0503008499999" title="3M Speedglas kazeta 9100V" price="497.77" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0503008699999" title="3M vonkajšie sklíčko STD 9100">
+      <variant code="0503008699999" title="3M vonkajšie sklíčko STD 9100" price="43.79" currency="EUR" unit="BAL"/>
+   </product>
+   <product code="0503008799999" title="3M vnútorné sklíčko 9100X">
+      <variant code="0503008799999" title="3M vnútorné sklíčko 9100X" price="25.24" currency="EUR" unit="BAL"/>
    </product>
    <product code="0503009299999" title="3M 527000 vonkajšie sklíčko">
       <variant code="0503009299999" title="3M 527000 vonkajšie sklíčko" price="65.68" currency="EUR" unit="BAL"/>
@@ -25390,6 +25421,9 @@
    </product>
    <product code="0504008199999" title="3M Penová vložka do okuliarov TORA CCS">
       <variant code="0504008199999" title="3M Penová vložka do okuliarov TORA CCS" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
+   <product code="0504008499999" title="3M 777000 AS Speedglass">
+      <variant code="0504008499999" title="3M 777000 AS Speedglass" price="61.21" currency="EUR" unit="KA1"/>
    </product>
    <product code="0504008599999" title="3M 289A náhr.zorník k 2890A/2890SA">
       <variant code="0504008599999" title="3M 289A náhr.zorník k 2890A/2890SA" price="10.1" currency="EUR" unit="KS"/>
