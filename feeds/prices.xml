@@ -25820,6 +25820,9 @@
       <variant code="06010158F4999" title="3M SecureFit X5014V-CE přilba ven.HV zel" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0601015880999" title="3M SecureFit X5001V-CE prilba ven.biela" price="135.59" currency="EUR" unit="KS"/>
    </product>
+   <product code="06010159" title="3M SecureFit X5500NVE-CE prilba nevent.">
+      <variant code="0601015980999" title="3M SecureFit X5501NVE-CE prilba nev.biel" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
    <product code="06010160" title="JSP EVO Lite Linesman WR CR2 ID holder">
       <variant code="0601016090999" title="JSP EVO Lite Linesman WR CR2 ID hold.ora" price="94.742" currency="EUR" unit="KS"/>
    </product>
@@ -26087,6 +26090,12 @@
    <product code="0604010899999" title="JSP EVO VISTA náhr.okuliare vnútor/vonka">
       <variant code="0604010899999" title="JSP EVO VISTA náhr.okuliare vnútor/vonka" price="36.339" currency="EUR" unit="KS"/>
    </product>
+   <product code="0604010999999" title="3M 4-bodový podbradný pásik X5-P4PTCS1">
+      <variant code="0604010999999" title="3M 4-bodový podbradný pásik X5-P4PTCS1" price="31.76" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0604011099999" title="3M 4-bodový podbradný pásik X5-P4PTCS2">
+      <variant code="0604011099999" title="3M 4-bodový podbradný pásik X5-P4PTCS2" price="34.46" currency="EUR" unit="KS"/>
+   </product>
    <product code="0604011199999" title="Podbradný remienok na prilbu 5-RS">
       <variant code="0604011199999" title="Podbradný remienok na prilbu 5-RS" price="1.398" currency="EUR" unit="KS"/>
    </product>
@@ -26107,6 +26116,9 @@
    </product>
    <product code="0604011899999" title="Potná páska (10ks) PALLADIO ADVANCE">
       <variant code="0604011899999" title="Potná páska (10ks) PALLADIO ADVANCE" price="2.486" currency="EUR" unit="BAL"/>
+   </product>
+   <product code="0604011999999" title="3M SecureFit X5-BWPD01 potná páska">
+      <variant code="0604011999999" title="3M SecureFit X5-BWPD01 potná páska" price="5.88" currency="EUR" unit="KS"/>
    </product>
    <product code="0604012099999" title="JSP Revolution Flex Spare WR náhl.kríž">
       <variant code="0604012099999" title="JSP Revolution Flex Spare WR náhl.kríž" price="19.764" currency="EUR" unit="KS"/>
@@ -26539,6 +26551,9 @@
    </product>
    <product code="07030054" title="3M Secure Click FF-802 maska">
       <variant code="0703005499020" title="3M Secure Click FF-802 maska - M" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
+   <product code="07030055" title="3M Secure Click FF-803 maska">
+      <variant code="0703005599030" title="3M Secure Click FF-803 maska - L" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0704000199999" title="3M 2125 Filter P2  /BAL">
       <variant code="0704000199999" title="3M 2125 Filter P2  /BAL" price="10.62" currency="EUR" unit="BAL"/>
@@ -27380,8 +27395,14 @@
    <product code="0706032599999" title="CST1010 CleanSpace ULTRA Power jednotka">
       <variant code="0706032599999" title="CST1010 CleanSpace ULTRA Power jednotka" price="2246.819" currency="EUR" unit="KS"/>
    </product>
+   <product code="0706032699999" title="3M Versaflo BT-927 žáruvzdor.kryt had.">
+      <variant code="0706032699999" title="3M Versaflo BT-927 žáruvzdor.kryt had." price="163.15" currency="EUR" unit="KS"/>
+   </product>
    <product code="0706032899999" title="3M Versaflo Ohňovzdorný kryt M-447">
       <variant code="0706032899999" title="3M Versaflo Ohňovzdorný kryt M-447" price="236.08" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0706033099999" title="3M Versaflo M-925 zorník">
+      <variant code="0706033099999" title="3M Versaflo M-925 zorník" price="35.47" currency="EUR" unit="KS"/>
    </product>
    <product code="0706033199999" title="Jetstream Constructor Kit (TH2A2PSL)">
       <variant code="0706033199999" title="Jetstream Constructor Kit (TH2A2PSL)" price="1812.614" currency="EUR" unit="KS"/>
@@ -27613,8 +27634,20 @@
    <product code="0799009299999" title="3M Versaflo TR-6500FC Kryt filtra">
       <variant code="0799009299999" title="3M Versaflo TR-6500FC Kryt filtra" price="20.1" currency="EUR" unit="KS"/>
    </product>
+   <product code="0799009399999" title="3M Versaflo M-973 štít">
+      <variant code="0799009399999" title="3M Versaflo M-973 štít" price="560.13" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0799009499999" title="3M Versaflo M-961 Rámeček krytu zorníku">
+      <variant code="0799009499999" title="3M Versaflo M-961 Rámeček krytu zorníku" price="129.12" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0799009899999" title="3M TR-681 PAPR ochranný kryt">
+      <variant code="0799009899999" title="3M TR-681 PAPR ochranný kryt" price="42.65" currency="EUR" unit="KS"/>
+   </product>
    <product code="0799009999999" title="Nabíjačka batérií SR500/SR700">
       <variant code="0799009999999" title="Nabíjačka batérií SR500/SR700" price="240.981" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0799010199999" title="3M Versaflo TR-653 čistiaca súprava">
+      <variant code="0799010199999" title="3M Versaflo TR-653 čistiaca súprava" price="95.2" currency="EUR" unit="KS"/>
    </product>
    <product code="0799011399999" title="JSP Force10 Ochr.fólia na zorník PK10">
       <variant code="0799011399999" title="JSP Force10 Ochr.fólia na zorník PK10" price="27.919" currency="EUR" unit="BAL"/>
@@ -28118,6 +28151,9 @@
    <product code="99100020" title="JSP reťaz plast 8mm/25m">
       <variant code="9910002064999" title="JSP reťaz plast 8mm/25m čierna/žltá -" price="86.453" currency="EUR" unit="KS"/>
       <variant code="9910002024999" title="JSP reťaz plast 8mm/25m červená/biela -" price="86.453" currency="EUR" unit="KS"/>
+   </product>
+   <product code="9910003199999" title="3M 7671 Páska samolep. R/W  33m/55mm">
+      <variant code="9910003199999" title="3M 7671 Páska samolep. R/W  33m/55mm" price="9.98" currency="EUR" unit="KS"/>
    </product>
    <product code="9910003499999" title="JSP MIcrolite 2 non photocell">
       <variant code="9910003499999" title="JSP MIcrolite 2 non photocell" price="27.746" currency="EUR" unit="KS"/>
