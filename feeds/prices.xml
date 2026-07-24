@@ -3943,20 +3943,6 @@
       <variant code="0201031652036" title="COACH MF S1P SRC poltopánka 36 sv.modrá" price="54.21" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010340" title="CARBON ESD S3S CI FO SR poltop.">
-      <variant code="0201034060868" title="CARBON ESD S3S CI FO SR poltop. š.12-48" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060867" title="CARBON ESD S3S CI FO SR poltop. š.12-47" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060866" title="CARBON ESD S3S CI FO SR poltop. š.12-46" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060865" title="CARBON ESD S3S CI FO SR poltop. š.12-45" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060864" title="CARBON ESD S3S CI FO SR poltop. š.12-44" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060863" title="CARBON ESD S3S CI FO SR poltop. š.12-43" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060862" title="CARBON ESD S3S CI FO SR poltop. š.12-42" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060861" title="CARBON ESD S3S CI FO SR poltop. š.12-41" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060860" title="CARBON ESD S3S CI FO SR poltop. š.12-40" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060859" title="CARBON ESD S3S CI FO SR poltop. š.12-39" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060858" title="CARBON ESD S3S CI FO SR poltop. š.12-38" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060857" title="CARBON ESD S3S CI FO SR poltop. š.12-37" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060856" title="CARBON ESD S3S CI FO SR poltop. š.12-36" price="148.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201034060855" title="CARBON ESD S3S CI FO SR poltop. š.12-35" price="148.1" currency="EUR" unit="PÁR"/>
       <variant code="0201034060048" title="CARBON ESD S3S CI FO SR poltop.čierna 48" price="148.1" currency="EUR" unit="PÁR"/>
       <variant code="0201034060047" title="CARBON ESD S3S CI FO SR poltop.čierna 47" price="148.1" currency="EUR" unit="PÁR"/>
       <variant code="0201034060046" title="CARBON ESD S3S CI FO SR poltop.čierna 46" price="148.1" currency="EUR" unit="PÁR"/>
@@ -4995,8 +4981,6 @@
       <variant code="02010616W6046" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 46" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6042" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 42" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6041" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 41" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6039" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 39" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6038" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 38" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6035" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 35" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666048" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 48" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666047" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 47" price="49.83" currency="EUR" unit="PÁR"/>
@@ -5734,19 +5718,6 @@
       <variant code="0201080360036" title="BRIENNE ESD S1PS HI HRO FO SR poltop. 36" price="150.1" currency="EUR" unit="PÁR"/>
       <variant code="0201080360035" title="BRIENNE ESD S1PS HI HRO FO SR poltop. 35" price="150.1" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="02010820" title="DAVE S3S CI HI HRO FO SR poltopánka">
-      <variant code="0201082060048" title="DAVE S3S CI HI HRO FO SR poltop.čier.48" price="175.6" currency="EUR" unit="PÁR"/>
-      <variant code="0201082060047" title="DAVE S3S CI HI HRO FO SR poltop.čier.47" price="175.6" currency="EUR" unit="PÁR"/>
-      <variant code="0201082060046" title="DAVE S3S CI HI HRO FO SR poltop.čier.46" price="175.6" currency="EUR" unit="PÁR"/>
-      <variant code="0201082060045" title="DAVE S3S CI HI HRO FO SR poltop.čier.45" price="175.6" currency="EUR" unit="PÁR"/>
-      <variant code="0201082060044" title="DAVE S3S CI HI HRO FO SR poltop.čier.44" price="175.6" currency="EUR" unit="PÁR"/>
-      <variant code="0201082060043" title="DAVE S3S CI HI HRO FO SR poltop.čier.43" price="175.6" currency="EUR" unit="PÁR"/>
-      <variant code="0201082060042" title="DAVE S3S CI HI HRO FO SR poltop.čier.42" price="175.6" currency="EUR" unit="PÁR"/>
-      <variant code="0201082060041" title="DAVE S3S CI HI HRO FO SR poltop.čier.41" price="175.6" currency="EUR" unit="PÁR"/>
-      <variant code="0201082060040" title="DAVE S3S CI HI HRO FO SR poltop.čier.40" price="175.6" currency="EUR" unit="PÁR"/>
-      <variant code="0201082060039" title="DAVE S3S CI HI HRO FO SR poltop.čier.39" price="175.6" currency="EUR" unit="PÁR"/>
-      <variant code="0201082060038" title="DAVE S3S CI HI HRO FO SR poltop.čier.38" price="175.6" currency="EUR" unit="PÁR"/>
-   </product>
    <product code="02010824" title="ROBIN ESD S1PS FO SR poltopánka">
       <variant code="0201082499048" title="ROBIN ESD S1PS FO SR poltopánka - 48" price="129.8" currency="EUR" unit="PÁR"/>
       <variant code="0201082499047" title="ROBIN ESD S1PS FO SR poltopánka - 47" price="129.8" currency="EUR" unit="PÁR"/>
@@ -6310,20 +6281,6 @@
       <variant code="0202068460038" title="JENA S3 CI SR členok 38 čierna" price="29.216" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02020692" title="LIFT ESD S3S CI FO SR členok">
-      <variant code="0202069260868" title="LIFT ESD S3S CI FO SR členok š.12-48" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260867" title="LIFT ESD S3S CI FO SR členok š.12-47" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260866" title="LIFT ESD S3S CI FO SR členok š.12-46" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260865" title="LIFT ESD S3S CI FO SR členok š.12-45" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260864" title="LIFT ESD S3S CI FO SR členok š.12-44" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260863" title="LIFT ESD S3S CI FO SR členok š.12-43" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260862" title="LIFT ESD S3S CI FO SR členok š.12-42" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260861" title="LIFT ESD S3S CI FO SR členok š.12-41" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260860" title="LIFT ESD S3S CI FO SR členok š.12-40" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260859" title="LIFT ESD S3S CI FO SR členok š.12-39" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260858" title="LIFT ESD S3S CI FO SR členok š.12-38" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260857" title="LIFT ESD S3S CI FO SR členok š.12-37" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260856" title="LIFT ESD S3S CI FO SR členok š.12-36" price="152.7" currency="EUR" unit="PÁR"/>
-      <variant code="0202069260855" title="LIFT ESD S3S CI FO SR členok š.12-35" price="152.7" currency="EUR" unit="PÁR"/>
       <variant code="0202069260048" title="LIFT ESD S3S CI FO SR členok čierna 48" price="152.7" currency="EUR" unit="PÁR"/>
       <variant code="0202069260047" title="LIFT ESD S3S CI FO SR členok čierna 47" price="152.7" currency="EUR" unit="PÁR"/>
       <variant code="0202069260046" title="LIFT ESD S3S CI FO SR členok čierna 46" price="152.7" currency="EUR" unit="PÁR"/>
@@ -7070,22 +7027,6 @@
       <variant code="0202094660040" title="COSMO S3S CI HI HRO FO SR členok čier.40" price="187.0" currency="EUR" unit="PÁR"/>
       <variant code="0202094660039" title="COSMO S3S CI HI HRO FO SR členok čier.39" price="187.0" currency="EUR" unit="PÁR"/>
       <variant code="0202094660038" title="COSMO S3S CI HI HRO FO SR členok čier.38" price="187.0" currency="EUR" unit="PÁR"/>
-   </product>
-   <product code="02020970" title="RONAN S3S CI HI HRO FO SR členok">
-      <variant code="0202097060048" title="RONAN S3S CI HI HRO FO SR členok čier.48" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060047" title="RONAN S3S CI HI HRO FO SR členok čier.47" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060046" title="RONAN S3S CI HI HRO FO SR členok čier.46" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060045" title="RONAN S3S CI HI HRO FO SR členok čier.45" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060044" title="RONAN S3S CI HI HRO FO SR členok čier.44" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060043" title="RONAN S3S CI HI HRO FO SR členok čier.43" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060042" title="RONAN S3S CI HI HRO FO SR členok čier.42" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060041" title="RONAN S3S CI HI HRO FO SR členok čier.41" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060040" title="RONAN S3S CI HI HRO FO SR členok čier.40" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060039" title="RONAN S3S CI HI HRO FO SR členok čier.39" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060038" title="RONAN S3S CI HI HRO FO SR členok čier.38" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060037" title="RONAN S3S CI HI HRO FO SR členok čier.37" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060036" title="RONAN S3S CI HI HRO FO SR členok čier.36" price="178.6" currency="EUR" unit="PÁR"/>
-      <variant code="0202097060035" title="RONAN S3S CI HI HRO FO SR členok čier.35" price="178.6" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02020985" title="DROP GTX S7S HI CI HRO FO SR členok">
       <variant code="0202098560048" title="DROP GTX S7S HI CI HRO FO SR členok 48" price="220.8" currency="EUR" unit="PÁR"/>
@@ -11696,6 +11637,40 @@
       <variant code="0301072440001" title="MAX ECO STRETCH softshell bunda modrá S" price="22.241" currency="EUR" unit="KS"/>
       <variant code="0301072440000" title="MAX ECO STRETCH softshell bunda modrá XS" price="22.241" currency="EUR" unit="KS"/>
    </product>
+   <product code="03010726" title="STIRLING STRETCH softshell zimná bunda">
+      <variant code="0301072660007" title="STIRLING STRETCH soft.zim.bunda čier.4XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072660006" title="STIRLING STRETCH soft.zim.bunda čier.3XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072660005" title="STIRLING STRETCH soft.zim.bunda čier.XXL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072660004" title="STIRLING STRETCH soft.zim.bunda čier.XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072660003" title="STIRLING STRETCH soft.zim.bunda čier.L" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072660002" title="STIRLING STRETCH soft.zim.bunda čier.M" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072660001" title="STIRLING STRETCH soft.zim.bunda čier.S" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072660000" title="STIRLING STRETCH soft.zim.bunda čier.XS" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072640007" title="STIRLING STRETCH soft.zim.bunda modr 4XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072640006" title="STIRLING STRETCH soft.zim.bunda modr 3XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072640005" title="STIRLING STRETCH soft.zim.bunda modr XXL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072640004" title="STIRLING STRETCH soft.zim.bunda modrá XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072640003" title="STIRLING STRETCH soft.zim.bunda modrá L" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072640002" title="STIRLING STRETCH soft.zim.bunda modrá M" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072640001" title="STIRLING STRETCH soft.zim.bunda modrá S" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072640000" title="STIRLING STRETCH soft.zim.bunda modrá XS" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072621007" title="STIRLING STRETCH soft.zim.bunda tehl.4XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072621006" title="STIRLING STRETCH soft.zim.bunda tehl.3XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072621005" title="STIRLING STRETCH soft.zim.bunda tehl.XXL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072621004" title="STIRLING STRETCH soft.zim.bunda tehl.XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072621003" title="STIRLING STRETCH soft.zim.bunda tehl.L" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072621002" title="STIRLING STRETCH soft.zim.bunda tehl.M" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072621001" title="STIRLING STRETCH soft.zim.bunda tehl.S" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072621000" title="STIRLING STRETCH soft.zim.bunda tehl.XS" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072610007" title="STIRLING STRETCH soft.zim.bunda zel.4XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072610006" title="STIRLING STRETCH soft.zim.bunda zel.3XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072610005" title="STIRLING STRETCH soft.zim.bunda zel.XXL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072610004" title="STIRLING STRETCH soft.zim.bunda zel.XL" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072610003" title="STIRLING STRETCH soft.zim.bunda zel.L" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072610002" title="STIRLING STRETCH soft.zim.bunda zel.M" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072610001" title="STIRLING STRETCH soft.zim.bunda zel.S" price="67.554" currency="EUR" unit="KS"/>
+      <variant code="0301072610000" title="STIRLING STRETCH soft.zim.bunda zel.XS" price="67.554" currency="EUR" unit="KS"/>
+   </product>
    <product code="03010727" title="HOMES 9934 softshell bunda">
       <variant code="0301072760006" title="HOMES 9934 softshell bunda čierna 3XL" price="129.471" currency="EUR" unit="KS"/>
       <variant code="0301072760005" title="HOMES 9934 softshell bunda čierna XXL" price="129.471" currency="EUR" unit="KS"/>
@@ -13670,6 +13645,40 @@
       <variant code="0302046360001" title="L-SURE ROBSON LADY nohavice čierna S" price="32.495" currency="EUR" unit="KS"/>
       <variant code="0302046360000" title="L-SURE ROBSON LADY nohavice čierna XS" price="32.495" currency="EUR" unit="KS"/>
    </product>
+   <product code="03020464" title="STIRLING STRETCH softsh.zimné nohavice">
+      <variant code="0302046460007" title="STIRLING STRETCH soft.zim.noh.čierna 4XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046460006" title="STIRLING STRETCH soft.zim.noh.čierna 3XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046460005" title="STIRLING STRETCH soft.zim.noh.čierna XXL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046460004" title="STIRLING STRETCH soft.zim.noh.čierna XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046460003" title="STIRLING STRETCH soft.zim.noh.čierna L" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046460002" title="STIRLING STRETCH soft.zim.noh.čierna M" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046460001" title="STIRLING STRETCH soft.zim.noh.čierna S" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046460000" title="STIRLING STRETCH soft.zim.noh.čierna XS" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046440007" title="STIRLING STRETCH soft.zim.noh.modrá 4XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046440006" title="STIRLING STRETCH soft.zim.noh.modrá 3XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046440005" title="STIRLING STRETCH soft.zim.noh.modrá XXL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046440004" title="STIRLING STRETCH soft.zim.noh.modrá XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046440003" title="STIRLING STRETCH soft.zim.noh.modrá L" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046440002" title="STIRLING STRETCH soft.zim.noh.modrá M" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046440001" title="STIRLING STRETCH soft.zim.noh.modrá S" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046440000" title="STIRLING STRETCH soft.zim.noh.modrá XS" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046421007" title="STIRLING STRETCH soft.zim.noh.tehl. 4XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046421006" title="STIRLING STRETCH soft.zim.noh.tehl. 3XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046421005" title="STIRLING STRETCH soft.zim.noh.tehl. XXL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046421004" title="STIRLING STRETCH soft.zim.noh.tehlová XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046421003" title="STIRLING STRETCH soft.zim.noh.tehlová L" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046421002" title="STIRLING STRETCH soft.zim.noh.tehlová M" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046421001" title="STIRLING STRETCH soft.zim.noh.tehlová S" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046421000" title="STIRLING STRETCH soft.zim.noh.tehlová XS" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046410007" title="STIRLING STRETCH soft.zim.noh.zelená 4XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046410006" title="STIRLING STRETCH soft.zim.noh.zelená 3XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046410005" title="STIRLING STRETCH soft.zim.noh.zelená XXL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046410004" title="STIRLING STRETCH soft.zim.noh.zelená XL" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046410003" title="STIRLING STRETCH soft.zim.noh.zelená L" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046410002" title="STIRLING STRETCH soft.zim.noh.zelená M" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046410001" title="STIRLING STRETCH soft.zim.noh.zelená S" price="46.122" currency="EUR" unit="KS"/>
+      <variant code="0302046410000" title="STIRLING STRETCH soft.zim.noh.zelená XS" price="46.122" currency="EUR" unit="KS"/>
+   </product>
    <product code="03020466" title="SIP PERTHUS FLASH 3 nohavice">
       <variant code="03020466A2006" title="SIP PERTHUS FLASH 3 nohav.antr/oranž 3XL" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="03020466A2005" title="SIP PERTHUS FLASH 3 nohav.antr/oranž XXL" price="Bude upresnené" currency="" unit="KS"/>
@@ -13704,7 +13713,6 @@
       <variant code="0303001040001" title="NYALA vesta modrá S" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001040000" title="NYALA vesta modrá XS" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001020006" title="NYALA vesta červená 3XL" price="28.77" currency="EUR" unit="KS"/>
-      <variant code="0303001020005" title="NYALA vesta červená XXL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001020003" title="NYALA vesta červená L" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001020002" title="NYALA vesta červená M" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010006" title="NYALA vesta zelená 3XL" price="28.77" currency="EUR" unit="KS"/>
@@ -17563,6 +17571,12 @@
    </product>
    <product code="0314017099999" title="JSP SUREFIT Čiapka pod prilbu L/XL">
       <variant code="0314017099999" title="JSP SUREFIT Čiapka pod prilbu L/XL" price="16.726" currency="EUR" unit="KS"/>
+   </product>
+   <product code="03140171" title="STIRLING STRETCH pletená čiapka">
+      <variant code="0314017160999" title="STIRLING STRETCH pletená čiapka čierna" price="16.328" currency="EUR" unit="KS"/>
+      <variant code="0314017140999" title="STIRLING STRETCH pletená čiapka modrá" price="16.328" currency="EUR" unit="KS"/>
+      <variant code="0314017121999" title="STIRLING STRETCH pletená čiapka tehlová" price="16.328" currency="EUR" unit="KS"/>
+      <variant code="0314017110999" title="STIRLING STRETCH pletená čiapka zelená" price="16.328" currency="EUR" unit="KS"/>
    </product>
    <product code="03150006" title="EMERTON kombinéza">
       <variant code="0315000690058" title="EMERTON kombinéza - 58" price="67.346" currency="EUR" unit="KS"/>
@@ -22204,6 +22218,64 @@
       <variant code="0352016010046" title="STIRLING STRETCH letné nohavice zel. 46" price="35.817" currency="EUR" unit="KS"/>
       <variant code="0352016010044" title="STIRLING STRETCH letné nohavice zel. 44" price="35.817" currency="EUR" unit="KS"/>
       <variant code="0352016010042" title="STIRLING STRETCH letné nohavice zel. 42" price="35.817" currency="EUR" unit="KS"/>
+   </product>
+   <product code="03520161" title="STIRLING STRETCH zimné nohavice">
+      <variant code="0352016160068" title="STIRLING STRETCH zimné nohavice čier. 68" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160066" title="STIRLING STRETCH zimné nohavice čier. 66" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160064" title="STIRLING STRETCH zimné nohavice čier. 64" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160062" title="STIRLING STRETCH zimné nohavice čier. 62" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160060" title="STIRLING STRETCH zimné nohavice čier. 60" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160058" title="STIRLING STRETCH zimné nohavice čier. 58" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160056" title="STIRLING STRETCH zimné nohavice čier. 56" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160054" title="STIRLING STRETCH zimné nohavice čier. 54" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160052" title="STIRLING STRETCH zimné nohavice čier. 52" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160050" title="STIRLING STRETCH zimné nohavice čier. 50" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160048" title="STIRLING STRETCH zimné nohavice čier. 48" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160046" title="STIRLING STRETCH zimné nohavice čier. 46" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160044" title="STIRLING STRETCH zimné nohavice čier. 44" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016160042" title="STIRLING STRETCH zimné nohavice čier. 42" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140068" title="STIRLING STRETCH zimné nohavice modrá 68" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140066" title="STIRLING STRETCH zimné nohavice modrá 66" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140064" title="STIRLING STRETCH zimné nohavice modrá 64" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140062" title="STIRLING STRETCH zimné nohavice modrá 62" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140060" title="STIRLING STRETCH zimné nohavice modrá 60" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140058" title="STIRLING STRETCH zimné nohavice modrá 58" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140056" title="STIRLING STRETCH zimné nohavice modrá 56" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140054" title="STIRLING STRETCH zimné nohavice modrá 54" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140052" title="STIRLING STRETCH zimné nohavice modrá 52" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140050" title="STIRLING STRETCH zimné nohavice modrá 50" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140048" title="STIRLING STRETCH zimné nohavice modrá 48" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140046" title="STIRLING STRETCH zimné nohavice modrá 46" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140044" title="STIRLING STRETCH zimné nohavice modrá 44" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016140042" title="STIRLING STRETCH zimné nohavice modrá 42" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121068" title="STIRLING STRETCH zimné nohavice tehl. 68" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121066" title="STIRLING STRETCH zimné nohavice tehl. 66" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121064" title="STIRLING STRETCH zimné nohavice tehl. 64" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121062" title="STIRLING STRETCH zimné nohavice tehl. 62" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121060" title="STIRLING STRETCH zimné nohavice tehl. 60" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121058" title="STIRLING STRETCH zimné nohavice tehl. 58" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121056" title="STIRLING STRETCH zimné nohavice tehl. 56" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121054" title="STIRLING STRETCH zimné nohavice tehl. 54" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121052" title="STIRLING STRETCH zimné nohavice tehl. 52" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121050" title="STIRLING STRETCH zimné nohavice tehl. 50" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121048" title="STIRLING STRETCH zimné nohavice tehl. 48" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121046" title="STIRLING STRETCH zimné nohavice tehl. 46" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121044" title="STIRLING STRETCH zimné nohavice tehl. 44" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016121042" title="STIRLING STRETCH zimné nohavice tehl. 42" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110068" title="STIRLING STRETCH zimné nohavice zel. 68" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110066" title="STIRLING STRETCH zimné nohavice zel. 66" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110064" title="STIRLING STRETCH zimné nohavice zel. 64" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110062" title="STIRLING STRETCH zimné nohavice zel. 62" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110060" title="STIRLING STRETCH zimné nohavice zel. 60" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110058" title="STIRLING STRETCH zimné nohavice zel. 58" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110056" title="STIRLING STRETCH zimné nohavice zel. 56" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110054" title="STIRLING STRETCH zimné nohavice zel. 54" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110052" title="STIRLING STRETCH zimné nohavice zel. 52" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110050" title="STIRLING STRETCH zimné nohavice zel. 50" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110048" title="STIRLING STRETCH zimné nohavice zel. 48" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110046" title="STIRLING STRETCH zimné nohavice zel. 46" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110044" title="STIRLING STRETCH zimné nohavice zel. 44" price="47.358" currency="EUR" unit="KS"/>
+      <variant code="0352016110042" title="STIRLING STRETCH zimné nohavice zel. 42" price="47.358" currency="EUR" unit="KS"/>
    </product>
    <product code="03520174" title="SIP 1RX3 protipor.nohavice">
       <variant code="0352017462005" title="SIP 1RX3 protipor.nohav. antr/čierna XXL" price="Bude upresnené" currency="" unit="KS"/>
