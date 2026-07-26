@@ -1775,7 +1775,7 @@
             <color code="96" title="HV oranžová"/>
          </colors>
          <standards>
-            <standard code="EN 420" title="EN 420"/>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN 388" title="EN 388 | 3222X"/>
          </standards>
          <brand>CERV</brand>
@@ -17882,7 +17882,7 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             <color code="96" title="HV oranžová"/>
          </colors>
          <standards>
-            <standard code="EN 420" title="EN 420"/>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN 388" title="EN 388 | 3222X"/>
          </standards>
          <brand>CERV</brand>
@@ -17918,7 +17918,7 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             <color code="79" title="HV žltá"/>
          </colors>
          <standards>
-            <standard code="EN 420" title="EN 420"/>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN 388" title="EN 388 | 3222X"/>
          </standards>
          <brand>CERV</brand>
