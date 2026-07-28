@@ -4273,7 +4273,6 @@
       <variant code="0201056599047" title="SUPER SET BLUE ESD S1P SRC poltopánka 47" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056599046" title="SUPER SET BLUE ESD S1P SRC poltopánka 46" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056599040" title="SUPER SET BLUE ESD S1P SRC poltopánka 40" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599038" title="SUPER SET BLUE ESD S1P SRC poltopánka 38" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056599037" title="SUPER SET BLUE ESD S1P SRC poltopánka 37" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056599036" title="SUPER SET BLUE ESD S1P SRC poltopánka 36" price="110.969" currency="EUR" unit="PÁR"/>
    </product>
@@ -11851,7 +11850,6 @@
       <variant code="0302002590064" title="DESMAN nohavice do pás sivá/oranžová 64" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590062" title="DESMAN nohavice do pás sivá/oranžová 62" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590060" title="DESMAN nohavice do pás sivá/oranžová 60" price="23.181" currency="EUR" unit="KS"/>
-      <variant code="0302002590058" title="DESMAN nohavice do pás sivá/oranžová 58" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590054" title="DESMAN nohavice do pás sivá/oranžová 54" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590052" title="DESMAN nohavice do pás sivá/oranžová 52" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590050" title="DESMAN nohavice do pás sivá/oranžová 50" price="23.181" currency="EUR" unit="KS"/>
@@ -11861,6 +11859,7 @@
       <variant code="0302002690056" title="DESMAN nohavice 2v1 sivá/oranžová 56" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690054" title="DESMAN nohavice 2v1 sivá/oranžová 54" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690052" title="DESMAN nohavice 2v1 sivá/oranžová 52" price="25.605" currency="EUR" unit="KS"/>
+      <variant code="0302002690050" title="DESMAN nohavice 2v1 sivá/oranžová 50" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690046" title="DESMAN nohavice 2v1 sivá/oranžová 46" price="25.605" currency="EUR" unit="KS"/>
    </product>
    <product code="03020027" title="APUS nohavice pánske">
@@ -16614,7 +16613,6 @@
       <variant code="03100029A2052" title="EMERTON PLUS šortky antracit/oranžová 52" price="37.74" currency="EUR" unit="KS"/>
       <variant code="03100029A2050" title="EMERTON PLUS šortky antracit/oranžová 50" price="37.74" currency="EUR" unit="KS"/>
       <variant code="03100029A2048" title="EMERTON PLUS šortky antracit/oranžová 48" price="37.74" currency="EUR" unit="KS"/>
-      <variant code="03100029A2046" title="EMERTON PLUS šortky antracit/oranžová 46" price="37.74" currency="EUR" unit="KS"/>
    </product>
    <product code="03100029PB" title="EMERTON PLUS PB šortky">
       <variant code="03100029A2064PB" title="EMERTON PLUS PB šortky antracit/oranž 64" price="Bude upresnené" currency="" unit="KS"/>
