@@ -1996,7 +1996,6 @@
       <variant code="0108026899060" title="POZON DOT rukavice - 6" price="4.239" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01080269" title="FF BABBLER FULL light rukavice">
-      <variant code="0108026999100" title="FF BABBLER FULL light rukavice - 10" price="0.985" currency="EUR" unit="PÁR"/>
       <variant code="0108026999090" title="FF BABBLER FULL light rukavice - 9" price="0.985" currency="EUR" unit="PÁR"/>
       <variant code="0108026999080" title="FF BABBLER FULL light rukavice - 8" price="0.985" currency="EUR" unit="PÁR"/>
    </product>
@@ -7400,7 +7399,6 @@
       <variant code="0203012980046" title="RAVEN ESD O1 SRC sandále 46 biela" price="30.051" currency="EUR" unit="PÁR"/>
       <variant code="0203012980044" title="RAVEN ESD O1 SRC sandále 44 biela" price="30.051" currency="EUR" unit="PÁR"/>
       <variant code="0203012980041" title="RAVEN ESD O1 SRC sandále 41 biela" price="30.051" currency="EUR" unit="PÁR"/>
-      <variant code="0203012980040" title="RAVEN ESD O1 SRC sandále 40 biela" price="30.051" currency="EUR" unit="PÁR"/>
       <variant code="0203012980037" title="RAVEN ESD O1 SRC sandále 37 biela" price="30.051" currency="EUR" unit="PÁR"/>
       <variant code="0203012980036" title="RAVEN ESD O1 SRC sandále 36 biela" price="30.051" currency="EUR" unit="PÁR"/>
       <variant code="0203012980035" title="RAVEN ESD O1 SRC sandále 35 biela" price="30.051" currency="EUR" unit="PÁR"/>
@@ -11859,7 +11857,6 @@
       <variant code="0302002690056" title="DESMAN nohavice 2v1 sivá/oranžová 56" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690054" title="DESMAN nohavice 2v1 sivá/oranžová 54" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690052" title="DESMAN nohavice 2v1 sivá/oranžová 52" price="25.605" currency="EUR" unit="KS"/>
-      <variant code="0302002690050" title="DESMAN nohavice 2v1 sivá/oranžová 50" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690046" title="DESMAN nohavice 2v1 sivá/oranžová 46" price="25.605" currency="EUR" unit="KS"/>
    </product>
    <product code="03020027" title="APUS nohavice pánske">
