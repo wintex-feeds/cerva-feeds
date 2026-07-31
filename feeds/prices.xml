@@ -2275,6 +2275,9 @@
       <variant code="0109000999080" title="ANSELL  25-201 NeoTouch 8" price="49.181" currency="EUR" unit="BOX"/>
       <variant code="0109000999070" title="ANSELL  25-201 NeoTouch 7" price="49.181" currency="EUR" unit="BOX"/>
    </product>
+   <product code="01090012" title="ANSELL 69-210 Touch N Tuf">
+      <variant code="0109001299105" title="Ansell 69-210 Touch N Tuf 9-10 EXP11/25" price="10.303" currency="EUR" unit="BOX"/>
+   </product>
    <product code="01090013" title="Ansell 69-318 Touch N Tuf">
       <variant code="0109001399105" title="Ansell 69-318 Touch N Tuf 9-10" price="17.004" currency="EUR" unit="BOX"/>
       <variant code="0109001399085" title="Ansell 69-318 Touch N Tuf 8,5-9" price="17.7" currency="EUR" unit="BOX"/>
@@ -9555,7 +9558,6 @@
       <variant code="0301004690048" title="EMERTON bunda - 48" price="29.5" currency="EUR" unit="KS"/>
       <variant code="0301004690046" title="EMERTON bunda - 46" price="29.5" currency="EUR" unit="KS"/>
       <variant code="0301004641058" title="EMERTON bunda navy 58" price="29.84" currency="EUR" unit="KS"/>
-      <variant code="0301004641056" title="EMERTON bunda navy 56" price="29.84" currency="EUR" unit="KS"/>
       <variant code="0301004641054" title="EMERTON bunda navy 54" price="29.84" currency="EUR" unit="KS"/>
       <variant code="0301004641052" title="EMERTON bunda navy 52" price="29.84" currency="EUR" unit="KS"/>
       <variant code="0301004641048" title="EMERTON bunda navy 48" price="29.84" currency="EUR" unit="KS"/>
@@ -12225,12 +12227,12 @@
       <variant code="0302002590064" title="DESMAN nohavice do pás sivá/oranžová 64" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590062" title="DESMAN nohavice do pás sivá/oranžová 62" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590060" title="DESMAN nohavice do pás sivá/oranžová 60" price="23.181" currency="EUR" unit="KS"/>
-      <variant code="0302002590054" title="DESMAN nohavice do pás sivá/oranžová 54" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590052" title="DESMAN nohavice do pás sivá/oranžová 52" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590050" title="DESMAN nohavice do pás sivá/oranžová 50" price="23.181" currency="EUR" unit="KS"/>
       <variant code="0302002590048" title="DESMAN nohavice do pás sivá/oranžová 48" price="23.181" currency="EUR" unit="KS"/>
    </product>
    <product code="03020026" title="DESMAN nohavice 2v1">
+      <variant code="0302002690058" title="DESMAN nohavice 2v1 sivá/oranžová 58" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690056" title="DESMAN nohavice 2v1 sivá/oranžová 56" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690054" title="DESMAN nohavice 2v1 sivá/oranžová 54" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690052" title="DESMAN nohavice 2v1 sivá/oranžová 52" price="25.605" currency="EUR" unit="KS"/>
@@ -16767,7 +16769,6 @@
    <product code="03100007" title="STANMORE šortky">
       <variant code="0310000769062" title="STANMORE šortky tm. hnedá 62" price="33.718" currency="EUR" unit="KS"/>
       <variant code="0310000769060" title="STANMORE šortky tm. hnedá 60" price="33.718" currency="EUR" unit="KS"/>
-      <variant code="0310000769054" title="STANMORE šortky tm. hnedá 54" price="33.718" currency="EUR" unit="KS"/>
       <variant code="0310000742062" title="STANMORE šortky tm modrá 62" price="33.718" currency="EUR" unit="KS"/>
       <variant code="0310000742060" title="STANMORE šortky tm modrá 60" price="33.718" currency="EUR" unit="KS"/>
       <variant code="0310000742058" title="STANMORE šortky tm modrá 58" price="33.718" currency="EUR" unit="KS"/>
@@ -27143,6 +27144,9 @@
    </product>
    <product code="0704013099999" title="SR 299-2 Kombinovaný filter ABEK1-Hg-P3">
       <variant code="0704013099999" title="SR 299-2 Kombinovaný filter ABEK1-Hg-P3" price="43.805" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0704013399999" title="3M 837012 Filter častíc ADFLO P3 PK2">
+      <variant code="0704013399999" title="3M 837012 Filter častíc ADFLO P3 PK2" price="109.47" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704013999999" title="JSP filter A2P3 pre Maximask/FORCE8">
       <variant code="0704013999999" title="JSP filter A2P3 pre Maximask/FORCE8" price="59.534" currency="EUR" unit="BAL"/>
