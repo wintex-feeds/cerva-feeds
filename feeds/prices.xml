@@ -5154,6 +5154,38 @@
       <variant code="0201061666035" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 35" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666034" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 34" price="49.83" currency="EUR" unit="PÁR"/>
    </product>
+   <product code="02010616J" title="ULTRALIGHT MF S1 SR poltopánky.2akosť">
+      <variant code="02010616W6048J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel48" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6047J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel47" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6046J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel46" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6045J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel45" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6044J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel44" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6043J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel43" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6042J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel42" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6041J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel41" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6040J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel40" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6039J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel39" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6038J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel38" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6037J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel37" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6036J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel36" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6035J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel35" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6034J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel34" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666048J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel48" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666047J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel47" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666046J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel46" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666045J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel45" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666044J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel44" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666043J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel43" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666042J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel42" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666041J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel41" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666040J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel40" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666039J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel39" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666038J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel38" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666037J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel37" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666036J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel36" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666035J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel35" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061666034J" title="ULTRALIGHT MF S1 SR pol.2.ak.čier/biel34" price="5.0" currency="EUR" unit="PÁR"/>
+   </product>
    <product code="02010617" title="ULTRALIGHT MF ESD S1PS SR poltop.">
       <variant code="0201061760048" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.48" price="55.32" currency="EUR" unit="PÁR"/>
       <variant code="0201061760047" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.47" price="55.32" currency="EUR" unit="PÁR"/>
@@ -5170,6 +5202,23 @@
       <variant code="0201061760036" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.36" price="55.32" currency="EUR" unit="PÁR"/>
       <variant code="0201061760035" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.35" price="55.32" currency="EUR" unit="PÁR"/>
       <variant code="0201061760034" title="ULTRALIGHT MF ESD S1PS SR poltop.čier.34" price="55.32" currency="EUR" unit="PÁR"/>
+   </product>
+   <product code="02010617J" title="ULTRALIGHT MF S1PS SR poltopánky 2.akosť">
+      <variant code="0201061760048J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 48" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760047J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 47" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760046J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 46" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760045J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 45" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760044J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 44" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760043J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 43" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760042J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 42" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760041J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 41" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760040J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 40" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760039J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 39" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760038J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 38" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760037J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 37" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760036J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 36" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760035J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 35" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061760034J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 34" price="5.0" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010618" title="ULTRALIGHT ESD O1 SR poltop.">
       <variant code="02010618W6048" title="ULTRALIGHT ESD O1 SR poltop.sivá/biel 48" price="48.32" currency="EUR" unit="PÁR"/>
@@ -5217,6 +5266,53 @@
       <variant code="0201061860036" title="ULTRALIGHT ESD O1 SR poltop. čierna 36" price="48.32" currency="EUR" unit="PÁR"/>
       <variant code="0201061860035" title="ULTRALIGHT ESD O1 SR poltop. čierna 35" price="48.32" currency="EUR" unit="PÁR"/>
       <variant code="0201061860034" title="ULTRALIGHT ESD O1 SR poltop. čierna 34" price="48.32" currency="EUR" unit="PÁR"/>
+   </product>
+   <product code="02010618J" title="ULTRALIGHT O1 SR poltop.2.akosť">
+      <variant code="02010618W6048J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 48" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6047J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 47" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6046J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 46" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6045J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 45" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6044J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 44" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6043J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 43" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6042J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 42" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6041J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 41" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6040J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 40" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6039J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 39" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6038J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 38" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6037J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 37" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6036J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 36" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6035J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 35" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="02010618W6034J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 34" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866048J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 48" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866047J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 47" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866046J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 46" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866045J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 45" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866044J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 44" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866043J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 43" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866042J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 42" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866041J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 41" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866040J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 40" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866039J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 39" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866038J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 38" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866037J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 37" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866036J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 36" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866035J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 35" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061866034J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 34" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860048J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 48" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860047J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 47" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860046J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 46" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860045J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 45" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860044J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 44" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860043J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 43" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860042J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 42" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860041J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 41" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860040J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 40" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860039J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 39" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860038J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 38" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860037J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 37" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860036J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 36" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860035J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 35" price="5.0" currency="EUR" unit="PÁR"/>
+      <variant code="0201061860034J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 34" price="5.0" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010619" title="GRIMMA S1 SR poltop.">
       <variant code="0201061908048" title="GRIMMA S1 SR poltop. sivá/červená 48" price="24.67" currency="EUR" unit="PÁR"/>
@@ -14088,6 +14184,7 @@
       <variant code="0303001040001" title="NYALA vesta modrá S" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001040000" title="NYALA vesta modrá XS" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001020006" title="NYALA vesta červená 3XL" price="28.77" currency="EUR" unit="KS"/>
+      <variant code="0303001020005" title="NYALA vesta červená XXL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001020003" title="NYALA vesta červená L" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001020002" title="NYALA vesta červená M" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010006" title="NYALA vesta zelená 3XL" price="28.77" currency="EUR" unit="KS"/>
@@ -19859,7 +19956,6 @@
       <variant code="03510022A4054" title="FF HANS bunda čierna/antracit 54" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022A4050" title="FF HANS bunda čierna/antracit 50" price="32.129" currency="EUR" unit="KS"/>
       <variant code="03510022A4048" title="FF HANS bunda čierna/antracit 48" price="32.129" currency="EUR" unit="KS"/>
-      <variant code="03510022A4046" title="FF HANS bunda čierna/antracit 46" price="32.129" currency="EUR" unit="KS"/>
       <variant code="0351002286064" title="FF HANS bunda biela/sivá 64" price="32.129" currency="EUR" unit="KS"/>
       <variant code="0351002286062" title="FF HANS bunda biela/sivá 62" price="32.129" currency="EUR" unit="KS"/>
       <variant code="0351002286060" title="FF HANS bunda biela/sivá 60" price="32.129" currency="EUR" unit="KS"/>
