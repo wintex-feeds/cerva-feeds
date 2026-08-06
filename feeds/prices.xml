@@ -1996,6 +1996,7 @@
       <variant code="0108026899060" title="POZON DOT rukavice - 6" price="4.239" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01080269" title="FF BABBLER FULL light rukavice">
+      <variant code="0108026999100" title="FF BABBLER FULL light rukavice - 10" price="0.985" currency="EUR" unit="PÁR"/>
       <variant code="0108026999090" title="FF BABBLER FULL light rukavice - 9" price="0.985" currency="EUR" unit="PÁR"/>
       <variant code="0108026999080" title="FF BABBLER FULL light rukavice - 8" price="0.985" currency="EUR" unit="PÁR"/>
    </product>
@@ -2331,9 +2332,6 @@
       <variant code="0109003999090" title="RAIL nepudrované rukavice - L" price="4.3" currency="EUR" unit="BOX"/>
       <variant code="0109003999080" title="RAIL nepudrované rukavice - M" price="4.3" currency="EUR" unit="BOX"/>
       <variant code="0109003999070" title="RAIL nepudrované rukavice - S" price="1.65" currency="EUR" unit="BOX"/>
-   </product>
-   <product code="01090048" title="ANSELL 92-200 VersaTouch (100 ks)modré">
-      <variant code="0109004899080" title="Ansell 92-200 VersaTouch EXP 02/2024 - 8" price="19.248" currency="EUR" unit="BOX"/>
    </product>
    <product code="01090055" title="Ansell 93-250 Touch N Tuff">
       <variant code="0109005599100" title="Ansell 93-250 Touch N Tuff - 10" price="32.883" currency="EUR" unit="BOX"/>
@@ -12313,7 +12311,6 @@
       <variant code="0302002490062" title="DESMAN nohavice náprs. sivá/oranžová 62" price="29.93" currency="EUR" unit="KS"/>
       <variant code="0302002490060" title="DESMAN nohavice náprs. sivá/oranžová 60" price="29.93" currency="EUR" unit="KS"/>
       <variant code="0302002490058" title="DESMAN nohavice náprs. sivá/oranžová 58" price="29.93" currency="EUR" unit="KS"/>
-      <variant code="0302002490056" title="DESMAN nohavice náprs. sivá/oranžová 56" price="29.93" currency="EUR" unit="KS"/>
       <variant code="0302002490054" title="DESMAN nohavice náprs. sivá/oranžová 54" price="29.93" currency="EUR" unit="KS"/>
       <variant code="0302002490052" title="DESMAN nohavice náprs. sivá/oranžová 52" price="29.93" currency="EUR" unit="KS"/>
       <variant code="0302002490050" title="DESMAN nohavice náprs. sivá/oranžová 50" price="29.93" currency="EUR" unit="KS"/>
@@ -14182,7 +14179,6 @@
       <variant code="0303001040001" title="NYALA vesta modrá S" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001040000" title="NYALA vesta modrá XS" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001020006" title="NYALA vesta červená 3XL" price="28.77" currency="EUR" unit="KS"/>
-      <variant code="0303001020005" title="NYALA vesta červená XXL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001020003" title="NYALA vesta červená L" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001020002" title="NYALA vesta červená M" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010006" title="NYALA vesta zelená 3XL" price="28.77" currency="EUR" unit="KS"/>
