@@ -3591,7 +3591,6 @@
    </product>
    <product code="02010013" title="SPRINT S1 SRC poltopánka">
       <variant code="0201001340048" title="SPRINT S1P SRC poltopánka 48 modrá" price="20.872" currency="EUR" unit="PÁR"/>
-      <variant code="0201001340046" title="SPRINT S1P SRC poltopánka 46 modrá" price="20.872" currency="EUR" unit="PÁR"/>
       <variant code="0201001300048" title="SPRINT S1 SRC poltopánka 48 sivá" price="50.108" currency="EUR" unit="PÁR"/>
       <variant code="0201001300047" title="SPRINT S1 SRC poltopánka 47 sivá" price="50.108" currency="EUR" unit="PÁR"/>
       <variant code="0201001300046" title="SPRINT S1 SRC poltopánka 46 sivá" price="50.108" currency="EUR" unit="PÁR"/>
@@ -4201,9 +4200,6 @@
    </product>
    <product code="02010382" title="X-N2 S3 HRO SRC poltopánka">
       <variant code="0201038260046" title="X-N2 S3 HRO SRC poltopánka 46 čierna" price="106.412" currency="EUR" unit="PÁR"/>
-      <variant code="0201038260044" title="X-N2 S3 HRO SRC poltopánka 44 čierna" price="106.412" currency="EUR" unit="PÁR"/>
-      <variant code="0201038260043" title="X-N2 S3 HRO SRC poltopánka 43 čierna" price="106.412" currency="EUR" unit="PÁR"/>
-      <variant code="0201038260041" title="X-N2 S3 HRO SRC poltopánka 41 čierna" price="106.412" currency="EUR" unit="PÁR"/>
       <variant code="0201038260040" title="X-N2 S3 HRO SRC poltopánka 40 čierna" price="106.412" currency="EUR" unit="PÁR"/>
       <variant code="0201038260039" title="X-N2 S3 HRO SRC poltopánka 39 čierna" price="106.412" currency="EUR" unit="PÁR"/>
       <variant code="0201038260038" title="X-N2 S3 HRO SRC poltopánka 38 čierna" price="106.412" currency="EUR" unit="PÁR"/>
@@ -4422,23 +4418,10 @@
    </product>
    <product code="02010565" title="SUPER SET BLUE ESD S1P SRC poltopánka">
       <variant code="0201056599048" title="SUPER SET BLUE ESD S1P SRC poltopán - 48" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599047" title="SUPER SET BLUE ESD S1P SRC poltopánka 47" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599046" title="SUPER SET BLUE ESD S1P SRC poltopánka 46" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599040" title="SUPER SET BLUE ESD S1P SRC poltopánka 40" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599037" title="SUPER SET BLUE ESD S1P SRC poltopánka 37" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056599036" title="SUPER SET BLUE ESD S1P SRC poltopánka 36" price="110.969" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010566" title="SUPER SET RED ESD S1P SRC poltopánka">
       <variant code="0201056699048" title="SUPER SET RED ESD S1P SRC poltopánka 48" price="110.969" currency="EUR" unit="PÁR"/>
       <variant code="0201056699047" title="SUPER SET RED ESD S1P SRC poltopánka 47" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056699043" title="SUPER SET RED ESD S1P SRC poltopánka 43" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056699042" title="SUPER SET RED ESD S1P SRC poltopánka 42" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056699041" title="SUPER SET RED ESD S1P SRC poltopánka 41" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056699040" title="SUPER SET RED ESD S1P SRC poltopánka 40" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056699039" title="SUPER SET RED ESD S1P SRC poltopánka 39" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056699038" title="SUPER SET RED ESD S1P SRC poltopánka 38" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056699037" title="SUPER SET RED ESD S1P SRC poltopánka 37" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056699036" title="SUPER SET RED ESD S1P SRC poltopánka 36" price="110.969" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010567" title="SUPER SET GREY ESD S1P SRC poltopánka">
       <variant code="0201056799048" title="SUPER SET GREY ESD S1P SRC poltopán - 48" price="110.969" currency="EUR" unit="PÁR"/>
@@ -4457,14 +4440,6 @@
    </product>
    <product code="02010568" title="SUPER SET YELLOW ESD S1P SRC poltopánka">
       <variant code="0201056899048" title="SUPER SET YELLOW ESD S1P SRC poltopán.48" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899047" title="SUPER SET YELLOW ESD S1P SRC poltopán.47" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899046" title="SUPER SET YELLOW ESD S1P SRC poltopán.46" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899045" title="SUPER SET YELLOW ESD S1P SRC poltopán.45" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899041" title="SUPER SET YELLOW ESD S1P SRC poltopán.41" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899040" title="SUPER SET YELLOW ESD S1P SRC poltopán.40" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899039" title="SUPER SET YELLOW ESD S1P SRC poltopán.39" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899037" title="SUPER SET YELLOW ESD S1P SRC poltopán.37" price="110.969" currency="EUR" unit="PÁR"/>
-      <variant code="0201056899036" title="SUPER SET YELLOW ESD S1P SRC poltopán.36" price="110.969" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010573" title="BEEFORD O1 ESD SRC poltopánka">
       <variant code="0201057300050" title="BEEFORD O1 ESD SRC poltopánka sivá 50" price="40.655" currency="EUR" unit="PÁR"/>
@@ -5001,10 +4976,6 @@
       <variant code="0201060760045" title="X-508 S1P ESD SRC poltopánka čierna 45" price="77.892" currency="EUR" unit="PÁR"/>
       <variant code="0201060760044" title="X-508 S1P ESD SRC poltopánka čierna 44" price="77.892" currency="EUR" unit="PÁR"/>
       <variant code="0201060760043" title="X-508 S1P ESD SRC poltopánka čierna 43" price="77.892" currency="EUR" unit="PÁR"/>
-      <variant code="0201060760041" title="X-508 S1P ESD SRC poltopánka čierna 41" price="77.892" currency="EUR" unit="PÁR"/>
-      <variant code="0201060760040" title="X-508 S1P ESD SRC poltopánka čierna 40" price="77.892" currency="EUR" unit="PÁR"/>
-      <variant code="0201060760039" title="X-508 S1P ESD SRC poltopánka čierna 39" price="77.892" currency="EUR" unit="PÁR"/>
-      <variant code="0201060760038" title="X-508 S1P ESD SRC poltopánka čierna 38" price="77.892" currency="EUR" unit="PÁR"/>
       <variant code="0201060760037" title="X-508 S1P ESD SRC poltopánka čierna 37" price="77.892" currency="EUR" unit="PÁR"/>
       <variant code="0201060760036" title="X-508 S1P ESD SRC poltopánka čierna 36" price="77.892" currency="EUR" unit="PÁR"/>
    </product>
