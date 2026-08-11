@@ -12296,7 +12296,6 @@
       <variant code="0302002590048" title="DESMAN nohavice do pás sivá/oranžová 48" price="23.181" currency="EUR" unit="KS"/>
    </product>
    <product code="03020026" title="DESMAN nohavice 2v1">
-      <variant code="0302002690058" title="DESMAN nohavice 2v1 sivá/oranžová 58" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690056" title="DESMAN nohavice 2v1 sivá/oranžová 56" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690054" title="DESMAN nohavice 2v1 sivá/oranžová 54" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690052" title="DESMAN nohavice 2v1 sivá/oranžová 52" price="25.605" currency="EUR" unit="KS"/>
@@ -14173,7 +14172,6 @@
       <variant code="0303001441001" title="EMERTON WINTER vesta navy  S" price="33.042" currency="EUR" unit="KS"/>
    </product>
    <product code="03030024" title="BEAVER vesta">
-      <variant code="0303002460005" title="BEAVER vesta čierna XXL" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002460004" title="BEAVER vesta čierna XL" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002460003" title="BEAVER vesta čierna L" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002460001" title="BEAVER vesta čierna S" price="34.479" currency="EUR" unit="KS"/>
@@ -17004,7 +17002,6 @@
       <variant code="0310002880056" title="CREMORNE šortky biela 56" price="22.565" currency="EUR" unit="KS"/>
       <variant code="0310002880054" title="CREMORNE šortky biela 54" price="22.565" currency="EUR" unit="KS"/>
       <variant code="0310002880052" title="CREMORNE šortky biela 52" price="22.565" currency="EUR" unit="KS"/>
-      <variant code="0310002880050" title="CREMORNE šortky biela 50" price="22.565" currency="EUR" unit="KS"/>
       <variant code="0310002880046" title="CREMORNE šortky biela 46" price="22.565" currency="EUR" unit="KS"/>
       <variant code="0310002855064" title="CREMORNE šortky petrolejová 64" price="22.565" currency="EUR" unit="KS"/>
       <variant code="0310002855062" title="CREMORNE šortky petrolejová 62" price="22.565" currency="EUR" unit="KS"/>
@@ -24869,9 +24866,6 @@
    </product>
    <product code="0402010999999" title="Peltor H505B-596-SV Sluch svářečské krčn">
       <variant code="0402010999999" title="Peltor H505B-596-SV Sluch svářečské krčn" price="44.45" currency="EUR" unit="KS"/>
-   </product>
-   <product code="0402011199999" title="JSP Inter EX sluch. na přilbu MK7, EVO">
-      <variant code="0402011199999" title="JSP Inter EX sluch. na přilbu MK7, EVO" price="58.642" currency="EUR" unit="KS"/>
    </product>
    <product code="04020117" title="CIRON BASIC slúchadla Hi-Viz">
       <variant code="0402011779999" title="CIRON BASIC slúchadla Hi-Viz HV žltá -" price="9.644" currency="EUR" unit="KS"/>
