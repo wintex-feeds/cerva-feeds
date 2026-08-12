@@ -4285,7 +4285,6 @@
       <variant code="0201051300046" title="SIRIA MF ESD S1P SRC poltopánka sivá 46" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201051300045" title="SIRIA MF ESD S1P SRC poltopánka sivá 45" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201051300044" title="SIRIA MF ESD S1P SRC poltopánka sivá 44" price="3.0" currency="EUR" unit="PÁR"/>
-      <variant code="0201051300043" title="SIRIA MF ESD S1P SRC poltopánka sivá 43" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201051300042" title="SIRIA MF ESD S1P SRC poltopánka sivá 42" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201051300041" title="SIRIA MF ESD S1P SRC poltopánka sivá 41" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201051300040" title="SIRIA MF ESD S1P SRC poltopánka sivá 40" price="3.0" currency="EUR" unit="PÁR"/>
@@ -5433,13 +5432,7 @@
       <variant code="0201062468038" title="GERA S3 SR  poltopánka čierna/sivá 38" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201062468037" title="GERA S3 SR  poltopánka čierna/sivá 37" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201062468036" title="GERA S3 SR  poltopánka čierna/sivá 36" price="3.0" currency="EUR" unit="PÁR"/>
-      <variant code="0201062465048" title="GERA S3 SR  poltopánka černá/červená 48" price="3.0" currency="EUR" unit="PÁR"/>
-      <variant code="0201062465047" title="GERA S3 SR  poltopánka černá/červená 47" price="3.0" currency="EUR" unit="PÁR"/>
-      <variant code="0201062465046" title="GERA S3 SR  poltopánka černá/červená 46" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201062465045" title="GERA S3 SR  poltopánka černá/červená 45" price="3.0" currency="EUR" unit="PÁR"/>
-      <variant code="0201062465044" title="GERA S3 SR  poltopánka černá/červená 44" price="3.0" currency="EUR" unit="PÁR"/>
-      <variant code="0201062465043" title="GERA S3 SR  poltopánka černá/červená 43" price="3.0" currency="EUR" unit="PÁR"/>
-      <variant code="0201062465042" title="GERA S3 SR  poltopánka černá/červená 42" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201062465041" title="GERA S3 SR  poltopánka černá/červená 41" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201062465040" title="GERA S3 SR  poltopánka černá/červená 40" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0201062465039" title="GERA S3 SR  poltopánka černá/červená 39" price="3.0" currency="EUR" unit="PÁR"/>
@@ -6898,9 +6891,6 @@
       <variant code="0202086560038" title="ULTRA MITO MF S3 SRC členok čierna 38" price="58.094" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02020866" title="NUOVO EUROTECH MF S3 SRC členok">
-      <variant code="0202086660048" title="NUOVO EUROTECH MF S3 SRC členok čiern 48" price="9.0" currency="EUR" unit="PÁR"/>
-      <variant code="0202086660047" title="NUOVO EUROTECH MF S3 SRC členok čiern 47" price="9.0" currency="EUR" unit="PÁR"/>
-      <variant code="0202086660046" title="NUOVO EUROTECH MF S3 SRC členok čiern 46" price="9.0" currency="EUR" unit="PÁR"/>
       <variant code="0202086660045" title="NUOVO EUROTECH MF S3 SRC členok čiern 45" price="9.0" currency="EUR" unit="PÁR"/>
       <variant code="0202086660044" title="NUOVO EUROTECH MF S3 SRC členok čiern 44" price="9.0" currency="EUR" unit="PÁR"/>
       <variant code="0202086660043" title="NUOVO EUROTECH MF S3 SRC členok čiern 43" price="9.0" currency="EUR" unit="PÁR"/>
@@ -6908,7 +6898,6 @@
       <variant code="0202086660041" title="NUOVO EUROTECH MF S3 SRC členok čiern 41" price="9.0" currency="EUR" unit="PÁR"/>
       <variant code="0202086660040" title="NUOVO EUROTECH MF S3 SRC členok čiern 40" price="9.0" currency="EUR" unit="PÁR"/>
       <variant code="0202086660039" title="NUOVO EUROTECH MF S3 SRC členok čiern 39" price="9.0" currency="EUR" unit="PÁR"/>
-      <variant code="0202086660038" title="NUOVO EUROTECH MF S3 SRC členok čiern 38" price="9.0" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02020867" title="NUOVO SPECIALE MF S1P SRC členok">
       <variant code="0202086760048" title="NUOVO SPECIALE MF S1P SRC členok čier 48" price="52.864" currency="EUR" unit="PÁR"/>
@@ -7805,7 +7794,6 @@
       <variant code="0203013480041" title="DEUVILLE MF S1 SRC sandále 41 biela" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0203013480040" title="DEUVILLE MF S1 SRC sandále 40 biela" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0203013480039" title="DEUVILLE MF S1 SRC sandále 39 biela" price="3.0" currency="EUR" unit="PÁR"/>
-      <variant code="0203013480038" title="DEUVILLE MF S1 SRC sandále 38 biela" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0203013480037" title="DEUVILLE MF S1 SRC sandále 37 biela" price="3.0" currency="EUR" unit="PÁR"/>
       <variant code="0203013480036" title="DEUVILLE MF S1 SRC sandále 36 biela" price="3.0" currency="EUR" unit="PÁR"/>
    </product>
@@ -7986,11 +7974,7 @@
    <product code="02030150" title="WERA MF ESD S1P SRC sandále">
       <variant code="0203015040048" title="WERA MF ESD S1P SRC sandále modrá 48" price="6.0" currency="EUR" unit="PÁR"/>
       <variant code="0203015040047" title="WERA MF ESD S1P SRC sandále modrá 47" price="6.0" currency="EUR" unit="PÁR"/>
-      <variant code="0203015040046" title="WERA MF ESD S1P SRC sandále modrá 46" price="6.0" currency="EUR" unit="PÁR"/>
-      <variant code="0203015040045" title="WERA MF ESD S1P SRC sandále modrá 45" price="6.0" currency="EUR" unit="PÁR"/>
       <variant code="0203015040044" title="WERA MF ESD S1P SRC sandále modrá 44" price="6.0" currency="EUR" unit="PÁR"/>
-      <variant code="0203015040043" title="WERA MF ESD S1P SRC sandále modrá 43" price="6.0" currency="EUR" unit="PÁR"/>
-      <variant code="0203015040042" title="WERA MF ESD S1P SRC sandále modrá 42" price="6.0" currency="EUR" unit="PÁR"/>
       <variant code="0203015040041" title="WERA MF ESD S1P SRC sandále modrá 41" price="6.0" currency="EUR" unit="PÁR"/>
       <variant code="0203015040040" title="WERA MF ESD S1P SRC sandále modrá 40" price="6.0" currency="EUR" unit="PÁR"/>
       <variant code="0203015040039" title="WERA MF ESD S1P SRC sandále modrá 39" price="6.0" currency="EUR" unit="PÁR"/>
@@ -8194,7 +8178,6 @@
       <variant code="0203016861040" title="LINDLAU MF ESD S1PS SR sandále antrac.40" price="10.0" currency="EUR" unit="PÁR"/>
       <variant code="0203016861039" title="LINDLAU MF ESD S1PS SR sandále antrac.39" price="10.0" currency="EUR" unit="PÁR"/>
       <variant code="0203016861038" title="LINDLAU MF ESD S1PS SR sandále antrac.38" price="10.0" currency="EUR" unit="PÁR"/>
-      <variant code="0203016861037" title="LINDLAU MF ESD S1PS SR sandále antrac.37" price="10.0" currency="EUR" unit="PÁR"/>
       <variant code="0203016861036" title="LINDLAU MF ESD S1PS SR sandále antrac.36" price="10.0" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02030171" title="HALWILL PRO MF ESD S1PS SR sandále">
@@ -8580,8 +8563,6 @@
       <variant code="0204010314039" title="GLENROE 700A prsačky 39 olivová" price="111.18" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02040105" title="COLDMAX zateplené čižmy">
-      <variant code="0204010560048" title="COLDMAX zateplené čižmy 48 čierna" price="6.0" currency="EUR" unit="PÁR"/>
-      <variant code="0204010560047" title="COLDMAX zateplené čižmy 47 čierna" price="6.0" currency="EUR" unit="PÁR"/>
       <variant code="0204010560046" title="COLDMAX zateplené čižmy 46 čierna" price="6.0" currency="EUR" unit="PÁR"/>
       <variant code="0204010560045" title="COLDMAX zateplené čižmy 45 čierna" price="6.0" currency="EUR" unit="PÁR"/>
       <variant code="0204010560044" title="COLDMAX zateplené čižmy 44 čierna" price="6.0" currency="EUR" unit="PÁR"/>
@@ -17001,7 +16982,6 @@
       <variant code="0310002880058" title="CREMORNE šortky biela 58" price="22.565" currency="EUR" unit="KS"/>
       <variant code="0310002880056" title="CREMORNE šortky biela 56" price="22.565" currency="EUR" unit="KS"/>
       <variant code="0310002880054" title="CREMORNE šortky biela 54" price="22.565" currency="EUR" unit="KS"/>
-      <variant code="0310002880052" title="CREMORNE šortky biela 52" price="22.565" currency="EUR" unit="KS"/>
       <variant code="0310002880046" title="CREMORNE šortky biela 46" price="22.565" currency="EUR" unit="KS"/>
       <variant code="0310002855064" title="CREMORNE šortky petrolejová 64" price="22.565" currency="EUR" unit="KS"/>
       <variant code="0310002855062" title="CREMORNE šortky petrolejová 62" price="22.565" currency="EUR" unit="KS"/>
@@ -24096,7 +24076,6 @@
    </product>
    <product code="03570009" title="GIJON šortky">
       <variant code="0357000950060" title="GIJON šortky royal modrá 60" price="15.798" currency="EUR" unit="KS"/>
-      <variant code="0357000950054" title="GIJON šortky royal modrá 54" price="15.798" currency="EUR" unit="KS"/>
       <variant code="0357000950052" title="GIJON šortky royal modrá 52" price="15.798" currency="EUR" unit="KS"/>
       <variant code="0357000950050" title="GIJON šortky royal modrá 50" price="15.798" currency="EUR" unit="KS"/>
       <variant code="0357000950048" title="GIJON šortky royal modrá 48" price="15.798" currency="EUR" unit="KS"/>
