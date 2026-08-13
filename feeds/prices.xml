@@ -5907,20 +5907,20 @@
       <variant code="0201079899035" title="BRAN ESD S1PS HI HRO FO SR poltopánka 35" price="150.1" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010799" title="STARK ESD S1PS HI HRO FO SR poltopánka">
-      <variant code="0201079999048" title="STARK ESD S1PS HI HRO FO SR poltopá - 48" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999047" title="STARK ESD S1PS HI HRO FO SR poltopá - 47" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999046" title="STARK ESD S1PS HI HRO FO SR poltopá - 46" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999045" title="STARK ESD S1PS HI HRO FO SR poltopá - 45" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999044" title="STARK ESD S1PS HI HRO FO SR poltopá - 44" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999043" title="STARK ESD S1PS HI HRO FO SR poltopá - 43" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999042" title="STARK ESD S1PS HI HRO FO SR poltopá - 42" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999041" title="STARK ESD S1PS HI HRO FO SR poltopá - 41" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999040" title="STARK ESD S1PS HI HRO FO SR poltopá - 40" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999039" title="STARK ESD S1PS HI HRO FO SR poltopá - 39" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999038" title="STARK ESD S1PS HI HRO FO SR poltopá - 38" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999037" title="STARK ESD S1PS HI HRO FO SR poltopá - 37" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999036" title="STARK ESD S1PS HI HRO FO SR poltopá - 36" price="150.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201079999035" title="STARK ESD S1PS HI HRO FO SR poltopá - 35" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999048" title="STARK ESD S1PS HI HRO FO SR poltop. - 48" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999047" title="STARK ESD S1PS HI HRO FO SR poltop. - 47" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999046" title="STARK ESD S1PS HI HRO FO SR poltop. - 46" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999045" title="STARK ESD S1PS HI HRO FO SR poltop. - 45" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999044" title="STARK ESD S1PS HI HRO FO SR poltop. - 44" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999043" title="STARK ESD S1PS HI HRO FO SR poltop. - 43" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999042" title="STARK ESD S1PS HI HRO FO SR poltop. - 42" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999041" title="STARK ESD S1PS HI HRO FO SR poltop. - 41" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999040" title="STARK ESD S1PS HI HRO FO SR poltop. - 40" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999039" title="STARK ESD S1PS HI HRO FO SR poltop. - 39" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999038" title="STARK ESD S1PS HI HRO FO SR poltop. - 38" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999037" title="STARK ESD S1PS HI HRO FO SR poltop. - 37" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999036" title="STARK ESD S1PS HI HRO FO SR poltop. - 36" price="150.1" currency="EUR" unit="PÁR"/>
+      <variant code="0201079999035" title="STARK ESD S1PS HI HRO FO SR poltop. - 35" price="150.1" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010801" title="EURON ESD S1PS HI HRO FO SR poltopánka">
       <variant code="0201080160048" title="EURON ESD S1PS HI HRO FO SR polt.čier.48" price="150.1" currency="EUR" unit="PÁR"/>
@@ -11763,7 +11763,6 @@
       <variant code="0301059855002" title="NEURUM SOFTSHELL bunda petrolejová M" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059855001" title="NEURUM SOFTSHELL bunda petrolejová S" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841007" title="NEURUM SOFTSHELL bunda navy 4XL" price="77.069" currency="EUR" unit="KS"/>
-      <variant code="0301059841006" title="NEURUM SOFTSHELL bunda navy 3XL" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841004" title="NEURUM SOFTSHELL bunda navy XL" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841003" title="NEURUM SOFTSHELL bunda navy L" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841002" title="NEURUM SOFTSHELL bunda navy M" price="77.069" currency="EUR" unit="KS"/>
