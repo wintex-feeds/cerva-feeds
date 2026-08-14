@@ -3130,8 +3130,6 @@
    </product>
    <product code="01130125" title="ALCA rukavice">
       <variant code="0113012500110" title="ALCA rukavice sivá 11" price="2.887" currency="EUR" unit="PÁR"/>
-      <variant code="0113012500100" title="ALCA rukavice sivá 10" price="2.887" currency="EUR" unit="PÁR"/>
-      <variant code="0113012500090" title="ALCA rukavice sivá 9" price="2.887" currency="EUR" unit="PÁR"/>
       <variant code="0113012500080" title="ALCA rukavice sivá 8" price="2.887" currency="EUR" unit="PÁR"/>
       <variant code="0113012500070" title="ALCA rukavice sivá 7" price="2.887" currency="EUR" unit="PÁR"/>
       <variant code="0113012500060" title="ALCA rukavice sivá 6" price="2.887" currency="EUR" unit="PÁR"/>
@@ -11439,7 +11437,6 @@
       <variant code="03010575A2062" title="EMERTON PLUS bunda antracit/oranžová 62" price="48.557" currency="EUR" unit="KS"/>
       <variant code="03010575A2060" title="EMERTON PLUS bunda antracit/oranžová 60" price="48.557" currency="EUR" unit="KS"/>
       <variant code="03010575A2058" title="EMERTON PLUS bunda antracit/oranžová 58" price="48.557" currency="EUR" unit="KS"/>
-      <variant code="03010575A2056" title="EMERTON PLUS bunda antracit/oranžová 56" price="48.557" currency="EUR" unit="KS"/>
       <variant code="03010575A2052" title="EMERTON PLUS bunda antracit/oranžová 52" price="48.557" currency="EUR" unit="KS"/>
       <variant code="03010575A2050" title="EMERTON PLUS bunda antracit/oranžová 50" price="48.557" currency="EUR" unit="KS"/>
       <variant code="03010575A2046" title="EMERTON PLUS bunda antracit/oranžová 46" price="48.557" currency="EUR" unit="KS"/>
@@ -12664,7 +12661,6 @@
       <variant code="0302020582004" title="CHENA CRV nohavice bežová XL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020582003" title="CHENA CRV nohavice bežová L" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020582002" title="CHENA CRV nohavice bežová M" price="36.643" currency="EUR" unit="KS"/>
-      <variant code="0302020582001" title="CHENA CRV nohavice bežová S" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560005" title="CHENA CRV nohavice čierna XXL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560004" title="CHENA CRV nohavice čierna XL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560003" title="CHENA CRV nohavice čierna L" price="36.643" currency="EUR" unit="KS"/>
@@ -12677,7 +12673,6 @@
       <variant code="0302020500004" title="CHENA CRV nohavice sivá XL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020500003" title="CHENA CRV nohavice sivá L" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020500002" title="CHENA CRV nohavice sivá M" price="36.643" currency="EUR" unit="KS"/>
-      <variant code="0302020500001" title="CHENA CRV nohavice sivá S" price="36.643" currency="EUR" unit="KS"/>
    </product>
    <product code="03020207" title="EMERTON FLANNEL nohavice náprs.">
       <variant code="0302020760060" title="EMERTON FLANNEL nohavice náp čierna 60" price="62.367" currency="EUR" unit="KS"/>
@@ -20042,7 +20037,6 @@
       <variant code="03510029V0042" title="MAX SUMMER LADY bunda sivá/sv.fialová 42" price="24.139" currency="EUR" unit="KS"/>
       <variant code="03510029V0040" title="MAX SUMMER LADY bunda sivá/sv.fialová 40" price="24.139" currency="EUR" unit="KS"/>
       <variant code="03510029V0038" title="MAX SUMMER LADY bunda sivá/sv.fialová 38" price="24.139" currency="EUR" unit="KS"/>
-      <variant code="03510029V0036" title="MAX SUMMER LADY bunda sivá/sv.fialová 36" price="24.139" currency="EUR" unit="KS"/>
       <variant code="03510029V0034" title="MAX SUMMER LADY bunda sivá/sv.fialová 34" price="24.139" currency="EUR" unit="KS"/>
       <variant code="03510029P2054" title="MAX SUMMER LADY bunda petrolej/čierna 54" price="24.139" currency="EUR" unit="KS"/>
       <variant code="03510029P2052" title="MAX SUMMER LADY bunda petrolej/čierna 52" price="24.139" currency="EUR" unit="KS"/>
@@ -21720,7 +21714,6 @@
       <variant code="03520094A1060" title="SHELDON nohavice antracit/žltá 60" price="41.36" currency="EUR" unit="KS"/>
       <variant code="03520094A1058" title="SHELDON nohavice antracit/žltá 58" price="41.36" currency="EUR" unit="KS"/>
       <variant code="03520094A1056" title="SHELDON nohavice antracit/žltá 56" price="41.36" currency="EUR" unit="KS"/>
-      <variant code="03520094A1054" title="SHELDON nohavice antracit/žltá 54" price="41.36" currency="EUR" unit="KS"/>
       <variant code="03520094A1052" title="SHELDON nohavice antracit/žltá 52" price="41.36" currency="EUR" unit="KS"/>
       <variant code="03520094A1050" title="SHELDON nohavice antracit/žltá 50" price="41.36" currency="EUR" unit="KS"/>
       <variant code="03520094A1048" title="SHELDON nohavice antracit/žltá 48" price="41.36" currency="EUR" unit="KS"/>
