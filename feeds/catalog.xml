@@ -17721,6 +17721,62 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>PÁR</unit>
       </product>
       <product>
+         <code>01190045</code>
+         <title>TURACO rukavice zimné</title>
+         <description>Zimní zateplené rukavice s pletenou manžetou a umělou kůží v dlaňové části.</description>
+         <categoryPath>Produkty/Rukavice</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="070" title="7"/>
+            <size code="080" title="8"/>
+            <size code="090" title="9"/>
+            <size code="100" title="10"/>
+            <size code="110" title="11"/>
+            <size code="120" title="12"/>
+         </sizes>
+         <colors>
+            <color code="99" title="-"/>
+         </colors>
+         <standards>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTIyNHxpbWFnZS9wbmd8OTI5ODM0MTgyMjQ5NC8wMTE5MDA0NV9UVVJBQ09fZ2xvdmVzX3dpbnRlcl9EU0NfODkyMy5wbmd8MGI4OTJlMTNiMmQzOGQ0MzFkNjRjMjFlODc2ZGZjYTFjM2U3NGI1MzFmZWY0NDI5MTY5MDRmNzhmNjZmNWNiYw</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NDgwfGltYWdlL2pwZWd8OTI5ODM0MTQ5NDgxNC8wMTE5MDA0NV9UVVJBQ09fZ2xvdmVzX3dpbnRlcl9pbWFnZV9EU0NfOTQxMS5qcGd8MmIyNGNkMWRmMWRmMjU2YzlkOTkxZTlmMWJhMDFjMzNmOWMzY2Y4YWY4ZWMzZDk5NTljMDgyNjdkODI2YjU4Mw</path>
+            </image>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
+         <code>01190045BN</code>
+         <title>TURACO rukavice zimné blister</title>
+         <description>Zimní zateplené rukavice s pletenou manžetou a umělou kůží v dlaňové části.</description>
+         <categoryPath>Produkty/Rukavice</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="080" title="8"/>
+            <size code="100" title="10"/>
+         </sizes>
+         <colors>
+            <color code="99" title="-"/>
+         </colors>
+         <standards>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTIyNHxpbWFnZS9wbmd8OTI5ODM0MTgyMjQ5NC8wMTE5MDA0NV9UVVJBQ09fZ2xvdmVzX3dpbnRlcl9EU0NfODkyMy5wbmd8MGI4OTJlMTNiMmQzOGQ0MzFkNjRjMjFlODc2ZGZjYTFjM2U3NGI1MzFmZWY0NDI5MTY5MDRmNzhmNjZmNWNiYw</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NDgwfGltYWdlL2pwZWd8OTI5ODM0MTQ5NDgxNC8wMTE5MDA0NV9UVVJBQ09fZ2xvdmVzX3dpbnRlcl9pbWFnZV9EU0NfOTQxMS5qcGd8MmIyNGNkMWRmMWRmMjU2YzlkOTkxZTlmMWJhMDFjMzNmOWMzY2Y4YWY4ZWMzZDk5NTljMDgyNjdkODI2YjU4Mw</path>
+            </image>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
          <code>01190046</code>
          <title>TB 755 COLDGRIP rukavice</title>
          <description>Seamless blue polyester support glove with water-repellent finish in gauge 15. • Acrylic interior in gauge 10. • Double coating: first waterproof blue nitrile coating 3/4 and second black foam nitrile coating on palm. • Touch function on all fingers.</description>
@@ -17965,6 +18021,67 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <images>
             <image>
                <path>https://media.cerva.com/medias/01290020-WORKLIFE-COOL-W-CUTD-gloves.png?context=bWFzdGVyfGltYWdlc3w0NDY0MDJ8aW1hZ2UvcG5nfDkyNzg4MTE1NzAyMDYvMDEyOTAwMjBfV09SS0xJRkVfQ09PTF9XX0NVVERfZ2xvdmVzLnBuZ3wxMzA2YWFiMzBhNzEwNDM4ZmUzZmEwMWMzODkwYzBkYmI4N2U1ODZjZWZiNmQyNzBiZDdmZGQyMzNjMjliZWMw</path>
+            </image>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
+         <code>01290021</code>
+         <title>PALLIDA Winter rukavice</title>
+         <description>Zimní zateplené rukavice z lícové kůže.</description>
+         <categoryPath>Produkty/Rukavice</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="080" title="8"/>
+            <size code="090" title="9"/>
+            <size code="100" title="10"/>
+            <size code="110" title="11"/>
+            <size code="120" title="12"/>
+         </sizes>
+         <colors>
+            <color code="99" title="-"/>
+         </colors>
+         <standards>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjM4NHxpbWFnZS9wbmd8OTMyNDI5MzA5NTQ1NC8wMTI5MDAyMV9QQUxMSURBX3dpbnRlcl9EU0NfMDQyNy5wbmd8NzU1YzE4YTZmOWEyYjY4OWE1NTRjN2EwOGMyYzhiNWM1YzA4NTY0MzU3YjRmNzc2MzAyMThhZWIxNmIyMWM2NA</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MDAwfGltYWdlL3BuZ3w5MzI0MzA4ODg5NjMwLzAxMjkwMDIxX1BBTExJREFfd2ludGVyX2JsaXN0cl9EU0NfMDQyMS5wbmd8ZTYxOTRhYTdlNjMzYTBjMDFiY2NhOWE5ZTg1ZmJkNzVmYWEzMzUzMWIzNDg5Y2Y4ZjdkZWNlMDY5ZDk2OTg4ZA</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjAzNHxpbWFnZS9qcGVnfDkzMjQyOTI1MDU2MzAvMDEyOTAwMjFfUEFMTElEQV93aW50ZXJfaW1hZ2VfRFNDXzEzMDEuanBnfDIzZGQ0M2Q2NWViNTZiZDZjZDAyN2M0NTA3MTFiNmRmZDNjOTI1ZWQ0OTI2M2UwODM1NmQ2YTQzMWRiM2RjOGM</path>
+            </image>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
+         <code>01290021BN</code>
+         <title>PALLIDA Winter rukavice blister</title>
+         <description>Zimní zateplené rukavice z lícové kůže.</description>
+         <categoryPath>Produkty/Rukavice</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="080" title="8"/>
+            <size code="100" title="10"/>
+         </sizes>
+         <colors>
+            <color code="99" title="-"/>
+         </colors>
+         <standards>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjM4NHxpbWFnZS9wbmd8OTMyNDI5MzA5NTQ1NC8wMTI5MDAyMV9QQUxMSURBX3dpbnRlcl9EU0NfMDQyNy5wbmd8NzU1YzE4YTZmOWEyYjY4OWE1NTRjN2EwOGMyYzhiNWM1YzA4NTY0MzU3YjRmNzc2MzAyMThhZWIxNmIyMWM2NA</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MDAwfGltYWdlL3BuZ3w5MzI0MzA4ODg5NjMwLzAxMjkwMDIxX1BBTExJREFfd2ludGVyX2JsaXN0cl9EU0NfMDQyMS5wbmd8ZTYxOTRhYTdlNjMzYTBjMDFiY2NhOWE5ZTg1ZmJkNzVmYWEzMzUzMWIzNDg5Y2Y4ZjdkZWNlMDY5ZDk2OTg4ZA</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjAzNHxpbWFnZS9qcGVnfDkzMjQyOTI1MDU2MzAvMDEyOTAwMjFfUEFMTElEQV93aW50ZXJfaW1hZ2VfRFNDXzEzMDEuanBnfDIzZGQ0M2Q2NWViNTZiZDZjZDAyN2M0NTA3MTFiNmRmZDNjOTI1ZWQ0OTI2M2UwODM1NmQ2YTQzMWRiM2RjOGM</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -33557,7 +33674,7 @@ Jedinečná kombinácia hydrofóbneho mikrovlákna a neoprénu vytvára odolný,
          <code>03010023</code>
          <title>EMERTON zimná bunda</title>
          <description>Zateplená a nepremokavá bunda s odopínateľnou kapucňou a podšívkou so zipsom (prispôsobená strojovému vyšívaniu).</description>
-         <categoryPath>Kolekce/PROMOCJA ZIMOWA 2024</categoryPath>
+         <categoryPath>Produkty/Odevy</categoryPath>
          <packaging></packaging>
          <sizes>
             <size code="001" title="S"/>
@@ -37210,7 +37327,7 @@ Jedinečná kombinácia hydrofóbneho mikrovlákna a neoprénu vytvára odolný,
          <code>03010537</code>
          <title>BOYER bunda</title>
          <description>• celozapínacia bunda z melírovaného úpletu vo vnútri počesaná • zosílnená časť v oblasti ramien a rukávov sofsthellovým materiálom v kontrastnej farbe • 1 náprsné vrecko na zips • 2 postranné vrecká na zips • nastaviteľná šírka spodného obvodu • dekoratívna reflexná lemovka na rukáve • očko na palec</description>
-         <categoryPath>Kolekce/PROMOCJA ZIMOWA 2024</categoryPath>
+         <categoryPath>Produkty/Odevy</categoryPath>
          <packaging></packaging>
          <sizes>
             <size code="000" title="XS"/>
@@ -38311,7 +38428,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
          <code>03010579</code>
          <title>BEGNA softshell bunda</title>
          <description>• softshellová bunda s kapucňou • membránou a vnútorným fleecovou vrstvou • zapínanie na zips • 1 náprsné vrecko • 2 bočné vrecká na zips • nastaviteľný obvod kapucne • nastaviteľná šírka rukávov pomocou suchého zipsu</description>
-         <categoryPath>Kolekce/PROMOCJA ZIMOWA 2024</categoryPath>
+         <categoryPath>Produkty/Odevy</categoryPath>
          <packaging></packaging>
          <sizes>
             <size code="001" title="S"/>
@@ -38425,7 +38542,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
          <code>03010582</code>
          <title>HUYER SOFTSHELL bunda</title>
          <description>• pánska sofstshelová bunda s kapucňou v atraktívnom farebnom prevedení • vodeodolná membrána • 1 náprsné vrecko na zips • 2 postranné vrecká na zips • nastaviteľná šírka spodného obvodu rukávu na suchý zips • sťahovacia šnúrka v kapucni</description>
-         <categoryPath>Kolekce/PROMOCJA ZIMOWA 2024</categoryPath>
+         <categoryPath>Produkty/Odevy</categoryPath>
          <packaging></packaging>
          <sizes>
             <size code="000" title="XS"/>
@@ -79733,6 +79850,7 @@ EVOLite® je průlomový produkt, který pracovníkům umožňuje dosáhnout nov
             <size code="999" title="-"/>
          </sizes>
          <colors>
+            <color code="70" title="žltá"/>
             <color code="90" title="oranžová"/>
          </colors>
          <standards>
@@ -91556,6 +91674,35 @@ Výkon filtru: Nabízí přiřazený ochranný faktor (APF) 20 x limit expozice 
          <images>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0OTc0fGltYWdlL3dlYnB8OTI1MDQ5MDI1MzM0Mi8wNzA2MDMzNl9Qb3dlcmNhcF9JbmZpbml0eV9QZWVsX09mZl9QQ192aXNvcl9QSzEwQ0FVMTgwLTAwMC0wMDAtTUFJTi50aWYucG5nfDU4NmYzODU5ODhkMDViZmU2YTU2NTFkM2MzMGNiNmRiNzBmZmU5ODEzNDIyMjA0NTZlMzUzMWQwMjU3OWQ0YTk</path>
+            </image>
+         </images>
+         <unit>KS</unit>
+      </product>
+      <product>
+         <code>0706033899999</code>
+         <title>JSP Jetstream EVO5 Helmet Altern Head</title>
+         <description>JSP EVO5 safety helmet complete with sealed polycarbonate visor; flexible hose; conforms to and complies with EN 397, EN 12941:1999 &amp; EN 166 1.B.3.9; for use with Jetstream® belt-mounted rechargeable respirator </description>
+         <categoryPath>Produkty/Ochrana dýchacích ciest/Respirátory s filtro-ventilačnou jednotkou/Aktivne dýchacie prístroje</categoryPath>
+         <packaging></packaging>
+         <sizes>
+         </sizes>
+         <colors>
+         </colors>
+         <standards>
+         </standards>
+         <brand>JSP</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/07060338-JSP-Jetstream-EVO5-Helmet-Altern-Head-1.png?context=bWFzdGVyfGltYWdlc3wxNDY4MDZ8aW1hZ2UvcG5nfDkzNDI5NjA4Mjg0NDYvMDcwNjAzMzhfSlNQX0pldHN0cmVhbV9FVk81X0hlbG1ldF9BbHRlcm5fSGVhZF8xLnBuZ3w2ZThlYzUzNDM4YTYzODg0MWE2NTQ2NTI4MjNlMGNmZjM1NjdkMGU3NzA3MTlhN2JhMWM5ZjhhYWZkOWVkYmZl</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/07060338-JSP-Jetstream-EVO5-Helmet-Altern-Head-4.png?context=bWFzdGVyfGltYWdlc3wxMzU5NTJ8aW1hZ2UvcG5nfDkzNDI5NjM3MTIwMzAvMDcwNjAzMzhfSlNQX0pldHN0cmVhbV9FVk81X0hlbG1ldF9BbHRlcm5fSGVhZF80LnBuZ3w4ZTI4NzM1MzZjNGVlZGQwNjg0ZmUzNjBjNmI0YmY3MWNmMmJlMDIyZTc1ZmUwMTlhZDhiNmY3YzMyZTg2ZTc4</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/07060338-JSP-Jetstream-EVO5-Helmet-Altern-Head-3.png?context=bWFzdGVyfGltYWdlc3wxNDA0MTB8aW1hZ2UvcG5nfDkzNDI5NjI5MjU1OTgvMDcwNjAzMzhfSlNQX0pldHN0cmVhbV9FVk81X0hlbG1ldF9BbHRlcm5fSGVhZF8zLnBuZ3xkOWExOTFhODg3ZTU3Y2Q5N2JlOWI4ODY3YjRkOGYwM2Q3OTZiY2I1NzVkZWQ3N2U5OTY5NzU4MmViMzkzZjZj</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/07060338-JSP-Jetstream-EVO5-Helmet-Altern-Head-2.png?context=bWFzdGVyfGltYWdlc3wxNTI4MTl8aW1hZ2UvcG5nfDkzNDI5NjE5NDI1NTgvMDcwNjAzMzhfSlNQX0pldHN0cmVhbV9FVk81X0hlbG1ldF9BbHRlcm5fSGVhZF8yLnBuZ3wyMDIwNjU4YmRmN2M5YmE2NjQxMTYyMWUxMTBjZGVjZGMxODQ3MzIxOTdkNjExYzdmNTg5NTIxZWNjYWQ1ZWZk</path>
             </image>
          </images>
          <unit>KS</unit>

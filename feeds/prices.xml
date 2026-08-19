@@ -3504,6 +3504,18 @@
       <variant code="0119004499090BN" title="TANAGER Winter rukavice blister - 9" price="3.018" currency="EUR" unit="PÁR"/>
       <variant code="0119004499080BN" title="TANAGER Winter rukavice blister - 8" price="3.018" currency="EUR" unit="PÁR"/>
    </product>
+   <product code="01190045" title="TURACO rukavice zimné">
+      <variant code="0119004599120" title="TURACO rukavice zimné - 12" price="3.752" currency="EUR" unit="PÁR"/>
+      <variant code="0119004599110" title="TURACO rukavice zimné - 11" price="3.752" currency="EUR" unit="PÁR"/>
+      <variant code="0119004599100" title="TURACO rukavice zimné - 10" price="3.752" currency="EUR" unit="PÁR"/>
+      <variant code="0119004599090" title="TURACO rukavice zimné - 9" price="3.752" currency="EUR" unit="PÁR"/>
+      <variant code="0119004599080" title="TURACO rukavice zimné - 8" price="3.752" currency="EUR" unit="PÁR"/>
+      <variant code="0119004599070" title="TURACO rukavice zimné - 7" price="3.752" currency="EUR" unit="PÁR"/>
+   </product>
+   <product code="01190045BN" title="TURACO rukavice zimné blister">
+      <variant code="0119004599100BN" title="TURACO rukavice zimné blister - 10" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0119004599080BN" title="TURACO rukavice zimné blister - 8" price="Bude upresnené" currency="" unit="PÁR"/>
+   </product>
    <product code="01190046" title="TB 755 COLDGRIP rukavice">
       <variant code="0119004699110" title="TB 755 COLDGRIP rukavice - 11" price="Bude upresnené" currency="" unit="PÁR"/>
       <variant code="0119004699100" title="TB 755 COLDGRIP rukavice - 10" price="Bude upresnené" currency="" unit="PÁR"/>
@@ -3544,6 +3556,17 @@
       <variant code="0129002099100" title="WORKLIFE COOL W CUT D rukavice - 10" price="6.512" currency="EUR" unit="PÁR"/>
       <variant code="0129002099090" title="WORKLIFE COOL W CUT D rukavice - 9" price="5.92" currency="EUR" unit="PÁR"/>
       <variant code="0129002099080" title="WORKLIFE COOL W CUT D rukavice - 8" price="5.92" currency="EUR" unit="PÁR"/>
+   </product>
+   <product code="01290021" title="PALLIDA Winter rukavice">
+      <variant code="0129002199120" title="PALLIDA Winter rukavice - 12" price="3.522" currency="EUR" unit="PÁR"/>
+      <variant code="0129002199110" title="PALLIDA Winter rukavice - 11" price="3.292" currency="EUR" unit="PÁR"/>
+      <variant code="0129002199100" title="PALLIDA Winter rukavice - 10" price="3.292" currency="EUR" unit="PÁR"/>
+      <variant code="0129002199090" title="PALLIDA Winter rukavice - 9" price="3.292" currency="EUR" unit="PÁR"/>
+      <variant code="0129002199080" title="PALLIDA Winter rukavice - 8" price="3.396" currency="EUR" unit="PÁR"/>
+   </product>
+   <product code="01290021BN" title="PALLIDA Winter rukavice blister">
+      <variant code="0129002199100BN" title="PALLIDA Winter rukavice blister - 10" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0129002199080BN" title="PALLIDA Winter rukavice blister - 8" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02010001" title="SIATA O2 SRC mokasíny">
       <variant code="0201000199047" title="SIATA O2 SRC mokasíny-47" price="36.498" currency="EUR" unit="PÁR"/>
@@ -9982,7 +10005,6 @@
    </product>
    <product code="03010159" title="TAYRA bunda">
       <variant code="0301015920054" title="TAYRA bunda červená 54" price="12.401" currency="EUR" unit="KS"/>
-      <variant code="0301015920052" title="TAYRA bunda červená 52" price="12.401" currency="EUR" unit="KS"/>
    </product>
    <product code="03010163" title="SIOEN SKOLLFIELD bunda 4v1">
       <variant code="0301016390006" title="SIOEN SKOLLFIELD bunda 4v oranžová 3XL" price="208.265" currency="EUR" unit="KS"/>
@@ -20329,7 +20351,6 @@
       <variant code="0351004442044" title="BUDAPEST 64220 bunda tm.modrá 44" price="170.439" currency="EUR" unit="KS"/>
    </product>
    <product code="03510045" title="SHELDON bunda">
-      <variant code="03510045A1068" title="SHELDON bunda antracit/žltá 68" price="41.363" currency="EUR" unit="KS"/>
       <variant code="03510045A1066" title="SHELDON bunda antracit/žltá 66" price="41.363" currency="EUR" unit="KS"/>
       <variant code="03510045A1064" title="SHELDON bunda antracit/žltá 64" price="41.363" currency="EUR" unit="KS"/>
       <variant code="03510045A1062" title="SHELDON bunda antracit/žltá 62" price="41.363" currency="EUR" unit="KS"/>
@@ -26291,6 +26312,7 @@
    </product>
    <product code="06010160" title="JSP EVO Lite Linesman WR CR2 ID holder">
       <variant code="0601016090999" title="JSP EVO Lite Linesman WR CR2 ID hold.ora" price="94.742" currency="EUR" unit="KS"/>
+      <variant code="0601016070999" title="JSP EVO Lite Linesman WR CR2 ID držák žl" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="06010161" title="JSP MK7.0 prilba WR 3PT L/B+CL">
       <variant code="0601016180999" title="JSP MK7.0 prilba WR 3PT L/B+CL biela -" price="40.707" currency="EUR" unit="KS"/>
@@ -27881,6 +27903,9 @@
    </product>
    <product code="0706033699999" title="Powercap Infinity Peel Off PC visor PK10">
       <variant code="0706033699999" title="Powercap Infinity Peel Off PC visor PK10" price="53.629" currency="EUR" unit="BAL"/>
+   </product>
+   <product code="0706033899999" title="JSP Jetstream EVO5 Helmet Altern Head">
+      <variant code="0706033899999" title="JSP Jetstream EVO5 Helmet Altern Head" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0707001599999" title="3M Fit Test sladká FT-10">
       <variant code="0707001599999" title="3M Fit Test sladká FT-10" price="293.6" currency="EUR" unit="SET"/>
