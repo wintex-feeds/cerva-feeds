@@ -13090,7 +13090,6 @@
       <variant code="03020326A2060A" title="KNOXFIELD HV DW275 nohavice ant/oranž 60" price="41.138" currency="EUR" unit="KS"/>
       <variant code="03020326A1058A" title="KNOXFIELD HV DW275 nohavice antr/žltá 58" price="41.138" currency="EUR" unit="KS"/>
       <variant code="03020326A1052A" title="KNOXFIELD HV DW275 nohavice antr/žltá 52" price="41.138" currency="EUR" unit="KS"/>
-      <variant code="03020326A0064A" title="KNOXFIELD HV DW275 nohavice antr/červ 64" price="41.138" currency="EUR" unit="KS"/>
       <variant code="03020326A0062A" title="KNOXFIELD HV DW275 nohavice antr/červ 62" price="41.138" currency="EUR" unit="KS"/>
       <variant code="03020326A0060A" title="KNOXFIELD HV DW275 nohavice antr/červ 60" price="41.138" currency="EUR" unit="KS"/>
       <variant code="03020326A0058A" title="KNOXFIELD HV DW275 nohavice antr/červ 58" price="41.138" currency="EUR" unit="KS"/>
@@ -26751,9 +26750,6 @@
    </product>
    <product code="0701009999999" title="SPIROTEK VS2300V resp. FFP3 vent. 10/BAL">
       <variant code="0701009999999" title="SPIROTEK VS2300V resp. FFP3 vent. 10/BAL" price="40.99" currency="EUR" unit="BOX"/>
-   </product>
-   <product code="0701010099999" title="JSP FILTERSPEC resp.FFP2 vent+u.okuliare">
-      <variant code="0701010099999" title="JSP FILTERSPEC resp.FFP2 vent+u.okuliare" price="78.574" currency="EUR" unit="KS"/>
    </product>
    <product code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL">
       <variant code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL" price="10.58" currency="EUR" unit="KS"/>
