@@ -18377,50 +18377,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02010089</code>
-         <title>MONZA S3 SRC poltopánka</title>
-         <description>• bezpečnostná poltopánka s kovovou špičkou a stielkou odolnou proti prepichnutiu • podrážka z PU s dvojitou hustotou • kožený zvršok</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDYwMHxpbWFnZS93ZWJwfDkyNTExMzM0MjM2NDYvMDIwMTAwODlfTU9OWkFfTE9XX1MzU1JDX0NFUlZBIDIwMThfMTk5NTIudGlmLnBuZ3xiNDVlZjZiYTg1Mjk5MTYzOWNhMTE0ZTY2Y2E0YzFlYzc2ZmYwODNmOTNkNzhkNmQ5YzY0ZTVmNDQ2NTU5NzZm</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MjE4fGltYWdlL3dlYnB8OTI1MDg2MTI1MjYzOHxhNTg2ZDg3YTAyMjg3OGIxNDEyODI4MTllNWE4Y2I2NWNmYmExZjFlZDQxZmZmOWZkMTAxNTIxZDc4YjBmNzFk</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201008999-MONZA-S3-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w4ODE0OXxpbWFnZS9qcGVnfDg5ODI1OTc1MDA5NTgvMDIwMTAwODk5OV9NT05aQV9TM19TUkMtMDEuanBnfGNkYTViNGVmMDc3ZjIwNWY0ZDFhZmYwYjk4M2RmY2RmZmIxMTRhMWM4MTllOTI0MzRiZDA1YTFlMTM1YTU1NjI</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2OTI4fGltYWdlL3dlYnB8OTI1MDQ3OTk5Njk1OHw5MTc1NTk1NTJlNjBkYzYwNzc2MjJlNGU4N2Q4N2FmZjc4YjJlYzMzOWYyMjc2YWZjZDc0NzBhYThkYTRmZDQ4</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02010096</code>
          <title>PANTERA S3 SRC poltopánka</title>
          <description>• obuv s oceľovou bezpečnostnou špicou a stielkou odolnou voči prepichnutiu • antistatickou a protišmykovou PU/PU podošvou rezistentnou voči kyselinám a olejom • absorpcia energie v päte • vodeodolný zvršok z priedušnej kože • reflexné komponenty pre zvýšenie viditeľnosti</description>
@@ -18850,51 +18806,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02010208</code>
-         <title>GRAFFITI ESD S3 SRC poltopánka</title>
-         <description>• bezpečnostná ESD poltopánka s hliníkovou tužinkou a Kevlarovou stielkou odolnou proti propichnutiu • gumenná podrážka s Air Tubeless systémom pre zvýšenie komfortu pri chôdzi • zvršok z mikrovlákna</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="65" title="černá/červená"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
-         </standards>
-         <brand>TWF</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjAxMnxpbWFnZS93ZWJwfDkyNTAwNzk0NzM2OTQvMDIwMTAyMDhfR1JBRkZJVElfRVNEX0xPV19TM1NSQ19DRVJWQSAyMDE4XzE5NDgxLnRpZi5wbmd8NmYzY2FmYTU1MDAxYzc3MzIxNWU2MWUwZDg0ZmYwMmI2MmIxM2RlNTFlNGQyZDgzMDlhZTg3ZTBlNmVhY2ZlMg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NjM4fGltYWdlL3dlYnB8OTI1MTExODIxOTI5NC8wMjAxMDIwOF9HUkFGRklUSV9FU0RfTE9XX1MzU1JDX3NvbGVfQ0VSVkEgMjAxOF8xOTUwMC50aWYucG5nfDYwYzg1MTY3ODNjZDU3MTBiNzViMzdjNjcyM2YyZjZmMTRhNWExNzc1MjQ5YTJkZjhiZjFkMmQ1MTdkYzgzZmI</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201020865-GRAFFITI-ESD-S3-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w2OTQ3OXxpbWFnZS9qcGVnfDg5ODI2MzkyODAxNTgvMDIwMTAyMDg2NV9HUkFGRklUSV9FU0RfUzNfU1JDLTAxLmpwZ3w2NGRiNjI5MWNkYTQzZGFhYzVjNGNlY2VjMzkxZTkzMTQ1Mjc5NWNmMWFmMWUzMjA4ZDRjNTY1ODA0MzllMDJl</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjM1NnxpbWFnZS93ZWJwfDkyNDYzMjU4MDA5OTAvMDIwMTAyMDhfR1JBRkZJVElfRVNEX0xPV19TM1NSQ19EU0NfMTUyOF9kZXRhaWwudGlmLnBuZ3w3MTlmYTFiNjUxYWY1YzQxODJkZTQzYmE1ZjU0MWQ5MGVhYjMwOTczYWQ1YWU3OWZmMDE2ODAwZDU2ZDM5OTFl</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02010209</code>
          <title>URBAN ESD S3 SRC poltopánka</title>
          <description>• bezpečnostná ESD poltopánka s hliníkovou tužinkou • Kevlarová stielka odolná proti propichnutiu • gumenná podrážka s Air Tubeless systémom pre zvýšenie komfortu pri chôdzi • zvršok z mikrovlákna</description>
@@ -19012,122 +18923,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             </image>
             <image>
                <path>https://media.cerva.com/medias/0201021260-OXFORD-S3-SRB-low-01.jpg?context=bWFzdGVyfGltYWdlc3w3NzQyNHxpbWFnZS9qcGVnfDkwMTEzOTkwMDAwOTQvMDIwMTAyMTI2MF9PWEZPUkRfUzNfU1JCX2xvdy0wMS5qcGd8NTYzNTNhY2VhZTgwMmM4OTU1ZDE4MmI4ZDEzYWQzZDQ3MzEzMjg5NDE0MmRkNjU3NTUyYjRkMzk4ZTM3MTZiNw</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010253</code>
-         <title>PANDA TOP CLASSIC VICTOR S3 low SRC</title>
-         <description>• bezpečnostná poltopánka s kompozitnou bezpečnostnou špicou a Kevlarovou stielkou odolnou voči prepichnutiu • podošva - PU/TPU • SRC podošva odolná voči olejom • zvršok z vodeodolnej kože</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzQ4NHxpbWFnZS93ZWJwfDkyNTA0ODQ5MTIxNTgvMDIwMTAyNTNfVE9QX0NMQVNTSUNfVklDVE9SX0xPV19TM1NSQ19EU0NfNzc2OS50aWYucG5nfDhiYTczYzBhY2QyZGExNDA1OTc0Mzk3NWI0ZDAzOTJlNDc0N2ZlOGJlMjdmMjQwOTY0MTU2NjkzMzU0MzZhNmY</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MzM0fGltYWdlL3dlYnB8OTI1MDgxMzExNjQ0Ni8wMjAxMDI1M19UT1BfQ0xBU1NJQ19WSUNUT1JfTE9XX1MzU1JDX3NvbGVfQ0VSVkEgMjAxNyAwMl8yMDA5ODIudGlmLnBuZ3w5ZDgyMWJjNTc0MjI1ZmFlNGYyYzEwNDNmZDU2YmM4MGMwZTAwNjBiOGYzMDZlYzQ2YmJkOGVmZTQ2OGFhMzQ0</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010254</code>
-         <title>PANDA TOP CLASSIC VICTOR O2 low SRC</title>
-         <description>• pracovná poltopánka • podošva - PU/TPU • SRC podošva odolná voči olejom • zvršok z vodeodolnej kože</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | O2 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzQ4NHxpbWFnZS93ZWJwfDkyNTA3NjUzMDc5MzQvMDIwMTAyNTRfVE9QX0NMQVNTSUNfVklDVE9SX0xPV19PMlNSQ19EU0NfNzc2OS50aWYucG5nfDE5ODRlYWM3YTMxYTg2MzIyNDk3NTc5NTBjYzJkNzFkZDBhZjhjOTQyNmU3N2Q2NWE3ZGNlZjRhN2NjOWQzNzM</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MzM0fGltYWdlL3dlYnB8OTI0OTU4MTAwNjg3OC8wMjAxMDI1NF9UT1BfQ0xBU1NJQ19WSUNUT1JfTE9XX08yU1JDX3NvbGVfQ0VSVkEgMjAxNyAwMl8yMDA5ODIudGlmLnBuZ3xhYmUyMzJjMWUwMDE4ZDU5ZDJlOTRmYjc2NWI5MmU2ZTg1NTkyYzUzNzdhM2RjYmQ1ODY1OWVkYjQ1NDM2NWFk</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010262</code>
-         <title>REGATA MF S3 SRC poltopánka</title>
-         <description>• bezpečnostná poltopánka s kompozitnou bezpečnostnou špicou a Kevlarovou stielkou odolnou voči prepichnutiu • podošva - PU/TPU • SRC podošva odolná voči olejom • zvršok z vodeodolnej kože</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjgxNHxpbWFnZS93ZWJwfDkyNDYzNzU0MTE3NDIvMDIwMTAyNjJfTFgtMjUxOSBTMyBTUkMgLSBSRUdBVEFfY2F0YWxvZ19jbXlrLnBuZ3xlM2U1MGRmYmM3ZTlhMDViYjkzYjIxYjY5NTkzZGMzYmFkZjYyODk1ZjI0NjM1MDc2YjhiMjUyOGVkMGM5ODEz</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MzUwfGltYWdlL3dlYnB8OTI0NjI1ODIwMDYwNnwzNTM4YmU4ZTJjZWJhODMzOWIyNjg1ZWI5ZWZlMzk4Zjg4NTM1MTE1NTVjNzZhYThhYjY2ZTU4MjdiMTA1MWE0</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wzMzMyfGltYWdlL3dlYnB8OTI0NjM1MjMxMDMwMi8wMjAxMDI2MjYwX1JFR0FUQV9NRl9TM19TUkNfbG93LTAxLmpwZ3xiMjk5NGQ0MDRlMzU5YWU4MTJjMzk3MThlYjQ3MWViYTUxNThiYzgzMjRjYzQ3Y2Q0YWZmNzMzMTFlMTJkMzgx</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -19313,46 +19108,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02010316</code>
-         <title>COACH MF S1P SRC poltopánka</title>
-         <description>• bezpečnostná poltopánka v športovom dizajne, ideálna pre prácu vo vnútorných priestoroch • obuv je vybavená kompozitnou špičkou, ktorá chráni prsty pred pádom bremena a Kevlarovou stielkou proti prepichnutiu • zvršok je vyrobený z kombinácie kvalitnej kože a sieťoviny s vynikajúcou priedušnosťou • podrážka s vysokými protišmykovými vlastnosťami je vyrobená z moderného, ultraľahkého ale zároveň odolného materiálu pylón, ktorý bol použitý na medzipodrážku • medzi výhody tohto materiálu patrí nielen to, že obuv je ľahká a pevná, ale aj veľmi vzdušná, čo zabraňuje tomu, aby sa nohy zaparili • dôležitým faktorom je, že tento materiál absorbuje v oblasti päty najťažšie nárazy, čo je presne oblasť, kde sa to hodí najviac • spodná časť podošvy je vyrobená z gumy, ktorá je opäť jedným z najodolnejších materiálov používaných na výrobu obuvi</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-         </sizes>
-         <colors>
-            <color code="52" title="sv.modrá"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTY0MHxpbWFnZS93ZWJwfDkyNDk5NDU2NDkxODIvMDIwMTAzMTZfQ09BQ0hfTE9XX1MxUFNSQ19DRVJWQSAyMDE4XzE5Njg1LnRpZi5wbmd8ZmFjOWZhYzEyYjEwNTIxMDBjM2ZlMWZiZWYwMjJhMTI0OTdiN2JlZjcxZGE4NmM3Mjg3ZDhhZmI0M2U3YWQwYg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MjMwfGltYWdlL3dlYnB8OTI1MDE5MjkxNjUxMC8wMjAxMDMxNl9DT0FDSF9MT1dfUzFQU1JDX3NvbGVfQ0VSVkEgMjAxOF8xOTY4MC50aWYucG5nfGU1ZDUxODVlNWRjMzUwMzcwZDNhMmI4NjUzOTlmNjcwYjMzMTY0ODgyYzM1MTI4NDgzOGI3Y2FhYTk3MzAzYTU</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201031652-Coach-01.jpg?context=bWFzdGVyfGltYWdlc3w5MjA4NHxpbWFnZS9qcGVnfDg5ODI2NjgzNDUzNzQvMDIwMTAzMTY1Ml9Db2FjaC0wMS5qcGd8OWU3NDA3YTIxOTc4OWQ3OGEwOTkzOTc3ZjAzMTI3ZmYwZTNjN2E0NWJjYTQzNmMxYmQxZDJhMGQ4NDY1ZWYxMA</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02010340</code>
          <title>CARBON ESD S3S CI FO SR poltop.</title>
          <description>• nízka, ľahká a pohodlná bezpečnostná obuv CARBON od U-Power z radu Red Lion so zvrškom z prírodnej nubukovej kože a hliníkovou tužinkou • ultra priedušná, vodeodpudivá a protišmyková podrážka PU/PU Infinergy® • nekovová proti prepichnutiu odolná stielka Save &amp; Flex PLUS® </description>
@@ -19516,58 +19271,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02010366</code>
-         <title>RAVEN MF ESD S1 SRC poltopánka</title>
-         <description>• bezpečnostné poltopánky s nekovovou tužinkou • podošva z jednohustotného PU • zvršok z inovativneho mikrovlákna, ktoré zaisťuje užívateľovi perfektnú priedušnosť</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-            <color code="80" title="biela"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTUxMHxpbWFnZS93ZWJwfDkyNDk2NzcyMTM3MjYvMDIwMTAzNjZfUkFWRU5fRVNEX0xPV19TMVNSQ19ibGFja19DRVJWQSAyMDE4XzE5Nzc5LnRpZi5wbmd8YmM4NmI4ZDMxYWNmZTc5YWQ4MzdjMDQ5YmRhZjM1ZGY0ZDNmZDFjZjA4ZWM0NTkyMzM5YmEzYmNiZWY0YmU5Ng</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201036660-Raven-MF-ESD-S1-SRC-low-black-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODg5MXxpbWFnZS9qcGVnfDg5ODI2NzgyNzQwNzgvMDIwMTAzNjY2MF9SYXZlbl9NRl9FU0RfUzFfU1JDX2xvd19ibGFjay0wMS5qcGd8YTE0ZmNjMzJjMWNhZjFmNWJiZjcxNjU1NGY4NDRmNGVlNjY4YTQwNzY3MzgyM2E0NzQ2OWMxYmJmYTM3NGQ2Mw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5ODAwfGltYWdlL3dlYnB8OTI0OTc0NjcxNDY1NC8wMjAxMDM2Nl9SQVZFTl9FU0RfTE9XX1MxU1JDX2JsYWNrX3NvbGVfQ0VSVkFfMjAxNl8wMl8zMjE2OC50aWYucG5nfDc4ZjkyNTliY2Q1OTkxZWQyODc3MGE5MTFiOTQ3ZmIyMGZjMGE3NzI2OWQ4ZTllNzYwNTc0Y2ViYTczYWQwMTI</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NTYyfGltYWdlL3dlYnB8OTI0NjA1NjYxMTg3MC8wMjAxMDM2Nl9SQVZFTl9FU0RfTE9XX1MxU1JDX3doaXRlX0NFUlZBIDIwMThfMTk3OTgudGlmLnBuZ3xkMThkNTAyMGQ3NDYyY2RlNjMwOTI0MjFmOWEwYzlkN2U3YTQyYzliMzNiZDUwY2E3MDQyODNlYzA4MzIzYWZk</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201036680-RAVEN-ESD-S1-SRC-low-white-01.jpg?context=bWFzdGVyfGltYWdlc3w3MTI1OXxpbWFnZS9qcGVnfDg5ODI2ODE3NDc0ODYvMDIwMTAzNjY4MF9SQVZFTl9FU0RfUzFfU1JDX2xvd193aGl0ZS0wMS5qcGd8ODZjZDEzMTBmMDAyYzE1MDBlMmYwZjJiOTg4OGM4NzQ4Yjk1MGEzMWY5MjZlNTAxZGZjYmFlOWVhOTBhNzExNA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MDIwfGltYWdlL3dlYnB8OTI0OTk3Mzc2NDEyNi8wMjAxMDM2Nl9SQVZFTl9FU0RfTE9XX1MxU1JDX3doaXRlX3NvbGVfQ0VSVkEgMjAxOF8xOTc5OC50aWYucG5nfDM5MmUwOGY1Yzc1OTBhYTI3MWIyNWU5ZWY0YjM4ODk2MTkzZGVjOWRmZWY5MDI3MWQyNjMyOGVhZTliZmVhMmI</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02010367</code>
          <title>RAVEN ESD O1 SRC poltopánka</title>
          <description>• pracovné ESD poltopánky • podošva z jednohustotného PU • zvršok z inovatívneho mikrovlákna, ktoré zaisťuje užívateľovi perfektnú priedušnosť</description>
@@ -19615,223 +19318,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             </image>
             <image>
                <path>https://media.cerva.com/medias/0201036780-RAVEN-ESD-O1-SRC-low-white-01.jpg?context=bWFzdGVyfGltYWdlc3w3MTI1N3xpbWFnZS9qcGVnfDg5ODI2ODg0MzIxNTgvMDIwMTAzNjc4MF9SQVZFTl9FU0RfTzFfU1JDX2xvd193aGl0ZS0wMS5qcGd8NjFlYTE3ZDliMjhkMThiYmVkM2I2MWU5YzZmMWViZjJhODc4YzJlZWRiZjZlZGJlMTI3NmEwOWQ2MDQxMDEyNg</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010368</code>
-         <title>RAVEN O2 SRC poltopánka</title>
-         <description>• pracovné poltopánky• podošva z jednohustotného PU • zvršok z inovatívneho mikrovlákna, ktoré zaisťuje užívateľovi perfektnú priedušnosť</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-         </sizes>
-         <colors>
-            <color code="80" title="biela"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | O2 FO SRC"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5ODg0fGltYWdlL3dlYnB8OTI1MDQ4NTIwNzA3MC8wMjAxMDM2OF9SQVZFTl9XSElURV9MT1dfTzJTUkNfQ0VSVkEgMjAxOF8xOTgwNy50aWYucG5nfDUyZGE0OTVmNThiNGUzNjI1N2VhZmQ4NmE1YjZiNzcyN2FkYjUzM2Y5MTY1OWQxMjJhMWViYTliMDY0Njc5ZmM</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MDIwfGltYWdlL3dlYnB8OTI1MDQxOTYzODMwMi8wMjAxMDM2OF9SQVZFTl9XSElURV9MT1dfTzJTUkNfc29sZV9DRVJWQSAyMDE3IDAyXzIwMTE2Ni50aWYucG5nfGQ0ZThjNTdkZDc0NTczZWJmMmFmNDk4NzczMzdhNzdmZjc5MmZkODRmYWM1MDhjYjY1MGQzZDBjMDRkM2I5MTA</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010370</code>
-         <title>MONTROSE ORANGE ESD S1P SRC poltopánka</title>
-         <description>• bezpečnostné poltopánky s kovovou tužinkou • stielka odolná proti prepichnutiu • podošva z dvojhustotného PU • zvršok z brúsenej kože • perfektne sa hodí k montérkovej kolekcii Montrose</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzYyNHxpbWFnZS93ZWJwfDkyNDU5Nzc5MzU5MDIvMDIwMTAzNzBfTU9OVFJPU0VfRVNEUzFQU1JDX2xvd19ncmV5X29yYW5nZV9DRVJWQSAyMDE5IExFREVOXzM3ODE2LnRpZi5wbmd8YjJkMmI4ZTcwOWMwNzVkMWE3MjUzNDZmMjZkZWM1YzdhN2MzMjRlZGQ4ZTcwNzIzM2EyYjM4Y2MzNmE4ODAxMQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Nzk4fGltYWdlL3dlYnB8OTI1MDgyMTQwNjc1MC8wMjAxMDM3MF9NT05UUk9TRV9HUkVZX09SQU5HRV9FU0RfUzFQX1NSQyBsb3dfQVNTRU1CTFlfRFNDXzQ1OTgudGlmLnBuZ3wyZGZmYWU2MjUyNTc5MmE0YjA3NTYzNWYzMWRhNzE1MDZhMWY2YjI0M2VkMGFkNWY5YWJmODg2OTJlZDg4YWNl</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5ODM0fGltYWdlL3dlYnB8OTI0NjMxMjkyMzE2Ni8wMjAxMDM3MF9NT05UUk9TRV9FU0RTMVBTUkNfbG93X2dyZXlfb3JhbmdlX3NvbGVfQ0VSVkEgMjAxOSBMRURFTl8zNzgyMC50aWYucG5nfDMzZTI3YTVjYjc3ZjQzYWQyNzc5NTEyMzljNTE1NDc4MWIzN2ZiNGI4ZDAzMWVkMDY1MDYyM2ZkNzQxNDczYWM</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010373</code>
-         <title>FARINA MF S2 SRC mokasíny</title>
-         <description>Bezpečnostné mokasíny s nekovovou tužinkou Podošva z jednohustotného PU. Zvršok z inovatívneho mikrovlákna, ktoré zaišťuje užívateľovi perfektnú priedušnosť.</description>
-         <categoryPath>Produkty/Obuv/Mokasíny</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="80" title="biela"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S2 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4OTcwfGltYWdlL3dlYnB8OTI0OTU2MDAzNTM1OC8wMjAxMDM3M19GQVJJTkFfUzJTUkNfTU9DQVNTSU5fMzMxNjAgUzIgU1JDLnRpZi5wbmd8NDA5Mzg4NTIwMjUwOGQ4MWU2MmQzNTIwZDU0ZDg3MmFmOTAxMGVmZWJkZmMzOTZhNjI0OTVmY2QyOTRkM2VkYw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2ODU2fGltYWdlL3dlYnB8OTI1MTEyMzk4NjQ2Mi8wMjAxMDM3M19GQVJJTkFfUzJTUkNfTU9DQVNTSU5fMzMxNjBfQVNNX0RTQ183MjI1LnRpZi5wbmd8ZjI0NmU5MDE3YmI5OGEyMDc5NTZhOWZkODdkZTgwNGY3ZTYzZmRhMjU4Njc2MjBmN2JjMzYwOWNkM2RkYzUxZQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2MDEwfGltYWdlL3dlYnB8OTI1MTAzNTQ0NzMyNi8wMjAxMDM3M19GQVJJTkFfUzJTUkNfTU9DQVNTSU5fc29sZV9DRVJWQSAyMDE4XzMwMjQ3LnRpZi5wbmd8N2ZkYzFiMzdmNmYxNDkwODBiOTMwNDFkYjk1YjBiMDQzYzc2MDljMmYzMTM5MjA3YTIyZTQ1YTRmYzFjYzk5YQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201037380-FARINA-MF-S2-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w2NzY1OXxpbWFnZS9qcGVnfDg5ODI3MDIwNjM2NDYvMDIwMTAzNzM4MF9GQVJJTkFfTUZfUzJfU1JDLTAxLmpwZ3w1YzNmNjVlZjU0MGJkNTExZWZiZTAwMmNhNWIzM2M1ZTdjN2U2ZmQ3YmY4ZTc5YmNlOTEwNDc5OWU0ZTQ2YzEx</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010374</code>
-         <title>FIACRE MF S2 SRC mokasíny</title>
-         <description>Bezpečnostné mokasíny s nekovovou tužinkou. Podošva z jednohustotného PU. Zvršok z inovatívneho mikrovlákna, ktoré zaišťuje užívateľovi perfektnú priedušnosť.</description>
-         <categoryPath>Produkty/Obuv/Mokasíny</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S2 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NTA4fGltYWdlL3dlYnB8OTI0OTY5OTI5OTM1OC8wMjAxMDM3NF9GSUFDUkVfUzJTUkNfTU9DQVNTSU5fMzMxNjkgUzIgU1JDLnRpZi5wbmd8OTUwZTgxZWVkZmI2M2FhOWQxYTgxZTg5YzJjZTY4NmYxYWRkYzkxODU4ODcxMTdlZTdmMmQyMTQ0ZWVmODkzOA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MDg2fGltYWdlL3dlYnB8OTI1MDYxODgzNDk3NC8wMjAxMDM3NF9GSUFDUkVfUzJTUkNfTU9DQVNTSU5fMzMxNjlfQVNNX0RTQ183MjMxLnRpZi5wbmd8MTU0ODdiYmI5YzhmMjMwN2M4NTM2NWJmNWJhYmUzM2E1ZTE3YzNiNGFiMThiZjEyZDA5OGJiZjczZmVmYTJlMA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDAyOHxpbWFnZS93ZWJwfDkyNDY0ODk1NzU0NTQvMDIwMTAzNzRfRklBQ1JFX1MyU1JDX01PQ0FTU0lOX3NvbGVfQ0VSVkEgMjAxOF8zMDE0NS50aWYucG5nfDY1MzhlYjhmNGViODMwNWUyODcwOTZkODczOWJmMWIxMjYyYzA2ZDZiNzA0NjgwNzliNmJjZmVkM2M2YzZjZTk</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/02010374-FIACRE-MF-S2-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w4NDA3MnxpbWFnZS9qcGVnfDg5ODI1MzcxMDk1MzQvMDIwMTAzNzRfRklBQ1JFX01GX1MyX1NSQy0wMS5qcGd8MzlmMjA2YzcxNzk4MTY5NWVhN2RjYWY4ZDgyNTFjMzUxZjJlZTI4N2Q3NDUwODlhMzVlZDUyYTliYjYzOWNjZQ</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010378</code>
-         <title>No.FIVE QLS MF S3 SRC poltopánka</title>
-         <description>• bezpečnostná poltopánka s nekovovou tužinkou • Kevlarová stielka odolná proti prepichnutiu • podošva vyrobená z PU/TPU • zvršok z kvalitnej lícovej kože • unikátne rýchlozapínanie pomocou kolieska</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDg4NHxpbWFnZS93ZWJwfDkyNTAxNjAxNDg1MTAvMDIwMTAzNzhfNTIxOTJfUzNfU1JDIC0gTm8uIEZJVkVfY2F0YWxvZ19jbXlrLnBuZ3w2MGYzMGQwMzlmMDdkMDNiYjlkZTMxMjRjNGY4ZDYzMDdjY2UxMmVmYjc4MzFlNzhmNWVjODdjM2E5MDlmZjNm</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mjc0fGltYWdlL3dlYnB8OTI0NjQwNDgzNzQwNnxkMjZlNmYyNjcwODkxOTc3YzZhMGNhODNmN2E5YTc5ZjMwMTg0ZGQxNzY5MTRiYjk4MzQyYzRjZWE2MWI1M2U5</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201037860-No.FIVE-QLS-MF-S3-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w3NjA4MnxpbWFnZS9qcGVnfDg5ODI3MTI0ODM4NzAvMDIwMTAzNzg2MF9Oby5GSVZFX1FMU19NRl9TM19TUkMtMDEuanBnfGYyOTdlM2FkZTY4MTMzZjY2MGZmODIyZGFhMmViZGU5YzE3NTdhNDZiOTA0NzhjMzU0MGVjOWMwNzUyYzg1Mjc</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0ODc4fGltYWdlL3dlYnB8OTI1MDg0NjA4MTA1NC8wMjAxMDM3OF9uby5GSVZFX0RTQ182NDQwLnRpZi5wbmd8NzYwNGNkZGIwNDI5OTZhZjU5Yzg5ZTk4OTgzNWY0YmNlOThhMWQyNTYxMWFlYmUyZWU5YzUwMDhmYTg4OTc4OQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0MzcyfGltYWdlL3dlYnB8OTI0NjExMjQ0ODU0Mi8wMjAxMDM3OF9uby5GSVZFX0RTQ182NDQ4LnRpZi5wbmd8ZWFiZjZkNmI4Y2NkYzU3NzczYmQxMDFjYTc4NmM3NzY5YzgxNGFmNDQxN2JiOWE3YjE4YjdiZTM1ZjJhY2EzNw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTE3NHxpbWFnZS93ZWJwfDkyNDU5NjQ2NjQ4NjIvMDIwMTAzNzhfMDIwMTAzNzlfMDIwMjA3MDdfMDIwMjA3MDhfUUxTX1BhbmRhX3N5c3RlbV9DR1cudGlmLnBuZ3wyNjkzYmNkZjNhZTViYTA3NGViOGZjZjUxZGI0Nzg3Mzg5ZmRmYWZiMWE1YzU5Y2FmZGRkOWMwNDcxOTkxZjE1</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -19917,42 +19403,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             </image>
             <image>
                <path>https://media.cerva.com/medias/0201038060-BRAKE-MF-S3-HRO-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDA5OTN8aW1hZ2UvanBlZ3w4OTgyNzE5MzY1MTUwLzAyMDEwMzgwNjBfQlJBS0VfTUZfUzNfSFJPLTAxLmpwZ3xlOWY2MjQxYjlhNDEwMzhiNDg0M2Q3OGY3MjlhN2E5M2ZiOWFjNTcxOGY5ZTI1NjAxY2QxZDYxOTRlZGUyZjBk</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010381</code>
-         <title>EVE MF S3 SRC poltopánka</title>
-         <description>• bezpečnostné dámske poltopánky s nekovovou tužinkou a aramidovou stielkou odolnou proti prepichnutiu • podošva vyrobená z PU/GUMA • zvršok z kvalitnej vodeodolnej kože nubuk</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>TWF</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTQ1NnxpbWFnZS93ZWJwfDkyNTEwNTIzNTU2MTQvMDIwMTAzODFfRVZFX1MzU1JDX0xPV19DRVJWQSAyMDE4XzMwMTkyLnRpZi5wbmd8Mzg1MjI4ZmI1OTFiYmEzZTBiOTNmOTFkNTFiY2NmYjFjYmExNjg2MTQzODI5NmI5YzRhZTE1M2Y4YThhZGIwZA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDQxMnxpbWFnZS93ZWJwfDkyNDYyMzA1MTE2NDYvMDIwMTAzODFfRVZFX1MzU1JDX0xPV19DRVJWQSAyMDE4XzMwMTkzLnRpZi5wbmd8NzM3ZGYzNTdkZGEyYTFlM2UwYzJiOTY0NWIzZjExMDk4MzVhMzdkNzY2ZWZhYTA0ZWMwZjVlOTE3MDc3ZGZiNg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201038160-EVE-MF-S3-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w2NDg0MHxpbWFnZS9qcGVnfDg5ODI3MjI3NDAyNTQvMDIwMTAzODE2MF9FVkVfTUZfUzNfU1JDLTAxLmpwZ3w3MGU1OGRkYmFhMjAwNjY5MzcxM2JjMzUxNWJjY2JjMTVkNjdiYTRjYmZiOGI3NzZjZDNjZDBiYjlmMDBhOGNj</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -20169,98 +19619,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTgxNnxpbWFnZS93ZWJwfDkyNTAxMzExNDg4MzB8MWNkY2M4ODhhOTg1MWRiMTQ2ODBjNTY3ZTg2ZjMzYTkzMzA2ZTcwNDUyOWE2YWE0YTlmZmRkMDE1MzNjMGNhNw</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010512</code>
-         <title>RONAN MF S1 SRC poltopánka</title>
-         <description>• táto bezpečnostná obuv vyniká pútavým dizajnom • zvršok je vyrobený z mäkkého semišu • vpredu je perforovaný, aby sa zvýšilo prúdenie vzduchu vo vnútri topánky a tým aj jej správna recirkulácia • topánka je vybavená kompozitnou bezpečnostnou špičkou, ktorá bola testovaná podľa požiadaviek európskych noriem, aby odolala tlakovej sile do 200 joulov • vnútorná podšívka sieťoviny Airnet je ultra priedušná a je zosilnená v oblasti päty pre zvýšenú odolnosť proti opotrebeniu • topánky sú vybavené dezinfikovanou vnútornou stielkou, ktorá absorbuje vlhkosť a má antimikrobiálne, antibakteriálne, antistatické a protizápachové vlastnosti • model je vyrobený z certifikovaných komponentov najvyššej kvality a 100% talianskeho výrobcu bezpečnostnej a pracovnej obuvi s viac ako 40 ročnými skúsenosťami v odbore</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="40" title="modrá"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzEzMnxpbWFnZS93ZWJwfDkyNDYxNTIxOTYxMjYvMDIwMTA1MTJfUk9OQU5fTUZfUzFfU1JDX2xvd19EU0NfODI2OS50aWYucG5nfGRmNmIxM2U4N2E0NmM3NWM2YjVmZDhkODU5YTVhNDAxM2JhZWRkYzQ4MDJlZmRlZTM1ODY5ZGVhYzUyMGNiMmU</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDc4MnxpbWFnZS93ZWJwfDkyNTAyNzE3NTYzMTgvMDIwMTA1MTJfUk9OQU5fTUZfUzFfU1JDX2xvd19BU1NFTUJMWV9EU0NfODI5MC50aWYucG5nfDhhMjg1MTczYzkyOGZkMmZjODNhMzI2Yzk4MmUzN2YyM2RjNTA3ZmVmNDE4ZjAzNTc4Mzg1MDNkMTRlYWJiODI</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NTI4fGltYWdlL3dlYnB8OTI1MTExODYxMjUxMC8wMjAxMDUxMl9ST05BTl9NRl9TMV9TUkNfbG93X3NvbGVfRFNDXzgyNzcudGlmLnBuZ3w0NDUwZWE1NmU1ZWIyNWYzNWE3ZTg3MTJkZTQ2N2U5NjI3YWI1YTQyNTY2MzZiN2RlMjQ5MzQ0NjRhNzUzYTNj</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxOTc4fGltYWdlL3dlYnB8OTI0NTk5NTg5Mjc2Ni8wMjAxMDUxMjQwX1JPTkFOX01GX1MxX1NSQ19sb3ctMDEuanBnfDJhZWIzNTFhMTI4MmZhYjcwMTlhNzU2MjYyNGZiMjQ0NmQ2MmQwMmNkNjY1MTA2YjUwMGYzZjAxYTQ0MGNiOGI</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010513</code>
-         <title>SIRIA MF ESD S1P SRC poltopánka</title>
-         <description>• bezpečnostná poltopánka ESD, ktorá je vyrobená bez kovových súčastí • semišový zvršok je dostatočne perforovaný, aby sa zvýšilo prúdenie vzduchu vo vnútri topánky a tým aj jeho správna recirkulácia • to v kombinácii s vnútornou podšívkou „AIRNET mesh“ poskytuje pohodlie a sviežosť po celý pracovný deň • behúň podošvy a medzipodrážka je vyrobená z kvalitného ESD polyuretánu, čo zaisťuje topánke pohodlie ale zároveň robustnosť a maximálnu odolnosť proti opotrebeniu • nekovová stielka proti prepichnutiu je z viacvrstvového polyesteru a odolá tlaku až 1.100 newtonov • model je výrobený z certifikovaných komponentov najvyššej kvality a 100% talianskym výrobcom bezpečnostnej a pracovnej obuvi s viac ako 40 rokmi skúseností v obore</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="00" title="sivá"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjA2NnxpbWFnZS93ZWJwfDkyNDk4MjM4ODMyOTQvMDIwMTA1MTNfU0lSSUFfTUZfRVNEX1MxUF9TUkNfbG93X0RTQ184MjUwLnRpZi5wbmd8NDVlMjI0YjQ3ZDY1ZmZhNGZmZmUwYzM5YzM1ODNlZDEyYzE1ZjVjNDBkMmUyNDFjYjIzOWUyOWFiOGVkNThlNw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTkzOHxpbWFnZS93ZWJwfDkyNDYyNzM3OTgxNzQvMDIwMTA1MTNfU0lSSUFfTUZfRVNEX1MxUF9TUkNfbG93X0FTU0VNQkxZX0RTQ184Mjg1LnRpZi5wbmd8YjFiZGM4NDgxODY2Y2I3MWQ3NDMzNWIwODJkNWVmY2E2ODc2ODdmZGYxNmViZTAzYWYwZTkxOWI4MTI4YWI2Mw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NDgwfGltYWdlL3dlYnB8OTI0NjUxMTMzMzQwNi8wMjAxMDUxM19TSVJJQV9NRl9FU0RfUzFQX1NSQ19sb3dfc29sZV9EU0NfODI4MC50aWYucG5nfDRjMjZiMmI4YTQyNDg5NDg4YzAyZGMxNjkzNjE2YzBiNzY3M2FmZGQ5NGNiOWE5ZWVkOWU1MTZjMGIyZDgzODg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201051300-SIRIA-MF-ESD-S1P-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w4Mzg5OHxpbWFnZS9qcGVnfDg5ODI3NDA1MzMyNzgvMDIwMTA1MTMwMF9TSVJJQV9NRl9FU0RfUzFQX1NSQy0wMS5qcGd8ZGEzNDQwZGY2YjBmYjJkNjYxODRmYmY0N2U3MDQxZjkwODRlZTUyYWY0OWZlZWQ2NTlmMzcyYWU2M2JjYTI0Nw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w1MDk2fGltYWdlL3dlYnB8OTI1MDIyMzg0OTUwMnxlMWNiMzExYzEyNzNjMDg0Y2IwNjY0ZGQyMGE5NTEyNGFkM2ViNGZhMTYyMjM2MWFhNTk3YjA4MTFjMDBiNGQ1</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -20526,45 +19884,6 @@ Obuv neobsahuje kovové súčasti a je vybavená funkciou ESD. Preto je to ideá
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2MzA2fGltYWdlL3dlYnB8OTI0NjM1MzA2Mzk2Ni8wMjAxMDU1N19aVVJSVU1fRFNDXzczMDIudGlmLnBuZ3wzZDM2N2I0MzAxODZhODI1NTcyMTI2YmM0ZDk0ZDg3OWY0ZDY4ZWM2MTQ0NGNlZDNhNTJhMDg3Yzg0OWE5ZTcx</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010564</code>
-         <title>SUPER SET BLACK ESD S1P SRC poltopánka</title>
-         <description>• špičkový bezpečnostný model od portugalského výrobcu, spoločnosti TO WORK FOR • topánky sú extrémne priedušné a pružné vďaka materiálom a komponentom použitým vo výrobnom procese • zvršok je vyrobený z priedušnej sieťoviny 3D AIR FLOW a potiahnutý tenkou vrstvou TPU, ktorá chráni oblasť špičky • hliníková špica chráni pred nárazom 200 joulov, čo zodpovedá zaťaženiu 20 kg padajúcemu z výšky jedného metra, a proti rozdrteniu silou 1500 kg • hliníková špica je veľmi ľahká, tenká, nekoroduje a nie je elektricky vodivá • nekovová medzipodošva s nulovou perforáciou FLOAT je extrémne ľahká, pružná a zaručuje pohodlie na každom kroku • podošva TRIPLE SPEED je vyrobaná z kombinácie extrémne ľahkého materiálu Eva Safety a vysoko odolnej gumy • vyberateľná stielka je vyrobená z aktívnej peny, ktorá pomáha predchádzať únave svalov a uvoľňuje tlak na päte • topánky sú naviac vybavené funkciou ESD • vďaka použitým materiálom a komponentom je celková hmotnosť polpáru (veľkosť 42) iba 580 g • unikátny športový dizajn tohto modelu je ďalšou doležitou výhodou pre tých, ktorí chcú pri prácu vyzerať skvelo</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
-         </standards>
-         <brand>TWF</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mjg4fGltYWdlL3dlYnB8OTI1MDIwOTcyNjQ5NC8wMjAxMDU2NF9TVVBFUl9TRVRfYmxhY2tfVzFfQkxBQ0tfaW52ZXJ0LnRpZi5wbmd8ZTg3MTZlYjgzNWNhYmZkOWY4YmU4N2Q2NjczMDk3NGU0NGY2MTFiZGZkNzhlODNhM2ExYjIzMWUzNGFhZWJkZg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyMjk2fGltYWdlL3dlYnB8OTI0NjQ1MzYyODk1OC8wMjAxMDU2NDk5X1NVUEVSX1NFVF9CTEFDS19FU0RfUzFQX1NSQy0wMS5qcGd8NzQ5ZDJhMTMwZDBhN2JmNzdlODgyM2U5MmRlMDJlNzc4ZDcyNWNmMzhkYTJlY2U0MjAxYTc1YjFlODRiZmY2MA</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -21486,68 +20805,6 @@ Obuv neobsahuje kovové súčasti a je vybavená funkciou ESD. Preto je to ideá
             </image>
             <image>
                <path>https://media.cerva.com/medias/02010594-Bari-01.jpg?context=bWFzdGVyfGltYWdlc3w4MzUyMHxpbWFnZS9qcGVnfDg5ODI1NDA0ODQ2MzgvMDIwMTA1OTRfQmFyaS0wMS5qcGd8NWRlYzgxYjI5ZTllOTRhZjJhMGEzMDdlY2I3MmQ0MDIyNGM0N2ExMWMzZjYxYmE5NmMzYTI0MGEyNGJiNjhlMg</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010596</code>
-         <title>CALPE O2 SR poltopánka</title>
-         <description>• špeciálny typ obuvi s bezšvovým zvrškom a so šnúrkami • unikátny materiál D&apos;COVER DRY® je priedušný a zároveň odpudzujúce tekutiny • konštrukcia obuvi, vypchatá textilná podšívka D&apos;DRY® a polstrovaný golier členku sú tak navrhnuté, aby sa zabránilo tvorbe pľuzgierov • obuv má rovný tvar s guľatou špičkou a pevnú podporu päty • bnútorná polstrovaná látková stielka je vyrobená z tepelne tvarovanej polyuretánovej peny s antibakteriálnou úpravou a aktívnym uhlím • podrážka na báze materiálu EVA XL EXTRALIGHT® je ultra ľahká, pohodlná, flexibilná a protišmyková, s plochým dizajnom podložky, lemovanými hranami a širokými drážkami na uľahčenie odvodu tekutín • obuv je vhodná na pranie v práčke do 40º • perfektný model pre zamestnancov segmentu HoReCa</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="00" title="sivá"/>
-            <color code="41" title="navy"/>
-            <color code="42" title="tm.modrá"/>
-            <color code="52" title="sv.modrá"/>
-            <color code="60" title="čierna"/>
-            <color code="80" title="biela"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | O1 FO SRC"/>
-         </standards>
-         <brand>DIAN</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjQwNnxpbWFnZS93ZWJwfDkyNDk4MjU0MjMzOTB8NDFjMmVmMTQ3ZGM3NTNlY2IxZGE5ODA1ZjMxOGE0NGI2YTZkZmYzMjc2ZmQ3NDFhNjQ2MTg3MzhiYzhiOTllYQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTQ5OHxpbWFnZS93ZWJwfDkyNTAyNTYwMjc2Nzh8YjMwZmUwMzEyMzExOWEzZjU5MDRkMjkyNjJkNWVlYzRlMGI2OGRkNjJhYmU1YzQxZjMwZmU0MjY1Zjg1NmIwNA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjE3OHxpbWFnZS93ZWJwfDkyNTA1MTI3OTc3MjZ8OGMxN2Y2YTg1NTFkMTIyNDJkOTRjYWNkNWU5Y2Y2ZGZiMDM5M2Y4MzE5MjA3NTVmMzQ2YTk4M2U0NmY5NjU0Nw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzg3NnxpbWFnZS93ZWJwfDkyNDYyMzEzNjM2MTR8N2I5ZGNhNWRmOGYwNzY4OWQ0MTE4ZDljM2ZmYjMwMjA3NTFhMzNmOWI4NDI3M2ZiNDZjZjhlYzI2Njk2NTAxNw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTQzOHxpbWFnZS93ZWJwfDkyNTExMzE1MjMxMDJ8MGNhYTk5MDE5Yjc5ODIzOWMyMWRlMmUwZTJjMzFkZGRlOTQxODEyOGVlZGI1YWI4MDA2MmM3Y2FhYjk5MGZjNQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTQwMnxpbWFnZS93ZWJwfDkyNTA1MTQzMDUwNTR8NmQ5NWNhZTI4YzVhMjgxMDlhMGZhYjY0MTRiNGExY2UxM2E1NDliOTUwYzlmMzY4Mjk2ZTg3NTA0YTY1OTcxYw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MzY4fGltYWdlL3dlYnB8OTI0NjM4NjY1MTE2NnxhYjJkNWI2NmFhNTMwZDhiZjIzZTQ5MjcwNTlhMTZjMjNhNzllNTJlYTdhNzMyZDg1NTViMjlkMDIwOTU2MDQ1</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MzA2fGltYWdlL3dlYnB8OTI1MDQ0MjkwMzU4Mnw4ZjNiMzFkNGFlM2E4MTRiYzg3Yzc3ODllYzkxMTgyODdkN2FkNWM4ZDQ0M2Y3MzMyODI3NTdiMWFiN2JkOWQ1</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -22733,48 +21990,6 @@ Obuv neobsahuje kovové súčasti a je vybavená funkciou ESD. Preto je to ideá
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wzMjQ4fGltYWdlL3dlYnB8OTI0NjM0NjExNzE1MC8wMjAxMDYyMzY0X0dSSU1NQV9PMV9NRl9TUl9ibGFja19sb3ctMDEuanBnfDI3ZjRhNjc4MDYyMDMzY2YzMjFkYWQxODcxYjJkNzhkNDVjMzM2YWM4Y2Y0YzM4OGFjZmIxMzlhMWY1ZjQxYmM</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010624</code>
-         <title>GERA S3 SR  poltopánka</title>
-         <description>Bezpečnostná poltopánka certifikovaná podľa EN ISO 20345:2022 v bezpečnostnej triede S3. Oceľová stielka proti prepichnutiu a oceľová tužinka. Dvojhustotná PU podrážka vhodná do vnútorného prostredia. Ľahký textilný zvršok.</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="65" title="černá/červená"/>
-            <color code="68" title="čierna/sivá"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDAxNnxpbWFnZS93ZWJwfDkyNDk4ODUwNjExNTAvMDIwMTA2MjRfR0VSQV9TMVBfU1JfbG93X3JlZF9EU0NfODI1Ni50aWYucG5nfDcxMTE5ZDUzZDBhYjE5MjExNTdjZmQ3M2U3ZDY2MDAxM2YyZThkODA3ZDRiZmZjMWJkYjA3ZWIwZmIwNTU2MDk</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NDQ2fGltYWdlL3dlYnB8OTI1MDY4OTEyMjMzNC8wMjAxMDYyNF9HRVJBX2xvd19zb2xlX0RTQ184MjcxLnRpZi5wbmd8NWRhYTcyNGQwZTkyN2VkNTU4NmFlOTA2YjZiOTE4NWEyNGU0YjM2MzNkZGE4Mzg2ZTY0ZjEwMmNmZjk2MzA3ZQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDc2NnxpbWFnZS93ZWJwfDkyNTA4OTI0MTUwMDYvMDIwMTA2MjRfR0VSQV9TMVBfU1JfbG93X2dyZXlfRFNDXzgyNTkudGlmLnBuZ3wzZWNiZjAzZmU3OWU1ODI5YmIyODQxZTRkZWM1NDU3M2VlM2E5N2Q5ODJiZGI3NGUxNjE1ZDVjNmYzMzNkYmIz</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -25027,50 +24242,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02020550</code>
-         <title>LYNX MF S3 SRC HRO členok</title>
-         <description>• bezpečnostná členková obuv s kompozitnou bezpečnostnou špicou a stielkou odolnou voči prepichnutiu • antistatickou a protišmykovou gumovou podošvou rezistentnou voči olejom • vodeodolný zvršok z kvalitnej lícovej kože</description>
-         <categoryPath>Produkty/Obuv/Členková obuv</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-            <size code="049" title="49"/>
-            <size code="050" title="50"/>
-            <size code="051" title="51"/>
-         </sizes>
-         <colors>
-            <color code="42" title="tm.modrá"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 HRO SRC"/>
-         </standards>
-         <brand>TWF</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNzE1NHxpbWFnZS93ZWJwfDkyNDYxODg1MDMwNzAvMDIwMjA1NTBfTFlOWF9BTktMRV9TM1NSQ19DRVJWQSAwNDIwMTdfODQ5Ni50aWYucG5nfGY3YjI3Nzg2ZTk2MTI4ZjMwNGZkM2ZmNWRiMzkxNDVlYWMwZDNjYmUwNGY2YzY5ZGY1ZGQyNjU3MjkzNTFiMWE</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NjI4fGltYWdlL3dlYnB8OTI0NjE3ODgwMzc0Mi8wMjAyMDU1MF9MWU5YX0FOS0xFX1MzU1JDX3NvbGVfODQ5Ny50aWYucG5nfDZjMWFjNDFhZGFmNDhmMjNiYTU4MzcyMWI5ZWY4MmNjYzhiYjZhMDY5N2IyNzgyOTliNTQwMjJhMjY3NWJiNDQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0202055042-LYNX-MF-S3-SRC-HRO-ankle-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDMyOTB8aW1hZ2UvanBlZ3w4OTkxMzU1OTk0MTQyLzAyMDIwNTUwNDJfTFlOWF9NRl9TM19TUkNfSFJPX2Fua2xlLTAxLmpwZ3xmMjU5ZDI0ZWNmY2U2ZmNiNmZlYzUxNWJlZjFmMjQ4OGQwMDUzNDNhMDNmMjg3YTBlMTdlMTU2ZDFjOGY2ZThi</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02020552</code>
          <title>CERBIATTO S3S CI MF HRO SR členok</title>
          <description>• bezpečnostná zateplená kotníková obuv s nekovovou tužinkou aj stielkou odolnou proti propichnutiu • antistatická a protišmyková PU/gumová podrážka rezistentná voči olejom • absorpcia energie v päte • vodeodolný zvršok z priedušnej kože a reflexnými komponentami pre zvýšenie viditeľnosti • unikátna PU/gumová podošva</description>
@@ -25959,138 +25130,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02020706</code>
-         <title>No.THREE MF S3 SRC členok</title>
-         <description>• bezpečnostná kotníková obuv s nekovovou tužinkou a aramidovou stielkou odolnou proti prepichnutiu • podošva vyrobená z PU/TPU • zvršok z kvalitnej lícovej kože</description>
-         <categoryPath>Produkty/Obuv/Členková obuv</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzY0MHxpbWFnZS93ZWJwfDkyNTAxODMzMTU0ODYvMDIwMjA3MDZfNTkxOTBfUzNfU1JDIC0gTm8gVEhSRUVfY2F0YWxvZ19jbXlrLnBuZ3wwZDE0MmZkNWI5NmFiZTFlNTM4ZWJlMzY3ODFiNjI5MDMxOTg2MTIyYjFhNzhjNDIzYTNkZWUwMzQ0YTNkZDI2</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mjc0fGltYWdlL3dlYnB8OTI1MDgxODUyMzE2Nnw0ZWQ4NzY4MDJjNGE4OWEyNDM2ZmY4YjdlYTRhOWMyMzVjZjQzOGVlNzFiMjgyNTg2YjA1ZTQ2MmM1ODEzNmM3</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0202070660-No.THREE-MF-S3-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w4NjE3MnxpbWFnZS9qcGVnfDg5ODI5NjgzMzY0MTQvMDIwMjA3MDY2MF9Oby5USFJFRV9NRl9TM19TUkMtMDEuanBnfGUyNGZiOGI3NmIyYTQwMDViNWQ3YTNmMWI5OWQyOTc3MzJmM2E5NmU4OWI3NWZkOTllOTJhNmNlOThkZThjOTk</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02020707</code>
-         <title>No.SIX QLS MF S3 SRC členok</title>
-         <description>• bezpečnostná kotníková obuv s nekovovou tužinkou a kevlarovou stielkou odolnou proti prepichnutiu • podošva vyrobená z PU/TPU • zvršok z kvalitnej lícovej kože • unikátne rýchlozapínanie pomocou kolieska</description>
-         <categoryPath>Produkty/Obuv/Členková obuv</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjc5MHxpbWFnZS93ZWJwfDkyNTAxMjY5ODcyOTQvMDIwMjA3MDdfNTkxOTJfUzNfU1JDIC0gTm8uIFNJWF9jYXRhbG9nX2NteWsucG5nfDUwNzFkNTkxMmRhZWMzODVjODgxMzk5OTg0ZTE4MGQ2NWVmZWYyYTM1Y2VhMWMwOWJiMzVkOGZiNDk5ZDI1OTY</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mjc0fGltYWdlL3dlYnB8OTI1MDI1NTQzNzg1NHxlZDJmOGMwMjRlYTdkY2M5NGNlNDY2YmRlYzdjZDg0ZGYyMzM2OGVmODkyYjI4OWI1OTc2NjY3ODI5M2Q2YWM3</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0202070760-NO.SIX-QLS-MF-S3-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w5ODI5NXxpbWFnZS9qcGVnfDg5ODI5NzE3MTE1MTgvMDIwMjA3MDc2MF9OTy5TSVhfUUxTX01GX1MzX1NSQy0wMS5qcGd8MWRmNzc3MWY0NzlhMTI3ZWQ3NDFjZGU3Zjg3MDdjZDYzOWE2NWFiZTg3NThkZWE3OTNlOTE5Mjg2NWQ0ZDkzMg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0OTg4fGltYWdlL3dlYnB8OTI0OTg3OTAzMTgzOHw3YTE5NjUwZWRiYTFhMWI2YjFmYzBlZDkxMTQxZjA4ZDU2MDQwNDM0NDZhOWYwNDJhZjAyNjM4Yzg2NWY1MmZh</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MTYwfGltYWdlL3dlYnB8OTI1MDI1NjQ4NjQzMHw0ZGMzMDhhOWE4NzdiOGQxMDdiMzA0NGE5NTdmMzQ1OTA5Yzk1YjExMThkZDdiNzhjY2JiNmQyNmMwNTAwMzE1</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTE3NHxpbWFnZS93ZWJwfDkyNDU5NjQ2NjQ4NjIvMDIwMTAzNzhfMDIwMTAzNzlfMDIwMjA3MDdfMDIwMjA3MDhfUUxTX1BhbmRhX3N5c3RlbV9DR1cudGlmLnBuZ3wyNjkzYmNkZjNhZTViYTA3NGViOGZjZjUxZGI0Nzg3Mzg5ZmRmYWZiMWE1YzU5Y2FmZGRkOWMwNDcxOTkxZjE1</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02020708</code>
-         <title>HIJET QLS S3 SRC členok</title>
-         <description>• bezpečnostná kotníková obuv s kovovou tužinkou a stielkou odolnou proti prepichnutiu • podošva vyrobená z PU/PU • zvršok z kvalitnej lícovej kože • unikátne rýchlozapínanie pomocou kolieska</description>
-         <categoryPath>Produkty/Obuv/Členková obuv</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzIxOHxpbWFnZS93ZWJwfDkyNTA0MjI0MjM1ODIvMDIwMjA3MDhfOTkyODJfUzNfU1JDIC0gSElKRVRfY2F0YWxvZ19jbXlrLnBuZ3xhNWQ5NjlmNjFhZGJhOTFkZTA4ZDg2NjI1ZDYyY2E2N2E3N2RhYzQyZDBkYjBlMzJiYjllNjcwODE0YjlkMDM0</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MjE4fGltYWdlL3dlYnB8OTI0OTk5NTg4MjUyNnxhOGMzMmM0OWNjMzA0M2Q5ZDYzZjdlYzg4NGRjNGE3MmJmMmRkNjZjNzE5OTRjNTczZDlmOWRhMzVmMzRjOGQ0</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0202070860-HIJET-QLS-S3-SRC-ankle-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDU1NzR8aW1hZ2UvanBlZ3w4OTkxMzcxNzIyNzgyLzAyMDIwNzA4NjBfSElKRVRfUUxTX1MzX1NSQ19hbmtsZS0wMS5qcGd8ZjE5OTBmOGJlNDkyMjEwYjJhOGM5Y2RiZThhZjc0MTYyZDU3MWQ1NmFiYjQ0NDMzNDYxZDM4OTQ5YjkwNjYxNw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MzI4fGltYWdlL3dlYnB8OTI1MDE5MDY4ODI4Ni8wMjAyMDcwOF9ISUpFVF9DR1dfRFNDXzY0NjQudGlmLnBuZ3w3M2FlM2ViZGY0MDE3N2Q2YjRmYjc3NzFiNGRkZGM1OGMzNWU2NGI4MWQ5NzY1NGZiODQxZjdmZjEwMTc5OWIy</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTE3NHxpbWFnZS93ZWJwfDkyNDU5NjQ2NjQ4NjIvMDIwMTAzNzhfMDIwMTAzNzlfMDIwMjA3MDdfMDIwMjA3MDhfUUxTX1BhbmRhX3N5c3RlbV9DR1cudGlmLnBuZ3wyNjkzYmNkZjNhZTViYTA3NGViOGZjZjUxZGI0Nzg3Mzg5ZmRmYWZiMWE1YzU5Y2FmZGRkOWMwNDcxOTkxZjE1</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02020710</code>
          <title>WHEELS MF S3 HRO SRC členok</title>
          <description>• bezpečnostná kotníková obuv s kompozitnou tužinkou a aramidovou stielkou odolnou proti propichnutiu • podošva z dvojhustotného PU s masivnou ochranou voči okopaniu • zvršok z vodeodolnej nubuk kože</description>
@@ -26314,49 +25353,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02020722</code>
-         <title>CORTINA MF S3 SRC členok</title>
-         <description>• bezpečnostná členková obuv s nekovovou tužinkou a nekovovou stielkou odolnou proti prepichnutiu • podošva vyrobená z PU/PU • zvršok z kvalitnej lícovej kože</description>
-         <categoryPath>Produkty/Obuv/Členková obuv</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzAyMHxpbWFnZS93ZWJwfDkyNDk2MDg0MzM2OTQvMDIwMjA3MjJfQ09SVElOQV9TM1NSQ19BTktMRV9EU0NfMjI4OS50aWYucG5nfDg5MjI4OWU4Nzg4OTQ1NDEwZGJlZmVhMzcxMmMxNzhhNWM1ZDBmZjkxNGQ3NTNmZGUzNDRhY2ZmNzk0ZDAyMzk</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3OTA2fGltYWdlL3dlYnB8OTI0NjAwMTE2ODQxNC8wMjAyMDcyMl9DT1JUSU5BX1MzU1JDX0FOS0xFX3NvbGVfRFNDXzIyOTkudGlmLnBuZ3xiNzMyM2M4MDM0MDEzYmM2YTU3MjYyNjA0ZTRmZWJjYzkxYmJjMWNlZmQ1Y2UxMDhjYTEwODU4NTcyZjViNTlj</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0202072260-CORTINA-MF-S3-SRC-ankle-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDUyMzB8aW1hZ2UvanBlZ3w4OTgyOTkxOTYyMTQyLzAyMDIwNzIyNjBfQ09SVElOQV9NRl9TM19TUkNfYW5rbGUtMDEuanBnfGIyY2FiMTBhYTIwMDc3YjhmN2Y0ZmQ1NTBlMDI2MTAxNDgwZDdjMDI5NmNhMDJlYjU3MzY2YmZmOTQ2ZDhhM2Q</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3OTQ4fGltYWdlL3dlYnB8OTI0OTU2ODQyMzk2NnxiNGU3OTRhZmE0YzFkNDdiOWJhNTNmMDI0YWYwYTQzM2M0NTU5OWFkYTI1OWYwODc4MzRiZmQ0NTJiNDdjZTMy</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MjM2fGltYWdlL3dlYnB8OTI1MDk2MDE0NjQ2MnwxM2U4ZGVkNWI3MWY2NjBmNzI5NjZhOGM3YjEzZGJhZTAzNjQ1OGQyYzZmNGJlNjE1MDdlNDE3ZjFjYjhmOGFj</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02020829</code>
          <title>RUFUS MF S1 SRC členok</title>
          <description>• pohodlie je zásadnou požiadavkou pre tých, ktorí pracujú denne niekoľko hodín v stoji • za účelom splnenia tejto požiadavky je polstrovaný golier tejto topánky z mäkkého materiálu a vďaka perforovanej špičke je zaistená dobrá priedušnosť • bezpečnostná špička vyrobená z kompozitného materiálu spolu s antistatickou a protišmykovou podrážkou zaisťujú ochranu pred najbežnejšími rizikami zranenia • špeciálna a vysoko účinná vnútorná stielka absorbuje vlhkosť a má antimikrobiálne, antibakteriálne, antistatické a protizápachové vlastnosti • pre vnútornú podšívku bola použitá špeciálna tkanina Airnet mesh vybavená technológiou mikrokanálikov, ktorá zaisťuje vysokú transportnú funkčnosť • model Rufus je vyrobený z certifikovaných komponentov najvyššej kvality a 100% talianskym výrobcom bezpečnostnej a pracovnej obuvi s viac ako 40 rokmi skúseností v obore</description>
@@ -26396,51 +25392,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MzAwfGltYWdlL3dlYnB8OTI0NjIwNzExNTI5NHw0Y2Y2Njk3Yzc0NzE1Mzc0MGRlYzBlY2YxNGFlYzQ5NmM1MzA4ZTI5ZGMyNTg4NTkzZDdkMGQ5YTc1YjdlNDlk</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02020830</code>
-         <title>SVEVA MF ESD S1P SRC členok</title>
-         <description>• bezpečnostná členková obuv s kompozitnou špicou a stielkou proti prepichnutiu • antistatická podrážka z polyuretánu s dvojitou hustotou, ktorý je odolný voči olejom a oderu • zvršok z brúsenej kože a vnútorná podšívka z priedušnej sieťoviny Airnet • ESD</description>
-         <categoryPath>Produkty/Obuv/Členková obuv</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="00" title="sivá"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTMyNHxpbWFnZS93ZWJwfDkyNTExMjE4ODkzMTAvMDIwMjA4MzBfU1ZFVkFfTUZfRVNEX1MxUF9TUkNfYW5rbGVfRFNDXzQzNDEudGlmLnBuZ3w5ZGRhMmE5NTdhNWZlNDQ4MWY2ZDE4OWQwNWMyMDMyMjI5ODBlMTM5MmI4ODBmOTIwNDUxYzMxZWQ5MTVkYmIz</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTgwMHxpbWFnZS93ZWJwfDkyNDk3Njk3MTc3OTAvMDIwMjA4MzBfU1ZFVkFfTUZfRVNEX1MxUF9TUkNfYW5rbGVfQVNTRU1CTFlfRFNDXzgyODQudGlmLnBuZ3w3M2JmYmU1YTBmZTZlM2FmMjgxNGMzOGVhYmEwZDBmZTczMWExZjFhMmU3MWY2YTQ0NTFkMTU0NWMzMWViY2Q3</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NDU4fGltYWdlL3dlYnB8OTI1MDY5MDQ2NTgyMi8wMjAyMDgzMF9TVkVWQV9NRl9FU0RfUzFQX1NSQ19hbmtsZV9zb2xlX0RTQ184MjgwLnRpZi5wbmd8NWJhNGQzMTQzMWI3NTkzYzdhZjI4MzJkY2VlYWIwYmMyNzYwZmVlN2NlZmY4MmRiZmU3OTFiZWQyNWNlYTc3YQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0202083000-SVEVA-MF-ESD-S1P-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDA2MjJ8aW1hZ2UvanBlZ3w4OTkyNTI0NTMzNzkwLzAyMDIwODMwMDBfU1ZFVkFfTUZfRVNEX1MxUF9TUkMtMDEuanBnfDk2MDY2NmI0MDQxZTYzNzJmYWVmMGUzYzgxMjkzMjQ3MGNiNmMzNzEwN2YxMjdjOGUzYzYwMTYyYTBhYjkxNGM</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -26521,62 +25472,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NjY2fGltYWdlL3dlYnB8OTI0NTk0MDg0MjUyNnwxMWI4Yjc4NDQ3MmY0OTgzYmJhY2NlZDI3MWFlZWNlNDQxMWZkZThkNThlZTZkMWQ0NDU2MmZjYmQxMTNjNDVi</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02020858</code>
-         <title>HOMBEE O2 SRC členok</title>
-         <description>• ideálne kombinuje unikátny dizajn a optimálny komfort pri nosení • za žiadaným vzhľadom farmárky sa skrýva bohatý výber funkcií: odolná olejom a zároveň extrémne ľahká podrážka • kožený zvršok s modernou vintage úpravou • zips po vnútornej strane pre ešte jednoduchšie obúvanie a vyzúvanie • polstrovaná zadná časť a jazyk prináša nielen praktickú ochranu nôh, ale spoločne s komfortnou vnútornou stielkou tiež príjemný pocit pri nosení</description>
-         <categoryPath>Produkty/Obuv/Členková obuv</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="82" title="bežová"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | O2 FO SRC"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjU1OHxpbWFnZS93ZWJwfDkyNDk5NTAzMDIyMzgvMDIwMjA4NThfSE9NQkVFX08yX1NSQ19BbmtsZV9IYW5ndGFnX0RTQ181MDU0LnRpZi5wbmd8YmI4ZGFjODYzYzczZDhkZmM1OWRhNTNjOGY0NDgzNjRjMzdhNTc1ODIzOWE2MzBhNDEzY2VlOGEzNjI1ZGM4Mg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MjUyfGltYWdlL3dlYnB8OTI1MDI1MDg4MzEwMi8wMjAyMDg1OF9IT01CRUVfTzJfU1JDX0Fua2xlX3NvbGVfRFNDXzUxMTMudGlmLnBuZ3wxMzZjYmVkZWQwOWEwZmI1NzU5YjE2ZTVlOTI4YTMwYTA4ODJkZDhiZGJlYzA5ZDBiM2YyYmRmNzVlZTk2Njk3</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTcwNnxpbWFnZS93ZWJwfDkyNTA5ODgxOTU4NzB8NDk2NTEwNmZiZGNmMTA2NzY0ODQ5NzE5NTMyYmJlNDFhOGEwNjg1YzRjZTJkM2RjMWE4NjUwNThkODgwY2NlNA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/02020858-Hombee-O2-01.jpg?context=bWFzdGVyfGltYWdlc3wxMTQ2OTR8aW1hZ2UvanBlZ3w4OTgyNTUzMjY0MTU4LzAyMDIwODU4X0hvbWJlZV9PMi0wMS5qcGd8ZDAyM2UxODBlNjdiMWU2NjNmNjM1YjdhMmM0Yjk0MDczMTdlYjcyNDRlNWNhNzY4NmJlMGM4ZWVjM2Q2MTI3Yw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NTcyfGltYWdlL3dlYnB8OTI1MDk3ODc5MTQ1NHxjY2JjNmRjMWZkZjljMDQxZGZmMjIyZWUxMmEzMDBjODI0N2ZlYWExM2IwYTExMDYzYmY3N2RiNzY1NjViMWY2</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTc1OHxpbWFnZS93ZWJwfDkyNDY0ODI3NTk3MTB8ODJiYzVjNjZjOWRlMmVjNDIzMWJhODExZmQ2MzA1ZTJkMDk2Nzk3YWJkZDBmMzE5NmM5Y2U2ZTJkMTkyODk4OQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NjkwfGltYWdlL3dlYnB8OTI0OTc4NzcwNzQyMnwyN2U0OWI3NTUxODcwNjhiYzI0M2Y5N2I3ZjRiYjBhODUwZDA1ZDc0ODZhOGViYmY3ZjFmNTFlNzNjNTEwY2Qy</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjQzOHxpbWFnZS93ZWJwfDkyNTA2MTc1ODk3OTAvMDIwMjA4NThfSE9NQkVFX08yX1NSQ19BbmtsZV9EU0NfODU5NC50aWYucG5nfGY4MzUzMzk3NWQwYmFlOGI0YjY5ZDlhM2MwMjAzMjVkZTIwNGYzZTJkNjJjZTg0NWI2NTFjZjYwNDViMTFkMzQ</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -26720,52 +25615,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzA1NHxpbWFnZS93ZWJwfDkyNTA0NDExOTk2NDYvMDIwMjA4NjNfVkFET1JST1NfRFNDXzc3MDgudGlmLnBuZ3w5MDM3OWI4ZThlMmFmYmJjZTY0OGQyYzBlMDExOTM2MGM5OTJiNmRhMGQ3N2IzNmZjMTUwZWNkNTJiOTEwOGVi</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02020864</code>
-         <title>PRESTIGE členková zimná</title>
-         <description>• unisex topánky Prestige M96001 sú vhodné na širokú škálu voľnočasových a pracovných aktivít • vysoký komfort nosenia • reflexné prvky pre lepšiu viditeľnosť • teplá podšívka a vyberateľná stielka, zvršok s vodoodpudivou úpravou</description>
-         <categoryPath>Produkty/Obuv/Členková obuv</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-            <size code="049" title="49"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-         </standards>
-         <brand>MOLE</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NDIyfGltYWdlL3dlYnB8OTI0NjMwODMwMjg3OHxkMTA0Mjg2ZTg4Y2FjZjdkMGQ2Y2FhYzZiZDBjYTJiYWNkNGY1MGFkOTZiZmM4NmEyMjU5OTFjOGQ0NGQ2YjMy</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3ODU4fGltYWdlL3dlYnB8OTI1MDg4MjI4OTY5NHwzZTEyOTE0MWYzYWQ3MDdiODkzMjBkNTc1MWRiOWMyZTEwOTc1NzdkMjQwOGE1MGJlODliNWQ5YmZiMWFjNzlm</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTY5OHxpbWFnZS93ZWJwfDkyNDY0MDY2MDY4Nzh8ZTM3OWNkYmExYjk1YjYyNWIzZTBhODYzMTg2Mjc5MWE5ZTA3ZjJhYjdmMTE2MTE0NzIyNjMxZmQ5NzhkYjcwNg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDYwNnxpbWFnZS93ZWJwfDkyNDU5OTc2OTUwMDZ8YjBmNThlNGFlMTIyM2Y5NmMxYzM0YzNkMTg4MGYwMDFhODk5NzJlM2NmZmJjMzNmODZlMTgwYThlYTFjZjFlMg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDYxOHxpbWFnZS93ZWJwfDkyNDk5MDY1MjQxOTB8ZTNlYzllODQyODllYTAzNDEyMjMxMTU0NTllZWNjMTNhMWEzZjQ0NmE0NjBhOTY5N2NjMjZmZmQwMzY3YzRkYg</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -26922,48 +25771,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
             </image>
             <image>
                <path>https://media.cerva.com/medias/0202086860-NUOVO-MITO-S1-SRC-ankle-01.jpg?context=bWFzdGVyfGltYWdlc3w5MDI0MXxpbWFnZS9qcGVnfDg5ODMwMjk0MTU5NjYvMDIwMjA4Njg2MF9OVU9WT19NSVRPX1MxX1NSQ19hbmtsZS0wMS5qcGd8NWU0NTNhODhkNDg1MzIxOTYyODg3ZTMxMzdhZmUzNzIzODMzYWZiNzgwNjQ3ZjZmOGYyZTkwMmY1MTk5NmIyMg</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02020871</code>
-         <title>MILANO MF S3 SRC členok</title>
-         <description>• klasická bezpečnostná členková obuv s kompozitnou tužinkou v špici, ktorá chráni pred stlačením silou do 15 kN alebo pádom bremena o váhe do 20 kg z výšky 1 m • antistatická a ľahká podošva vyrobená z dvojhustotného polyuretánu garantuje nielen komfort, ale aj bezpečie vďaka protišmyku , ktorá je navyše rezistentná olejom a oderu • chodidlá sú chránené aj zo spodu, a to vďaka kompozitnej stielke proti prepichu • zvršok obuvi je vyrobený z prírodnej BARTON kože a vnútorná podšívka z priedušného materiálu Airnet mesh s technológiou mikrokanálikov, ktorá zaisťuje vysokú transportnú funkčnosť • obuv neobsahuje kovové súčasti • vďaka moderným materiálom použitým na výrobu tohto modelu nepresahuje celková váha obuvi 520 g (polpár rozmer 42) • model je výrobený z certifikovaných komponentov najvyššej kvality a 100% talianskym výrobcom bezpečnostnej a pracovnej obuvi s viac ako 40 rokmi skúseností v obore</description>
-         <categoryPath>Produkty/Obuv/Členková obuv</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzY0NnxpbWFnZS93ZWJwfDkyNDYzMjE5MzQzNjYvMDIwMjA4NzFfMzU5MTFOX1MzX1NSQyAtIE1JTEFOT19jYXRhbG9nX2NteWsucG5nfDA0MjdiMmVmMWI0NTIyNmQzOTYxNDhhZjFkNDNhY2ZiZGIzYTA1ZjJmNGI4MjZjOTE3YTAzODRjMTRiOWJlNGU</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3ODUwfGltYWdlL3dlYnB8OTI0NjA0OTk1OTk2NnxkMGZhNDhjMTRlOWM0MGJhNWNhMjI1OWVkNDY2NzIxM2VjMzJiOThlZDExMjc0ODQyNmQ2OGU3MzkwNDkzZTRl</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0202087160-MILANO-MF-S3-SRC-ankle-01.jpg?context=bWFzdGVyfGltYWdlc3w5OTk0MXxpbWFnZS9qcGVnfDg5ODMwMzI3OTEwNzAvMDIwMjA4NzE2MF9NSUxBTk9fTUZfUzNfU1JDX2Fua2xlLTAxLmpwZ3w3N2JlNjIxMjlmMDk2NDQ0ZDdmMzJlZGU2MTZhM2JiNTk0YjVjNTE2MmEwMGUxMjA1MDMyOTIwOTk0YjlmMDVk</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -28298,47 +27105,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02030007</code>
-         <title>GAMMA S1 SRC sandále</title>
-         <description>Bezpečnostné sandále s oceľovou tužinkou, antistatickou a protišmykovou PU/PU podošvou rezistentnou voči pohonným hmotám, absorpciou energie v päte a zvrškom z priedušnej kože.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDQ1MnxpbWFnZS93ZWJwfDkyNDYwMzYwNjYzMzR8MDFiNjcwMjZiODE4NmM4ZWMyNjJiZGUxZTllYTY1ZTQxODMwNjcwYjI2NjIzMjMxMGY3ZjZjY2FkZjA4MGZhNA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4OTc2fGltYWdlL3dlYnB8OTI0NjAxOTgxMzQwNi8wMjAzMDAwN19FUkdPTl9HQU1NQV9TQU5EQUxfUzFTUkNfc29sZV9DRVJWQSAyMDE3IDAyXzIwMTExMi50aWYucG5nfDhjYzE1MWJiMGJmMTM0ZDk0NWYyMTFmNmUwY2RlNGUzNzA3NjY3MzNkMjVhOWViZDY2NTc4NDhiMDFiYTcyNTk</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxODA2fGltYWdlL3dlYnB8OTI0NjQ5MjYyMjg3OC8wMjAzMDAwNzk5X0dBTU1BX1MxX1NSQ19zYW5kYWwtMDEuanBnfDAyZTdiNjc4Mjg3YmM5NWRlMzk5MmQyMGUyYmVjODVlYjI0YjA4ZjMwYTk3MzcwZThkNmUyODA4NmZkZWQ2YmU</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02030009</code>
          <title>TOPOLINO S1 SRC sandále</title>
          <description>Bezpečnostné sandále s oceľovou tužinkou, antistatickou a protišmykovou podošvou odolnou voči pohonným hmotám, absorpciou energie v päte a zvrškom z priedušnej kože.</description>
@@ -28832,45 +27598,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02030095</code>
-         <title>BIALBERO MF S1 SRC sandále</title>
-         <description>Bezpečnostné sandále s kompozitnou bezpečnostnou špicou. PU/TPU/TPU podošva rezistentná voči olejom. Zvršok je kombináciou odolného materiálu „Mesh&quot; s mikrokanálikmi zaisťujúcimi zvršku obuvi extrémnu priedušnosť. Nad bezpečnostnou špicou a okolo päty je kvalitná prírodná lícová koža (grain leather) so špeciálnou „Rufino&quot; úpravou v kombinácii s kvalitnou hladkou lícovou kožou „crazy horse&quot; s ochrannou voskovou úpravou. Fluorescentné prvky pre zvýšenie viditeľnosti užívateľa. Špička zosilnená voči okopu.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTQxNnxpbWFnZS93ZWJwfDkyNDk2NzgzNjA2MDYvMDIwMzAwOTVfU1BPVExJR0hUX0JJQUxCRVJPX1NBTkRBTF9TMVNSQ19DRVJWQSAyMDE3IDAyXzIwMTQ3OC50aWYucG5nfGM5YmVjYzgwNmVjMjhjYTNhY2Y0ZGMzZjU0NzYxZDQ5MWI3NjNmZDU4NThhNzI1NzY2YTE1M2NhOGIyZGUzZjg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4ODA4fGltYWdlL3dlYnB8OTI1MDIxMjc3MzkxOC8wMjAzMDA5NV9TUE9UTElHSFRfQklBTEJFUk9fU0FOREFMX1MxU1JDX3NvbGVfQ0VSVkEgMjAxNyAwMl8yMDE0NjIudGlmLnBuZ3w5N2VjMzdjZjRlNzE4YWQ3YmIwYjU3MGVmMWUxZTEyM2MwNWQ5ZmUzYmRkNGJkYzAxZTcxYjhkMjgzZjliM2E4</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wzMzU2fGltYWdlL3dlYnB8OTI0NjA5MDAzNTIzMC8wMjAzMDA5NTk5X0JJQUxCRVJPX01GX1MxX1NSQy0wMS5qcGd8NmE4YzhjYTY1MzQ3MThjMzRjYjI4MWEwY2VlMTJhZTk0OTAyYWMwNzZjZGYyZjM5NGU4ODhkNjlkNjgzNzMwNQ</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02030097</code>
          <title>RAVEN MF ESD S1 SRC sandále</title>
          <description>Bezpečnostné ESD sandále zo syntetického materiálu s vysokými mikroporéznymi vlastnosťami a zvrškom z mikrovlákna, kompozitnou bezpečnostnou špicou. PU podošvou rezistentnou voči olejom a s lepšími protišmykovými parametrami.</description>
@@ -28921,85 +27648,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wzNjYyfGltYWdlL3dlYnB8OTI1MTAwMzMwMTkxOHw2MjFlNmQ4NmE2ODA0NjFjMTRhYjZiZjJmMDFkMWI4NDYzMzU4ZDQyYzQ1MjZjMDQ5NjZmZjczZmM2NGE2MmM0</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02030111</code>
-         <title>RAVEN XT S1 SRC sandále</title>
-         <description>Bezpečnostné sandále s kovovou bezpečnostnou špicou. Podošva z dvoj- hustotného PU s masívnou ochranou proti okopu. SRC podošva odolná voči olejom. Zvršok z kože.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 SRC"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzEwNnxpbWFnZS93ZWJwfDkyNTA2MDA4MTI1NzQvMDIwMzAxMTFfUkFWRU5fWFRfU0FOREFMX1MxU1JDX0NFUlZBIDIwMThfMTk2MDUudGlmLnBuZ3xmMjBjZjBlOGI3MDlkODgwYTBkMTFkOTRjNzFlNDM0Y2RhNDI1NzdlMjgyMWVmMGE3OGIzOWVmNmRjNTAxZTE2</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NzU2fGltYWdlL3dlYnB8OTI0OTgxODY3MzE4Mi8wMjAzMDExMV9SQVZFTl9YVF9TQU5EQUxfUzFTUkNfc29sZV9DRVJWQV8yMDE4XzE5NjczLnRpZi5wbmd8MmI5NjM4YjhjZThhNWNhZDUyNTc3NTkwZjVlYzVlOGE5YjQwMGExMTk5M2RjNDZlZGUyM2UzMjI5ZTllMjZlZA</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02030113</code>
-         <title>RAVEN XT S1P SRC sandále</title>
-         <description>Bezpečnostné sandále s kovovou bezpečnostnou špicou a stielkou odolnou voči prepichnutiu. Podošva z dvoj-hustotného PU s masívnou ochranou proti okopu. SRC podošva odolná voči olejom. Zvršok z kože.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzEwNnxpbWFnZS93ZWJwfDkyNDYwODkzNzk4NzAvMDIwMzAxMTNfUkFWRU5fWFRfU0FOREFMX1MxUFNSQ19DRVJWQSAyMDE4XzE5NjA1LnRpZi5wbmd8ZWE2Zjg3ZDViNjAzNzQ2OWZhOTVkYzk2ZDdlNTg5ODk1ZjJiODg0ODA1NDhmOGI5OGE4MzMxYjk2NTE1OGQxNw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NjY4fGltYWdlL3dlYnB8OTI0NjE4NTEyNzk2Ni8wMjAzMDExM19SQVZFTl9YVF9TQU5EQUxfUzFQU1JDX3NvbGVfQ0VSVkFfMjAxOF8xOTY3My50aWYucG5nfDJmMTY4ZmY3M2I2MDU4Mzc2ODY5NWMzN2FhY2U2NDcxZGUxNjc0MjEyOTgxYTE0OTU3MGMzMWFhOThiZjBjMmY</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjQyNnxpbWFnZS93ZWJwfDkyNTAwNTg4OTUzOTB8NzgzODUzYTY0MTBiNjE3NTRjYjdiY2E4Y2JlNWYzNTAxZGQ1ZGNhYmY3ZjczNDhmYTdjYmJmZmNjM2E4ZGViMQ</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -29130,146 +27778,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02030126</code>
-         <title>BK TPU MF S1P SRC sandále</title>
-         <description>Bezpečnostné sandále s nekovovou tužinkou a aramidovou stielkou odolnou proti prepichnutiu. Podošva z PU/TPU. Zvršok z kvalitnej kože – nubuk. Páska na suchý zips zaisťuje perfektné držanie na nohe pri práci.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 PS FO SR SC"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTk1MnxpbWFnZS93ZWJwfDkyNDYyMDMzMTQyMDYvMDIwMzAxMjZfQktfTUZfVFBVX1MzX3NhbmRhbF9DRVJWQSAyMDE4XzE5NjE5LnRpZi5wbmd8YTk3YTcyNGY1ZjZjZjMwOGZmMGYwMzVkNjA3ZWVkZjdjYjgzZGNjNDM1MmJiYTRlYTIyZTQ0ZjU3NjJlODA3YQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4ODQ2fGltYWdlL3dlYnB8OTI1MDQyMTgzMzc1OC8wMjAzMDEyNl9CS19NRl9UUFVfUzNfc2FuZGFsX3NvbGVfQ0VSVkEgMjAxOF8xOTYxMi50aWYucG5nfDVjOTYzN2VkOTQ0OWEyMzA1MWY0OTUwNjgwNjAwYWQxMTA4YzI0NTQ4MTg0NmIzYWM2ZjhhYjNhYWVlMDNjYjI</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0203012660-BK-TPU-S1P-01.jpg?context=bWFzdGVyfGltYWdlc3w3NzU3NnxpbWFnZS9qcGVnfDg5ODMxMTE2NjM2NDYvMDIwMzAxMjY2MF9CS19UUFVfUzFQLTAxLmpwZ3xlYmYwOTk1OTAxODJhOTVhMWMwYWNiYzJhZjNjMDc0OTRiZDQ3ZWEwMDAxZjhjYTE2YjNkNDM4NzE1MTJmZmI0</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NTE4fGltYWdlL3dlYnB8OTI1MDIyNjExMDQ5NHw3MmY3YzNmYzM0MDBmMGNjM2YyYTE0ZDFiYjFmMmU4NWRiYTkxYjI4NjNkOWMxM2U5NDcyMWMyMjNkYzBlZWEx</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MjM2fGltYWdlL3dlYnB8OTI1MDc4NjIxMzkxOHwxMmJkMTk3MGM4YTlkYzdjYWMzYzBiNWI4YzI3YjZjYWYwZjAyOTcyYzFhMTk2MTViYzdlZmMxYTE0YjJlOWI0</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4ODkyfGltYWdlL3dlYnB8OTI0NjA0OTc2MzM1OHxlOGUxMjUxMTRkYWM2NzI4YjZlYmU1NTBjZjlhNjU2M2Y5YzQ4NDM0MGNkZTJiNGJjNTVhZTRlNWYwNTU4YmJk</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02030129</code>
-         <title>RAVEN ESD O1 SRC sandále</title>
-         <description>Pracovné ESD sandále. Podošva z jednohustotného PU. Zvršok z inovativního mikrovlákna, ktoré zaisťuje užívateľovi perfektnú priedušnosť.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-            <color code="80" title="biela"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | O1 FO SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjM3OHxpbWFnZS93ZWJwfDkyNTAyMDQwMjQ4NjIvMDIwMzAxMjlfUkFWRU5fRVNEX1NBTkRBTF9PMVNSQ19ibGFja19fQ0VSVkEgMjAxOF8xOTc2OS50aWYucG5nfGQzZDE5NGJhNzcwNzA0ZjBlMmRiODMyOTA3NWE3MWZjN2ZkYWVhMmRmMzQ0MmIyNjczNTNlNWVjYzI1YjM2OGM</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5OTE0fGltYWdlL3dlYnB8OTI1MDA3ODAzMTkwMi8wMjAzMDEyOV9SQVZFTl9FU0RfU0FOREFMX08xU1JDX3doaXRlX0NFUlZBIDIwMThfMTk4MDQudGlmLnBuZ3w0YTAzMThlMGQ1Mjc1ZDA4Y2JmMWI0M2RiYTE3ZDVmZDhmNTFhZjcwM2UzMzRjOTc4ZDJiNTFlYmQ3ZDMwNjM5</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MDIwfGltYWdlL3dlYnB8OTI1MTExODc3NjM1MC8wMjAzMDEyOV9SQVZFTl9FU0RfU0FOREFMX08xU1JDX3doaXRlX3NvbGVfQ0VSVkEgMjAxNyAwMl8yMDExNjYudGlmLnBuZ3xlNmU0Mjk2ZGZmMWU4Nzc2MjM2NjMyNGEzMTA3ZTRjY2Q3NDJmZjM5OGJkZjIwZWQyNjY5NDE0OTU4ZThmOTlj</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5ODAwfGltYWdlL3dlYnB8OTI0OTY4MDI2MTE1MC8wMjAzMDEyOV9SQVZFTl9FU0RfU0FOREFMX08xU1JDX2JsYWNrX3NvbGVfQ0VSVkEgMjAxNyAwMl8yMDExNjYudGlmLnBuZ3wyZDZjMzRlOGJhNGQ4OTBhMmQwOWI4YmNlZjc1ZjUyNWVjNWE0OTgwNmE4YWViYjU4ZTgyMjM3OWU0NTZiZjJi</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0203012960-Raven-ESD-O1-SRC-sandal-black-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODIwMHxpbWFnZS9qcGVnfDg5ODMxMTQ5NzMyMTQvMDIwMzAxMjk2MF9SYXZlbl9FU0RfTzFfU1JDX3NhbmRhbF9ibGFjay0wMS5qcGd8MjY1ZWViNzA1OWYxMDFjYTNhMmRlMDFmY2NlMTkyOGZiZGUyNDAxNjAwNGY2MjMyYmQ0ZjdiMzA0MmJjYzA1MA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0203012980-RAVEN-ESD-O1-SRC-sandal-white-01.jpg?context=bWFzdGVyfGltYWdlc3w3NTA3OHxpbWFnZS9qcGVnfDg5ODMxMTg0MTM4NTQvMDIwMzAxMjk4MF9SQVZFTl9FU0RfTzFfU1JDX3NhbmRhbF93aGl0ZS0wMS5qcGd8YWQ3ZGI5M2M3OTdhZDU2OGQ5YTk2N2ZmNWRhMGJjMzFhNDBmMWY2NjNmYzYyN2Y1Njg4MTU4ZjhkNzIwMjExYQ</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02030132</code>
-         <title>DEDICA MF S1 SRC sandále</title>
-         <description>Bezpečnostné sandále s nekovovou tužinkou. Podošva z jednohustotného PU. Zvršok z inovatívneho mikrovlákna, ktoré zaisťuje užívateľovi perfektnú priedušnosť.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjQ5MHxpbWFnZS93ZWJwfDkyNTA0MTgzMjc1ODIvMDIwMzAxMzJfREVESUNBX1MxU1JDX1NBTkRBTF8zMTE5MCBTMSBTUkMudGlmLnBuZ3xkNjQ0NDJmMjdhNGM5OGM0ZTllMmRmNjQzZmUzNmU5NWQwMGNhZTY0ZjMwNzVlYjg1MGFiMmYxODZiZGZmYjky</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NzQ4fGltYWdlL3dlYnB8OTI1MDY4NTA5MTg3MC8wMjAzMDEzMl9ERURJQ0FfUzFTUkNfU0FOREFMX3NvbGVfQ0VSVkEgMjAxOF8zMDE0NS50aWYucG5nfDhiZWNjZDRmOWE3NmQ1MGQzNmEwZGNhNjBiNWQ3ZGRhYTgyNjA2NTE0ZDJkNGNjMDVjNDc5MWNlZjIyZTMyZDc</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02030133</code>
          <title>DERRIL MF S1P SRC sandále</title>
          <description>Bezpečnostný sandál s kompozitnou tužinkou a kevlarovou stielkou odolnou proti prepichnutiu. Podošva – PU/PU. Zvršok je vyrobený z kvalitnej nubuk kože. Výrazná perforácia zvršku zaisťuje perfektnú priedušnosť.</description>
@@ -29319,92 +27827,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02030134</code>
-         <title>DEUVILLE MF S1 SRC sandále</title>
-         <description>Bezpečnostné sandále s nekovovou tužinkou. Podošva z jednohustotného PU. Zvršok z inovatívneho mikrovlákna, ktoré zaisťuje užívateľovi perfektnú priedušnosť.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="80" title="biela"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDEzMHxpbWFnZS93ZWJwfDkyNTA2Nzc1NTUyMzAvMDIwMzAxMzRfREVVVklMTEVfUzFTUkNfU0FOREFMXzMxMTY2IFMxIFNSQy50aWYucG5nfDZlZjY2MGU2N2M5MzQ0OTdiZTI4MWI2MmNlYjA0NjQ0YTA0NjkwYmM0NTk0ZjQ0M2I4NmE0YWEzMWQ3NTI5Yzk</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2MDEwfGltYWdlL3dlYnB8OTI0NjAzMzY3NDI3MC8wMjAzMDEzNF9ERVVWSUxMRV9TMVNSQ19TQU5EQUxfc29sZV9DRVJWQSAyMDE4XzMwMjQ3LnRpZi5wbmd8NWI2ZDI0ZTQwOGVhOTUyYjE4NjlkMzJlMjliNmQ5OTgwODZlZjFmMmFiNzEwZGIxZGFlNmZmN2ZkYzY2YjI2Yw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0203013480-DEUVILLE-MF-S1-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w3Njg4MHxpbWFnZS9qcGVnfDg5ODMxMjg2MDQ3MDIvMDIwMzAxMzQ4MF9ERVVWSUxMRV9NRl9TMV9TUkMtMDEuanBnfDIxNjQwYWJkNzA2MWJiZTlmYmY4YzgyM2VhZjM1MjQyMmEzNDg2YjNkYTBjNzc2MWMzNzgwZTgyMDIzN2UxMTg</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02030135</code>
-         <title>BIRUSA MF S1P SRC sandále</title>
-         <description>Bezpečnostné sandále s nekovovou tužinkou a aramidovou stielkou odolnou proti prepichnutiu. Podošva vyrobená z PU/TPU. Zvršok z kvalitnej lícovej kože.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTA0MHxpbWFnZS93ZWJwfDkyNTA4Njg1MjcxMzR8OTg1MzFmMDYzOTBiYzAyODQyMjU3OGI0ZWFlYmIxYTI0OTY2NDFhNzNkMWViZjNlZjRkNDY5YTNjZjYxYWRmOQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3OTA4fGltYWdlL3dlYnB8OTI0NjE1MTk5OTUxOC8wMjAzMDEzNV9CSVJVU0FfUzFQX1NBTkRBTF9DRVJWQSAyMDE4XzE5OTgzLnRpZi5wbmd8ZTRmYmVjMzdjZTIyNzRhZTA5NDM4YmNjZjAxOTJhYWI2ZWUxNmZkYzk4ZWMwOTRhMWNlMzlhZjVjMDg4NDEzYw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0203013560-BIRUSA-MF-S1P-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w5NzAyM3xpbWFnZS9qcGVnfDg5ODMxMzIwNDUzNDIvMDIwMzAxMzU2MF9CSVJVU0FfTUZfUzFQX1NSQy0wMS5qcGd8MGQ1NDNhNWRiNjUzZTc3MDdhNTk1OTllNmI1MWZmZGZlMDFkNjcyNzI3ZTMwNjBkZTA2ZGQ2Y2ZjM2E0NDVmZg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2ODYyfGltYWdlL3dlYnB8OTI1MDQxNzkzNDM2NnxjMzA5MzkxYjdjYThjOTcwNTUyZjk0NTQ1ZDliOGVmNDIzMjU2MmY5YTBiYjI4ZDEyMTE5YjgxZDk4MGU3YjM3</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MDE0fGltYWdlL3dlYnB8OTI1MDA0NjE4MTQwNnwwOGI2N2I4Mzc2ZWQzZGI3OTM0NjY0NzVjODA5ZTk4NzZmODM2NGIyY2I2Y2RmZTJiZDQxOGFlZTEzNzRlOGE3</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02030136</code>
          <title>No.TWO MF S1P SRC sandále</title>
          <description>Bezpečnostné sandále s nekovovou tužinkou a aramidovou stielkou odolnou proti prepichnutiu. Podošva vyrobená z PU/TPU. Zvršok z kvalitnej lícovej kože.</description>
@@ -29439,83 +27861,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
             </image>
             <image>
                <path>https://media.cerva.com/medias/0203013660-NO.TWO-S1P-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w4NjYzMHxpbWFnZS9qcGVnfDg5ODMxMzUzNTQ5MTAvMDIwMzAxMzY2MF9OTy5UV09fUzFQX1NSQy0wMS5qcGd8Njk3MDBjYTc1MGI3ZmVkY2UxYzc3MWJmZTVlNzgzYzcyODI0ZmVlYWMyZDRjMDJkZGI5Y2IxNDVmMWI0ZGQwNA</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02030137</code>
-         <title>RUNNER ESD S1P SRC sandále</title>
-         <description>Bezpečnostný ESD sandál s hliníkovou tužinkou. Kevlarovovou stielkou odolnou proti prepichnutiu. Gumenná podrážka s Air Tubeless System pre zvýšenie komfortu pri chôdzi. Zvršok z mikrovlákna. Dve pásky na suchý zips zaisťujú perfektné upevnenie.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-         </sizes>
-         <colors>
-            <color code="00" title="sivá"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
-         </standards>
-         <brand>TWF</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzg4NnxpbWFnZS93ZWJwfDkyNDY0MTQxNDM1MTgvMDIwMzAxMzdfUlVOTkVSX1MxUFNSQ19TQU5EQUxfQ0VSVkEgMjAxOF8zMDE4OS50aWYucG5nfDQ0ZmYwYjJhZWMxMThhZjNiM2E1MmE2OTU2Y2FkMjk3MDVhNDMyM2MwM2I3ZDJjYTcxOTIyOTY4NWU5Njg3ZjA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NjM4fGltYWdlL3dlYnB8OTI1MTA3OTgxNTE5OC8wMjAzMDEzN19SVU5ORVJfUzFQU1JDX1NBTkRBTF9zb2xlX0NFUlZBIDIwMThfMTk1MDAudGlmLnBuZ3xkMDhlYmFkMWM2MjRlZDRjMWE3YmM4ZjcwYzQ2MmE4NzI3MGUyNjA5MDFlZTBjMWRkZDg1Mjk5NmZjMDMwNGE4</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0203013700-RUNNER-ESD-S1P-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w5MzE0NXxpbWFnZS9qcGVnfDg5ODMxMzg3OTU1NTAvMDIwMzAxMzcwMF9SVU5ORVJfRVNEX1MxUF9TUkMtMDEuanBnfDhjOTk4ZmIxMjk5NjhmM2VmZjIzZjk2ZDVkYmExZWZkYTQwNGUwMmY2YzIyZWY3OThmNWE4MzJmNDI2OTFmMTU</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02030139</code>
-         <title>NIERS S1P SRC sandal</title>
-         <description>Klasické bezpečnostné sandále s oceľovou tužinkou v špičke, ktorá chráni pred stlačením silou do 15 kN alebo pádom bremena o váhe do 20 kg z výšky 1 m. Antistatická robustná podošva vyrobená z dvojhustotného polyuretánu garantuje nie len komfort, ale aj bezpečie vďaka oceľovej stielke proti prepichnutiu a proti vlastnostiam podrážky, ktorá je navyše rezistentná voči olejom a oderu. Zvršok obuvi je vyrobený z prírodnej štiepenkovej kože a vnútorná podšívka z priedušného polyesteru. Zapínanie pomocou suchého zipsu zaručuje rýchle a pohodlné obúvanie. Reflexné prvky garantujú zvýšenú viditeľnosť užívateľa. Tento model vďaka skvelému pomeru cena/kvalita spracovaniu dokáže uspokojiť požiadavky všetkých zákazníkov.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-         </standards>
-         <brand>SFWR</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTcxMnxpbWFnZS93ZWJwfDkyNDY1MzAyNDA1NDIvMDIwMzAxMzlfTklFUlNfUzFQX1NSQ19zYW5kYWxfRFNDXzc1ODAudGlmLnBuZ3w4Zjk1YTIwMWM4Y2JlZDMwN2UwYjJkZmExMzM3YmQ4ODA0NGJlYzQzMGY1MTAzOWIxYTJjYTU4MGEwYmNiOWZi</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MjAwfGltYWdlL3dlYnB8OTI0NjI4NjkzODE0Mi8wMjAzMDEzOV9OSUVSU19TMVBfU1JDX3NhbmRhbF9zb2xlX0RTQ183NTkyLnRpZi5wbmd8NmJiMGM5ZDMwN2E2ODFkODE2MWNkOWU1ZDMyZTg4OTNiODM4ZDg0YmJhMDgxN2VlYjYxNzdlODI3ZmI4Zjc5OA</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -29558,92 +27903,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2ODU4fGltYWdlL3dlYnB8OTI0OTc1NTE2ODc5OC8wMjAzMDE0Ml9NSU5JX0VTRF9EU0NfNjcxMC50aWYucG5nfDU3ZTdiZDMzZDM4NTMwOTljZDFiNDFiODE0ODI3Yzg0OGYwZWYzZWIxMGMzOTFlNDQzMmU1MjgzZjYxMTBkNjU</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02030143</code>
-         <title>RAVEN XT MF S1P SRC sandále</title>
-         <description>Bezpečnostné sandále s nekovovou tužinkou a kompozitnou stielkou proti prepichnutiu, PU / PU protišmykovou podošvou odolnou proti pohonným hmotám s absorpciou energie v päte. Obuv bez kovových súčastí – metal free.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-            <size code="049" title="49"/>
-            <size code="050" title="50"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzA4NnxpbWFnZS93ZWJwfDkyNDYzMjk3MzMxNTAvMDIwMzAxNDNfUkFWRU5fWFRfTUZTMVBTUkNfc2FuZGFsX0RTQ18yOTE3LnRpZi5wbmd8OTdmMzhiOTcwNTVhM2M5MTdjMThlOTM5YTBjODgzNzcyOWRjYzU1ZDgxNTJiODg2NGY4NTY4MzM4ZjcxZDhhMg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NjY4fGltYWdlL3dlYnB8OTI0NjQwMjQxMjU3NC8wMjAzMDE0M19SQVZFTl9YVF9NRlMxUFNSQ19zYW5kYWxfc29sZV9EU0NfMzU3OS50aWYucG5nfGFiMWIwZTNhOTJmMjM2NDM4MzAzNGRhOGMwN2VjMGNmNDZjNDJiMmIzMTMyMWY3OTcwZmFiNjUzMjYyNmI3MDI</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNzY0fGltYWdlL3dlYnB8OTI0NTk2NjAwODM1MC8wMjAzMDE0MzYwX1JhdmVuX1hUX01GX1MxUF9TUkNfc2FuZGFsLTAxLmpwZ3w5ZjUwMDgwYTBlYzZhMjEyMTJkMmFkODUwNDk3MGY4N2JlZTcwNjE3ZDRhZGI4NzQ2YjZkNGJlYjc5ZjFiNzY4</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02030144</code>
-         <title>MONTROSE ORANGE ESD S1P SRC sandále</title>
-         <description>Bezpečnostné sandále s kovovou špičkou a stielkou odolnou proti prepichnutiu. Podrážka vyrobená z PU s dvoma hustotami. Zvršok z brúsenej kože. Perfektne sa hodí ku kolekcii kombinéz Montrose.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTM1OHxpbWFnZS93ZWJwfDkyNDU5NjY5NTg2MjIvMDIwMzAxNDRfTU9OVFJPU0Vfc2FuZGFsX0VTRFMxUFNSQ19ncmV5X29yYW5nZV9EU0NfODY3My50aWYucG5nfDUzYWFhNDZlZjUzNzA4ODQyMjdmNDUzZGY0NzhmZDA2ZTA2YmI3YjU1YTI4YmMwYTFlMDMzMGEzNmUwYzg2OTU</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5ODMyfGltYWdlL3dlYnB8OTI0OTk3ODk3NDIzOC8wMjAzMDE0NF9NT05UUk9TRV9HUkVZX09SQU5HRV9FU0RfUzFQX1NSQ19zYW5kYWxfQVNTRU1CTFlfRFNDXzQ2MDMudGlmLnBuZ3xlNTcyNGY5MTYzZThmNmRkM2JhMTc2Njk0OTJkMTk5NGY0OGZhOWMxMWFlNTI0OTVhMGFlZTYyZGU3NGVkM2M4</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5ODM0fGltYWdlL3dlYnB8OTI1MTEyMzAzNjE5MC8wMjAzMDE0NF9NT05UUk9TRV9zYW5kYWxfRVNEUzFQU1JDX2dyZXlfb3JhbmdlX3NvbGVfRFNDXzc5OTQudGlmLnBuZ3xjOGU4MmQyMTM2NGVlMmJiNTBhMTk3NTExMWI1Mjk1OTA3ODdhZTk4YWE4OTljMmVkMmZlZjc4NTUxMzVhOWUx</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -29776,54 +28035,6 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTQ0MHxpbWFnZS93ZWJwfDkyNDU5NTQ3Njg5MjZ8OTk3YzdhYWU3ZTVkNGI4MTk5MjA0MzBiM2JlZGZhYmNlNDM5NWI0ODVjNmJhYjZlZWY3MTRlNTY4ZmFkMjg2Zg</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02030148</code>
-         <title>SELMA MF ESD S1P SRC sandále</title>
-         <description>Bezpečnostný sandál bez kovových súčastí kategórie ESD. Má vysoko priedušnú a oteruvzdornú vnútornú podšívku, ktorá je opatrená antimikrobiálnou a antibakteriálnou úpravou. Opasok na suchý zips uľahčuje obúvanie a zaisťuje dobrú fixáciu na nohe. Topánka je vybavená bezpečnostnou špičkou z kompozitného materiálu, ktorá bola podľa požiadaviek európskych noriem testovaná, aby odolala kompresnej sile až 200 joulov. Dvojhustotná podošva je navyše vybavená nekovovou stielkou proti prepichnutiu. Vďaka unikátnemu dizajnu behúňa podošvy má topánka vynikajúce protišmykové vlastnosti. Model je výrobený z certifikovaných komponentov najvyššej kvality a 100% talianskym výrobcom bezpečnostnej a pracovnej obuvi s viac ako 40 rokmi skúseností v obore.</description>
-         <categoryPath>Produkty/Obuv/Sandále</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="00" title="sivá"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S1 P SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzI3MHxpbWFnZS93ZWJwfDkyNDk3NDg2ODA3MzQvMDIwMzAxNDhfU0VMTUFfTUZfRVNEX1MxUF9TUkNfc2FuZGFsX0RTQ180MzE1LnRpZi5wbmd8MzE0NmRjZjBiMjFlNzU5MzE0ZWMwYWFlMTljZTdlYjk2MDFlY2ZmOTk4M2ZjN2ViMGZiNmNiMzc5NjRiNGVhMQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTQzNnxpbWFnZS93ZWJwfDkyNDk1MDQ5ODUxMTgvMDIwMzAxNDhfU0VMTUFfTUZfRVNEX1MxUF9TUkNfc2FuZGFsX0FTU0VNQkxZX0RTQ184Mjg2LnRpZi5wbmd8NGJlNmJkNzJhYTMyZDdkMmM3ZDJjNzZmZjdjOWY3YTFkYWFmN2Q2NTM4YTJmZjE1ZDExNGQ4YjdmOGMwZjU1Mw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MzQ4fGltYWdlL3dlYnB8OTI1MDQwMDE3NDExMC8wMjAzMDE0OF9TRUxNQV9NRl9FU0RfUzFQX1NSQ19zYW5kYWxfc29sZV9EU0NfODI4MC50aWYucG5nfGQ3ODE5MTMzNWEwMjYwZDFjNjg2ZThiY2ExZDNiZWFjNTcxNjA1NzE4YzY5MDczNDc3OTUyMGY4YzgwYzU0MjM</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyNTAyfGltYWdlL3dlYnB8OTI0NjI1NTgwODU0Mi8wMjAzMDE0ODAwX1NFTE1BX01GX0VTRF9TMVBfU1JDLTAxLmpwZ3w1MDZiMmM4NjE2NjUyYmIwMjA0ODIxODYxMzA4YmY0OWIzYjA3MjYwN2IwYWIxYzk1ODkxNjkxZTU2YWY1OTFh</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2MDI4fGltYWdlL3dlYnB8OTI1MDU1MDkwNjkxMHxkNWM1ZjNiMzkyODhhNzI1NzRmMmM4NWQ2NWVmYzMzMjQ3MDlkYTBjZDM5MzhhMWY1MmY0YTc5MDIwNTFmMGRj</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -32253,44 +30464,6 @@ Panda Safety – synonymum pre spoľahlivú a vysoko pohodlnú ergonomickú obuv
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02060041</code>
-         <title>TREEN šľapky</title>
-         <description>Žabky do sprchy z materiálu EVA, mäkký PVC pásik cez priehlavok.</description>
-         <categoryPath>Produkty/Obuv/Šľapky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-         </standards>
-         <brand>CRV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MTEyfGltYWdlL3dlYnB8OTI0NTk0MDYxMzE1MC8wMjA2MDA0MV9TSE9XRVJfU0xJUFBFUlNfQ0VSVkEgMjAxNyAwMl8yMDExOTMudGlmLnBuZ3wxYzNiNGYxYjIxMTI0NDQzZWIyZDkxYjEyYjYzMzcxMTk0NzExOTMwMDA1NGRhN2RiNGY3MmY0ZWU1YmVjNjQz</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NjA4fGltYWdlL3dlYnB8OTI0NjEyNzg4MjI3MC8wMjA2MDA0MV9TSE9XRVJfU0xJUFBFUlNfc29sZV9DRVJWQSAyMDE3IDAyXzIwMTE5Mi50aWYucG5nfGYxYTdjYTI5Mzk2ZTg5MDQ5N2Y1NWFmYTM4ZjM3NzVkODEzNDE2MTlkMmMyZTAwZjhiNTkzZWJhZTg2YWRmM2U</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0206004160-TREEN-01.jpg?context=bWFzdGVyfGltYWdlc3w1OTA5M3xpbWFnZS9qcGVnfDg5ODMzMzc1NjYyMzgvMDIwNjAwNDE2MF9UUkVFTi0wMS5qcGd8MzI3OWQyYWFkNDkzNzU5NTY3OTdlOTIxOWFkYzI4OWQ1YjFjMGRjNmU5ZDY1NTg3YTAzZTIxMjE5ZGQwZDIwNg</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02060083</code>
          <title>WAIPI LADY 53650 šľapky</title>
          <description>Ergonomicky tvarované dámske nazúvacie šľapky vyrobené z materiálu EVA. Ľahké, pohodlné a jednoduché na údržbu. Perfektné ako domáca obuv, na záhradu, bazén alebo na pláž.
@@ -32383,79 +30556,6 @@ Ochranná obuv proti minimálnym rizikám, ideálna pre upratovacie alebo sociá
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02060086</code>
-         <title>EVA OB SRC šľapky</title>
-         <description/>
-         <categoryPath>Produkty/Obuv/Šľapky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="034" title="34"/>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="13" title="sv.zelená"/>
-            <color code="25" title="ružová"/>
-            <color code="28" title="tm.červená"/>
-            <color code="40" title="modrá"/>
-            <color code="41" title="navy"/>
-            <color code="52" title="sv.modrá"/>
-            <color code="56" title="fialová"/>
-            <color code="60" title="čierna"/>
-            <color code="80" title="biela"/>
-            <color code="90" title="oranžová"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | OB E SRC"/>
-         </standards>
-         <brand>DIAN</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTcwNnxpbWFnZS93ZWJwfDkyNTA1MzM2NzA5NDJ8ZDI1M2JhZGE3ZjMwMjQxMDg5YjQ0NTU2MGMxZjI0NTFjOTRiNDg5MjE3YTMzOWE0NTRlODZlNjRkYjUzOTBkZA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5OTQwfGltYWdlL3dlYnB8OTI0NjI0NTE5MTcxMHw4ZWMwZDkzOTMxOWE4OTFjNzViYjRhN2FmN2JiYmE0ODVkOTllYjVmMDBjNmI4NDVlNmIxNDUxYWExOTYwMzU5</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTgzOHxpbWFnZS93ZWJwfDkyNDYyODE2Mjk3MjZ8NGRmZTU2ODZhNzE2ZWE2Y2I4MmQxZTg5YjYxYTJiMzY5NzQxMGFlYTQ1OWE4ZWQ0MGNhMGJiZGViMjI2MWJiMw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTc5OHxpbWFnZS93ZWJwfDkyNTAxMzg2NTI3MDJ8NWZhNzJhNmZhOTFkN2FhMWU1YzVhNTdmYjUwYWUxYzZiOTZmM2QyZGExNjNlZmUyNzMyMGE5MjQ2ZDcwNDUyYQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjczOHxpbWFnZS93ZWJwfDkyNDk4NTczMDY2NTR8YjUxZDdmMWE1ZTVjYTRlZTEyODE1OWFlZTYxNWZhMmU3MGMzZWM4Y2M2YjczNThmZTg2MGU1MzZkODQ1OGVmYw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjkyMnxpbWFnZS93ZWJwfDkyNTAxMjI5MjQwNjJ8YzVkNzM3MjM2ZTJjNjA4ZDJhNDMxMjRhN2U0YTBhZGU0YWM0YmRmMThlNTUzYzlhYzFjYTQ4NTJjMTdlYzQxYg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzcyNHxpbWFnZS93ZWJwfDkyNTA4NTg3NjIyNzB8NmZlNTIwNjdiNGZmMzBjNzhmMTQ5ZWVhNjFiMDZlODIxN2YxYTI4NmNjNDVkYTMzY2Q2MGExZWMxMDY3YzliNw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjY5NnxpbWFnZS93ZWJwfDkyNDYyMjM5MjUyNzh8OTQ1ZThhOGJiZjI1NDlkZTU1MGNlMWQ3ZWZiZTQ2N2YzMDdiYzIzNjY1ZDJmOTJlNDA2YTE5MzdmYzY2NjFjYg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjYxOHxpbWFnZS93ZWJwfDkyNDk4MjE4ODQ0NDZ8NTI5NzdhNDM1OWVkMDhjYmQ0ZmVlOWQyMmY4YjdhNDRlMDhmYTVhYTFjZjE3ZmQwN2MxMmUwMDFiZDUwNGE3Zg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTMyNHxpbWFnZS93ZWJwfDkyNDYyNzc3NjMxMDJ8NTNiZjBhMTgxZGFmODlmMDY4NjJjZjY4ZDk0YTg0NjMxMGYzNjAzMjVlMDNiMjEzYTg3MjhlNjQ2ZjU5MGQ2OA</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02060087</code>
          <title>O2-S OB SR šľapky</title>
          <description>the shoes are made of SBS antibacterial polymer material; it is anatomical, antistatic and non-slip; suitable for washing and sterilization up to 140ºC for up to 30 minutes; anatomical heel strap for easy putting on and comfort when wearing</description>
@@ -32493,60 +30593,6 @@ Ochranná obuv proti minimálnym rizikám, ideálna pre upratovacie alebo sociá
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjgwNHxpbWFnZS93ZWJwfDkyNDk3OTQzMjY1NTh8MGYzNzk3YTY0YTIzMWQ0MTRhNGQ2YjIwY2U0MjYxYzBkN2JiMDBlOTk0ZjU1MWEyMDFlZGRjMmY4ZDVjZjZjOQ</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02060088</code>
-         <title>MAR OB SRC šľapky</title>
-         <description/>
-         <categoryPath>Produkty/Obuv/Šľapky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-         </sizes>
-         <colors>
-            <color code="31" title="biela/modrá"/>
-            <color code="32" title="biela/zelená"/>
-            <color code="60" title="čierna"/>
-            <color code="80" title="biela"/>
-            <color code="W1" title="biela/ružová"/>
-            <color code="W2" title="biela/sv.modrá"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | OB FO E SRC"/>
-         </standards>
-         <brand>DIAN</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NDYyfGltYWdlL3dlYnB8OTI0NjQxMzA2MjE3NHw4ZDViZTVhYjdkNjUzYTAyMGYwYTUyNzY0NzE3NjVjYTQyMWZlZTVlYjJhY2ZjNzY3ZWI2ZTg1Yjc1ZjMxMWRl</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDM4OHxpbWFnZS93ZWJwfDkyNTA5ODU4NjkzNDJ8ODY2OGM3NDBiNjNiNTcxZjgxZThiN2Y3ZDFkMjZjMjZjMjk2ZGUwY2Y3MGEwNDI3MTFkODBhMjBlZmY2YjJhYg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTIxMHxpbWFnZS93ZWJwfDkyNTAwMjA4NTE3NDJ8MTFkNjBmNjM3MzI4MGNkYWY1OTgzZTBkOTRhZDVmNDBkZTkxNGJmMTMyOWNiNDg3NWZiZDRlMTgxMmU1OTVkMg</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTI1NHxpbWFnZS93ZWJwfDkyNTAyNTE2MzY3NjZ8ZmJiOWJmOWZiZGNmY2FlZDAwZTA3NGI3NDkzNDZjNjM4M2U4YTA5M2NhOGNjM2M5MDk2ZDMwMjA1MGY3OTNkZA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjY0NHxpbWFnZS93ZWJwfDkyNTA2ODYyNzE1MTh8OTA4OWIxZmEyZGFjMDkxNzg4YmQ2YmQ5MGRlNDYyZmVjZGQ3YzUyOWE5MjllODRmYTY0ODUzZDZjZDRmMWFjNw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTUyMnxpbWFnZS93ZWJwfDkyNTA0MDQ2NjMzMjZ8NTNmZjc3OTUxZDY1MmJmYzQ5Nzg4Nzg2Y2RjMDc3MThmMGRkNGI4YmJlMmM2NTQxMzk1YjQyOThlY2Y4ZWExOQ</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -44333,13 +42379,22 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MTY0fGltYWdlL3BuZ3w5Mjc4NTc5NjM4MzAyLzAzMDIwNDY0X1NUSVJMSU5HX1NUUkVUQ0hfd2ludGVyX3NvZnRzaGVsbF9wYW50c19ibHVlX0RTQ18yMDM3LnBuZ3w5YjA4YzJlMzQzYjkzZTY2MDZmMDZjOGY5MzI5ZTk3ZmRkN2Q4MWI5NGM0NjBjYjhlMDllMjZlM2RjYmU3OWQ5</path>
             </image>
             <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NzM4fGltYWdlL3BuZ3w5MzI0Mjk2NTAzMzI2LzAzMDIwNDY0X1NUSVJMSU5HX1NUUkVUQ0hfd2ludGVyX3NvZnRzaGVsbF9wYW50c19ibHVlX21vZGVsX0Nob2Rvdl8wOF8yMDI1LTE4NDYucG5nfDcyMzY2OTcwNDk5ZDQyMWUyOTA5OGIyNmE2NjYyYjU4NmI4MTU2MWVkYjI2M2YyMTg0ZTM0MjhjMDVkMGMzOGI</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5ODEyfGltYWdlL3BuZ3w5MzI0Mjk4OTYwOTI2LzAzMDIwNDY0X1NUSVJMSU5HX1NUUkVUQ0hfd2ludGVyX3NvZnRzaGVsbF9wYW50c19ibHVlX21vZGVsX0Nob2Rvdl8wOF8yMDI1LTE4NDcucG5nfGI3NzVkYzU3ZDNiNGUwODVlMTVmYjRlMWExZjExMjNmMzE1N2Y2NzExMmVkOTk0NGE2MGE3ODdjNTI5NWI0YTY</path>
+            </image>
+            <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3OTcwfGltYWdlL3BuZ3w5Mjc4NTc5NDA4OTI2LzAzMDIwNDY0X1NUSVJMSU5HX1NUUkVUQ0hfd2ludGVyX3NvZnRzaGVsbF9wYW50c19ibGFja19tb2RlbF9DaG9kb3ZfMDhfMjAyNS0xNDc1LnBuZ3w5MTI0NjMxMTAwZGZjZjQxNzNlNTU1NzliZmYyN2U5YTE0YzY0MzM4YjM5ZTAzMzhmMDk2NGY2YWFmZGRiODc4</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NTM4fGltYWdlL3BuZ3w5MzI0MzQyNjQwNjcwLzAzMDIwNDY0X1NUSVJMSU5HX1NUUkVUQ0hfd2ludGVyX3NvZnRzaGVsbF9wYW50c19ibGFja19tb2RlbF9DaG9kb3ZfMDhfMjAyNS0xNDcwLnBuZ3xkNmYxNDcxOGEzZjQwYjJjYzBkZjZkNmQ0YzJiYjhjMzQ1NjM0MDBjOTI2MTkyMTViMjM2NTIzNTZkNjA3YjY3</path>
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w1OTA0fGltYWdlL2pwZWd8OTI3ODU5MzEwNTk1MC8wMzAxMDcyNl9TVElSTElOR19TVFJFVENIX3dpbnRlcl9zb2Z0c2hlbGxfamFja2V0XzAzMDIwNDY0X1NUSVJMSU5HX1NUUkVUQ0hfd2ludGVyX3NvZnRzaGVsbF9wYW50c190ZXJyYWNjb3RhX2ltYWdlX0RTQ182NDMzLmpwZ3xhMDYxNDhlZmZhZjM0YWY2ODQ3YmMxZmRiYjljM2RkYzUyODUyZTk1M2MyNzI4ZDI3ZGY3M2ZjYmMyZGMzMDhj</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/03020464-STIRLING-STRETCH-winter-softshell-pants-green-detail-DSC-8480.jpg?context=bWFzdGVyfGltYWdlc3wyNTgwMzJ8aW1hZ2UvanBlZ3w5Mjg1Mjk2NTU0MDE0LzAzMDIwNDY0X1NUSVJMSU5HX1NUUkVUQ0hfd2ludGVyX3NvZnRzaGVsbF9wYW50c19ncmVlbl9kZXRhaWxfRFNDXzg0ODAuanBnfDYxZmExNTM1ZTk3MmQ3ODEyMDZlZGUwOTFjYmVjYTA2ZmIyMDA1MTJmYjllMjVlMzg5NzAxNWM5MjE2YmQ4Y2U</path>
+               <path>https://media.cerva.com/medias/03020464-STIRLING-STRETCH-winter-softshell-pants-green-detail-DSC-8485.jpg?context=bWFzdGVyfGltYWdlc3wyMTcyMTF8aW1hZ2UvanBlZ3w5Mjg1Mjk2MjkxODcwLzAzMDIwNDY0X1NUSVJMSU5HX1NUUkVUQ0hfd2ludGVyX3NvZnRzaGVsbF9wYW50c19ncmVlbl9kZXRhaWxfRFNDXzg0ODUuanBnfGUzMjIyMjUwYWZhNjg0NGI4ZDhhZmU0NjE5Yzk0NjA3MDcxYTFjYmI3ZmE0YmY4ZmMyNzAzNDkzNmUxMjZmZTA</path>
             </image>
          </images>
          <unit>KS</unit>
