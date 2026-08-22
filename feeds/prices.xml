@@ -21588,7 +21588,6 @@
       <variant code="03530001A0064" title="REUSEL nohavice náp antracit/červená 64" price="50.583" currency="EUR" unit="KS"/>
       <variant code="03530001A0062" title="REUSEL nohavice náp antracit/červená 62" price="50.583" currency="EUR" unit="KS"/>
       <variant code="03530001A0060" title="REUSEL nohavice náp antracit/červená 60" price="50.583" currency="EUR" unit="KS"/>
-      <variant code="03530001A0058" title="REUSEL nohavice náp antracit/červená 58" price="50.583" currency="EUR" unit="KS"/>
       <variant code="03530001A0056" title="REUSEL nohavice náp antracit/červená 56" price="50.583" currency="EUR" unit="KS"/>
       <variant code="03530001A0048" title="REUSEL nohavice náp antracit/červená 48" price="50.583" currency="EUR" unit="KS"/>
    </product>
@@ -25616,6 +25615,9 @@
    </product>
    <product code="0701009999999" title="SPIROTEK VS2300V resp. FFP3 vent. 10/BAL">
       <variant code="0701009999999" title="SPIROTEK VS2300V resp. FFP3 vent. 10/BAL" price="40.99" currency="EUR" unit="BOX"/>
+   </product>
+   <product code="0701010099999" title="JSP FILTERSPEC resp.FFP2 vent+u.okuliare">
+      <variant code="0701010099999" title="JSP FILTERSPEC resp.FFP2 vent+u.okuliare" price="78.574" currency="EUR" unit="KS"/>
    </product>
    <product code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL">
       <variant code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL" price="10.58" currency="EUR" unit="KS"/>
