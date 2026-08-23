@@ -2277,6 +2277,8 @@
    </product>
    <product code="01090012" title="ANSELL 69-210 Touch N Tuf">
       <variant code="0109001299105" title="Ansell 69-210 Touch N Tuf 9-10 EXP11/25" price="10.303" currency="EUR" unit="BOX"/>
+      <variant code="0109001299085" title="Ansell 69-210 Touch N Tuf 8,5-9 EXP09/25" price="10.303" currency="EUR" unit="BOX"/>
+      <variant code="0109001299075" title="Ansell 69-210 Touch N Tuf 7,5-8 EXP11/25" price="10.303" currency="EUR" unit="BOX"/>
    </product>
    <product code="01090013" title="Ansell 69-318 Touch N Tuf">
       <variant code="0109001399105" title="Ansell 69-318 Touch N Tuf 9-10" price="17.004" currency="EUR" unit="BOX"/>
@@ -19196,6 +19198,7 @@
       <variant code="0351003964066" title="MAX VIVO RFLX bunda černá/žltá 66" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964062" title="MAX VIVO RFLX bunda černá/žltá 62" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964060" title="MAX VIVO RFLX bunda černá/žltá 60" price="44.67" currency="EUR" unit="KS"/>
+      <variant code="0351003964058" title="MAX VIVO RFLX bunda černá/žltá 58" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964056" title="MAX VIVO RFLX bunda černá/žltá 56" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964054" title="MAX VIVO RFLX bunda černá/žltá 54" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964052" title="MAX VIVO RFLX bunda černá/žltá 52" price="44.67" currency="EUR" unit="KS"/>
