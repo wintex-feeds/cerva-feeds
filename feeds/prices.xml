@@ -10433,7 +10433,6 @@
       <variant code="0301058000006" title="NULATO bunda sivá 3XL" price="58.186" currency="EUR" unit="KS"/>
       <variant code="0301058000005" title="NULATO bunda sivá XXL" price="58.186" currency="EUR" unit="KS"/>
       <variant code="0301058000004" title="NULATO bunda sivá XL" price="58.186" currency="EUR" unit="KS"/>
-      <variant code="0301058000003" title="NULATO bunda sivá L" price="58.186" currency="EUR" unit="KS"/>
       <variant code="0301058000002" title="NULATO bunda sivá M" price="58.186" currency="EUR" unit="KS"/>
       <variant code="0301058000001" title="NULATO bunda sivá S" price="58.186" currency="EUR" unit="KS"/>
    </product>
@@ -10672,6 +10671,8 @@
       <variant code="0301059855002" title="NEURUM SOFTSHELL bunda petrolejová M" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059855001" title="NEURUM SOFTSHELL bunda petrolejová S" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841007" title="NEURUM SOFTSHELL bunda navy 4XL" price="77.069" currency="EUR" unit="KS"/>
+      <variant code="0301059841006" title="NEURUM SOFTSHELL bunda navy 3XL" price="77.069" currency="EUR" unit="KS"/>
+      <variant code="0301059841005" title="NEURUM SOFTSHELL bunda navy XXL" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841004" title="NEURUM SOFTSHELL bunda navy XL" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841003" title="NEURUM SOFTSHELL bunda navy L" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841002" title="NEURUM SOFTSHELL bunda navy M" price="77.069" currency="EUR" unit="KS"/>

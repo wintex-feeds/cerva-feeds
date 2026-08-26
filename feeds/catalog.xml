@@ -38206,7 +38206,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
          <standards>
             <standard code="EN ISO 13688" title="EN ISO 13688"/>
             <standard code="EN 343" title="EN 343 | 31X"/>
-            <standard code="EN ISO 20471" title="EN ISO 20471 | Class: 1"/>
+            <standard code="EN ISO 20471" title="EN ISO 20471 | Class: 2"/>
          </standards>
          <brand>CERV</brand>
          <images>
@@ -70268,7 +70268,7 @@ Možnost objednání náhradních zorníků.
             <color code="81" title="číra"/>
          </colors>
          <standards>
-            <standard code="EN 166" title="EN 166 | 1F·F"/>
+            <standard code="EN 166" title="EN 166"/>
             <standard code="EN 169" title="EN 169"/>
             <standard code="EN 170" title="EN 170"/>
          </standards>
