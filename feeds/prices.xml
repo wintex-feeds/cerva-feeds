@@ -1995,7 +1995,6 @@
       <variant code="0108026899060" title="POZON DOT rukavice - 6" price="4.239" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01080269" title="FF BABBLER FULL light rukavice">
-      <variant code="0108026999100" title="FF BABBLER FULL light rukavice - 10" price="0.985" currency="EUR" unit="PÁR"/>
       <variant code="0108026999090" title="FF BABBLER FULL light rukavice - 9" price="0.985" currency="EUR" unit="PÁR"/>
       <variant code="0108026999080" title="FF BABBLER FULL light rukavice - 8" price="0.985" currency="EUR" unit="PÁR"/>
    </product>
@@ -2844,7 +2843,6 @@
       <variant code="0113000399100" title="CHIFFCHAF 10 ruk.Kevlar str.silný,terč." price="10.261" currency="EUR" unit="PÁR"/>
       <variant code="0113000399090" title="CHIFFCHAF 9 ruk.Kevlar str.silný, terč." price="10.261" currency="EUR" unit="PÁR"/>
       <variant code="0113000399080" title="CHIFFCHAF 8 ruk.Kevlar str.silný, terč." price="10.261" currency="EUR" unit="PÁR"/>
-      <variant code="0113000399070" title="CHIFFCHAF 7 ruk.Kevlar str.silný, terč." price="10.261" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01130007" title="Cropper rukavice pletené zo synt.vlák.">
       <variant code="0113000799100" title="CROPPER 10 rukavice pletené zo synt.vlák" price="3.328" currency="EUR" unit="PÁR"/>
@@ -5169,6 +5167,22 @@
       <variant code="0201064454037" title="COMO MF ESD S1PS SR poltop. sivá/navy 37" price="42.556" currency="EUR" unit="PÁR"/>
       <variant code="0201064454036" title="COMO MF ESD S1PS SR poltop. sivá/navy 36" price="42.556" currency="EUR" unit="PÁR"/>
       <variant code="0201064454035" title="COMO MF ESD S1PS SR poltop. sivá/navy 35" price="42.556" currency="EUR" unit="PÁR"/>
+   </product>
+   <product code="02010645" title="TERNI MF ESD S1PS SR poltopánka">
+      <variant code="0201064530048" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 48" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530047" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 47" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530046" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 46" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530045" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 45" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530044" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 44" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530043" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 43" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530042" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 42" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530041" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 41" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530040" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 40" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530039" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 39" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530038" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 38" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530037" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 37" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530036" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 36" price="42.556" currency="EUR" unit="PÁR"/>
+      <variant code="0201064530035" title="TERNI MF ESD S1PS SR poltop.sivá/žltá 35" price="42.556" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010646" title="PRIMO S1PS ESD LG SR poltopánka">
       <variant code="02010646C1050" title="PRIMO S1PS ESD LG SR poltop.čier/oran 50" price="72.428" currency="EUR" unit="PÁR"/>
@@ -27756,6 +27770,15 @@
    </product>
    <product code="9911012699999" title="QuickFix 5522 náhradné náplasti 6x45ks">
       <variant code="9911012699999" title="QuickFix 5522 náhradné náplasti 6x45ks" price="Bude upresnené" currency="" unit="BOX"/>
+   </product>
+   <product code="9911012799999" title="PLUM Nástenný držiak modrý 956431">
+      <variant code="9911012799999" title="PLUM Nástenný držiak modrý 956431" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
+   <product code="9911012899999" title="PLUM Safety Mounting Plate/ 2 Bottle">
+      <variant code="9911012899999" title="PLUM Safety Mounting Plate/ 2 Bottle" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
+   <product code="9911012999999" title="PLUM Wound&amp;Eyewash Plan">
+      <variant code="9911012999999" title="PLUM Wound&amp;Eyewash Plan" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="9912004399999" title="TILIA krém nechtík 100ml/12 ks">
       <variant code="9912004399999" title="TILIA krém nechtík 100ml/12 ks" price="Bude upresnené" currency="" unit="KA1"/>
