@@ -30697,6 +30697,7 @@ Odnímateľný pätový remienok so zapínaním na suchý zips umožňuje prisp�
             <size code="048" title="48"/>
          </sizes>
          <colors>
+            <color code="60" title="čierna"/>
             <color code="80" title="biela"/>
          </colors>
          <standards>
@@ -30744,6 +30745,7 @@ Remienok na päte so zapínaním na suchý zips umožňuje individuálne nastave
             <size code="048" title="48"/>
          </sizes>
          <colors>
+            <color code="60" title="čierna"/>
             <color code="80" title="biela"/>
          </colors>
          <standards>

@@ -8111,6 +8111,19 @@
       <variant code="0206009180038" title="HYGOSAFE SB ESD SR šľapky biela 38" price="34.848" currency="EUR" unit="PÁR"/>
       <variant code="0206009180037" title="HYGOSAFE SB ESD SR šľapky biela 37" price="34.848" currency="EUR" unit="PÁR"/>
       <variant code="0206009180036" title="HYGOSAFE SB ESD SR šľapky biela 36" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160048" title="HYGOSAFE SB ESD SR šľapky čierna 48" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160047" title="HYGOSAFE SB ESD SR šľapky čierna 47" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160046" title="HYGOSAFE SB ESD SR šľapky čierna 46" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160045" title="HYGOSAFE SB ESD SR šľapky čierna 45" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160044" title="HYGOSAFE SB ESD SR šľapky čierna 44" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160043" title="HYGOSAFE SB ESD SR šľapky čierna 43" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160042" title="HYGOSAFE SB ESD SR šľapky čierna 42" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160041" title="HYGOSAFE SB ESD SR šľapky čierna 41" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160040" title="HYGOSAFE SB ESD SR šľapky čierna 40" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160039" title="HYGOSAFE SB ESD SR šľapky čierna 39" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160038" title="HYGOSAFE SB ESD SR šľapky čierna 38" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160037" title="HYGOSAFE SB ESD SR šľapky čierna 37" price="34.848" currency="EUR" unit="PÁR"/>
+      <variant code="0206009160036" title="HYGOSAFE SB ESD SR šľapky čierna 36" price="34.848" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02060092" title="HYGOSAFE OB ESD SR šľapky">
       <variant code="0206009280048" title="HYGOSAFE OB ESD SR šľapky biela 48" price="35.959" currency="EUR" unit="PÁR"/>
@@ -8126,6 +8139,19 @@
       <variant code="0206009280038" title="HYGOSAFE OB ESD SR šľapky biela 38" price="35.959" currency="EUR" unit="PÁR"/>
       <variant code="0206009280037" title="HYGOSAFE OB ESD SR šľapky biela 37" price="35.959" currency="EUR" unit="PÁR"/>
       <variant code="0206009280036" title="HYGOSAFE OB ESD SR šľapky biela 36" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260048" title="HYGOSAFE OB ESD SR šľapky čierna 48" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260047" title="HYGOSAFE OB ESD SR šľapky čierna 47" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260046" title="HYGOSAFE OB ESD SR šľapky čierna 46" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260045" title="HYGOSAFE OB ESD SR šľapky čierna 45" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260044" title="HYGOSAFE OB ESD SR šľapky čierna 44" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260043" title="HYGOSAFE OB ESD SR šľapky čierna 43" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260042" title="HYGOSAFE OB ESD SR šľapky čierna 42" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260041" title="HYGOSAFE OB ESD SR šľapky čierna 41" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260040" title="HYGOSAFE OB ESD SR šľapky čierna 40" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260039" title="HYGOSAFE OB ESD SR šľapky čierna 39" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260038" title="HYGOSAFE OB ESD SR šľapky čierna 38" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260037" title="HYGOSAFE OB ESD SR šľapky čierna 37" price="35.959" currency="EUR" unit="PÁR"/>
+      <variant code="0206009260036" title="HYGOSAFE OB ESD SR šľapky čierna 36" price="35.959" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02080046" title="PANDA vložky do top.COMFORT">
       <variant code="0208004670045" title="PANDA vložky do top.COMFORT žltá 45-48" price="21.746" currency="EUR" unit="PÁR"/>
@@ -13018,9 +13044,12 @@
       <variant code="0303000890004" title="LYNX Vesta reflexná oranžová XL" price="2.89" currency="EUR" unit="KS"/>
    </product>
    <product code="03030010" title="NYALA vesta">
+      <variant code="0303001060005" title="NYALA vesta čierna XXL" price="28.77" currency="EUR" unit="KS"/>
+      <variant code="0303001060003" title="NYALA vesta čierna L" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001060001" title="NYALA vesta čierna S" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001040007" title="NYALA vesta modrá - 4XL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001040006" title="NYALA vesta modrá 3XL" price="28.77" currency="EUR" unit="KS"/>
+      <variant code="0303001040002" title="NYALA vesta modrá M" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001040001" title="NYALA vesta modrá S" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001040000" title="NYALA vesta modrá XS" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001020006" title="NYALA vesta červená 3XL" price="28.77" currency="EUR" unit="KS"/>
@@ -23145,7 +23174,6 @@
       <variant code="0357002510044" title="MAX NEO šortky zelená 44" price="12.999" currency="EUR" unit="KS"/>
    </product>
    <product code="03570027" title="MAX VIVO HV šortky">
-      <variant code="0357002790068" title="MAX VIVO HV šortky oranžová 68" price="27.0" currency="EUR" unit="KS"/>
       <variant code="0357002790064" title="MAX VIVO HV šortky oranžová 64" price="27.0" currency="EUR" unit="KS"/>
       <variant code="0357002790062" title="MAX VIVO HV šortky oranžová 62" price="27.0" currency="EUR" unit="KS"/>
       <variant code="0357002790060" title="MAX VIVO HV šortky oranžová 60" price="27.0" currency="EUR" unit="KS"/>
@@ -23158,7 +23186,6 @@
       <variant code="0357002790046" title="MAX VIVO HV šortky oranžová 46" price="27.0" currency="EUR" unit="KS"/>
       <variant code="0357002790044" title="MAX VIVO HV šortky oranžová 44" price="27.0" currency="EUR" unit="KS"/>
       <variant code="0357002770064" title="MAX VIVO HV šortky žltá 64" price="27.0" currency="EUR" unit="KS"/>
-      <variant code="0357002770058" title="MAX VIVO HV šortky žltá 58" price="27.0" currency="EUR" unit="KS"/>
       <variant code="0357002770056" title="MAX VIVO HV šortky žltá 56" price="27.0" currency="EUR" unit="KS"/>
       <variant code="0357002770054" title="MAX VIVO HV šortky žltá 54" price="27.0" currency="EUR" unit="KS"/>
       <variant code="0357002770052" title="MAX VIVO HV šortky žltá 52" price="27.0" currency="EUR" unit="KS"/>
