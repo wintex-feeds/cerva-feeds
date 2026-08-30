@@ -792,9 +792,9 @@
          <detail date="2026-10-19" dispo="142" site="Centrála v ČR"/>
          <detail dispo="30" site="Senec"/>
       </product>
-      <product code="0102001499110" generic="01020014" title="SANDPIPER BLACK rukavice celokožené - 11" totalDispo="11901" unit="PÁR">
+      <product code="0102001499110" generic="01020014" title="SANDPIPER BLACK rukavice celokožené - 11" totalDispo="11896" unit="PÁR">
          <detail date="2026-10-07" dispo="11775" site="Centrála v ČR"/>
-         <detail dispo="126" site="Senec"/>
+         <detail dispo="121" site="Senec"/>
       </product>
       <product code="0102001599110" generic="01020015" title="SANDPIPER RED rukavice celokožené - 11" totalDispo="3002" unit="PÁR">
          <detail date="2026-10-07" dispo="2875" site="Centrála v ČR"/>
@@ -6424,9 +6424,9 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0109007899100" generic="01090078" title="SPOONBILL BLACK rukav.nitr.nepudr. 10/XL" totalDispo="1292" unit="BOX">
+      <product code="0109007899100" generic="01090078" title="SPOONBILL BLACK rukav.nitr.nepudr. 10/XL" totalDispo="1291" unit="BOX">
          <detail date="2026-11-01" dispo="1255" site="Centrála v ČR"/>
-         <detail dispo="37" site="Senec"/>
+         <detail dispo="36" site="Senec"/>
       </product>
       <product code="0109007899090" generic="01090078" title="SPOONBILL BLACK rukav.nitr.nepudr. 9/L" totalDispo="3118" unit="BOX">
          <detail date="2026-11-01" dispo="3040" site="Centrála v ČR"/>
@@ -32248,9 +32248,9 @@
          <detail dispo="227" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="03010555E3050" generic="03010555" title="DAYBORO bunda mech.zelená 50" totalDispo="187" unit="KS">
+      <product code="03010555E3050" generic="03010555" title="DAYBORO bunda mech.zelená 50" totalDispo="186" unit="KS">
          <detail dispo="186" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
       <product code="03010555E3048" generic="03010555" title="DAYBORO bunda mech.zelená 48" totalDispo="111" unit="KS">
          <detail dispo="108" site="Centrála v ČR"/>
@@ -32284,9 +32284,9 @@
          <detail dispo="182" site="Centrála v ČR"/>
          <detail dispo="1" site="Senec"/>
       </product>
-      <product code="0301055569052" generic="03010555" title="DAYBORO bunda tm.hnedá 52" totalDispo="140" unit="KS">
+      <product code="0301055569052" generic="03010555" title="DAYBORO bunda tm.hnedá 52" totalDispo="139" unit="KS">
          <detail dispo="139" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
       <product code="0301055569050" generic="03010555" title="DAYBORO bunda tm.hnedá 50" totalDispo="179" unit="KS">
          <detail dispo="178" site="Centrála v ČR"/>
@@ -41088,25 +41088,25 @@
          <detail date="2026-09-13" dispo="2617" site="Centrála v ČR"/>
          <detail dispo="13" site="Senec"/>
       </product>
-      <product code="0302039660052" generic="03020396" title="DAYBORO nohavice čierna 52" totalDispo="2744" unit="KS">
+      <product code="0302039660052" generic="03020396" title="DAYBORO nohavice čierna 52" totalDispo="2743" unit="KS">
          <detail date="2026-09-13" dispo="2723" site="Centrála v ČR"/>
-         <detail dispo="21" site="Senec"/>
+         <detail dispo="20" site="Senec"/>
       </product>
       <product code="0302039660050" generic="03020396" title="DAYBORO nohavice čierna 50" totalDispo="2229" unit="KS">
          <detail date="2026-09-13" dispo="2220" site="Centrála v ČR"/>
          <detail dispo="9" site="Senec"/>
       </product>
-      <product code="0302039660048" generic="03020396" title="DAYBORO nohavice čierna 48" totalDispo="1239" unit="KS">
+      <product code="0302039660048" generic="03020396" title="DAYBORO nohavice čierna 48" totalDispo="1238" unit="KS">
          <detail date="2026-09-13" dispo="1235" site="Centrála v ČR"/>
-         <detail dispo="4" site="Senec"/>
+         <detail dispo="3" site="Senec"/>
       </product>
       <product code="0302039660046" generic="03020396" title="DAYBORO nohavice čierna 46" totalDispo="614" unit="KS">
          <detail date="2026-10-04" dispo="608" site="Centrála v ČR"/>
          <detail dispo="6" site="Senec"/>
       </product>
-      <product code="0302039660044" generic="03020396" title="DAYBORO nohavice čierna 44" totalDispo="388" unit="KS">
+      <product code="0302039660044" generic="03020396" title="DAYBORO nohavice čierna 44" totalDispo="387" unit="KS">
          <detail date="2026-10-04" dispo="387" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
       <product code="0302039660042" generic="03020396" title="DAYBORO nohavice čierna 42" totalDispo="249" unit="KS">
          <detail date="2026-10-04" dispo="249" site="Centrála v ČR"/>
@@ -41288,9 +41288,9 @@
          <detail dispo="99" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
-      <product code="0302039780052" generic="03020397" title="DAYBORO náprs.nohavice biela 52" totalDispo="140" unit="KS">
+      <product code="0302039780052" generic="03020397" title="DAYBORO náprs.nohavice biela 52" totalDispo="139" unit="KS">
          <detail dispo="139" site="Centrála v ČR"/>
-         <detail dispo="1" site="Senec"/>
+         <detail dispo="0" site="Senec"/>
       </product>
       <product code="0302039780050" generic="03020397" title="DAYBORO náprs.nohavice biela 50" totalDispo="185" unit="KS">
          <detail dispo="185" site="Centrála v ČR"/>
@@ -43528,9 +43528,9 @@
          <detail date="2026-10-14" dispo="4416" site="Centrála v ČR"/>
          <detail dispo="85" site="Senec"/>
       </product>
-      <product code="0303004870002" generic="03030048" title="QUOLL vesta reflexná žltá M" totalDispo="3632" unit="KS">
+      <product code="0303004870002" generic="03030048" title="QUOLL vesta reflexná žltá M" totalDispo="3617" unit="KS">
          <detail date="2026-10-14" dispo="3575" site="Centrála v ČR"/>
-         <detail dispo="57" site="Senec"/>
+         <detail dispo="42" site="Senec"/>
       </product>
       <product code="0303005996006" generic="03030059" title="SIOEN HELLISAN FR AST HV oranžová 3XL" totalDispo="0" unit="KS">
          <detail dispo="0" site="Centrála v ČR"/>
@@ -55880,13 +55880,13 @@
          <detail dispo="416" site="Centrála v ČR"/>
          <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0314000680054" generic="03140006" title="VOLANS čiapka lodička biela - 54" totalDispo="390" unit="KS">
+      <product code="0314000680054" generic="03140006" title="VOLANS čiapka lodička biela - 54" totalDispo="387" unit="KS">
          <detail dispo="383" site="Centrála v ČR"/>
-         <detail dispo="7" site="Senec"/>
+         <detail dispo="4" site="Senec"/>
       </product>
-      <product code="0314000680052" generic="03140006" title="VOLANS čiapka lodička biela - 52" totalDispo="395" unit="KS">
+      <product code="0314000680052" generic="03140006" title="VOLANS čiapka lodička biela - 52" totalDispo="392" unit="KS">
          <detail dispo="383" site="Centrála v ČR"/>
-         <detail dispo="12" site="Senec"/>
+         <detail dispo="9" site="Senec"/>
       </product>
       <product code="0314000790999" generic="03140007" title="LEO baseballová čiapka oranžová" totalDispo="3723" unit="KS">
          <detail dispo="3718" site="Centrála v ČR"/>
@@ -56040,9 +56040,9 @@
          <detail date="2026-09-23" dispo="3111" site="Centrála v ČR"/>
          <detail dispo="150" site="Senec"/>
       </product>
-      <product code="0314005380999" generic="03140053" title="ALZETTE čiapka strieborný prúžok biela" totalDispo="4853" unit="KS">
+      <product code="0314005380999" generic="03140053" title="ALZETTE čiapka strieborný prúžok biela" totalDispo="4851" unit="KS">
          <detail dispo="4755" site="Centrála v ČR"/>
-         <detail dispo="98" site="Senec"/>
+         <detail dispo="96" site="Senec"/>
       </product>
       <product code="0314005460001" generic="03140054" title="EMERTON zimná čiapka čierna/oranžová S" totalDispo="350" unit="KS">
          <detail dispo="349" site="Centrála v ČR"/>
@@ -82928,17 +82928,17 @@
          <detail dispo="1064" site="Centrála v ČR"/>
          <detail dispo="6" site="Senec"/>
       </product>
-      <product code="0601012280999" generic="06010122" title="ALPINWORKER prilba WR ventilov biela -" totalDispo="5805" unit="KS">
+      <product code="0601012280999" generic="06010122" title="ALPINWORKER prilba WR ventilov biela -" totalDispo="5803" unit="KS">
          <detail date="2026-09-20" dispo="5762" site="Centrála v ČR"/>
-         <detail dispo="43" site="Senec"/>
+         <detail dispo="41" site="Senec"/>
       </product>
-      <product code="0601012279999" generic="06010122" title="ALPINWORKER prilba WR ventil HV žltá -" totalDispo="3220" unit="KS">
+      <product code="0601012279999" generic="06010122" title="ALPINWORKER prilba WR ventil HV žltá -" totalDispo="3218" unit="KS">
          <detail date="2026-09-20" dispo="3137" site="Centrála v ČR"/>
-         <detail dispo="83" site="Senec"/>
+         <detail dispo="81" site="Senec"/>
       </product>
-      <product code="0601012270999" generic="06010122" title="ALPINWORKER prilba WR ventilova žltá -" totalDispo="1856" unit="KS">
+      <product code="0601012270999" generic="06010122" title="ALPINWORKER prilba WR ventilova žltá -" totalDispo="1855" unit="KS">
          <detail dispo="1853" site="Centrála v ČR"/>
-         <detail dispo="3" site="Senec"/>
+         <detail dispo="2" site="Senec"/>
       </product>
       <product code="0601012240999" generic="06010122" title="ALPINWORKER prilba WR ventilov modrá -" totalDispo="2721" unit="KS">
          <detail dispo="2685" site="Centrála v ČR"/>
@@ -83788,8 +83788,8 @@
          <detail dispo="242" site="Centrála v ČR"/>
          <detail dispo="25" site="Senec"/>
       </product>
-      <product code="0701003299999" generic="07010032" title="REFIL 731 resp.FFP2 skl. s ventil.15/BAL" totalDispo="2191" unit="BOX">
-         <detail date="2026-09-10" dispo="2054" site="Centrála v ČR"/>
+      <product code="0701003299999" generic="07010032" title="REFIL 731 resp.FFP2 skl. s ventil.15/BAL" totalDispo="2631" unit="BOX">
+         <detail dispo="2494" site="Centrála v ČR"/>
          <detail dispo="137" site="Senec"/>
       </product>
       <product code="0701003799999" generic="07010037" title="MANLY respirátor jednoráz.-R 1085 50/BAL" totalDispo="6930" unit="BOX">
@@ -83800,12 +83800,12 @@
          <detail dispo="103" site="Centrála v ČR"/>
          <detail dispo="8" site="Senec"/>
       </product>
-      <product code="0701004099999" generic="07010040" title="REFIL 641 res.FFP2 skl. s ventil. 10/BAL" totalDispo="11" unit="BOX">
-         <detail date="2026-09-10" dispo="0" site="Centrála v ČR"/>
+      <product code="0701004099999" generic="07010040" title="REFIL 641 res.FFP2 skl. s ventil. 10/BAL" totalDispo="17" unit="BOX">
+         <detail dispo="6" site="Centrála v ČR"/>
          <detail dispo="11" site="Senec"/>
       </product>
-      <product code="0701004199999" generic="07010041" title="REFIL 631 BLIST. P2 skl.s ventil. 15/BAL" totalDispo="2" unit="BOX">
-         <detail date="2026-09-10" dispo="0" site="Centrála v ČR"/>
+      <product code="0701004199999" generic="07010041" title="REFIL 631 BLIST. P2 skl.s ventil. 15/BAL" totalDispo="21" unit="BOX">
+         <detail dispo="19" site="Centrála v ČR"/>
          <detail dispo="2" site="Senec"/>
       </product>
       <product code="0701004299999" generic="07010042" title="REFIL 630 re.P2 skl. bez ventil.20/BAL" totalDispo="0" unit="BOX">
@@ -83924,8 +83924,8 @@
          <detail dispo="370" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0701013399999" generic="07010133" title="REFIL 1041 Respir.FFP2 tvar.vent. 10/BAL" totalDispo="0" unit="BOX">
-         <detail date="2026-09-10" dispo="0" site="Centrála v ČR"/>
+      <product code="0701013399999" generic="07010133" title="REFIL 1041 Respir.FFP2 tvar.vent. 10/BAL" totalDispo="7" unit="BOX">
+         <detail dispo="7" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
       <product code="0701013499999" generic="07010134" title="REFIL 1052 Resp.FFP3 tvarov.vent. 5/BAL" totalDispo="472" unit="BOX">
@@ -83956,12 +83956,12 @@
          <detail dispo="0" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0701020299999" generic="0701020299999" title="REFIL 750 Sklád. Resp.bez ventilku FFP3" totalDispo="77" unit="BOX">
-         <detail date="2026-09-10" dispo="77" site="Centrála v ČR"/>
+      <product code="0701020299999" generic="0701020299999" title="REFIL 750 Sklád. Resp.bez ventilku FFP3" totalDispo="277" unit="BOX">
+         <detail dispo="277" site="Centrála v ČR"/>
          <detail dispo="0" site="Senec"/>
       </product>
-      <product code="0701020399999" generic="0701020399999" title="REFIL 751 Sklád. Resp.s ventilkem FFP3" totalDispo="479" unit="BOX">
-         <detail date="2026-09-10" dispo="455" site="Centrála v ČR"/>
+      <product code="0701020399999" generic="0701020399999" title="REFIL 751 Sklád. Resp.s ventilkem FFP3" totalDispo="919" unit="BOX">
+         <detail dispo="895" site="Centrála v ČR"/>
          <detail dispo="24" site="Senec"/>
       </product>
       <product code="0701022799999" generic="0701022799999" title="3M 9330+ Aura Respirirátr bez vent. FFP3" totalDispo="0" unit="KS">
