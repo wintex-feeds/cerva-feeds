@@ -2064,14 +2064,6 @@
       <variant code="0108029699080" title="TB 765NG TOUCH rukavice - 8" price="5.373" currency="EUR" unit="PÁR"/>
       <variant code="0108029699070" title="TB 765NG TOUCH rukavice - 7" price="5.373" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="01080297" title="TB 700NaFP TOUCH rukavice">
-      <variant code="0108029799110" title="TB 700NaFP TOUCH rukavice - 11" price="4.119" currency="EUR" unit="PÁR"/>
-      <variant code="0108029799100" title="TB 700NaFP TOUCH rukavice - 10" price="4.119" currency="EUR" unit="PÁR"/>
-      <variant code="0108029799090" title="TB 700NaFP TOUCH rukavice - 9" price="4.119" currency="EUR" unit="PÁR"/>
-      <variant code="0108029799080" title="TB 700NaFP TOUCH rukavice - 8" price="4.119" currency="EUR" unit="PÁR"/>
-      <variant code="0108029799070" title="TB 700NaFP TOUCH rukavice - 7" price="4.119" currency="EUR" unit="PÁR"/>
-      <variant code="0108029799060" title="TB 700NaFP TOUCH rukavice - 6" price="4.119" currency="EUR" unit="PÁR"/>
-   </product>
    <product code="01080306" title="TB 700AZFP TOUCH rukavice">
       <variant code="0108030699110" title="TB 700AZFP TOUCH rukavice - 11" price="2.803" currency="EUR" unit="PÁR"/>
       <variant code="0108030699100" title="TB 700AZFP TOUCH rukavice - 10" price="2.803" currency="EUR" unit="PÁR"/>
@@ -3300,9 +3292,6 @@
    </product>
    <product code="01150068" title="1-P22FP22400 rukavice kevlar">
       <variant code="0115006899100" title="1-P22FP22400 rukavice kevlar - 10" price="150.502" currency="EUR" unit="PÁR"/>
-   </product>
-   <product code="01150073" title="TB 6026L rukavice">
-      <variant code="0115007399100" title="TB 6026L rukavice - 10" price="172.298" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01150074" title="TB 6226L rukavice">
       <variant code="0115007499100" title="TB 6226L rukavice - 10" price="152.312" currency="EUR" unit="PÁR"/>
@@ -18962,7 +18951,6 @@
       <variant code="03510029V0042" title="MAX SUMMER LADY bunda sivá/sv.fialová 42" price="24.139" currency="EUR" unit="KS"/>
       <variant code="03510029V0040" title="MAX SUMMER LADY bunda sivá/sv.fialová 40" price="24.139" currency="EUR" unit="KS"/>
       <variant code="03510029V0038" title="MAX SUMMER LADY bunda sivá/sv.fialová 38" price="24.139" currency="EUR" unit="KS"/>
-      <variant code="03510029V0034" title="MAX SUMMER LADY bunda sivá/sv.fialová 34" price="24.139" currency="EUR" unit="KS"/>
       <variant code="03510029P2054" title="MAX SUMMER LADY bunda petrolej/čierna 54" price="24.139" currency="EUR" unit="KS"/>
       <variant code="03510029P2052" title="MAX SUMMER LADY bunda petrolej/čierna 52" price="24.139" currency="EUR" unit="KS"/>
       <variant code="03510029P2050" title="MAX SUMMER LADY bunda petrolej/čierna 50" price="24.139" currency="EUR" unit="KS"/>
@@ -19216,7 +19204,6 @@
       <variant code="0351003964066" title="MAX VIVO RFLX bunda černá/žltá 66" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964062" title="MAX VIVO RFLX bunda černá/žltá 62" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964060" title="MAX VIVO RFLX bunda černá/žltá 60" price="44.67" currency="EUR" unit="KS"/>
-      <variant code="0351003964058" title="MAX VIVO RFLX bunda černá/žltá 58" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964056" title="MAX VIVO RFLX bunda černá/žltá 56" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964054" title="MAX VIVO RFLX bunda černá/žltá 54" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964052" title="MAX VIVO RFLX bunda černá/žltá 52" price="44.67" currency="EUR" unit="KS"/>
@@ -27413,15 +27400,6 @@
    <product code="9901001399999" title="LAIDE nákoleník">
       <variant code="9901001399999" title="LAIDE nákoleník" price="7.679" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="9901001599999" title="FENTO 200 protection cap 200/400">
-      <variant code="9901001599999" title="FENTO 200 protection cap 200/400" price="27.957" currency="EUR" unit="PÁR"/>
-   </product>
-   <product code="9901001699999" title="FENTO 200 velcro elastic ORIGINAL">
-      <variant code="9901001699999" title="FENTO 200 velcro elastic ORIGINAL" price="17.059" currency="EUR" unit="PÁR"/>
-   </product>
-   <product code="9901002599999" title="FENTO 200 Pro nákoleník ORIGINAL">
-      <variant code="9901002599999" title="FENTO 200 Pro nákoleník ORIGINAL" price="146.18" currency="EUR" unit="PÁR"/>
-   </product>
    <product code="99020011" title="3M Scotch-Brite hadrnička 2010 5ks">
       <variant code="9902001170999" title="3M Scotch-Brite hadrnička 2010 5ks žltá" price="Bude upresnené" currency="" unit="BAL"/>
       <variant code="9902001140999" title="3M Scotch-Brite hadrnička 2010 5ks modrá" price="Bude upresnené" currency="" unit="BAL"/>
@@ -27480,17 +27458,11 @@
    <product code="9908005399999" title="PLUM 2903 HANDY PLUS ošet.krém 700ml">
       <variant code="9908005399999" title="PLUM 2903 HANDY PLUS ošet.krém 700ml" price="27.553" currency="EUR" unit="KS"/>
    </product>
-   <product code="9908005499999" title="PLUM 0615 PREMIUM  čist.krém 250ml">
-      <variant code="9908005499999" title="PLUM 0615 PREMIUM  čist.krém 250ml" price="11.899" currency="EUR" unit="KS"/>
-   </product>
    <product code="9908005599999" title="PLUM 0618 PREMIUM  čist.krém 1400ml">
       <variant code="9908005599999" title="PLUM 0618 PREMIUM  čist.krém 1400ml" price="30.055" currency="EUR" unit="KS"/>
    </product>
    <product code="9908005699999" title="PLUM 0815 PLULAC  čist.krém 250ml">
       <variant code="9908005699999" title="PLUM 0815 PLULAC  čist.krém 250ml" price="11.224" currency="EUR" unit="KS"/>
-   </product>
-   <product code="9908005799999" title="PLUM 0818 PLULAC  čist.krém 1400ml">
-      <variant code="9908005799999" title="PLUM 0818 PLULAC  čist.krém 1400ml" price="31.665" currency="EUR" unit="KS"/>
    </product>
    <product code="9908005899999" title="PLUM 4251 MP2000 Module 1l zásobník">
       <variant code="9908005899999" title="PLUM 4251 MP2000 Module 1l zásobník" price="45.75" currency="EUR" unit="KS"/>
