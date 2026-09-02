@@ -15476,8 +15476,8 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          </colors>
          <standards>
             <standard code="EN 420" title="EN 420"/>
-            <standard code="EN 388" title="EN 388 | 4X44D"/>
-            <standard code="EN 407" title="EN 407 | X1XXXX"/>
+            <standard code="EN 388" title="EN 388 | 3X43D"/>
+            <standard code="EN_407" title="EN_407 | X2XXXX"/>
          </standards>
          <brand>TB</brand>
          <images>
@@ -30659,10 +30659,7 @@ Odnímateľný pätový remienok so zapínaním na suchý zips umožňuje prisp�
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MTk0fGltYWdlL3dlYnB8OTI2ODA4NTg4MjkxMC8wMjA2MDA5MV8wMjA2MDA5Ml9IWUdPU0FGRV9TQl9PQl9jbG9nc19EU0NfMzk1MC5wbmd8NzE0YzMzMTU3MjQ0OTNhMmFjYjYzMDc3YTYyMjkyZTJlYjgzNzAzYjA1YzU5MzliZjMwOTIxN2FlYTc1NmIxYQ</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MDEwfGltYWdlL3dlYnB8OTI2ODE5NTEzMTQyMi8wMjA2MDA5MV8wMjA2MDA5Ml9IWUdPU0FGRV9TQl9PQl9jbG9nc19zaWRlX0RTQ18zOTU2LnBuZ3w4ZGI4ODdmMDBiYmMzYjlhMDZmYjZmODk0YjFjMmI2NDgzYjQ2ZjNjYTA4ZDk2YzAxZDEwNzRmZDQ1YTY1YmFh</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2MTY4fGltYWdlL3dlYnB8OTI2NzY2NjQ1MjUxMC8wMjA5MDAyNF8wMjA2MDA5Ml8wMjA5MDAyM18wMjA2MDA5MV9IWUdPU0FGRV9zb2xlX0RTQ18zOTYxLnBuZ3w2MmMyODMyNWNjYzkyN2ZiMTIzNTM3ODU4YmMwODIwNjIxZGZhMTc3ZDc3ZWFlYzhjMWVkM2VkZTcxN2U4ZWQ5</path>
+               <path>https://media.cerva.com/medias/02060091-02060092-HYGOSAFE-SB-OB-clogs-black-DSC-4302.png?context=bWFzdGVyfGltYWdlc3wyNjc0ODN8aW1hZ2UvcG5nfDkzNjQ1Njg4NjY4NDYvMDIwNjAwOTFfMDIwNjAwOTJfSFlHT1NBRkVfU0JfT0JfY2xvZ3NfYmxhY2tfRFNDXzQzMDIucG5nfGNhODQ3ZGIxYTI1Y2QwZTFmNDU2YmE3M2Y3OWMzODJmNWZiNWY2NTlhNWMwMTY2N2VmNTZkYzEyM2Q2NjE4ZjI</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -30707,10 +30704,7 @@ Remienok na päte so zapínaním na suchý zips umožňuje individuálne nastave
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MTk0fGltYWdlL3dlYnB8OTI2ODA4NTg4MjkxMC8wMjA2MDA5MV8wMjA2MDA5Ml9IWUdPU0FGRV9TQl9PQl9jbG9nc19EU0NfMzk1MC5wbmd8NzE0YzMzMTU3MjQ0OTNhMmFjYjYzMDc3YTYyMjkyZTJlYjgzNzAzYjA1YzU5MzliZjMwOTIxN2FlYTc1NmIxYQ</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MDEwfGltYWdlL3dlYnB8OTI2ODE5NTEzMTQyMi8wMjA2MDA5MV8wMjA2MDA5Ml9IWUdPU0FGRV9TQl9PQl9jbG9nc19zaWRlX0RTQ18zOTU2LnBuZ3w4ZGI4ODdmMDBiYmMzYjlhMDZmYjZmODk0YjFjMmI2NDgzYjQ2ZjNjYTA4ZDk2YzAxZDEwNzRmZDQ1YTY1YmFh</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2MTY4fGltYWdlL3dlYnB8OTI2NzY2NjQ1MjUxMC8wMjA5MDAyNF8wMjA2MDA5Ml8wMjA5MDAyM18wMjA2MDA5MV9IWUdPU0FGRV9zb2xlX0RTQ18zOTYxLnBuZ3w2MmMyODMyNWNjYzkyN2ZiMTIzNTM3ODU4YmMwODIwNjIxZGZhMTc3ZDc3ZWFlYzhjMWVkM2VkZTcxN2U4ZWQ5</path>
+               <path>https://media.cerva.com/medias/02060091-02060092-HYGOSAFE-SB-OB-clogs-black-DSC-4302.png?context=bWFzdGVyfGltYWdlc3wyNjc0ODN8aW1hZ2UvcG5nfDkzNjQ1Njg4NjY4NDYvMDIwNjAwOTFfMDIwNjAwOTJfSFlHT1NBRkVfU0JfT0JfY2xvZ3NfYmxhY2tfRFNDXzQzMDIucG5nfGNhODQ3ZGIxYTI1Y2QwZTFmNDU2YmE3M2Y3OWMzODJmNWZiNWY2NTlhNWMwMTY2N2VmNTZkYzEyM2Q2NjE4ZjI</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -30946,6 +30940,7 @@ Remienok na päte so zapínaním na suchý zips umožňuje individuálne nastave
             <size code="037" title="37"/>
             <size code="038" title="38"/>
             <size code="039" title="39"/>
+            <size code="040" title="40"/>
             <size code="041" title="41"/>
             <size code="042" title="42"/>
             <size code="043" title="43"/>
@@ -31207,10 +31202,7 @@ Jedinečná kombinácia hydrofóbneho mikrovlákna a neoprénu vytvára odolný,
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4OTUyfGltYWdlL3dlYnB8OTI2NzkzODE5NzUzNC8wMjA5MDAyM18wMjA5MDAyNF9IWUdPU0FGRV9TMl9PMl9tb2NjYXNpbl9EU0NfMzk1MS5wbmd8ZDI3NjNhY2YxODc0YjdhNzZlYzAzMTk3YjQ5OGM0MTNmZmI1OTQ3Zjc2ODVkMWJlODUzNTE1YjkyNjQzNTRkMQ</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NTE0fGltYWdlL3dlYnB8OTI2NzkzNTY3NDM5OC8wMjA5MDAyM18wMjA5MDAyNF9IWUdPU0FGRV9TMl9PMl9tb2NjYXNpbl9zaWRlX0RTQ18zOTU4LnBuZ3xjZWI3Y2E3YWMyMjY1OWI4ZTBjNjI3YzdlMTI2NmY1YzVhYzZiOTRiNGVkMmNiNTgyYjcwYmE0YzAyMDYwYWQ4</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2MTUwfGltYWdlL3dlYnB8OTI0OTk2OTc2NjQzMC8wMjA5MDAyNF8wMjA2MDA5Ml8wMjA5MDAyM18wMjA2MDA5MV9IWUdPU0FGRV9zb2xlX0RTQ18zOTYxLnRpZi5wbmd8OTYxMjc2NjQzMmRiYzEyOGEyMDU3ZWEzODE4YmYzMWFkNGNjZTdhZGJhNWEzMDZmNDU1OGRlMTIzMjczNGFmYQ</path>
+               <path>https://media.cerva.com/medias/02090023-02090024-HYGOSAFE-S2-O2-moccasin-black-DSC-4310.png?context=bWFzdGVyfGltYWdlc3wyNDQ3NDd8aW1hZ2UvcG5nfDkzNjQ1NjkzOTExMzQvMDIwOTAwMjNfMDIwOTAwMjRfSFlHT1NBRkVfUzJfTzJfbW9jY2FzaW5fYmxhY2tfRFNDXzQzMTAucG5nfDAwMTM0OGZhZmFlN2ZjZjYzMTUxYmQ1ZGNjNjY1NGI4NjBlZjExMTY0YzZjODVhOWJiYzJhMDc0NDFkYTAwZWQ</path>
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDE0NnxpbWFnZS93ZWJwfDkyNjgwNTI2NTYxNTgvMDIwNjAwOTFfMDIwNjAwOTJfMDIwOTAwMjNfMDIwOTAwMjNfSFlHT1NBRkVfRFNDXzQyNTcuanBnfDA0YTI5ZmEyZTVlNDBjNDJhNjljZTVmNjJmZDA2YWZiN2JkZWM5ZDM0NmQ2OGEzYmI3YWNmMWE1ZjA1NjA5NzM</path>
@@ -31261,10 +31253,7 @@ Jedinečná kombinácia hydrofóbneho mikrovlákna a neoprénu vytvára odolný,
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4OTUyfGltYWdlL3dlYnB8OTI2NzkzODE5NzUzNC8wMjA5MDAyM18wMjA5MDAyNF9IWUdPU0FGRV9TMl9PMl9tb2NjYXNpbl9EU0NfMzk1MS5wbmd8ZDI3NjNhY2YxODc0YjdhNzZlYzAzMTk3YjQ5OGM0MTNmZmI1OTQ3Zjc2ODVkMWJlODUzNTE1YjkyNjQzNTRkMQ</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NTE0fGltYWdlL3dlYnB8OTI2NzkzNTY3NDM5OC8wMjA5MDAyM18wMjA5MDAyNF9IWUdPU0FGRV9TMl9PMl9tb2NjYXNpbl9zaWRlX0RTQ18zOTU4LnBuZ3xjZWI3Y2E3YWMyMjY1OWI4ZTBjNjI3YzdlMTI2NmY1YzVhYzZiOTRiNGVkMmNiNTgyYjcwYmE0YzAyMDYwYWQ4</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2MTY4fGltYWdlL3dlYnB8OTI2NzY2NjQ1MjUxMC8wMjA5MDAyNF8wMjA2MDA5Ml8wMjA5MDAyM18wMjA2MDA5MV9IWUdPU0FGRV9zb2xlX0RTQ18zOTYxLnBuZ3w2MmMyODMyNWNjYzkyN2ZiMTIzNTM3ODU4YmMwODIwNjIxZGZhMTc3ZDc3ZWFlYzhjMWVkM2VkZTcxN2U4ZWQ5</path>
+               <path>https://media.cerva.com/medias/02090023-02090024-HYGOSAFE-S2-O2-moccasin-black-DSC-4310.png?context=bWFzdGVyfGltYWdlc3wyNDQ3NDd8aW1hZ2UvcG5nfDkzNjQ1NjkzOTExMzQvMDIwOTAwMjNfMDIwOTAwMjRfSFlHT1NBRkVfUzJfTzJfbW9jY2FzaW5fYmxhY2tfRFNDXzQzMTAucG5nfDAwMTM0OGZhZmFlN2ZjZjYzMTUxYmQ1ZGNjNjY1NGI4NjBlZjExMTY0YzZjODVhOWJiYzJhMDc0NDFkYTAwZWQ</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -69013,6 +69002,23 @@ Details
          <unit>KS</unit>
       </product>
       <product>
+         <code>0403010199999</code>
+         <title>3M PELTOR USB-C Charging J197/1</title>
+         <description>3M™ PELTOR™ charging cable for connecting a battery pack to charge the 3M™ PELTOR™ hearing protection headset; battery charging cable for use with specific 3M™ PELTOR™ Headsets</description>
+         <categoryPath>Produkty/Ochrana sluchu</categoryPath>
+         <packaging></packaging>
+         <sizes>
+         </sizes>
+         <colors>
+         </colors>
+         <standards>
+         </standards>
+         <brand>3M</brand>
+         <images>
+         </images>
+         <unit>KS</unit>
+      </product>
+      <product>
          <code>0501007799999</code>
          <title>UVEX 9160068 okuliare I-VO hnedé</title>
          <description>Okuliare so športovým dizajnom. Zmäkčenie rámika v oblasti nosníka, čela a koncov stranníc. Zorník optidur NC, supravision HC-AF, modro-oranžový rám.</description>
@@ -84553,26 +84559,6 @@ Cenově výhodné předfiltry pro ochranu proti částicím s nízkým úhlem pr
             </image>
          </images>
          <unit>KS</unit>
-      </product>
-      <product>
-         <code>0704013399999</code>
-         <title>3M 837012 Filter častíc ADFLO P3 PK2</title>
-         <description>3M™ Adflo™ filter častíc P3</description>
-         <categoryPath>Produkty/Ochrana dýchacích ciest/Respirátory s filtro-ventilačnou jednotkou/Filtre</categoryPath>
-         <packaging></packaging>
-         <sizes>
-         </sizes>
-         <colors>
-         </colors>
-         <standards>
-         </standards>
-         <brand>3M</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNzA0OHxpbWFnZS93ZWJwfDkyNDk3NDE4NjQ5OTAvMDcwNDAxMzNfM004MzcwMTJfUGFydGljdWxfZmlsdGVyX0FERkxPX1AzX1BLMi50aWYucG5nfGIxMGYxNDkwZWE5Yzg4ZWU0YzM0ZGZhMzlhMjRkMjFiMTYzM2JlNDk4MDkyYmEwMzA3NTc1MTk2MTJkN2JjODE</path>
-            </image>
-         </images>
-         <unit>BAL</unit>
       </product>
       <product>
          <code>0704013999999</code>
