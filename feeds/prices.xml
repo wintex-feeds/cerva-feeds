@@ -3759,14 +3759,6 @@
       <variant code="0201015860036" title="KIEL S3 FO SR poltopánka 36 čierna" price="23.75" currency="EUR" unit="PÁR"/>
       <variant code="0201015860035" title="KIEL S3 FO SR poltopánka 35 čierna" price="23.75" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="02010160" title="PANTERA O2 SRC poltopánka">
-      <variant code="0201016099045" title="PANTERA O2 SRC poltopánka 45 -" price="46.379" currency="EUR" unit="PÁR"/>
-      <variant code="0201016099044" title="PANTERA O2 SRC poltopánka 44 -" price="46.379" currency="EUR" unit="PÁR"/>
-      <variant code="0201016099043" title="PANTERA O2 SRC poltopánka 43 -" price="46.379" currency="EUR" unit="PÁR"/>
-      <variant code="0201016099042" title="PANTERA O2 SRC poltopánka 42 -" price="46.379" currency="EUR" unit="PÁR"/>
-      <variant code="0201016099041" title="PANTERA O2 SRC poltopánka 41 -" price="46.379" currency="EUR" unit="PÁR"/>
-      <variant code="0201016099040" title="PANTERA O2 SRC poltopánka 40 -" price="46.379" currency="EUR" unit="PÁR"/>
-   </product>
    <product code="02010174" title="TOOLIK MF S1P HRO SRA poltopánka">
       <variant code="0201017499040" title="TOOLIK MF S1P HRO SRA poltopánka 40 -" price="88.19" currency="EUR" unit="PÁR"/>
       <variant code="0201017499039" title="TOOLIK MF S1P HRO SRA poltopánka 39 -" price="88.19" currency="EUR" unit="PÁR"/>
@@ -3944,16 +3936,16 @@
       <variant code="0201036460037" title="RAVEN XT S3 SR SC poltopánka 37 čierna" price="32.253" currency="EUR" unit="PÁR"/>
       <variant code="0201036460036" title="RAVEN XT S3 SR SC poltopánka 36 čierna" price="32.253" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="02010367" title="RAVEN ESD O1 SRC poltopánka">
-      <variant code="0201036760041" title="RAVEN ESD O1 SRC poltopánka 41 čierna" price="12.217" currency="EUR" unit="PÁR"/>
-      <variant code="0201036760040" title="RAVEN ESD O1 SRC poltopánka 40 čierna" price="12.217" currency="EUR" unit="PÁR"/>
-      <variant code="0201036760039" title="RAVEN ESD O1 SRC poltopánka 39 čierna" price="12.217" currency="EUR" unit="PÁR"/>
-      <variant code="0201036760038" title="RAVEN ESD O1 SRC poltopánka 38 čierna" price="12.217" currency="EUR" unit="PÁR"/>
-      <variant code="0201036760037" title="RAVEN ESD O1 SRC poltopánka 37 čierna" price="12.217" currency="EUR" unit="PÁR"/>
-   </product>
-   <product code="02010379" title="HUAYRA QLS S3 SRC poltopánka">
-      <variant code="0201037960040" title="HUAYRA QLS S3 SRC poltopánka 40 čierna" price="45.334" currency="EUR" unit="PÁR"/>
-      <variant code="0201037960039" title="HUAYRA QLS S3 SRC poltopánka 39 čierna" price="45.334" currency="EUR" unit="PÁR"/>
+   <product code="02010380" title="BRAKE MF S3 HRO SRC poltopánka">
+      <variant code="0201038060047" title="BRAKE MF S3 HRO SRC poltopánka 47 čierna" price="104.507" currency="EUR" unit="PÁR"/>
+      <variant code="0201038060046" title="BRAKE MF S3 HRO SRC poltopánka 46 čierna" price="104.507" currency="EUR" unit="PÁR"/>
+      <variant code="0201038060045" title="BRAKE MF S3 HRO SRC poltopánka 45 čierna" price="104.507" currency="EUR" unit="PÁR"/>
+      <variant code="0201038060044" title="BRAKE MF S3 HRO SRC poltopánka 44 čierna" price="104.507" currency="EUR" unit="PÁR"/>
+      <variant code="0201038060043" title="BRAKE MF S3 HRO SRC poltopánka 43 čierna" price="104.507" currency="EUR" unit="PÁR"/>
+      <variant code="0201038060042" title="BRAKE MF S3 HRO SRC poltopánka 42 čierna" price="104.507" currency="EUR" unit="PÁR"/>
+      <variant code="0201038060041" title="BRAKE MF S3 HRO SRC poltopánka 41 čierna" price="104.507" currency="EUR" unit="PÁR"/>
+      <variant code="0201038060040" title="BRAKE MF S3 HRO SRC poltopánka 40 čierna" price="104.507" currency="EUR" unit="PÁR"/>
+      <variant code="0201038060039" title="BRAKE MF S3 HRO SRC poltopánka 39 čierna" price="104.507" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010382" title="X-N2 S3 HRO SRC poltopánka">
       <variant code="0201038260046" title="X-N2 S3 HRO SRC poltopánka 46 čierna" price="106.412" currency="EUR" unit="PÁR"/>
@@ -4264,17 +4256,7 @@
       <variant code="0201058060035" title="BETA NEOS O1 SRC poltop. čierna 35" price="32.992" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010583" title="ULTRA STRADA MF S3 SRC poltopánka">
-      <variant code="0201058360048" title="ULTRA STRADA MF S3 SRC poltop. čierna 48" price="51.57" currency="EUR" unit="PÁR"/>
-      <variant code="0201058360047" title="ULTRA STRADA MF S3 SRC poltop. čierna 47" price="51.57" currency="EUR" unit="PÁR"/>
-      <variant code="0201058360046" title="ULTRA STRADA MF S3 SRC poltop. čierna 46" price="51.57" currency="EUR" unit="PÁR"/>
-      <variant code="0201058360045" title="ULTRA STRADA MF S3 SRC poltop. čierna 45" price="51.57" currency="EUR" unit="PÁR"/>
-      <variant code="0201058360044" title="ULTRA STRADA MF S3 SRC poltop. čierna 44" price="51.57" currency="EUR" unit="PÁR"/>
-      <variant code="0201058360043" title="ULTRA STRADA MF S3 SRC poltop. čierna 43" price="51.57" currency="EUR" unit="PÁR"/>
-      <variant code="0201058360042" title="ULTRA STRADA MF S3 SRC poltop. čierna 42" price="51.57" currency="EUR" unit="PÁR"/>
       <variant code="0201058360041" title="ULTRA STRADA MF S3 SRC poltop. čierna 41" price="51.57" currency="EUR" unit="PÁR"/>
-      <variant code="0201058360040" title="ULTRA STRADA MF S3 SRC poltop. čierna 40" price="51.57" currency="EUR" unit="PÁR"/>
-      <variant code="0201058360039" title="ULTRA STRADA MF S3 SRC poltop. čierna 39" price="51.57" currency="EUR" unit="PÁR"/>
-      <variant code="0201058360038" title="ULTRA STRADA MF S3 SRC poltop. čierna 38" price="51.57" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010584" title="NUOVO STRADA S1 SRC poltopánka">
       <variant code="0201058460048" title="NUOVO STRADA S1 SRC poltopánka čierna 48" price="39.295" currency="EUR" unit="PÁR"/>
@@ -4338,8 +4320,6 @@
       <variant code="0201058900036" title="NAPOLI MF S1 ESD SRC poltopánka sivá 36" price="48.121" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010590" title="ROMA MF S3 SRC poltopánka">
-      <variant code="0201059060048" title="ROMA MF S3 SRC poltopánka čierna 48" price="50.373" currency="EUR" unit="PÁR"/>
-      <variant code="0201059060047" title="ROMA MF S3 SRC poltopánka čierna 47" price="50.373" currency="EUR" unit="PÁR"/>
       <variant code="0201059060046" title="ROMA MF S3 SRC poltopánka čierna 46" price="50.373" currency="EUR" unit="PÁR"/>
       <variant code="0201059060043" title="ROMA MF S3 SRC poltopánka čierna 43" price="50.373" currency="EUR" unit="PÁR"/>
       <variant code="0201059060042" title="ROMA MF S3 SRC poltopánka čierna 42" price="50.373" currency="EUR" unit="PÁR"/>
@@ -4831,7 +4811,6 @@
       <variant code="0201061866036J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 36" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="0201061866035J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 35" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="0201061866034J" title="ULTRALIGHT O1 SR pol.2.ak.čierna/biel 34" price="25.0" currency="EUR" unit="PÁR"/>
-      <variant code="0201061860048J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 48" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="0201061860037J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 37" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="0201061860036J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 36" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="0201061860035J" title="ULTRALIGHT O1 SR pol.2.akosť čierna 35" price="25.0" currency="EUR" unit="PÁR"/>
@@ -5940,11 +5919,6 @@
    <product code="02020636" title="RAVEN XT S1P SRC členok">
       <variant code="0202063660048" title="RAVEN XT S1P SRC členok 48 čierna" price="42.178" currency="EUR" unit="PÁR"/>
       <variant code="0202063660047" title="RAVEN XT S1P SRC členok 47 čierna" price="42.178" currency="EUR" unit="PÁR"/>
-      <variant code="0202063660045" title="RAVEN XT S1P SRC členok 45 čierna" price="42.178" currency="EUR" unit="PÁR"/>
-      <variant code="0202063660044" title="RAVEN XT S1P SRC členok 44 čierna" price="42.178" currency="EUR" unit="PÁR"/>
-      <variant code="0202063660042" title="RAVEN XT S1P SRC členok 42 čierna" price="42.178" currency="EUR" unit="PÁR"/>
-      <variant code="0202063660041" title="RAVEN XT S1P SRC členok 41 čierna" price="42.178" currency="EUR" unit="PÁR"/>
-      <variant code="0202063660040" title="RAVEN XT S1P SRC členok 40 čierna" price="42.178" currency="EUR" unit="PÁR"/>
       <variant code="0202063660039" title="RAVEN XT S1P SRC členok 39 čierna" price="42.178" currency="EUR" unit="PÁR"/>
       <variant code="0202063660038" title="RAVEN XT S1P SRC členok 38 čierna" price="42.178" currency="EUR" unit="PÁR"/>
       <variant code="0202063660037" title="RAVEN XT S1P SRC členok 37 čierna" price="42.178" currency="EUR" unit="PÁR"/>
@@ -6108,6 +6082,17 @@
       <variant code="0202069960038" title="RAVEN XT S3 CI SR SC členok 38 čierna" price="37.509" currency="EUR" unit="PÁR"/>
       <variant code="0202069960037" title="RAVEN XT S3 CI SR SC členok 37 čierna" price="37.509" currency="EUR" unit="PÁR"/>
       <variant code="0202069960036" title="RAVEN XT S3 CI SR SC členok 36 čierna" price="37.509" currency="EUR" unit="PÁR"/>
+   </product>
+   <product code="02020710" title="WHEELS MF S3 HRO SRC členok">
+      <variant code="0202071060047" title="WHEELS MF S3 HRO SRC členok 47 čierna" price="107.827" currency="EUR" unit="PÁR"/>
+      <variant code="0202071060046" title="WHEELS MF S3 HRO SRC členok 46 čierna" price="107.827" currency="EUR" unit="PÁR"/>
+      <variant code="0202071060045" title="WHEELS MF S3 HRO SRC členok 45 čierna" price="107.827" currency="EUR" unit="PÁR"/>
+      <variant code="0202071060044" title="WHEELS MF S3 HRO SRC členok 44 čierna" price="107.827" currency="EUR" unit="PÁR"/>
+      <variant code="0202071060043" title="WHEELS MF S3 HRO SRC členok 43 čierna" price="107.827" currency="EUR" unit="PÁR"/>
+      <variant code="0202071060042" title="WHEELS MF S3 HRO SRC členok 42 čierna" price="107.827" currency="EUR" unit="PÁR"/>
+      <variant code="0202071060041" title="WHEELS MF S3 HRO SRC členok 41 čierna" price="107.827" currency="EUR" unit="PÁR"/>
+      <variant code="0202071060040" title="WHEELS MF S3 HRO SRC členok 40 čierna" price="107.827" currency="EUR" unit="PÁR"/>
+      <variant code="0202071060039" title="WHEELS MF S3 HRO SRC členok 39 čierna" price="107.827" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02020714" title="TIMBER protiporez.obuv 3XAK">
       <variant code="0202071460047" title="TIMBER protiporez.obuv 3XAK 47 čierna" price="238.08" currency="EUR" unit="PÁR"/>
@@ -6414,7 +6399,6 @@
    <product code="02020885" title="X-510 S3 ESD SRC členok">
       <variant code="0202088560048" title="X-510 S3 ESD SRC členok čierna 48" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560047" title="X-510 S3 ESD SRC členok čierna 47" price="91.667" currency="EUR" unit="PÁR"/>
-      <variant code="0202088560045" title="X-510 S3 ESD SRC členok čierna 45" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560040" title="X-510 S3 ESD SRC členok čierna 40" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560039" title="X-510 S3 ESD SRC členok čierna 39" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560038" title="X-510 S3 ESD SRC členok čierna 38" price="91.667" currency="EUR" unit="PÁR"/>
@@ -6890,7 +6874,6 @@
    </product>
    <product code="02030067" title="BONN S1P FO SR sandál">
       <variant code="0203006760047" title="BONN S1P FO SR sandál 47 čierna" price="21.8" currency="EUR" unit="PÁR"/>
-      <variant code="0203006760040" title="BONN S1P FO SR sandál 40 čierna" price="21.8" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02030070" title="BONN O1 SR sandále">
       <variant code="0203007060048" title="BONN O1 SR sandále 48 čierna" price="19.695" currency="EUR" unit="PÁR"/>
@@ -6952,18 +6935,7 @@
    <product code="02030097" title="RAVEN MF ESD S1 SRC sandále">
       <variant code="0203009780037" title="RAVEN MF ESD S1 SRC sandále 37 biela" price="14.439" currency="EUR" unit="PÁR"/>
       <variant code="0203009780036" title="RAVEN MF ESD S1 SRC sandále 36 biela" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760047" title="RAVEN MF ESD S1 SRC sandále 47 čierna" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760046" title="RAVEN MF ESD S1 SRC sandále 46 čierna" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760045" title="RAVEN MF ESD S1 SRC sandále 45 čierna" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760044" title="RAVEN MF ESD S1 SRC sandále 44 čierna" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760042" title="RAVEN MF ESD S1 SRC sandále 42 čierna" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760041" title="RAVEN MF ESD S1 SRC sandále 41 čierna" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760040" title="RAVEN MF ESD S1 SRC sandále 40 čierna" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760039" title="RAVEN MF ESD S1 SRC sandále 39 čierna" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760038" title="RAVEN MF ESD S1 SRC sandále 38 čierna" price="14.439" currency="EUR" unit="PÁR"/>
       <variant code="0203009760037" title="RAVEN MF ESD S1 SRC sandále 37 čierna" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760036" title="RAVEN MF ESD S1 SRC sandále 36 čierna" price="14.439" currency="EUR" unit="PÁR"/>
-      <variant code="0203009760035" title="RAVEN MF ESD S1 SRC sandále 35 čierna" price="14.439" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02030116" title="HALWILL MF ESD S1P SRC sandále">
       <variant code="0203011660049" title="HALWILL MF ESD S1P SRC sandále 49 čierna" price="45.55" currency="EUR" unit="PÁR"/>
@@ -7036,8 +7008,6 @@
       <variant code="0203013660047" title="No.TWO MF S1P SRC sandále 47 čierna" price="50.593" currency="EUR" unit="PÁR"/>
       <variant code="0203013660045" title="No.TWO MF S1P SRC sandále 45 čierna" price="50.593" currency="EUR" unit="PÁR"/>
       <variant code="0203013660044" title="No.TWO MF S1P SRC sandále 44 čierna" price="50.593" currency="EUR" unit="PÁR"/>
-      <variant code="0203013660043" title="No.TWO MF S1P SRC sandále 43 čierna" price="50.593" currency="EUR" unit="PÁR"/>
-      <variant code="0203013660042" title="No.TWO MF S1P SRC sandále 42 čierna" price="50.593" currency="EUR" unit="PÁR"/>
       <variant code="0203013660041" title="No.TWO MF S1P SRC sandále 41 čierna" price="50.593" currency="EUR" unit="PÁR"/>
       <variant code="0203013660040" title="No.TWO MF S1P SRC sandále 40 čierna" price="50.593" currency="EUR" unit="PÁR"/>
       <variant code="0203013660039" title="No.TWO MF S1P SRC sandále 39 čierna" price="50.593" currency="EUR" unit="PÁR"/>
@@ -7056,7 +7026,6 @@
       <variant code="0203014242038" title="MINI MF ESD S1P SRC sandále 38 tm.modrá" price="52.165" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02030145" title="MONTROSE ROYAL ESD S1P SRC sandále">
-      <variant code="0203014599037" title="MONTROSE ROYAL ESD S1P SRC sandále 37 -" price="22.841" currency="EUR" unit="PÁR"/>
       <variant code="0203014599036" title="MONTROSE ROYAL ESD S1P SRC sandále 36 -" price="22.841" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02030146" title="PRESTIGE SUEDE OB SRA sandále">
@@ -7077,7 +7046,6 @@
       <variant code="0203014740048" title="RINGO MF S1 SRC sandále modrá 48" price="40.95" currency="EUR" unit="PÁR"/>
       <variant code="0203014740047" title="RINGO MF S1 SRC sandále modrá 47" price="40.95" currency="EUR" unit="PÁR"/>
       <variant code="0203014740046" title="RINGO MF S1 SRC sandále modrá 46" price="40.95" currency="EUR" unit="PÁR"/>
-      <variant code="0203014740042" title="RINGO MF S1 SRC sandále modrá 42" price="40.95" currency="EUR" unit="PÁR"/>
       <variant code="0203014740041" title="RINGO MF S1 SRC sandále modrá 41" price="40.95" currency="EUR" unit="PÁR"/>
       <variant code="0203014740040" title="RINGO MF S1 SRC sandále modrá 40" price="40.95" currency="EUR" unit="PÁR"/>
       <variant code="0203014740038" title="RINGO MF S1 SRC sandále modrá 38" price="40.95" currency="EUR" unit="PÁR"/>
@@ -7837,8 +7805,6 @@
    <product code="02050002" title="BIRBA šľapky">
       <variant code="0205000214450" title="BIRBA šľapky olivové 45-46" price="7.508" currency="EUR" unit="PÁR"/>
       <variant code="0205000214430" title="BIRBA šľapky olivové 43-44" price="7.508" currency="EUR" unit="PÁR"/>
-      <variant code="0205000214410" title="BIRBA šľapky olivové 41-42" price="7.508" currency="EUR" unit="PÁR"/>
-      <variant code="0205000214370" title="BIRBA šľapky olivové 37-38" price="7.508" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02060003" title="PUDU šľapky">
       <variant code="0206000380046" title="PUDU šľapky biele - 46" price="15.687" currency="EUR" unit="PÁR"/>
@@ -11207,6 +11173,7 @@
       <variant code="0302002690056" title="DESMAN nohavice 2v1 sivá/oranžová 56" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690054" title="DESMAN nohavice 2v1 sivá/oranžová 54" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690052" title="DESMAN nohavice 2v1 sivá/oranžová 52" price="25.605" currency="EUR" unit="KS"/>
+      <variant code="0302002690050" title="DESMAN nohavice 2v1 sivá/oranžová 50" price="25.605" currency="EUR" unit="KS"/>
       <variant code="0302002690046" title="DESMAN nohavice 2v1 sivá/oranžová 46" price="25.605" currency="EUR" unit="KS"/>
    </product>
    <product code="03020027" title="APUS nohavice pánske">
@@ -11621,15 +11588,6 @@
       <variant code="0302020987034" title="YOWIE dámske nohavice hnedá/zelená 34" price="43.169" currency="EUR" unit="KS"/>
    </product>
    <product code="03020222" title="FF UDO BE-01-006 nohavice náprsenka">
-      <variant code="0302022241064" title="FF UDO BE-01-006 nohavice náprse navy 64" price="16.776" currency="EUR" unit="KS"/>
-      <variant code="0302022241062" title="FF UDO BE-01-006 nohavice náprse navy 62" price="16.776" currency="EUR" unit="KS"/>
-      <variant code="0302022241060" title="FF UDO BE-01-006 nohavice náprse navy 60" price="16.776" currency="EUR" unit="KS"/>
-      <variant code="0302022241058" title="FF UDO BE-01-006 nohavice náprse navy 58" price="16.776" currency="EUR" unit="KS"/>
-      <variant code="0302022241056" title="FF UDO BE-01-006 nohavice náprse navy 56" price="16.776" currency="EUR" unit="KS"/>
-      <variant code="0302022241054" title="FF UDO BE-01-006 nohavice náprse navy 54" price="16.776" currency="EUR" unit="KS"/>
-      <variant code="0302022241052" title="FF UDO BE-01-006 nohavice náprse navy 52" price="16.776" currency="EUR" unit="KS"/>
-      <variant code="0302022241050" title="FF UDO BE-01-006 nohavice náprse navy 50" price="16.776" currency="EUR" unit="KS"/>
-      <variant code="0302022241048" title="FF UDO BE-01-006 nohavice náprse navy 48" price="16.776" currency="EUR" unit="KS"/>
       <variant code="0302022241046" title="FF UDO BE-01-006 nohavice náprse navy 46" price="16.776" currency="EUR" unit="KS"/>
       <variant code="0302022241044" title="FF UDO BE-01-006 nohavice náprse navy 44" price="16.776" currency="EUR" unit="KS"/>
       <variant code="0302022240062" title="FF UDO BE-01-006 nohavice náp modrá 62" price="16.75" currency="EUR" unit="KS"/>
@@ -12810,7 +12768,6 @@
       <variant code="03020407A2058" title="EMERTON PLUS nohavice antracit 58" price="44.43" currency="EUR" unit="KS"/>
       <variant code="03020407A2056" title="EMERTON PLUS nohavice antracit 56" price="44.43" currency="EUR" unit="KS"/>
       <variant code="03020407A2054" title="EMERTON PLUS nohavice antracit 54" price="44.43" currency="EUR" unit="KS"/>
-      <variant code="03020407A2052" title="EMERTON PLUS nohavice antracit 52" price="44.43" currency="EUR" unit="KS"/>
       <variant code="03020407A2050" title="EMERTON PLUS nohavice antracit 50" price="44.43" currency="EUR" unit="KS"/>
    </product>
    <product code="03020407PB" title="EMERTON PLUS PB nohavice">
@@ -13410,7 +13367,6 @@
       <variant code="0303013996006" title="LYNX PROFI vesta HV oranžová 3XL" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013996005" title="LYNX PROFI vesta HV oranžová XXL" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013996004" title="LYNX PROFI vesta HV oranžová XL" price="8.23" currency="EUR" unit="KS"/>
-      <variant code="0303013996003" title="LYNX PROFI vesta HV oranžová L" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013996002" title="LYNX PROFI vesta HV oranžová M" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013996001" title="LYNX PROFI vesta HV oranžová S" price="8.23" currency="EUR" unit="KS"/>
       <variant code="0303013979006" title="LYNX PROFI vesta HV žltá 3XL" price="8.23" currency="EUR" unit="KS"/>

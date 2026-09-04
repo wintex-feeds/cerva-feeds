@@ -18576,46 +18576,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02010160</code>
-         <title>PANTERA O2 SRC poltopánka</title>
-         <description>• pracovná obuv bez bezpečnostnej špice • s antistatickou a protišmykovou PU/PU podošvou rezistentnou voči kyselinám a olejom • absorpciou energie v päte • vodeodolným zvrškom z priedušnej usne a reflexnými komponentmi pre zvýšenie viditeľnosti</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | O2 FO SRC"/>
-            <standard code="EN ISO 20347" title="EN ISO 20347"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjgzOHxpbWFnZS93ZWJwfDkyNDk1MzEwMDI5MTAvMDIwMTAxNjBfOTIyOTBfTzJfRk9fU1JDIC0gUEFOVEVSQV9PMl9GT19jYXRhbG9nX2NteWsudGlmLnBuZ3wxNzQ3ZDQ2NGI2MTcxNzI1MDY5M2YyNjJiMmI5NTU3ZTRkMjBlZjE0ZDkyMmE2MGM4YTRkMzIxYzk5NWQwNjRl</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MjE4fGltYWdlL3dlYnB8OTI1MDAzOTQzMTE5OHxkMjYyMzQzYTQ1MWNlYjBlM2RjOWY2ZDJhNmRiNDUxMjhiNzhmN2E3OWJkNGNiYjk3ODdjMTQ0YzY0ZjgyZTI3</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201016099-PANTERA-O2-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w5MzQ1OXxpbWFnZS9qcGVnfDg5ODI2MjAzNDAyNTQvMDIwMTAxNjA5OV9QQU5URVJBX08yX1NSQy0wMS5qcGd8NmYxYTQyYmIzYWJlZjUwM2QyOTVmZTA2MTdiNmYzMjRiOTdlYTkwMDRmOGM5NDQ0OGFmZmM4YWVjNTA5YzA1Yw</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>02010174</code>
          <title>TOOLIK MF S1P HRO SRA poltopánka</title>
          <description>• bezpečnostné poltopánky športového dizajnu s kompozitnou bezpečnostnou špicou a Kevlarovou stielkou odolnou voči prepichnutiu • protišmyková PU/guma podošva odolná voči olejom • zvršok z priedušného textilu a semišu • absorpcia energie v päte – Air Bag • obuv bez kovových súčastí – metal free</description>
@@ -19248,16 +19208,12 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>02010367</code>
-         <title>RAVEN ESD O1 SRC poltopánka</title>
-         <description>• pracovné ESD poltopánky • podošva z jednohustotného PU • zvršok z inovatívneho mikrovlákna, ktoré zaisťuje užívateľovi perfektnú priedušnosť</description>
+         <code>02010380</code>
+         <title>BRAKE MF S3 HRO SRC poltopánka</title>
+         <description>• bezpečnostné poltopánky s nekovovou tužinkou a aramidovou stielkou odolnou proti prepichnutiu • podošva vyrobená z PU/GUMA • zvršok z kvalitnej kože – nubuk</description>
          <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
          <packaging></packaging>
          <sizes>
-            <size code="035" title="35"/>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
             <size code="039" title="39"/>
             <size code="040" title="40"/>
             <size code="041" title="41"/>
@@ -19270,79 +19226,20 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          </sizes>
          <colors>
             <color code="60" title="čierna"/>
-            <color code="80" title="biela"/>
          </colors>
          <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | O1 FO SRC"/>
-            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
+            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 HRO SRC"/>
          </standards>
-         <brand>CERV</brand>
+         <brand>TWF</brand>
          <images>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTUxMHxpbWFnZS93ZWJwfDkyNTAyOTU3MDk3MjZ8YWZlZDM3YWFkNmU5ODIyNmY2MTkyYzA3MjdjYzRkMDE1NWU0ZDk1NWM2Y2ZjNmZkZGNkZWE1NDk3YjVhN2E1NA</path>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzA1NnxpbWFnZS93ZWJwfDkyNDYxMDI0ODcwNzAvMDIwMTAzODBfQlJBS0VfUzNIUk9TUkNfTE9XX0NFUlZBIDIwMThfMjk5NTgudGlmLnBuZ3w5NGI2Yzg4NDk1N2I0M2NmNTg4YjMxNTE5NTM1MWNmZjg4Y2JiYmE4YzgyNmYxYWViOWM3ODJlMDZlMTg2YzAw</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5ODAwfGltYWdlL3dlYnB8OTI0NjE2MTczMTYxNC8wMjAxMDM2N19SQVZFTl9FU0RfTE9XX08xU1JDX2JsYWNrX3NvbGVfQ0VSVkEgMjAxOF8xOTc5OC50aWYucG5nfDg5MTBhNzQ1YjM1NDA5MWRjOWFhN2E2MmQzNzQ4ODQwM2EzYzIyMDMzNzA1YWQwMDU5MjhjNGQ4ZThiMzllMTI</path>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDE3MHxpbWFnZS93ZWJwfDkyNDk4NjM4NjAyNTQvMDIwMTAzODBfQlJBS0VfUzNIUk9TUkNfTE9XX3NvbGVfQ0VSVkEgMjAxOF8yOTk2OS50aWYucG5nfDYwMDg4ZjgxMDY2M2M2MTM3Nzg0Y2EzZmExZWUzM2FkNGU5NDc1MzE5NTdhZDkyOGEyZDlmOTU3OTI3MjAxM2Y</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NTYyfGltYWdlL3dlYnB8OTI1MDA5OTIwMDAzMC8wMjAxMDM2N19SQVZFTl9FU0RfTE9XX08xU1JDX3doaXRlX0NFUlZBIDIwMThfMTk3OTgudGlmLnBuZ3xlMDE2MjI1N2MzNjA4OGExNTEyMjI4M2Y4Y2MzNmRiMzUzODNjNGYwNTA2MzQ3NmI5YWVhMzQ2Zjg5YTNiY2Mz</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MDIwfGltYWdlL3dlYnB8OTI1MDYxNjM3NzM3NC8wMjAxMDM2N19SQVZFTl9FU0RfTE9XX08xU1JDX3doaXRlX3NvbGVfQ0VSVkEgMjAxOF8xOTc5OC50aWYucG5nfGQ2MmY5MGQyYTczNDRmNjVmMWExYzk1NmJkZGI4NmJmNGZiYzkzMzFjNDIwNDg1NjZkMDM0Y2ZjYTNmYWY5ZjQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201036760-Raven-ESD-O1-SRC-lowl-black-01.jpg?context=bWFzdGVyfGltYWdlc3w3ODg5MXxpbWFnZS9qcGVnfDg5ODI2ODUxODgxMjYvMDIwMTAzNjc2MF9SYXZlbl9FU0RfTzFfU1JDX2xvd2xfYmxhY2stMDEuanBnfGZkNWM0NGQ4NzRkZWE0NjI4ZTA5YzI4MjE5ZjA3NGNkOGUwN2E4MzNlYzg3MDRkZTYwMmYyNTkyYjA1MTE4MzQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201036780-RAVEN-ESD-O1-SRC-low-white-01.jpg?context=bWFzdGVyfGltYWdlc3w3MTI1N3xpbWFnZS9qcGVnfDg5ODI2ODg0MzIxNTgvMDIwMTAzNjc4MF9SQVZFTl9FU0RfTzFfU1JDX2xvd193aGl0ZS0wMS5qcGd8NjFlYTE3ZDliMjhkMThiYmVkM2I2MWU5YzZmMWViZjJhODc4YzJlZWRiZjZlZGJlMTI3NmEwOWQ2MDQxMDEyNg</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02010379</code>
-         <title>HUAYRA QLS S3 SRC poltopánka</title>
-         <description>• bezpečnostná poltopánka s kovovou tužinkou a stielkou odolnou proti prepichnutiu • podošva vyrobená z PU/PU • zvršok z kvalitnej lícovej kože • unikátne rýchlozapínanie pomocou kolieska</description>
-         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
-         </standards>
-         <brand>PAND</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDY4NHxpbWFnZS93ZWJwfDkyNDU5Mzk1NjQ1NzQvMDIwMTAzNzlfOTIyODJfUzNfU1JDIC0gSFVBWVJBX2NhdGFsb2dfY215ay5wbmd8YThiMzljYWU5ZjZjZTgzNGU4NjUzYmMxYTNmODA2ODhmMzY3MmU1Y2Y3ZGQ5NGMwMzY4ZjllNDA5YWYzNTRjYw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MjE4fGltYWdlL3dlYnB8OTI0OTgxNTE5OTc3NHw1Y2U2YjJhZmY1OGVlOTMxMjhlMTRlMThmOGVkYmVlZTI3OGI4YWY3YjRmZTAyNzUwNWYwMjkyOWY3NjVkMDRj</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0201037960-HUAYRA-QLS-S3-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDA0Mjl8aW1hZ2UvanBlZ3w4OTgyNzE1OTI0NTEwLzAyMDEwMzc5NjBfSFVBWVJBX1FMU19TM19TUkMtMDEuanBnfDk0YzZmNDIyMGI5NDIwZmJkZWFiMWM0OTBhOWNhY2I5ZDdjZmVlNTI1NDU3MTBiYWYzOTA1ZGM5NjQwYmFlNzc</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w1MTQwfGltYWdlL3dlYnB8OTI0NjM4NTUzNzA1NC8wMjAxMDM3OV9IVUFZUkFfQ0dXX0RTQ182NDcxLnRpZi5wbmd8MjBiOGI0MzYyOTNmY2YzMjIxNjQ5Y2ZhMTY0MjEwNTU3OWE1YmMyMDcxNWI1ZDNkOTA0ZDRjOGEwODIyZGVhYw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w1ODkyfGltYWdlL3dlYnB8OTI0NTk2OTkwNzc0Mi8wMjAxMDM3OV9IVUFZUkFfUUxTX0RTQ182MDc5LnRpZi5wbmd8ZDBlMGYzZDZhNDgzNGRmNjBhNjJlOTAyYjQxMWVlYjliMzYyNDBmYjg2ZmFkMzgzODRjZTVlMGY1NDEyOWRlNw</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTE3NHxpbWFnZS93ZWJwfDkyNDU5NjQ2NjQ4NjIvMDIwMTAzNzhfMDIwMTAzNzlfMDIwMjA3MDdfMDIwMjA3MDhfUUxTX1BhbmRhX3N5c3RlbV9DR1cudGlmLnBuZ3wyNjkzYmNkZjNhZTViYTA3NGViOGZjZjUxZGI0Nzg3Mzg5ZmRmYWZiMWE1YzU5Y2FmZGRkOWMwNDcxOTkxZjE1</path>
+               <path>https://media.cerva.com/medias/0201038060-BRAKE-MF-S3-HRO-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDA5OTN8aW1hZ2UvanBlZ3w4OTgyNzE5MzY1MTUwLzAyMDEwMzgwNjBfQlJBS0VfTUZfUzNfSFJPLTAxLmpwZ3xlOWY2MjQxYjlhNDEwMzhiNDg0M2Q3OGY3MjlhN2E5M2ZiOWFjNTcxOGY5ZTI1NjAxY2QxZDYxOTRlZGUyZjBk</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -25082,6 +24979,43 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
             </image>
             <image>
                <path>https://media.cerva.com/medias/0202069960-Raven-XT-S3-CI-SRC-Ankle-01.jpg?context=bWFzdGVyfGltYWdlc3w5NDM4OXxpbWFnZS9qcGVnfDg5ODI5NjQxMDkzNDIvMDIwMjA2OTk2MF9SYXZlbl9YVF9TM19DSV9TUkNfQW5rbGUtMDEuanBnfDlhMzg5YThkZGVjZGM4Y2VmMmM3NzM3ODNlMWFkZWE1MDY0YmY0ZDg0ZDY0NTdmNmRmY2E0YjBjMDZlOGZiZjk</path>
+            </image>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
+         <code>02020710</code>
+         <title>WHEELS MF S3 HRO SRC členok</title>
+         <description>• bezpečnostná kotníková obuv s kompozitnou tužinkou a aramidovou stielkou odolnou proti propichnutiu • podošva z dvojhustotného PU s masivnou ochranou voči okopaniu • zvršok z vodeodolnej nubuk kože</description>
+         <categoryPath>Produkty/Obuv/Členková obuv</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="039" title="39"/>
+            <size code="040" title="40"/>
+            <size code="041" title="41"/>
+            <size code="042" title="42"/>
+            <size code="043" title="43"/>
+            <size code="044" title="44"/>
+            <size code="045" title="45"/>
+            <size code="046" title="46"/>
+            <size code="047" title="47"/>
+         </sizes>
+         <colors>
+            <color code="60" title="čierna"/>
+         </colors>
+         <standards>
+            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 HRO SRC"/>
+         </standards>
+         <brand>TWF</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDUwMHxpbWFnZS93ZWJwfDkyNTExMTk3NTkzOTAvMDIwMjA3MTBfV0hFRUxTX1MzSFJPU1JDX2Fua2xlX0NFUlZBIDIwMThfMjk5ODgudGlmLnBuZ3xkMTkzNjA3YTRiNzM3ZWI1NWQ1Y2RhZTJmZTI0ZmJkM2Q5YThiYzE3YmMzOTdmZjZmMTdkZGRmOWI3OTI2YWNl</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDE3MHxpbWFnZS93ZWJwfDkyNDk1MTQyOTEyMzAvMDIwMjA3MTBfV0hFRUxTX1MzSFJPU1JDX2Fua2xlX3NvbGVfQ0VSVkEgMjAxOF8yOTk2OS50aWYucG5nfDgwYWQ5ZDkzNjc3NmM0NTkxNTMxZDhiMDc5ZjQxNDZhMDg3ZmZmNmMxNzA2ZWI4MDdlMzI3MGI5YzIyNTY4ZWY</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/0202071060-WHEELS-MF-S3-HRO-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w4NDU3M3xpbWFnZS9qcGVnfDg5ODI5NzgzOTYxOTAvMDIwMjA3MTA2MF9XSEVFTFNfTUZfUzNfSFJPX1NSQy0wMS5qcGd8OTk4N2ViZjJkMDFmOWVmOGQ3Y2I2NjE3Yjc4YjlkYmNiZjRmNjViNzJjMWE0N2IzY2VjYzUxMmFjM2M2ZTQ1NA</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -64259,7 +64193,6 @@ Poznámka 2: Trieda 3 podľa normy EN ISO 20471:2013+A1:2016 je v komplete s KNO
          </colors>
          <standards>
             <standard code="EN ISO 13688" title="EN ISO 13688"/>
-            <standard code="EN ISO 13688" title="EN ISO 13688"/>
          </standards>
          <brand>CERV</brand>
          <images>
@@ -69033,7 +68966,7 @@ Details
          <code>0403010199999</code>
          <title>3M PELTOR USB-C Charging J197/1</title>
          <description>3M™ PELTOR™ charging cable for connecting a battery pack to charge the 3M™ PELTOR™ hearing protection headset; battery charging cable for use with specific 3M™ PELTOR™ Headsets</description>
-         <categoryPath>Produkty/Ochrana sluchu</categoryPath>
+         <categoryPath>Produkty/Ochrana sluchu/Príslušenstvo</categoryPath>
          <packaging></packaging>
          <sizes>
          </sizes>
@@ -85501,8 +85434,7 @@ Filtr proti plynům, výparům a částicím 6092 chrání proti organickým vý
       <product>
          <code>0704022099999</code>
          <title>3M Filter CF32 DT-4045E ABEK2P3 R</title>
-         <description>3M™ Combination Filter CF32 DT-4045E ABEK2P3 protects against gases and vapours from organic compounds with a boiling point above 65°C; inorganic gases and vapours; acid gases and vapours; ammonia and organic ammonia derivatives; solid and liquid 
-particles, toxic and radioactive particles, micro-organisms (e.g. bacteria and viruses) and enzymes ; DIN40 mm threaded connection fits compatible respirator 3M™ Full Facepiece FF-300 Series and 3M™ Full Facepiece FF-600 Series; also compatible with certain 3M™ Powered Air Respirators</description>
+         <description>3M™ Combination Filter CF32 DT-4045E ABEK2P3 protects against gases and vapours from organic compounds with a boiling point above 65°C; inorganic gases and vapours; acid gases and vapours; ammonia and organic ammonia derivatives; solid and liquid particles, toxic and radioactive particles, micro-organisms (e.g. bacteria and viruses) and enzymes ; DIN40 mm threaded connection fits compatible respirator 3M™ Full Facepiece FF-300 Series and 3M™ Full Facepiece FF-600 Series; also compatible with certain 3M™ Powered Air Respirators</description>
          <categoryPath>Produkty/Ochrana dýchacích ciest/Polotvárové masky a celotvárové masky/Filtre</categoryPath>
          <packaging></packaging>
          <sizes>
