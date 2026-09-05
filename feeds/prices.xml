@@ -11100,6 +11100,7 @@
       <variant code="0302000469054" title="STANMORE nohav.do pása tm. hnedá 54" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469052" title="STANMORE nohav.do pása tm. hnedá 52" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469050" title="STANMORE nohav.do pása tm. hnedá 50" price="37.859" currency="EUR" unit="KS"/>
+      <variant code="0302000469048" title="STANMORE nohav.do pása tm. hnedá 48" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000450064" title="STANMORE nohav.do do pása tm. modrá 64" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000450062" title="STANMORE nohav.do do pása tm. modrá 62" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000450060" title="STANMORE nohav.do do pása tm. modrá 60" price="37.859" currency="EUR" unit="KS"/>
@@ -11588,12 +11589,18 @@
       <variant code="0302020987034" title="YOWIE dámske nohavice hnedá/zelená 34" price="43.169" currency="EUR" unit="KS"/>
    </product>
    <product code="03020222" title="FF UDO BE-01-006 nohavice náprsenka">
+      <variant code="0302022241062" title="FF UDO BE-01-006 nohavice náprse navy 62" price="16.776" currency="EUR" unit="KS"/>
+      <variant code="0302022241060" title="FF UDO BE-01-006 nohavice náprse navy 60" price="16.776" currency="EUR" unit="KS"/>
+      <variant code="0302022241058" title="FF UDO BE-01-006 nohavice náprse navy 58" price="16.776" currency="EUR" unit="KS"/>
+      <variant code="0302022241054" title="FF UDO BE-01-006 nohavice náprse navy 54" price="16.776" currency="EUR" unit="KS"/>
+      <variant code="0302022241050" title="FF UDO BE-01-006 nohavice náprse navy 50" price="16.776" currency="EUR" unit="KS"/>
+      <variant code="0302022241048" title="FF UDO BE-01-006 nohavice náprse navy 48" price="16.776" currency="EUR" unit="KS"/>
       <variant code="0302022241046" title="FF UDO BE-01-006 nohavice náprse navy 46" price="16.776" currency="EUR" unit="KS"/>
       <variant code="0302022241044" title="FF UDO BE-01-006 nohavice náprse navy 44" price="16.776" currency="EUR" unit="KS"/>
+      <variant code="0302022241042" title="FF UDO BE-01-006 nohavice náprse navy 42" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0302022240062" title="FF UDO BE-01-006 nohavice náp modrá 62" price="16.75" currency="EUR" unit="KS"/>
       <variant code="0302022240060" title="FF UDO BE-01-006 nohavice náp modrá 60" price="16.75" currency="EUR" unit="KS"/>
       <variant code="0302022240058" title="FF UDO BE-01-006 nohavice náp modrá 58" price="16.75" currency="EUR" unit="KS"/>
-      <variant code="0302022240054" title="FF UDO BE-01-006 nohavice náp modrá 54" price="16.75" currency="EUR" unit="KS"/>
       <variant code="0302022240050" title="FF UDO BE-01-006 nohavice náp modrá 50" price="16.75" currency="EUR" unit="KS"/>
       <variant code="0302022240048" title="FF UDO BE-01-006 nohavice náp modrá 48" price="16.75" currency="EUR" unit="KS"/>
       <variant code="0302022240046" title="FF UDO BE-01-006 nohavice náp modrá 46" price="16.75" currency="EUR" unit="KS"/>
@@ -19141,7 +19148,6 @@
    <product code="03510039" title="MAX VIVO RFLX bunda">
       <variant code="0351003964068" title="MAX VIVO RFLX bunda černá/žltá 68" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964066" title="MAX VIVO RFLX bunda černá/žltá 66" price="44.67" currency="EUR" unit="KS"/>
-      <variant code="0351003964062" title="MAX VIVO RFLX bunda černá/žltá 62" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964060" title="MAX VIVO RFLX bunda černá/žltá 60" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964056" title="MAX VIVO RFLX bunda černá/žltá 56" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964054" title="MAX VIVO RFLX bunda černá/žltá 54" price="44.67" currency="EUR" unit="KS"/>
@@ -21603,7 +21609,6 @@
       <variant code="03530033D3062" title="FF HANS náprs.nohavi r.modrá/antracit 62" price="41.032" currency="EUR" unit="KS"/>
       <variant code="03530033D3060" title="FF HANS náprs.nohavi r.modrá/antracit 60" price="41.032" currency="EUR" unit="KS"/>
       <variant code="03530033D3058" title="FF HANS náprs.nohavi r.modrá/antracit 58" price="41.032" currency="EUR" unit="KS"/>
-      <variant code="03530033D3054" title="FF HANS náprs.nohavi r.modrá/antracit 54" price="41.032" currency="EUR" unit="KS"/>
       <variant code="03530033D3048" title="FF HANS náprs.nohavi r.modrá/antracit 48" price="41.032" currency="EUR" unit="KS"/>
       <variant code="03530033D3046" title="FF HANS náprs.nohavi r.modrá/antracit 46" price="41.032" currency="EUR" unit="KS"/>
       <variant code="03530033C7064" title="FF HANS náprs.nohavice sivá/antracit 64" price="41.032" currency="EUR" unit="KS"/>
@@ -25484,9 +25489,6 @@
    </product>
    <product code="0701009999999" title="SPIROTEK VS2300V resp. FFP3 vent. 10/BAL">
       <variant code="0701009999999" title="SPIROTEK VS2300V resp. FFP3 vent. 10/BAL" price="40.99" currency="EUR" unit="BOX"/>
-   </product>
-   <product code="0701010099999" title="JSP FILTERSPEC resp.FFP2 vent+u.okuliare">
-      <variant code="0701010099999" title="JSP FILTERSPEC resp.FFP2 vent+u.okuliare" price="78.574" currency="EUR" unit="KS"/>
    </product>
    <product code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL">
       <variant code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL" price="10.58" currency="EUR" unit="KS"/>
