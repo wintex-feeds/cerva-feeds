@@ -173,7 +173,7 @@
       <variant code="0101010399100" title="GRYLLE STRONG rukavice cuff 10 cm 10" price="3.9" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01010104" title="GRYLLE DOUBLE rukavice cuff 7 cm">
-      <variant code="0101010499100" title="GRYLLE DOUBLE rukavice cuff 7 cm 10" price="3.898" currency="EUR" unit="PÁR"/>
+      <variant code="0101010499100" title="GRYLLE DOUBLE rukavice cuff 7 cm - 10" price="3.898" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01010105" title="ACUTA GREY rukavice 10 cm manžeta">
       <variant code="0101010599100" title="ACUTA GREY rukavice 10 cm manžeta - 10" price="5.042" currency="EUR" unit="PÁR"/>
@@ -6399,6 +6399,8 @@
    <product code="02020885" title="X-510 S3 ESD SRC členok">
       <variant code="0202088560048" title="X-510 S3 ESD SRC členok čierna 48" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560047" title="X-510 S3 ESD SRC členok čierna 47" price="91.667" currency="EUR" unit="PÁR"/>
+      <variant code="0202088560046" title="X-510 S3 ESD SRC členok čierna 46" price="91.667" currency="EUR" unit="PÁR"/>
+      <variant code="0202088560045" title="X-510 S3 ESD SRC členok čierna 45" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560040" title="X-510 S3 ESD SRC členok čierna 40" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560039" title="X-510 S3 ESD SRC členok čierna 39" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560038" title="X-510 S3 ESD SRC členok čierna 38" price="91.667" currency="EUR" unit="PÁR"/>
@@ -10595,11 +10597,6 @@
       <variant code="0301059855003" title="NEURUM SOFTSHELL bunda petrolejová L" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059855002" title="NEURUM SOFTSHELL bunda petrolejová M" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059855001" title="NEURUM SOFTSHELL bunda petrolejová S" price="77.069" currency="EUR" unit="KS"/>
-      <variant code="0301059841007" title="NEURUM SOFTSHELL bunda navy 4XL" price="77.069" currency="EUR" unit="KS"/>
-      <variant code="0301059841006" title="NEURUM SOFTSHELL bunda navy 3XL" price="77.069" currency="EUR" unit="KS"/>
-      <variant code="0301059841005" title="NEURUM SOFTSHELL bunda navy XXL" price="77.069" currency="EUR" unit="KS"/>
-      <variant code="0301059841004" title="NEURUM SOFTSHELL bunda navy XL" price="77.069" currency="EUR" unit="KS"/>
-      <variant code="0301059841003" title="NEURUM SOFTSHELL bunda navy L" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841002" title="NEURUM SOFTSHELL bunda navy M" price="77.069" currency="EUR" unit="KS"/>
       <variant code="0301059841001" title="NEURUM SOFTSHELL bunda navy S" price="77.069" currency="EUR" unit="KS"/>
    </product>
@@ -11100,7 +11097,6 @@
       <variant code="0302000469054" title="STANMORE nohav.do pása tm. hnedá 54" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469052" title="STANMORE nohav.do pása tm. hnedá 52" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000469050" title="STANMORE nohav.do pása tm. hnedá 50" price="37.859" currency="EUR" unit="KS"/>
-      <variant code="0302000469048" title="STANMORE nohav.do pása tm. hnedá 48" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000450064" title="STANMORE nohav.do do pása tm. modrá 64" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000450062" title="STANMORE nohav.do do pása tm. modrá 62" price="37.859" currency="EUR" unit="KS"/>
       <variant code="0302000450060" title="STANMORE nohav.do do pása tm. modrá 60" price="37.859" currency="EUR" unit="KS"/>
@@ -19152,6 +19148,7 @@
       <variant code="0351003964054" title="MAX VIVO RFLX bunda černá/žltá 54" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964052" title="MAX VIVO RFLX bunda černá/žltá 52" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964050" title="MAX VIVO RFLX bunda černá/žltá 50" price="44.67" currency="EUR" unit="KS"/>
+      <variant code="0351003964048" title="MAX VIVO RFLX bunda černá/žltá 48" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964046" title="MAX VIVO RFLX bunda černá/žltá 46" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964044" title="MAX VIVO RFLX bunda černá/žltá 44" price="44.67" currency="EUR" unit="KS"/>
    </product>
@@ -22869,7 +22866,6 @@
       <variant code="0357001090046" title="FERROL HV šortky oranžová 46" price="24.125" currency="EUR" unit="KS"/>
       <variant code="0357001070064" title="FERROL HV šortky žltá 64" price="24.125" currency="EUR" unit="KS"/>
       <variant code="0357001070062" title="FERROL HV šortky žltá 62" price="24.125" currency="EUR" unit="KS"/>
-      <variant code="0357001070058" title="FERROL HV šortky žltá 58" price="24.125" currency="EUR" unit="KS"/>
       <variant code="0357001070056" title="FERROL HV šortky žltá 56" price="24.125" currency="EUR" unit="KS"/>
       <variant code="0357001070054" title="FERROL HV šortky žltá 54" price="24.125" currency="EUR" unit="KS"/>
       <variant code="0357001070052" title="FERROL HV šortky žltá 52" price="24.125" currency="EUR" unit="KS"/>
