@@ -7299,46 +7299,6 @@
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>01080029PI</code>
-         <title>PALAWAN rukavice nylon. latex.PI</title>
-         <description>• bezšvové pletené rukavice zo syntetických priadzí • na dlani a prstoch povrstvené latexom</description>
-         <categoryPath>Produkty/Rukavice/Máčané a povrstvené/Bezšvové rukavice</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="070" title="7"/>
-            <size code="080" title="8"/>
-            <size code="090" title="9"/>
-            <size code="100" title="10"/>
-            <size code="110" title="11"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 21420" title="EN ISO 21420"/>
-            <standard code="EN 388" title="EN 388 | 2131X"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxOTI2NHxpbWFnZS93ZWJwfDkyNDY1MzE5NDQ0NzgvMDEwODAwMjlfUEFMQVdBTl95ZWxsb3dfQ0VSVkFfMjAxNl8xNDQ0N19hbGxfMjAxOS50aWYucG5nfGE2NGYwODQxODcyNTI4NGYzMWNmODI5NDVjNTBhZjg2Mzg3MGU1MzhlYmVhMWI5ODkyMjA3YTFhMzk3MTVlNDQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0108002999-PALAWAN-nylon-gloves-01.jpg?context=bWFzdGVyfGltYWdlc3wxMDMxODV8aW1hZ2UvanBlZ3w4OTk3MjM4NDA3MTk4LzAxMDgwMDI5OTlfUEFMQVdBTl9ueWxvbl9nbG92ZXMtMDEuanBnfDliNmYyMDM1YWY0N2E1YzQ1ZWU4NmM2YzY4OGM1MzhlN2NmMmFmMDAyZGNkNWMzMjVhNDc1NmYyYzU2OTA0YmU</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w1NTEyfGltYWdlL3dlYnB8OTI0OTczNjQ1ODI3MHw2Y2VjMjI5MWQ1MTQwMGQyNDM5Y2NjMTRmMTlhODBiNWRjNGFiYTlhYTVmNWRhZDExMjRmMmZlY2NiYzNmYWFm</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2OTc0fGltYWdlL3dlYnB8OTI0NjEzMjUwMjU1OHwxNjk4ZWRmMDU1YjNkZGFlNmYzMWM2OWIxYWJhNTBlYjhjZjY3ZTU2YTFkMGUwMzFiMjJhNTVjMWY0MzIyNTE4</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/01080029-PALAWAN-yellow-blister-DSC-1658.tif.png?context=bWFzdGVyfGltYWdlc3wyMjUzODR8aW1hZ2UvcG5nfDg5NTAwMDU2NjE3MjYvMDEwODAwMjlfUEFMQVdBTl95ZWxsb3dfYmxpc3Rlcl9EU0NfMTY1OC50aWYucG5nfDQ0NGY3MDc3MWU1MDhkMGY4MTg4MWJiNDc0N2I3NzQ2NDRkNDc1OGZmZTQ5YjgxM2MxODQzYzNmMTZiMzQ4YzI</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>01080037</code>
          <title>TEREL ruk.antist.nylon úplet, prsty PU</title>
          <description>• pletené, antistatické, bezšvové, nylonové rukavice s integrovaným uhlíkovým vláknom • vrstva polyuretánu na špičkách prstov • pružná manžeta</description>
@@ -8750,7 +8710,7 @@
       </product>
       <product>
          <code>01080117</code>
-         <title>GROOVY GREEN rukavice nylon. latex. dlaň</title>
+         <title>GROOVY GREEN rukavice nylon.latex.dlaň</title>
          <description>• pohodlné nylonové rukavice s latexovým povrchom pre lepší úchop • zachovaná citlivosť v prstoch • bezšvové • ľahké a pružné • ideálne pre stredne náročné použitie</description>
          <categoryPath>Produkty/Rukavice/Máčané a povrstvené/Bezšvové rukavice</categoryPath>
          <packaging></packaging>

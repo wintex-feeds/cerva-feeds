@@ -1303,9 +1303,6 @@
       <variant code="0108002999080BN" title="PALAWAN s blistrom žltá - 8" price="1.999" currency="EUR" unit="PÁR"/>
       <variant code="0108002999070BN" title="PALAWAN s blistrom žltá - 7" price="1.999" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="01080029PI" title="PALAWAN rukavice nylon. latex.PI">
-      <variant code="0108002999100PI" title="PALAWAN rukavice nylon. latex.PI - 10" price="Bude upresnené" currency="" unit="PÁR"/>
-   </product>
    <product code="01080037" title="TEREL ruk.antist.nylon úplet, prsty PU">
       <variant code="0108003799110" title="TEREL ruk.antist.nylon úplet, prsty - 11" price="1.52" currency="EUR" unit="PÁR"/>
       <variant code="0108003799100" title="TEREL ru AS nylon úplet, PU prsty - 10" price="1.52" currency="EUR" unit="PÁR"/>
@@ -1595,18 +1592,18 @@
    <product code="01080116" title="VERY VIOLET rukavice nylon. latex. dlaň">
       <variant code="0108011656080" title="VERY VIOLET rukavice nylon. l fialová 8" price="3.542" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="01080117" title="GROOVY GREEN rukavice nylon. latex. dlaň">
-      <variant code="0108011710100" title="GROOVY GREEN rukavice nylon. l zelená 10" price="3.542" currency="EUR" unit="PÁR"/>
-      <variant code="0108011710090" title="GROOVY GREEN rukavice nylon. la zelená 9" price="3.542" currency="EUR" unit="PÁR"/>
-      <variant code="0108011710080" title="GROOVY GREEN rukavice nylon. la zelená 8" price="3.542" currency="EUR" unit="PÁR"/>
-      <variant code="0108011710070" title="GROOVY GREEN rukavice nylon. la zelená 7" price="3.542" currency="EUR" unit="PÁR"/>
-      <variant code="0108011710060" title="GROOVY GREEN rukavice nylon. la zelená 6" price="3.542" currency="EUR" unit="PÁR"/>
+   <product code="01080117" title="GROOVY GREEN rukavice nylon.latex.dlaň">
+      <variant code="0108011710100" title="GROOVY GREEN rukavice nylon.latex zel.10" price="3.542" currency="EUR" unit="PÁR"/>
+      <variant code="0108011710090" title="GROOVY GREEN rukavice nylon.latex zel.9" price="3.542" currency="EUR" unit="PÁR"/>
+      <variant code="0108011710080" title="GROOVY GREEN rukavice nylon.latex zel.8" price="3.542" currency="EUR" unit="PÁR"/>
+      <variant code="0108011710070" title="GROOVY GREEN rukavice nylon.latex zel.7" price="3.542" currency="EUR" unit="PÁR"/>
+      <variant code="0108011710060" title="GROOVY GREEN rukavice nylon.latex zel.6" price="3.542" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01080118" title="BEASTY BLUE rukavice nylon/latex dlaň">
-      <variant code="0108011840110" title="BEASTY BLUE rukavice nylon/late modrá 11" price="3.373" currency="EUR" unit="PÁR"/>
-      <variant code="0108011840100" title="BEASTY BLUE rukavice nylon/late modrá 10" price="3.373" currency="EUR" unit="PÁR"/>
-      <variant code="0108011840090" title="BEASTY BLUE rukavice nylon/lat modrá 9" price="3.373" currency="EUR" unit="PÁR"/>
-      <variant code="0108011840080" title="BEASTY BLUE rukavice nylon/lat modrá 8" price="3.373" currency="EUR" unit="PÁR"/>
+      <variant code="0108011840110" title="BEASTY BLUE rukavice nylon/latex modr 11" price="3.373" currency="EUR" unit="PÁR"/>
+      <variant code="0108011840100" title="BEASTY BLUE rukavice nylon/latex modr 10" price="3.373" currency="EUR" unit="PÁR"/>
+      <variant code="0108011840090" title="BEASTY BLUE rukavice nylon/latex modrá 9" price="3.373" currency="EUR" unit="PÁR"/>
+      <variant code="0108011840080" title="BEASTY BLUE rukavice nylon/latex modrá 8" price="3.373" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01080119" title="ROCKING RED rukavice nylon. latex. dlaň">
       <variant code="0108011920110" title="ROCKING RED rukavice nylon. l červená 11" price="3.542" currency="EUR" unit="PÁR"/>
@@ -6164,8 +6161,6 @@
       <variant code="0202072182038" title="BK FARMER O2 CI SRC členok 38 bežová" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072182037" title="BK FARMER O2 CI SRC členok 37 bežová" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072182036" title="BK FARMER O2 CI SRC členok 36 bežová" price="68.612" currency="EUR" unit="PÁR"/>
-      <variant code="0202072175048" title="BK FARMER O2 CI SRC členok 48 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
-      <variant code="0202072175047" title="BK FARMER O2 CI SRC členok 47 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175046" title="BK FARMER O2 CI SRC členok 46 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175045" title="BK FARMER O2 CI SRC členok 45 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175044" title="BK FARMER O2 CI SRC členok 44 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
@@ -6174,13 +6169,10 @@
       <variant code="0202072175041" title="BK FARMER O2 CI SRC členok 41 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175040" title="BK FARMER O2 CI SRC členok 40 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175039" title="BK FARMER O2 CI SRC členok 39 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
-      <variant code="0202072175038" title="BK FARMER O2 CI SRC členok 38 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175037" title="BK FARMER O2 CI SRC členok 37 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
-      <variant code="0202072175036" title="BK FARMER O2 CI SRC členok 36 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072160048" title="BK FARMER O2 CI SRC členok 48 čierna" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072160047" title="BK FARMER O2 CI SRC členok 47 čierna" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072160046" title="BK FARMER O2 CI SRC členok 46 čierna" price="68.612" currency="EUR" unit="PÁR"/>
-      <variant code="0202072160045" title="BK FARMER O2 CI SRC členok 45 čierna" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072160044" title="BK FARMER O2 CI SRC členok 44 čierna" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072160043" title="BK FARMER O2 CI SRC členok 43 čierna" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072160042" title="BK FARMER O2 CI SRC členok 42 čierna" price="68.612" currency="EUR" unit="PÁR"/>
@@ -7643,6 +7635,7 @@
    <product code="02040105" title="COLDMAX zateplené čižmy">
       <variant code="0204010560046" title="COLDMAX zateplené čižmy 46 čierna" price="23.52" currency="EUR" unit="PÁR"/>
       <variant code="0204010560043" title="COLDMAX zateplené čižmy 43 čierna" price="23.52" currency="EUR" unit="PÁR"/>
+      <variant code="0204010560042" title="COLDMAX zateplené čižmy 42 čierna" price="23.52" currency="EUR" unit="PÁR"/>
       <variant code="0204010560040" title="COLDMAX zateplené čižmy 40 čierna" price="23.52" currency="EUR" unit="PÁR"/>
       <variant code="0204010560039" title="COLDMAX zateplené čižmy 39 čierna" price="23.52" currency="EUR" unit="PÁR"/>
       <variant code="0204010560038" title="COLDMAX zateplené čižmy 38 čierna" price="23.52" currency="EUR" unit="PÁR"/>
@@ -13008,7 +13001,6 @@
       <variant code="0303000890004" title="LYNX Vesta reflexná oranžová XL" price="2.89" currency="EUR" unit="KS"/>
    </product>
    <product code="03030010" title="NYALA vesta">
-      <variant code="0303001060005" title="NYALA vesta čierna XXL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001060001" title="NYALA vesta čierna S" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001040007" title="NYALA vesta modrá - 4XL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001040006" title="NYALA vesta modrá 3XL" price="28.77" currency="EUR" unit="KS"/>
@@ -13020,7 +13012,6 @@
       <variant code="0303001020002" title="NYALA vesta červená M" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010006" title="NYALA vesta zelená 3XL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010005" title="NYALA vesta zelená XXL" price="28.77" currency="EUR" unit="KS"/>
-      <variant code="0303001010004" title="NYALA vesta zelená XL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010003" title="NYALA vesta zelená L" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010002" title="NYALA vesta zelená M" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010001" title="NYALA vesta zelená S" price="28.77" currency="EUR" unit="KS"/>
@@ -14843,6 +14834,7 @@
       <variant code="0305005290008" title="JAEN HV polokošeľa oranžová 5XL" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290007" title="JAEN HV polokošeľa oranžová 4XL" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290005" title="JAEN HV polokošeľa oranžová XXL" price="16.226" currency="EUR" unit="KS"/>
+      <variant code="0305005290004" title="JAEN HV polokošeľa oranžová XL" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290003" title="JAEN HV polokošeľa oranžová L" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290002" title="JAEN HV polokošeľa oranžová M" price="16.226" currency="EUR" unit="KS"/>
       <variant code="0305005290000" title="JAEN HV polokošeľa oranžová XS" price="16.226" currency="EUR" unit="KS"/>
