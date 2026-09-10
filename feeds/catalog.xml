@@ -4898,34 +4898,6 @@
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>01060030</code>
-         <title>YELLOWHAMMER rukavice povrstvené latexem</title>
-         <description>• pletené rukavice zo silnej zmesovej priadze polyester/bavlna • napustené latexom • povrstvenie na chrbte zaisťuje dodatočnú ochranu kĺbov</description>
-         <categoryPath>Produkty/Rukavice/Máčané a povrstvené/Bezšvové rukavice</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="090" title="9"/>
-            <size code="100" title="10"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 21420" title="EN ISO 21420"/>
-            <standard code="EN 388" title="EN 388 | 4132X"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjY5MnxpbWFnZS93ZWJwfDkyNTExMDM5OTc5ODIvMDEwNjAwMzBfWUVMTE9XSEFNTUVSX0NFUlZBIDA0MjAxN18xMDQ4MV9hbGwudGlmLnBuZ3xkNzljY2MxMzljMGRmYjZhMjA1YmQ4NDQ4NjYzYzIwZWYwYjIyYjdiY2RlMDFiZmM2MjRkMDZiYjZlY2JlOTk0</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0106003099-YELLOWHAMMER-latex-gloves-01.jpg?context=bWFzdGVyfGltYWdlc3w5ODcxMXxpbWFnZS9qcGVnfDg5OTk4OTAwMjY1MjYvMDEwNjAwMzA5OV9ZRUxMT1dIQU1NRVJfbGF0ZXhfZ2xvdmVzLTAxLmpwZ3xiY2JmOGJjMmRlNTdiZDE4ZTM2MTFiNDFlNDY4ZjNmN2JlOTkwNWRiOWI1OWM0OGMxM2MxNDE1NjFlYmM4MjAx</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>01060032</code>
          <title>NIGHTJAR ruk.zimné-acryl,polomáč.latex</title>
          <description>• pletené, bezšvové, akrylové rukavice • polomáčané v prírodnom latexe • so zdrsnenou dlaňou</description>
@@ -42777,31 +42749,6 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTA1MnxpbWFnZS93ZWJwfDkyNTAwNzkyNzcwODYvMDMwMzAwNTlfSEVMTElTQU5fdmVzdF95ZWxsb3dfMzA3QV9GWTFfX19TSUwudGlmLnBuZ3wxODU3N2ViZTBjYzU4ZmRlNjhmMjEwMTA3YTYwN2Y0NTQxYjBmZTJiMDM2ZDk2NDRhNzJiMzVmMDJkY2U3NWM2</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
-         <code>03030062</code>
-         <title>NARDA HV detský set</title>
-         <description>• výstražný reflexný balíček pre deti • výstražná vesta, 2 výstražné pásky, výstražná nálepka, výstražná kľúčenka • oblečenie je určené pre deti staršie ako tri roky s telesnou výškou 120-140 cm na nosenie cez vrchný odev, aby vizuálne signalizovalo prítomnosť používateľa za všetkých svetelných podmienok vo dne aj v noci • detská vesta spĺňa normu EN 1150 (viditeľné oblečenie na neprofesionálne použitie)</description>
-         <categoryPath>Produkty/Odevy/Mikiny, svetre, vesty/Vesty</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="940" title="d.140"/>
-         </sizes>
-         <colors>
-            <color code="70" title="žltá"/>
-         </colors>
-         <standards>
-            <standard code="EN 1150" title="EN 1150"/>
-            <standard code="EN 13356" title="EN 13356"/>
-            <standard code="EN 340" title="EN 340"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDA2NnxpbWFnZS93ZWJwfDkyNDYzMDIyNDA3OTgvMDMwMzAwNjJfTkFSREFfU0VUX0hWX3BhY2tpbmcudGlmLnBuZ3w5MjNlNjQ2OGY1NDNkMTc3ZWVlZGUxM2I1NmM2YTAwNjk3OWFlNTlkMWU0YTFlMzc1YzNiMmUzYWUzMGM4YzYy</path>
             </image>
          </images>
          <unit>KS</unit>

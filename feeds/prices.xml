@@ -828,9 +828,6 @@
       <variant code="0106002399070" title="FF BUSTARD EVO LIGHT rukavice - 7" price="0.52" currency="EUR" unit="PÁR"/>
       <variant code="0106002399060" title="FF BUSTARD EVO LIGHT rukavice - 6" price="0.52" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="01060030" title="YELLOWHAMMER rukavice povrstvené latexem">
-      <variant code="0106003099100" title="YELLOWHAMMER rukavice povrstvené la - 10" price="1.677" currency="EUR" unit="PÁR"/>
-   </product>
    <product code="01060032" title="NIGHTJAR ruk.zimné-acryl,polomáč.latex">
       <variant code="0106003299110" title="NIGHTJAR ruk.zimné-acryl,polomáč. - 11" price="3.619" currency="EUR" unit="PÁR"/>
       <variant code="0106003299100" title="NIGHTJAR ruk.zimné-acryl,polomáč. - 10" price="3.619" currency="EUR" unit="PÁR"/>
@@ -12192,7 +12189,6 @@
       <variant code="03020379B2058" title="MONTROSE nohavice royal/navy 58" price="30.95" currency="EUR" unit="KS"/>
       <variant code="03020379B2056" title="MONTROSE nohavice royal/navy 56" price="30.95" currency="EUR" unit="KS"/>
       <variant code="03020379B2054" title="MONTROSE nohavice royal/navy 54" price="30.95" currency="EUR" unit="KS"/>
-      <variant code="03020379B2048" title="MONTROSE nohavice royal/navy 48" price="30.95" currency="EUR" unit="KS"/>
       <variant code="03020379B2046" title="MONTROSE nohavice royal/navy 46" price="30.95" currency="EUR" unit="KS"/>
       <variant code="03020379B2044" title="MONTROSE nohavice royal/navy 44" price="30.95" currency="EUR" unit="KS"/>
       <variant code="0302037986066" title="MONTROSE nohavice biela/sivá 66" price="30.95" currency="EUR" unit="KS"/>
@@ -13185,9 +13181,6 @@
       <variant code="0303005979003" title="SIOEN HELLISAN FR AST vesta HV žltá L" price="56.774" currency="EUR" unit="KS"/>
       <variant code="0303005979002" title="SIOEN HELLISAN FR AST vesta HV žltá M" price="56.774" currency="EUR" unit="KS"/>
       <variant code="0303005979001" title="SIOEN HELLISAN FR AST vesta HV žltá S" price="56.774" currency="EUR" unit="KS"/>
-   </product>
-   <product code="03030062" title="NARDA HV detský set">
-      <variant code="0303006270940" title="NARDA HV detský set žltá d. 140" price="6.793" currency="EUR" unit="KS"/>
    </product>
    <product code="03030074" title="FF BRUNO BE-04-003 vesta">
       <variant code="0303007496999" title="FF BRUNO BE-04-003 vesta HV oranžová" price="2.625" currency="EUR" unit="KS"/>
@@ -28035,9 +28028,9 @@
       <variant code="9999035099999" title="241.0373 mikroutěrka 40x40cm žltá" price="1.2" currency="EUR" unit="KS"/>
    </product>
    <product code="9999035399999" title="CERVA taška textilná 45x35x10">
-      <variant code="9999035399999" title="CERVA taška textilná 45x35x10" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="9999035399999" title="CERVA taška textilná 45x35x10" price="0.62" currency="EUR" unit="KS"/>
    </product>
    <product code="9999035499999" title="CERVA taška textilná 70x50x10">
-      <variant code="9999035499999" title="CERVA taška textilná 70x50x10" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="9999035499999" title="CERVA taška textilná 70x50x10" price="0.82" currency="EUR" unit="KS"/>
    </product>
 </catalog>
