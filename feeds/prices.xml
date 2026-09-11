@@ -1096,6 +1096,14 @@
       <variant code="0108000399070" title="LARK rukavice nyl. PU špičky prstov - 7" price="0.69" currency="EUR" unit="PÁR"/>
       <variant code="0108000399060" title="LARK rukavice nyl. PU špičky prstov - 6" price="0.69" currency="EUR" unit="PÁR"/>
    </product>
+   <product code="01080003VAM" title="LARK VAM rukavice">
+      <variant code="0108000399110VAM" title="LARK VAM rukavice - 11" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0108000399100VAM" title="LARK VAM rukavice - 10" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0108000399090VAM" title="LARK VAM rukavice - 9" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0108000399080VAM" title="LARK VAM rukavice - 8" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0108000399070VAM" title="LARK VAM rukavice - 7" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0108000399060VAM" title="LARK VAM rukavice - 6" price="Bude upresnené" currency="" unit="PÁR"/>
+   </product>
    <product code="01080004" title="BUNTING black ruk.nylon. polyur">
       <variant code="0108000499110" title="BUNTING black ruk.nylon. polyur - 11" price="0.811" currency="EUR" unit="PÁR"/>
       <variant code="0108000499100" title="BUNTING black ruk.nylon. polyur - 10" price="0.811" currency="EUR" unit="PÁR"/>
@@ -7543,19 +7551,19 @@
       <variant code="0204008080037" title="BC FOOD OB FO čižmy 37 biela" price="18.837" currency="EUR" unit="PÁR"/>
       <variant code="0204008080036" title="BC FOOD OB FO čižmy 36 biela" price="18.837" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="02040081" title="TRONCHETTO OB SRA čižmy">
-      <variant code="0204008180047" title="TRONCHETTO OB SRA čižmy 47 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180046" title="TRONCHETTO OB SRA čižmy 46 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180045" title="TRONCHETTO OB SRA čižmy 45 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180044" title="TRONCHETTO OB SRA čižmy 44 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180043" title="TRONCHETTO OB SRA čižmy 43 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180042" title="TRONCHETTO OB SRA čižmy 42 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180041" title="TRONCHETTO OB SRA čižmy 41 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180040" title="TRONCHETTO OB SRA čižmy 40 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180039" title="TRONCHETTO OB SRA čižmy 39 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180038" title="TRONCHETTO OB SRA čižmy 38 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180037" title="TRONCHETTO OB SRA čižmy 37 biela" price="12.95" currency="EUR" unit="PÁR"/>
-      <variant code="0204008180036" title="TRONCHETTO OB SRA čižmy 36 biela" price="12.95" currency="EUR" unit="PÁR"/>
+   <product code="02040081" title="TRONCHETTO OB FO čižmy">
+      <variant code="0204008180047" title="TRONCHETTO OB FO čižmy 47 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180046" title="TRONCHETTO OB FO čižmy 46 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180045" title="TRONCHETTO OB FO čižmy 45 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180044" title="TRONCHETTO OB FO čižmy 44 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180043" title="TRONCHETTO OB FO čižmy 43 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180042" title="TRONCHETTO OB FO čižmy 42 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180041" title="TRONCHETTO OB FO čižmy 41 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180040" title="TRONCHETTO OB FO čižmy 40 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180039" title="TRONCHETTO OB FO čižmy 39 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180038" title="TRONCHETTO OB FO čižmy 38 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180037" title="TRONCHETTO OB FO čižmy 37 biela" price="12.95" currency="EUR" unit="PÁR"/>
+      <variant code="0204008180036" title="TRONCHETTO OB FO čižmy 36 biela" price="12.95" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02040082" title="TIGROTTO O2 CI SRC poloholeň.obuv">
       <variant code="0204008299048" title="TIGROTTO O2 CI SRC poloholeň.obuv 48 -" price="51.543" currency="EUR" unit="PÁR"/>
@@ -8451,7 +8459,6 @@
       <variant code="0301004690048" title="EMERTON bunda - 48" price="29.5" currency="EUR" unit="KS"/>
       <variant code="0301004690046" title="EMERTON bunda - 46" price="29.5" currency="EUR" unit="KS"/>
       <variant code="0301004641058" title="EMERTON bunda navy 58" price="29.84" currency="EUR" unit="KS"/>
-      <variant code="0301004641054" title="EMERTON bunda navy 54" price="29.84" currency="EUR" unit="KS"/>
       <variant code="0301004641052" title="EMERTON bunda navy 52" price="29.84" currency="EUR" unit="KS"/>
       <variant code="0301004641048" title="EMERTON bunda navy 48" price="29.84" currency="EUR" unit="KS"/>
       <variant code="0301004612062" title="EMERTON bunda camouflage 62" price="31.0" currency="EUR" unit="KS"/>
@@ -14219,7 +14226,6 @@
       <variant code="0304011061006" title="KNOXFIELD RYO triko 3XL" price="11.43" currency="EUR" unit="KS"/>
       <variant code="0304011061005" title="KNOXFIELD RYO triko XXL" price="11.43" currency="EUR" unit="KS"/>
       <variant code="0304011061004" title="KNOXFIELD RYO triko XL" price="11.43" currency="EUR" unit="KS"/>
-      <variant code="0304011061003" title="KNOXFIELD RYO triko L" price="11.43" currency="EUR" unit="KS"/>
       <variant code="0304011061002" title="KNOXFIELD RYO triko M" price="11.43" currency="EUR" unit="KS"/>
       <variant code="0304011061000" title="KNOXFIELD RYO triko XS" price="11.43" currency="EUR" unit="KS"/>
    </product>
@@ -15085,11 +15091,7 @@
       <variant code="0306005190000" title="KNOXFIELD HV mikina s kapucí oranžová XS" price="40.922" currency="EUR" unit="KS"/>
    </product>
    <product code="03060052" title="KNOXFIELD RYO mikina s kapucňou">
-      <variant code="0306005261006" title="KNOXFIELD RYO mikina s kapucňou 3XL" price="48.835" currency="EUR" unit="KS"/>
-      <variant code="0306005261005" title="KNOXFIELD RYO mikina s kapucňou XXL" price="48.835" currency="EUR" unit="KS"/>
       <variant code="0306005261004" title="KNOXFIELD RYO mikina s kapucňou XL" price="48.835" currency="EUR" unit="KS"/>
-      <variant code="0306005261003" title="KNOXFIELD RYO mikina s kapucňou L" price="48.835" currency="EUR" unit="KS"/>
-      <variant code="0306005261000" title="KNOXFIELD RYO mikina s kapucňou XS" price="48.835" currency="EUR" unit="KS"/>
    </product>
    <product code="03060066" title="KNOXFIELD polo mikina">
       <variant code="03060066A1002" title="KNOXFIELD polo mikina antracit/žltá M" price="7.926" currency="EUR" unit="KS"/>
@@ -19128,7 +19130,6 @@
    <product code="03510039" title="MAX VIVO RFLX bunda">
       <variant code="0351003964068" title="MAX VIVO RFLX bunda černá/žltá 68" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964066" title="MAX VIVO RFLX bunda černá/žltá 66" price="44.67" currency="EUR" unit="KS"/>
-      <variant code="0351003964060" title="MAX VIVO RFLX bunda černá/žltá 60" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964056" title="MAX VIVO RFLX bunda černá/žltá 56" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964054" title="MAX VIVO RFLX bunda černá/žltá 54" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964052" title="MAX VIVO RFLX bunda černá/žltá 52" price="44.67" currency="EUR" unit="KS"/>

@@ -6361,6 +6361,35 @@
          <unit>PÁR</unit>
       </product>
       <product>
+         <code>01080003VAM</code>
+         <title>LARK VAM rukavice</title>
+         <description>• pletené • bezšvové • nylonové • rukavice s tenkou vrstvou polyuretánu na špičkách prstov • pružná manžeta</description>
+         <categoryPath>Produkty/Rukavice/Máčané a povrstvené/Bezšvové rukavice</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="060" title="6"/>
+            <size code="070" title="7"/>
+            <size code="080" title="8"/>
+            <size code="090" title="9"/>
+            <size code="100" title="10"/>
+            <size code="110" title="11"/>
+         </sizes>
+         <colors>
+            <color code="99" title="-"/>
+         </colors>
+         <standards>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
+            <standard code="EN 388" title="EN 388 | 1X2XX"/>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyMDQzMHxpbWFnZS93ZWJwfDkyNTA3Nzc0NjQ4NjIvMDEwODAwMDNfTEFSS19DRVJWQV8yMDE2XzE0MTc0X2FsbF8yMDE5LnRpZi5wbmd8NzdhN2ViMDlmZmFhOGZmNjNiMDkyMzhkNzIzZWI2OTQxMGUzMjc3YTRlM2UyODRhMjRkNGUxM2VlODVmNDZmMg</path>
+            </image>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
          <code>01080004</code>
          <title>BUNTING black ruk.nylon. polyur</title>
          <description>• pletené bezšvíkové nylonové rukavice • s tenkou vrstvou polyuretánu v dlani a na prstoch • pružná manžeta</description>
@@ -29172,7 +29201,7 @@ Panda Safety – synonymum pre spoľahlivú a vysoko pohodlnú ergonomickú obuv
       </product>
       <product>
          <code>02040081</code>
-         <title>TRONCHETTO OB SRA čižmy</title>
+         <title>TRONCHETTO OB FO čižmy</title>
          <description>Nízke čižmy z PVC a nitrilu odolné voči pôsobeniu rastlinných a živočíšnych tukov s podrážkou s hlbokým dezénom. Výška: 28 cm.</description>
          <categoryPath>Produkty/Obuv/Obuv do dažďa nízka</categoryPath>
          <packaging></packaging>
@@ -37624,7 +37653,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
       <product>
          <code>03010728</code>
          <title>ORIBI HV 1 parka</title>
-         <description>• man winter Hi-Vis parka with segmented reflective stripes • insulated hood • two side and two chest pockets with zip • two inside pockets • elastic sleeves cuffs with velcro • ID holder on left chest pocket </description>
+         <description>• man winter Hi-Vis parka with printed segmented reflective stripes • insulated hood • two side and two chest pockets with zip • two inside pockets • elastic sleeves cuffs with velcro • ID holder on left chest pocket </description>
          <categoryPath>Produkty/Odevy/Bundy a kabáty/Kabáty</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -37662,7 +37691,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
       <product>
          <code>03010729</code>
          <title>ORIBI HV 2 parka</title>
-         <description>• man winter Hi-Vis parka with segmented reflective stripes • insulated hood • two side and two chest pockets with zip • two inside pockets • elastic sleeves cuffs with velcro • ID holder on left chest pocket</description>
+         <description>• man winter Hi-Vis parka with printed segmented reflective stripes • insulated hood • two side and two chest pockets with zip • two inside pockets • elastic sleeves cuffs with velcro • ID holder on left chest pocket </description>
          <categoryPath>Produkty/Odevy/Bundy a kabáty/Kabáty</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -37700,7 +37729,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
       <product>
          <code>03010730</code>
          <title>ORIBI HV 3 parka</title>
-         <description>• man winter Hi-Vis parka with segmented reflective stripes • insulated hood • two side and two chest pockets with zip • two inside pockets • elastic sleeves cuffs with velcro • ID holder on left chest pocket</description>
+         <description>• man winter Hi-Vis parka with printed segmented reflective stripes • insulated hood • two side and two chest pockets with zip • two inside pockets • elastic sleeves cuffs with velcro • ID holder on left chest pocket </description>
          <categoryPath>Produkty/Odevy/Bundy a kabáty/Kabáty</categoryPath>
          <packaging></packaging>
          <sizes>
