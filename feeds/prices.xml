@@ -11578,7 +11578,6 @@
    <product code="03020209" title="YOWIE dámske nohavice">
       <variant code="0302020987048" title="YOWIE dámske nohavice hnedá/zelená 48" price="43.169" currency="EUR" unit="KS"/>
       <variant code="0302020987046" title="YOWIE dámske nohavice hnedá/zelená 46" price="43.169" currency="EUR" unit="KS"/>
-      <variant code="0302020987034" title="YOWIE dámske nohavice hnedá/zelená 34" price="43.169" currency="EUR" unit="KS"/>
    </product>
    <product code="03020222" title="FF UDO BE-01-006 nohavice náprsenka">
       <variant code="0302022241062" title="FF UDO BE-01-006 nohavice náprse navy 62" price="16.776" currency="EUR" unit="KS"/>
@@ -15091,7 +15090,11 @@
       <variant code="0306005190000" title="KNOXFIELD HV mikina s kapucí oranžová XS" price="40.922" currency="EUR" unit="KS"/>
    </product>
    <product code="03060052" title="KNOXFIELD RYO mikina s kapucňou">
+      <variant code="0306005261006" title="KNOXFIELD RYO mikina s kapucňou 3XL" price="48.835" currency="EUR" unit="KS"/>
+      <variant code="0306005261005" title="KNOXFIELD RYO mikina s kapucňou XXL" price="48.835" currency="EUR" unit="KS"/>
       <variant code="0306005261004" title="KNOXFIELD RYO mikina s kapucňou XL" price="48.835" currency="EUR" unit="KS"/>
+      <variant code="0306005261003" title="KNOXFIELD RYO mikina s kapucňou L" price="48.835" currency="EUR" unit="KS"/>
+      <variant code="0306005261000" title="KNOXFIELD RYO mikina s kapucňou XS" price="48.835" currency="EUR" unit="KS"/>
    </product>
    <product code="03060066" title="KNOXFIELD polo mikina">
       <variant code="03060066A1002" title="KNOXFIELD polo mikina antracit/žltá M" price="7.926" currency="EUR" unit="KS"/>
@@ -21458,7 +21461,6 @@
       <variant code="03530001A0062" title="REUSEL nohavice náp antracit/červená 62" price="50.583" currency="EUR" unit="KS"/>
       <variant code="03530001A0060" title="REUSEL nohavice náp antracit/červená 60" price="50.583" currency="EUR" unit="KS"/>
       <variant code="03530001A0056" title="REUSEL nohavice náp antracit/červená 56" price="50.583" currency="EUR" unit="KS"/>
-      <variant code="03530001A0048" title="REUSEL nohavice náp antracit/červená 48" price="50.583" currency="EUR" unit="KS"/>
    </product>
    <product code="03530003" title="TELDE nohavice náprsenka">
       <variant code="0353000350058" title="TELDE nohavice náprsenka royal modrá 58" price="24.916" currency="EUR" unit="KS"/>
@@ -22325,7 +22327,6 @@
       <variant code="0356000190062" title="PATERNA HV kombinéza oranžová 62" price="55.526" currency="EUR" unit="KS"/>
       <variant code="0356000190060" title="PATERNA HV kombinéza oranžová 60" price="55.526" currency="EUR" unit="KS"/>
       <variant code="0356000190058" title="PATERNA HV kombinéza oranžová 58" price="55.526" currency="EUR" unit="KS"/>
-      <variant code="0356000190056" title="PATERNA HV kombinéza oranžová 56" price="55.526" currency="EUR" unit="KS"/>
       <variant code="0356000190054" title="PATERNA HV kombinéza oranžová 54" price="55.526" currency="EUR" unit="KS"/>
       <variant code="0356000190052" title="PATERNA HV kombinéza oranžová 52" price="55.526" currency="EUR" unit="KS"/>
       <variant code="0356000190050" title="PATERNA HV kombinéza oranžová 50" price="55.526" currency="EUR" unit="KS"/>
@@ -22872,7 +22873,6 @@
    </product>
    <product code="03570012" title="NEURUM DNM šortky">
       <variant code="0357001241064" title="NEURUM DNM šortky navy 64" price="56.463" currency="EUR" unit="KS"/>
-      <variant code="0357001241062" title="NEURUM DNM šortky navy 62" price="56.463" currency="EUR" unit="KS"/>
       <variant code="0357001241060" title="NEURUM DNM šortky navy 60" price="56.463" currency="EUR" unit="KS"/>
       <variant code="0357001241058" title="NEURUM DNM šortky navy 58" price="56.463" currency="EUR" unit="KS"/>
       <variant code="0357001241056" title="NEURUM DNM šortky navy 56" price="56.463" currency="EUR" unit="KS"/>
