@@ -1308,6 +1308,9 @@
       <variant code="0108002999080BN" title="PALAWAN s blistrom žltá - 8" price="1.999" currency="EUR" unit="PÁR"/>
       <variant code="0108002999070BN" title="PALAWAN s blistrom žltá - 7" price="1.999" currency="EUR" unit="PÁR"/>
    </product>
+   <product code="01080029PI" title="PALAWAN rukavice nylon. latex.PI">
+      <variant code="0108002999100PI" title="PALAWAN rukavice nylon. latex.PI - 10" price="Bude upresnené" currency="" unit="PÁR"/>
+   </product>
    <product code="01080037" title="TEREL ruk.antist.nylon úplet, prsty PU">
       <variant code="0108003799110" title="TEREL ruk.antist.nylon úplet, prsty - 11" price="1.52" currency="EUR" unit="PÁR"/>
       <variant code="0108003799100" title="TEREL ru AS nylon úplet, PU prsty - 10" price="1.52" currency="EUR" unit="PÁR"/>
