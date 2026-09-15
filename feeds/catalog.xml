@@ -8250,6 +8250,7 @@
          </sizes>
          <colors>
             <color code="39" title="navy/sv.fialová"/>
+            <color code="87" title="hnedá/zelená"/>
          </colors>
          <standards>
             <standard code="EN ISO 21420" title="EN ISO 21420"/>
@@ -12961,39 +12962,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0NzMwfGltYWdlL3dlYnB8OTI0OTkwMTg3MTEzNC8wMTEwMDA2N19BbHBoYVRlY184Ny05MDBfYXBwbGljYXRpb24udGlmLnBuZ3wzOGY3ZTk5Y2RlOTI3ODQyYWM0NjEyOWYzNDZiOTVjZDcyYTE3MmJiMjNjYjEzYjE0OTZjMGU5M2ZiYjBkZTI2</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>01100069</code>
-         <title>ANSELL  87-955 Extra</title>
-         <description>• chlórované rukavice zo 100 % prírodného 0,75 mm silného latexu bez plnidiel • s velúrovou úpravou vo vnútri • reliéfnym povrchom v dlani a na prstoch • v celkovej dĺžke 32 cm</description>
-         <categoryPath>Produkty/Rukavice</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="070" title="7"/>
-            <size code="080" title="8"/>
-            <size code="090" title="9"/>
-            <size code="100" title="10"/>
-            <size code="110" title="11"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN 420" title="EN 420"/>
-            <standard code="EN 388" title="EN 388 | X121X"/>
-            <standard code="EN ISO 374-1" title="EN ISO 374-1 | typeA A2 B1 C1 D0 E0 F0 G0 H0 I1 J0 K6 L5 M6 N2 O2 P6 S6 T6"/>
-            <standard code="EN ISO 374-5" title="EN ISO 374-5 | virus pass"/>
-         </standards>
-         <brand>ANSE</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNzI0OHxpbWFnZS93ZWJwfDkyNDYyNTA2OTY3MzQvMDExMDAwNjlfRVhUUkFfODdfOTU1X0ZfYWxsLnRpZi5wbmd8MDE4Y2U3ZDcxYzJiM2ViOWE4NGZmZThhNTQ5NjhkNWI0MWRkYmRmZWUyMmZlOWY0NzlhZmEwMjI4ODAyYWNhYQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNzU2fGltYWdlL3dlYnB8OTI0NjQ5OTg5NzM3NC8wMTEwMDA2OTk5X0FMUEhBVEVDX0VYVFJBXzg3Xzk1NV9nbG92ZXMtMDEuanBnfDgzYzRmNjc3N2QxNjQxNDMxMmMyMmRiN2U4NzQ2MTM1ZGY1YjAzOWU2ZjJkOTQ3MDY3NGNkNzZmZTE5MjYzMDk</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -29228,10 +29196,10 @@ Panda Safety – synonymum pre spoľahlivú a vysoko pohodlnú ergonomickú obuv
          <brand>CERV</brand>
          <images>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2OTEyfGltYWdlL3dlYnB8OTI1MDAyNTc5OTcxMHxjODI4ZWQ3NTFkNDQ1ODQ2MjgxYjlmZjEwZDE2MDY0YTY2MTBhNTJkY2I2NTljODEwNTg0MmEzYWEzYWFhYzgw</path>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2Mjg2fGltYWdlL3BuZ3w5MzY5NTY3NTI2OTQyLzAyMDQwMDgwX0JDX0ZPT0RfMDRGT1NSQ19EU0NfMzQxNC5wbmd8OTMxY2U5NDUxMzFkNzVhODNjOTM1NTExMzg1MjI1NmMwNTY4OTQxNTc2MGE2MmJmZWE2ZWE4Y2YzZjEzZGVhNQ</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4NzM4fGltYWdlL3dlYnB8OTI0NjAyMTkxMDU1OC8wMjA0MDA4MF9CQ19GT09EXzA0Rk9TUkNfQ0VSVkEgMjAxNyAwMl8yMDEyOTkudGlmLnBuZ3xhODI1MTE3Yjc0MWVkNDlhM2I4ZGYxMDVhNGJhODAyMmFjM2I1MjA5ZjZmOGIxZGEzNzUxZWY3Njk5OTdiZTkz</path>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MDg4fGltYWdlL3BuZ3w5MzY5NTY5NDI3NDg2LzAyMDQwMDgwX0JDX0ZPT0RfMDRGT1NSQ19zb2xlX0RTQ18zNDE5LnBuZ3xmOWU3OGE0NzRlODMwYTZkNTdjZWQ3MWZmZTk0NGEyZWQ0YzBiNjU5ZDRiMWFlNTBjOTZlNTYyZTg5NmVhZWQy</path>
             </image>
             <image>
                <path>https://media.cerva.com/medias/0204008080-BC-FOOD-O4-FO-SRC-01.jpg?context=bWFzdGVyfGltYWdlc3w3NDU2N3xpbWFnZS9qcGVnfDg5ODg4NDkzMDc2NzgvMDIwNDAwODA4MF9CQ19GT09EX080X0ZPX1NSQy0wMS5qcGd8YTUyYWUwMzc2NzZlOThmMmVhZDMzYWQwNjcwNjQzYzNhNjA5MTRjNTM3YzU2ZmZhMjY2ZGI5NzMyMGZjYmY5MA</path>

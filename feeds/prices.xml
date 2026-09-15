@@ -1505,6 +1505,9 @@
       <variant code="0108008539070" title="PINTAIL ruk. plet.n navy/sv. fialová 7" price="1.876" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01080085BN" title="PINTAIL rukavice s blistrom">
+      <variant code="0108008587090BN" title="PINTAIL rukavice s blistr hnedá/zelená 9" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0108008587080BN" title="PINTAIL rukavice s blistr hnedá/zelená 8" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0108008587070BN" title="PINTAIL rukavice s blistr hnedá/zelená 7" price="Bude upresnené" currency="" unit="PÁR"/>
       <variant code="0108008539090BN" title="PINTAIL rukavic blist navy/sv.fialová 9" price="2.021" currency="EUR" unit="PÁR"/>
       <variant code="0108008539080BN" title="PINTAIL rukavic blist navy/sv.fialová 8" price="2.021" currency="EUR" unit="PÁR"/>
       <variant code="0108008539070BN" title="PINTAIL rukavic blist navy/sv.fialová 7" price="2.021" currency="EUR" unit="PÁR"/>
@@ -2563,9 +2566,6 @@
       <variant code="0110006799090" title="Alphatec 87-900(Bi-Colour) rukavice - 9" price="3.015" currency="EUR" unit="PÁR"/>
       <variant code="0110006799080" title="Alphatec 87-900(Bi-Colour) rukavice - 8" price="3.015" currency="EUR" unit="PÁR"/>
       <variant code="0110006799070" title="Alphatec 87-900(Bi-Colour) rukavice 7.5" price="3.015" currency="EUR" unit="PÁR"/>
-   </product>
-   <product code="01100069" title="ANSELL  87-955 Extra">
-      <variant code="0110006999070" title="ANSELL  87-955 Extra/070 Extra" price="2.89" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01100075" title="UNIVERSAL rukavice 32 cm">
       <variant code="0110007540105" title="UNIVERSAL rukavice 32 cm modrá 10" price="7.329" currency="EUR" unit="PÁR"/>
@@ -9047,18 +9047,6 @@
       <variant code="0301029843003" title="SIOEN DURANGO bunda fle modrá/čierna L" price="91.454" currency="EUR" unit="KS"/>
       <variant code="0301029843002" title="SIOEN DURANGO bunda fle modrá/čierna M" price="91.454" currency="EUR" unit="KS"/>
       <variant code="0301029843001" title="SIOEN DURANGO bunda fle modrá/čierna S" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029823006" title="SIOEN DURANGO bunda červená/čierna XXXL" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029823005" title="SIOEN DURANGO bunda červená/čierna XXL" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029823004" title="SIOEN DURANGO bunda červená/čierna XL" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029823003" title="SIOEN DURANGO bunda f červená/čierna L" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029823002" title="SIOEN DURANGO bunda f červená/čierna M" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029823001" title="SIOEN DURANGO bunda f červená/čierna S" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029818006" title="SIOEN DURANGO bunda zelená/čierna XXXL" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029818005" title="SIOEN DURANGO bunda zelená/čierna XXL" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029818004" title="SIOEN DURANGO bunda f zelená/čierna XL" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029818003" title="SIOEN DURANGO bunda fl zelená/čierna L" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029818002" title="SIOEN DURANGO bunda fl zelená/čierna M" price="91.454" currency="EUR" unit="KS"/>
-      <variant code="0301029818001" title="SIOEN DURANGO bunda fl zelená/čierna S" price="91.454" currency="EUR" unit="KS"/>
       <variant code="0301029809006" title="SIOEN DURANGO bunda f sivá/čierna XXXL" price="91.454" currency="EUR" unit="KS"/>
       <variant code="0301029809005" title="SIOEN DURANGO bunda fl sivá/čierna XXL" price="91.454" currency="EUR" unit="KS"/>
       <variant code="0301029809004" title="SIOEN DURANGO bunda fle sivá/čierna XL" price="91.454" currency="EUR" unit="KS"/>
@@ -9135,13 +9123,6 @@
       <variant code="0301030441002" title="SIOEN PULCO bunda softshell navy M" price="84.938" currency="EUR" unit="KS"/>
       <variant code="0301030441001" title="SIOEN PULCO bunda softshell navy S" price="84.938" currency="EUR" unit="KS"/>
       <variant code="0301030441000" title="SIOEN PULCO bunda softshell navy XS" price="84.938" currency="EUR" unit="KS"/>
-      <variant code="0301030400006" title="SIOEN PULCO bunda softshell sivá 3XL" price="84.938" currency="EUR" unit="KS"/>
-      <variant code="0301030400005" title="SIOEN PULCO bunda softshell sivá XXL" price="84.938" currency="EUR" unit="KS"/>
-      <variant code="0301030400004" title="SIOEN PULCO bunda softshell sivá XL" price="84.938" currency="EUR" unit="KS"/>
-      <variant code="0301030400003" title="SIOEN PULCO bunda softshell sivá L" price="84.938" currency="EUR" unit="KS"/>
-      <variant code="0301030400002" title="SIOEN PULCO bunda softshell sivá M" price="84.938" currency="EUR" unit="KS"/>
-      <variant code="0301030400001" title="SIOEN PULCO bunda softshell sivá S" price="84.938" currency="EUR" unit="KS"/>
-      <variant code="0301030400000" title="SIOEN PULCO bunda softshell sivá XS" price="84.938" currency="EUR" unit="KS"/>
    </product>
    <product code="03010305" title="SIOEN TORREON bunda softshell">
       <variant code="0301030543006" title="SIOEN TORREON bunda s modrá/čierna XXXL" price="95.272" currency="EUR" unit="KS"/>
@@ -11556,7 +11537,6 @@
       <variant code="0302020582003" title="CHENA CRV nohavice bežová L" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020582002" title="CHENA CRV nohavice bežová M" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560005" title="CHENA CRV nohavice čierna XXL" price="36.643" currency="EUR" unit="KS"/>
-      <variant code="0302020560004" title="CHENA CRV nohavice čierna XL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560003" title="CHENA CRV nohavice čierna L" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560002" title="CHENA CRV nohavice čierna M" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560001" title="CHENA CRV nohavice čierna S" price="36.643" currency="EUR" unit="KS"/>
@@ -13017,6 +12997,7 @@
       <variant code="0303001020002" title="NYALA vesta červená M" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010006" title="NYALA vesta zelená 3XL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010005" title="NYALA vesta zelená XXL" price="28.77" currency="EUR" unit="KS"/>
+      <variant code="0303001010004" title="NYALA vesta zelená XL" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010003" title="NYALA vesta zelená L" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010002" title="NYALA vesta zelená M" price="28.77" currency="EUR" unit="KS"/>
       <variant code="0303001010001" title="NYALA vesta zelená S" price="28.77" currency="EUR" unit="KS"/>
@@ -16764,7 +16745,6 @@
    <product code="03140114" title="NOORD čiapka">
       <variant code="03140114C1014" title="NOORD čiapka čierna/oranžová XL/XXL" price="15.957" currency="EUR" unit="KS"/>
       <variant code="03140114C1012" title="NOORD čiapka čierna/oranžová M/L" price="15.957" currency="EUR" unit="KS"/>
-      <variant code="0314011467014" title="NOORD čiapka čierna/zelená XL/XXL" price="15.957" currency="EUR" unit="KS"/>
       <variant code="0314011467012" title="NOORD čiapka čierna/zelená M/L" price="15.957" currency="EUR" unit="KS"/>
       <variant code="0314011451014" title="NOORD čiapka navy/royal XL/XXL" price="15.957" currency="EUR" unit="KS"/>
       <variant code="0314011451012" title="NOORD čiapka navy/royal M/L" price="15.957" currency="EUR" unit="KS"/>
