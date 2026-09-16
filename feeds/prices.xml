@@ -3974,7 +3974,6 @@
       <variant code="0201038300038" title="JUMPER ESD S1P SRC poltopánka 38 sivá" price="103.902" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010393" title="COOPER MF ESD S1P SRC poltopánka">
-      <variant code="0201039342047" title="COOPER MF ESD S1P SRC poltop 47 tm.modrá" price="51.546" currency="EUR" unit="PÁR"/>
       <variant code="0201039342046" title="COOPER MF ESD S1P SRC poltop 46 tm.modrá" price="51.546" currency="EUR" unit="PÁR"/>
       <variant code="0201039342045" title="COOPER MF ESD S1P SRC poltop 45 tm.modrá" price="51.546" currency="EUR" unit="PÁR"/>
       <variant code="0201039342041" title="COOPER MF ESD S1P SRC poltop 41 tm.modrá" price="51.546" currency="EUR" unit="PÁR"/>
@@ -4001,10 +4000,8 @@
    </product>
    <product code="02010514" title="WADE MF ESD S1P SRC poltopánka">
       <variant code="0201051440048" title="WADE MF ESD S1P SRC poltopánka modrá 48" price="65.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201051440047" title="WADE MF ESD S1P SRC poltopánka modrá 47" price="65.1" currency="EUR" unit="PÁR"/>
       <variant code="0201051440046" title="WADE MF ESD S1P SRC poltopánka modrá 46" price="65.1" currency="EUR" unit="PÁR"/>
       <variant code="0201051440045" title="WADE MF ESD S1P SRC poltopánka modrá 45" price="65.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201051440044" title="WADE MF ESD S1P SRC poltopánka modrá 44" price="65.1" currency="EUR" unit="PÁR"/>
       <variant code="0201051440043" title="WADE MF ESD S1P SRC poltopánka modrá 43" price="65.1" currency="EUR" unit="PÁR"/>
       <variant code="0201051440042" title="WADE MF ESD S1P SRC poltopánka modrá 42" price="65.1" currency="EUR" unit="PÁR"/>
       <variant code="0201051440041" title="WADE MF ESD S1P SRC poltopánka modrá 41" price="65.1" currency="EUR" unit="PÁR"/>
@@ -4680,8 +4677,16 @@
       <variant code="0201061560036" title="HALWILL PRO MF ESD S1PS SR polt.čier.36" price="57.95" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010616" title="ULTRALIGHT MF ESD S1 SR poltop.">
+      <variant code="02010616W6048" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 48" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6047" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 47" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6046" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 46" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6045" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 45" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6044" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 44" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6043" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 43" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6042" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 42" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6041" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 41" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6040" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 40" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6039" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 39" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6035" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 35" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666048" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 48" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666047" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 47" price="49.83" currency="EUR" unit="PÁR"/>
@@ -4702,7 +4707,6 @@
    <product code="02010616J" title="ULTRALIGHT MF S1 SR poltopánky.2akosť">
       <variant code="02010616W6048J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel48" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6047J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel47" price="25.0" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6041J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel41" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6040J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel40" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6039J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel39" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6038J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel38" price="25.0" currency="EUR" unit="PÁR"/>
@@ -4739,7 +4743,6 @@
    </product>
    <product code="02010617J" title="ULTRALIGHT MF S1PS SR poltopánky 2.akosť">
       <variant code="0201061760048J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 48" price="25.0" currency="EUR" unit="PÁR"/>
-      <variant code="0201061760037J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 37" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="0201061760036J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 36" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="0201061760035J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 35" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="0201061760034J" title="ULTRALIGHT MF S1PS SR pol.2.ak. čier 34" price="25.0" currency="EUR" unit="PÁR"/>
@@ -4796,7 +4799,6 @@
       <variant code="02010618W6047J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 47" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6046J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 46" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6045J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 45" price="25.0" currency="EUR" unit="PÁR"/>
-      <variant code="02010618W6041J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 41" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6040J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 40" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6039J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 39" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6038J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 38" price="25.0" currency="EUR" unit="PÁR"/>
@@ -6196,7 +6198,6 @@
       <variant code="0202082940047" title="RUFUS MF S1 SRC členok modrá 47" price="42.95" currency="EUR" unit="PÁR"/>
       <variant code="0202082940046" title="RUFUS MF S1 SRC členok modrá 46" price="42.95" currency="EUR" unit="PÁR"/>
       <variant code="0202082940045" title="RUFUS MF S1 SRC členok modrá 45" price="42.95" currency="EUR" unit="PÁR"/>
-      <variant code="0202082940044" title="RUFUS MF S1 SRC členok modrá 44" price="42.95" currency="EUR" unit="PÁR"/>
       <variant code="0202082940043" title="RUFUS MF S1 SRC členok modrá 43" price="42.95" currency="EUR" unit="PÁR"/>
       <variant code="0202082940042" title="RUFUS MF S1 SRC členok modrá 42" price="42.95" currency="EUR" unit="PÁR"/>
       <variant code="0202082940041" title="RUFUS MF S1 SRC členok modrá 41" price="42.95" currency="EUR" unit="PÁR"/>
@@ -6285,7 +6286,6 @@
       <variant code="0202086560038" title="ULTRA MITO MF S3 SRC členok čierna 38" price="58.094" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02020866" title="NUOVO EUROTECH MF S3 SRC členok">
-      <variant code="0202086660045" title="NUOVO EUROTECH MF S3 SRC členok čiern 45" price="51.765" currency="EUR" unit="PÁR"/>
       <variant code="0202086660044" title="NUOVO EUROTECH MF S3 SRC členok čiern 44" price="51.765" currency="EUR" unit="PÁR"/>
       <variant code="0202086660043" title="NUOVO EUROTECH MF S3 SRC členok čiern 43" price="51.765" currency="EUR" unit="PÁR"/>
       <variant code="0202086660042" title="NUOVO EUROTECH MF S3 SRC členok čiern 42" price="51.765" currency="EUR" unit="PÁR"/>
@@ -6313,13 +6313,10 @@
       <variant code="0202086860045" title="NUOVO MITO S1 SRC členok čierna 45" price="40.602" currency="EUR" unit="PÁR"/>
       <variant code="0202086860043" title="NUOVO MITO S1 SRC členok čierna 43" price="40.602" currency="EUR" unit="PÁR"/>
       <variant code="0202086860042" title="NUOVO MITO S1 SRC členok čierna 42" price="40.602" currency="EUR" unit="PÁR"/>
-      <variant code="0202086860041" title="NUOVO MITO S1 SRC členok čierna 41" price="40.602" currency="EUR" unit="PÁR"/>
       <variant code="0202086860040" title="NUOVO MITO S1 SRC členok čierna 40" price="40.602" currency="EUR" unit="PÁR"/>
       <variant code="0202086860039" title="NUOVO MITO S1 SRC členok čierna 39" price="40.602" currency="EUR" unit="PÁR"/>
       <variant code="0202086860038" title="NUOVO MITO S1 SRC členok čierna 38" price="40.602" currency="EUR" unit="PÁR"/>
       <variant code="0202086860037" title="NUOVO MITO S1 SRC členok čierna 37" price="40.602" currency="EUR" unit="PÁR"/>
-      <variant code="0202086860036" title="NUOVO MITO S1 SRC členok čierna 36" price="40.602" currency="EUR" unit="PÁR"/>
-      <variant code="0202086860035" title="NUOVO MITO S1 SRC členok čierna 35" price="40.602" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02020873" title="ALFA NEOS S1P SRC členok">
       <variant code="0202087360050" title="ALFA NEOS S1P SRC členok čierna 50" price="36.488" currency="EUR" unit="PÁR"/>
@@ -6383,16 +6380,12 @@
    </product>
    <product code="02020884" title="X-507 S3 ESD SRC členok">
       <variant code="0202088460048" title="X-507 S3 ESD SRC členok čierna 48" price="100.433" currency="EUR" unit="PÁR"/>
-      <variant code="0202088460047" title="X-507 S3 ESD SRC členok čierna 47" price="100.433" currency="EUR" unit="PÁR"/>
-      <variant code="0202088460046" title="X-507 S3 ESD SRC členok čierna 46" price="100.433" currency="EUR" unit="PÁR"/>
-      <variant code="0202088460045" title="X-507 S3 ESD SRC členok čierna 45" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460044" title="X-507 S3 ESD SRC členok čierna 44" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460043" title="X-507 S3 ESD SRC členok čierna 43" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460042" title="X-507 S3 ESD SRC členok čierna 42" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460041" title="X-507 S3 ESD SRC členok čierna 41" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460040" title="X-507 S3 ESD SRC členok čierna 40" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460039" title="X-507 S3 ESD SRC členok čierna 39" price="100.433" currency="EUR" unit="PÁR"/>
-      <variant code="0202088460038" title="X-507 S3 ESD SRC členok čierna 38" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460037" title="X-507 S3 ESD SRC členok čierna 37" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460036" title="X-507 S3 ESD SRC členok čierna 36" price="100.433" currency="EUR" unit="PÁR"/>
    </product>
@@ -7055,7 +7048,6 @@
    <product code="02030149" title="WILK MF ESD S1P SRC sandále">
       <variant code="0203014940048" title="WILK MF ESD S1P SRC sandále modrá 48" price="57.218" currency="EUR" unit="PÁR"/>
       <variant code="0203014940047" title="WILK MF ESD S1P SRC sandále modrá 47" price="57.218" currency="EUR" unit="PÁR"/>
-      <variant code="0203014940043" title="WILK MF ESD S1P SRC sandále modrá 43" price="57.218" currency="EUR" unit="PÁR"/>
       <variant code="0203014940041" title="WILK MF ESD S1P SRC sandále modrá 41" price="57.218" currency="EUR" unit="PÁR"/>
       <variant code="0203014940040" title="WILK MF ESD S1P SRC sandále modrá 40" price="57.218" currency="EUR" unit="PÁR"/>
       <variant code="0203014940039" title="WILK MF ESD S1P SRC sandále modrá 39" price="57.218" currency="EUR" unit="PÁR"/>
@@ -7109,7 +7101,6 @@
    </product>
    <product code="02030156" title="MIRRADA MF S1PS SR sandále HRO">
       <variant code="0203015660048" title="MIRRADA MF S1PS SR sandále HRO čierna 48" price="67.765" currency="EUR" unit="PÁR"/>
-      <variant code="0203015660047" title="MIRRADA MF S1PS SR sandále HRO čierna 47" price="67.765" currency="EUR" unit="PÁR"/>
       <variant code="0203015660046" title="MIRRADA MF S1PS SR sandále HRO čierna 46" price="67.765" currency="EUR" unit="PÁR"/>
       <variant code="0203015660045" title="MIRRADA MF S1PS SR sandále HRO čierna 45" price="67.765" currency="EUR" unit="PÁR"/>
       <variant code="0203015660044" title="MIRRADA MF S1PS SR sandále HRO čierna 44" price="67.765" currency="EUR" unit="PÁR"/>
@@ -7118,12 +7109,10 @@
       <variant code="0203015660041" title="MIRRADA MF S1PS SR sandále HRO čierna 41" price="67.765" currency="EUR" unit="PÁR"/>
       <variant code="0203015660040" title="MIRRADA MF S1PS SR sandále HRO čierna 40" price="67.765" currency="EUR" unit="PÁR"/>
       <variant code="0203015660039" title="MIRRADA MF S1PS SR sandále HRO čierna 39" price="67.765" currency="EUR" unit="PÁR"/>
-      <variant code="0203015660038" title="MIRRADA MF S1PS SR sandále HRO čierna 38" price="67.765" currency="EUR" unit="PÁR"/>
       <variant code="0203015660037" title="MIRRADA MF S1PS SR sandále HRO čierna 37" price="67.765" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02030158" title="GAMMA NEOS S1 SRC sandále">
       <variant code="0203015860050" title="GAMMA NEOS S1 SRC sandále čierna 50" price="35.459" currency="EUR" unit="PÁR"/>
-      <variant code="0203015860049" title="GAMMA NEOS S1 SRC sandále čierna 49" price="35.459" currency="EUR" unit="PÁR"/>
       <variant code="0203015860048" title="GAMMA NEOS S1 SRC sandále čierna 48" price="35.459" currency="EUR" unit="PÁR"/>
       <variant code="0203015860047" title="GAMMA NEOS S1 SRC sandále čierna 47" price="35.459" currency="EUR" unit="PÁR"/>
       <variant code="0203015860046" title="GAMMA NEOS S1 SRC sandále čierna 46" price="35.459" currency="EUR" unit="PÁR"/>
@@ -7158,7 +7147,6 @@
    <product code="02030160" title="GAMMA NEOS O1 SRC sandále">
       <variant code="0203016060048" title="GAMMA NEOS O1 SRC sandále čierna 48" price="35.293" currency="EUR" unit="PÁR"/>
       <variant code="0203016060047" title="GAMMA NEOS O1 SRC sandále čierna 47" price="35.293" currency="EUR" unit="PÁR"/>
-      <variant code="0203016060046" title="GAMMA NEOS O1 SRC sandále čierna 46" price="35.293" currency="EUR" unit="PÁR"/>
       <variant code="0203016060045" title="GAMMA NEOS O1 SRC sandále čierna 45" price="35.293" currency="EUR" unit="PÁR"/>
       <variant code="0203016060044" title="GAMMA NEOS O1 SRC sandále čierna 44" price="35.293" currency="EUR" unit="PÁR"/>
       <variant code="0203016060043" title="GAMMA NEOS O1 SRC sandále čierna 43" price="35.293" currency="EUR" unit="PÁR"/>
@@ -19116,6 +19104,7 @@
    <product code="03510039" title="MAX VIVO RFLX bunda">
       <variant code="0351003964068" title="MAX VIVO RFLX bunda černá/žltá 68" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964066" title="MAX VIVO RFLX bunda černá/žltá 66" price="44.67" currency="EUR" unit="KS"/>
+      <variant code="0351003964060" title="MAX VIVO RFLX bunda černá/žltá 60" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964056" title="MAX VIVO RFLX bunda černá/žltá 56" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964054" title="MAX VIVO RFLX bunda černá/žltá 54" price="44.67" currency="EUR" unit="KS"/>
       <variant code="0351003964052" title="MAX VIVO RFLX bunda černá/žltá 52" price="44.67" currency="EUR" unit="KS"/>
@@ -26844,6 +26833,12 @@
    </product>
    <product code="0799011399999" title="JSP Force10 Ochr.fólia na zorník PK10">
       <variant code="0799011399999" title="JSP Force10 Ochr.fólia na zorník PK10" price="27.919" currency="EUR" unit="BAL"/>
+   </product>
+   <product code="0799011799999" title="Batéria SR 502 EX 3,0 Ah">
+      <variant code="0799011799999" title="Batéria SR 502 EX 3,0 Ah" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
+   <product code="0799011899999" title="Nabíjačka batérií SR 502 EX (EU/UK)">
+      <variant code="0799011899999" title="Nabíjačka batérií SR 502 EX (EU/UK)" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0801000399999" title="LX2 postroj - M/XL">
       <variant code="0801000399999" title="LX2 postroj - M/XL" price="89.875" currency="EUR" unit="KS"/>
