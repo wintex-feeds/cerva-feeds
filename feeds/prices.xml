@@ -6173,7 +6173,6 @@
       <variant code="0202072182037" title="BK FARMER O2 CI SRC členok 37 bežová" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072182036" title="BK FARMER O2 CI SRC členok 36 bežová" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175046" title="BK FARMER O2 CI SRC členok 46 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
-      <variant code="0202072175045" title="BK FARMER O2 CI SRC členok 45 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175044" title="BK FARMER O2 CI SRC členok 44 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175043" title="BK FARMER O2 CI SRC členok 43 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175042" title="BK FARMER O2 CI SRC členok 42 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
@@ -6382,11 +6381,8 @@
    <product code="02020884" title="X-507 S3 ESD SRC členok">
       <variant code="0202088460048" title="X-507 S3 ESD SRC členok čierna 48" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460044" title="X-507 S3 ESD SRC členok čierna 44" price="100.433" currency="EUR" unit="PÁR"/>
-      <variant code="0202088460043" title="X-507 S3 ESD SRC členok čierna 43" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460042" title="X-507 S3 ESD SRC členok čierna 42" price="100.433" currency="EUR" unit="PÁR"/>
-      <variant code="0202088460041" title="X-507 S3 ESD SRC členok čierna 41" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460040" title="X-507 S3 ESD SRC členok čierna 40" price="100.433" currency="EUR" unit="PÁR"/>
-      <variant code="0202088460039" title="X-507 S3 ESD SRC členok čierna 39" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460037" title="X-507 S3 ESD SRC členok čierna 37" price="100.433" currency="EUR" unit="PÁR"/>
       <variant code="0202088460036" title="X-507 S3 ESD SRC členok čierna 36" price="100.433" currency="EUR" unit="PÁR"/>
    </product>
