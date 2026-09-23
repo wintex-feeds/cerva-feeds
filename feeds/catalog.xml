@@ -1659,7 +1659,8 @@
             <color code="99" title="-"/>
          </colors>
          <standards>
-            <standard code="EN 420" title="EN 420"/>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN 388" title="EN 388 | 3121X"/>
          </standards>
          <brand>CERV</brand>
@@ -85464,6 +85465,9 @@ Filtr proti plynům, výparům a částicím 6092 chrání proti organickým vý
          </standards>
          <brand>3M</brand>
          <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTc0NnxpbWFnZS9wbmd8OTM3MjI4NzQwMjAxNC8wNzA0MDIyMF8zTUZpbHRyX0NGMzJEVF80MDQ1RV9BQkVLMlAzX1IucG5nfDQwYWFiMmJlNGFjM2EzMDFjMDdhMjBmMmM4ZWI2ZWEyYmRiNDYzNGQ2ZjRlZjQ2ZDI2MzUyMDMyNDgzYjcwZTk</path>
+            </image>
          </images>
          <unit>KS</unit>
       </product>
@@ -91357,6 +91361,15 @@ Nasaďte si 3M™ Versaflo™ Kryt zorníku M-967 a 3M™ Versaflo™ Štíty na
          </standards>
          <brand>SUND</brand>
          <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDM2MHxpbWFnZS9wbmd8OTM3MjI4MjcxNjE5MC8wNzk5MDExN19CYXR0ZXJ5X1NSNTAyX1IwNi0yMDcwXzAwMS5wbmd8NDRlYjFkMTE4ZWRmY2VmYmE5MjMwNDBkNDM5MTZhODRlYzgyYTYwNzU0Mzg4MGY4ZmZlZmY1ZWJlZTA1ZDljOA</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0NTg2fGltYWdlL3BuZ3w5MzcyMjgzNzY0NzY2LzA3OTkwMTE3X0JhdHRlcnlfU1I1MDJfUjA2LTIwNzBfMDAzLnBuZ3xhNzdkNmI2ZjkxZWU2MzJmNzcyOTM1Nzg4NGI1OTNlZmNjOWMwMjE5YjAzZjBiNTNkMTA4NTdhMGM3Y2I2YzI2</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0NjI4fGltYWdlL3BuZ3w5MzcyMjg0NDUyODk0LzA3OTkwMTE3X0JhdHRlcnlfU1I1MDJfUjA2LTIwNzBfMDA5LnBuZ3w3N2Y3YmI1OGY0NzBjYjQ0MDMxYjg4NTFlOGM5YjY1NDY0OGZmMTM4MzJmOTc5OGNiOGQ1MzZkNTc2YjU5NTZh</path>
+            </image>
          </images>
          <unit>KS</unit>
       </product>
@@ -91374,6 +91387,9 @@ Nasaďte si 3M™ Versaflo™ Kryt zorníku M-967 a 3M™ Versaflo™ Štíty na
          </standards>
          <brand>SUND</brand>
          <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzI1NnxpbWFnZS9wbmd8OTM3MjI4NjM4NjIwNi8wNzk5MDExOF9CYXR0ZXJ5X0NoYXJnZXJfU1I1MDJfUjA2LTIwODFfMDAxLnBuZ3w3YzY0ZGY5MzM5MjY4MmYxNTYyODZkNDdkNTYzMGU4OGZiNzc3YzFmMzE3ZWM4Mjk5ZWY0ZDliZTZhMDRkYmFh</path>
+            </image>
          </images>
          <unit>KS</unit>
       </product>
@@ -92320,28 +92336,6 @@ Dĺžka (m) – hmotnosť (kg):
          <images>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w1MDY4fGltYWdlL3dlYnB8OTI1MTAwMDcxMzI0Ni8wODA0MDAxNV9MQl8xMV8wNS1sYi0xMS50aWYucG5nfDg1ZTY2MjU3NDkzNTc3MTA2N2Y2MzVkZTZhMDQzOTk4MTQ1MjliNzY5MTAzMzNkOTZlZjkyNTMyZGNlMTZmMTY</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
-         <code>0804002899999</code>
-         <title>JINX 4 polohovací lanyard, karabíny 1,5m</title>
-         <description>Fall safe popruhový lanyard JINX 4 normy: EN 354, EN 362 dĺžka systému: 1,5 m nosnosť: 100 kg hmotnosť: 1 kg CHARAKTERISTIKA: popruhový lanyard s karabínami 1,5m, spojovací prostriedok z polyesterového popruhu o šírke 2 popruhov sú karabíny FS33502L twist lock, pevnosť popruhov: 25 kN POUŽITIE: telekomunikácie, veterné elektrárne, strechy, mobilné plošiny, oceľové stĺpy, oceľové konštrukcie, lešenie</description>
-         <categoryPath>Produkty/Ochrana proti pádu/Popruhy</categoryPath>
-         <packaging></packaging>
-         <sizes>
-         </sizes>
-         <colors>
-         </colors>
-         <standards>
-            <standard code="EN 354" title="EN 354"/>
-            <standard code="EN 362" title="EN 362"/>
-         </standards>
-         <brand>FALL</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4MTEwfGltYWdlL3dlYnB8OTI0NjM4NDc4MzM5MC8wODA0MDAyOF9KSU5YXzRfRlMwMzIudGlmLnBuZ3wyMGNlMDllODI2NDI4NTMzM2VjNDRhY2FhZGM0OGM5YzAzN2YyN2VlNDQ4MmE5NjU1NTUzYjlmMGMzM2MzZjFl</path>
             </image>
          </images>
          <unit>KS</unit>

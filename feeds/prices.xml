@@ -5925,6 +5925,7 @@
    <product code="02020636" title="RAVEN XT S1P SRC členok">
       <variant code="0202063660048" title="RAVEN XT S1P SRC členok 48 čierna" price="42.178" currency="EUR" unit="PÁR"/>
       <variant code="0202063660047" title="RAVEN XT S1P SRC členok 47 čierna" price="42.178" currency="EUR" unit="PÁR"/>
+      <variant code="0202063660044" title="RAVEN XT S1P SRC členok 44 čierna" price="42.178" currency="EUR" unit="PÁR"/>
       <variant code="0202063660042" title="RAVEN XT S1P SRC členok 42 čierna" price="42.178" currency="EUR" unit="PÁR"/>
       <variant code="0202063660041" title="RAVEN XT S1P SRC členok 41 čierna" price="42.178" currency="EUR" unit="PÁR"/>
       <variant code="0202063660039" title="RAVEN XT S1P SRC členok 39 čierna" price="42.178" currency="EUR" unit="PÁR"/>
@@ -27097,9 +27098,6 @@
    </product>
    <product code="0804001599999" title="LB 11 spoj. prostriedok+karabíny 1,5m">
       <variant code="0804001599999" title="LB 11 spoj. prostriedok+karabíny 1,5m" price="30.971" currency="EUR" unit="KS"/>
-   </product>
-   <product code="0804002899999" title="JINX 4 polohovací lanyard, karabíny 1,5m">
-      <variant code="0804002899999" title="JINX 4 polohovací lanyard, karabíny 1,5m" price="50.724" currency="EUR" unit="KS"/>
    </product>
    <product code="0804003099999" title="JINX 1 polohovací lanyard,karabína 2m">
       <variant code="0804003099999" title="JINX 1 polohovací lanyard,karabína 2m" price="59.253" currency="EUR" unit="KS"/>
