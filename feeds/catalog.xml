@@ -30127,7 +30127,7 @@ Panda Safety – synonymum pre spoľahlivú a vysoko pohodlnú ergonomickú obuv
             <color code="80" title="biela"/>
          </colors>
          <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | OB E SRA"/>
+            <standard code="EN ISO 20347" title="EN ISO 20347 | OB E A SR"/>
          </standards>
          <brand>CERV</brand>
          <images>
@@ -30168,7 +30168,7 @@ Panda Safety – synonymum pre spoľahlivú a vysoko pohodlnú ergonomickú obuv
             <color code="80" title="biela"/>
          </colors>
          <standards>
-            <standard code="EN ISO 20347" title="EN ISO 20347 | OB E SRA"/>
+            <standard code="EN ISO 20347" title="EN ISO 20347 | OB E SR"/>
          </standards>
          <brand>CERV</brand>
          <images>
@@ -43948,6 +43948,43 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NDY4fGltYWdlL3dlYnB8OTI2NzgxMjU2NTAyMi8wMzAzMDE3NV9FTUVSVE9OX1NUUl9ib2R5d2FybWVyX2ZsYXRsYXlfRFNDXzU3NTIucG5nfDk5MjhkYWZmYTBiYWM3NDhhNzg0MzYzYzZmMTNmNzU0MmMwZTQ2N2QwNDVkYzkyYTNjMDE3MDkwM2M5MjM1MDE</path>
+            </image>
+         </images>
+         <unit>KS</unit>
+      </product>
+      <product>
+         <code>03030180</code>
+         <title>ORIBI HV 1 vesta</title>
+         <description>• Hi-Vis bodywarmer with printed segmented reflective stripes • 2 side and 2 chest zip pockets • 2 inside pockets • bottom hem with drawstring • ID holder on left chest pocket</description>
+         <categoryPath>Produkty/Odevy/Mikiny, svetre, vesty/Vesty</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="000" title="XS"/>
+            <size code="001" title="S"/>
+            <size code="002" title="M"/>
+            <size code="003" title="L"/>
+            <size code="004" title="XL"/>
+            <size code="005" title="XXL"/>
+            <size code="006" title="3XL"/>
+            <size code="007" title="4XL"/>
+            <size code="008" title="5XL"/>
+         </sizes>
+         <colors>
+            <color code="70" title="žltá"/>
+            <color code="90" title="oranžová"/>
+         </colors>
+         <standards>
+            <standard code="EN ISO 13688" title="EN ISO 13688"/>
+            <standard code="EN 14058" title="EN 14058 | 4 3 I cler (m.K/W)Icler [R] 0,221 m²K/w"/>
+            <standard code="EN ISO 20471" title="EN ISO 20471 | Class: 1"/>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5ODE0fGltYWdlL3dlYnB8OTM2NzQ0NzY5OTQ4Ni8wMzAzMDE4MF9PUklCSV9IVjFfYm9keXdhcm1lcl9ibGFja19vcmFuZ2VfRFNDXzIzNTcucG5nfDc1MzUyMjI2YjhjZDY1NjRjMzgxZGFkMDM3ZThmYTY5MGZjYWRiMTkwZWUwZTg1MWM3OGQ1YzUwYjlhY2MyYzQ</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NjY0fGltYWdlL3dlYnB8OTM2NzQ5NDY4ODc5OC8wMzAzMDE4MF9PUklCSV9IVjFfYm9keXdhcm1lcl9ibGFja195ZWxsb3dfRFNDXzIzNzEucG5nfDRhNjgzM2RjZmMzNThlZDNkNzg0MmZiZTk4Y2MxZTM5ODYzYmIzZTYwYjMzNzU3NjkwMDY2MjRlMjRiMmZmOGM</path>
             </image>
          </images>
          <unit>KS</unit>
