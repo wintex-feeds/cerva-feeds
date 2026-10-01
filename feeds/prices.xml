@@ -5250,6 +5250,30 @@
       <variant code="0201065260037" title="SIGN-D S7S HRO poltopánka čierna 37" price="74.985" currency="EUR" unit="PÁR"/>
       <variant code="0201065260036" title="SIGN-D S7S HRO poltopánka čierna 36" price="74.985" currency="EUR" unit="PÁR"/>
    </product>
+   <product code="02010657" title="SIGN-L O1 ESD poltopánka">
+      <variant code="0201065780048" title="SIGN-L O1 ESD poltopánka biela 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065780047" title="SIGN-L O1 ESD poltopánka biela 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065780046" title="SIGN-L O1 ESD poltopánka biela 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065780045" title="SIGN-L O1 ESD poltopánka biela 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065780044" title="SIGN-L O1 ESD poltopánka biela 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065780043" title="SIGN-L O1 ESD poltopánka biela 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065780042" title="SIGN-L O1 ESD poltopánka biela 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065780041" title="SIGN-L O1 ESD poltopánka biela 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065780040" title="SIGN-L O1 ESD poltopánka biela 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065780039" title="SIGN-L O1 ESD poltopánka biela 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065780038" title="SIGN-L O1 ESD poltopánka biela 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760048" title="SIGN-L O1 ESD poltopánka čierna 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760047" title="SIGN-L O1 ESD poltopánka čierna 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760046" title="SIGN-L O1 ESD poltopánka čierna 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760045" title="SIGN-L O1 ESD poltopánka čierna 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760044" title="SIGN-L O1 ESD poltopánka čierna 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760043" title="SIGN-L O1 ESD poltopánka čierna 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760042" title="SIGN-L O1 ESD poltopánka čierna 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760041" title="SIGN-L O1 ESD poltopánka čierna 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760040" title="SIGN-L O1 ESD poltopánka čierna 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760039" title="SIGN-L O1 ESD poltopánka čierna 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065760038" title="SIGN-L O1 ESD poltopánka čierna 38" price="Bude upresnené" currency="" unit="PÁR"/>
+   </product>
    <product code="02010665" title="MATT ESD S3S CI FO SR poltopánka">
       <variant code="0201066560048" title="MATT ESD S3S CI FO SR poltopánka čier.48" price="132.8" currency="EUR" unit="PÁR"/>
       <variant code="0201066560047" title="MATT ESD S3S CI FO SR poltopánka čier.47" price="132.8" currency="EUR" unit="PÁR"/>
@@ -11572,7 +11596,6 @@
       <variant code="0302020560003" title="CHENA CRV nohavice čierna L" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560002" title="CHENA CRV nohavice čierna M" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560001" title="CHENA CRV nohavice čierna S" price="36.643" currency="EUR" unit="KS"/>
-      <variant code="0302020514006" title="CHENA CRV nohavice olivová 3XL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020514005" title="CHENA CRV nohavice olivová XXL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020514004" title="CHENA CRV nohavice olivová XL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020514003" title="CHENA CRV nohavice olivová L" price="36.643" currency="EUR" unit="KS"/>

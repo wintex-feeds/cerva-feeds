@@ -9969,6 +9969,7 @@
          </colors>
          <standards>
             <standard code="EN ISO 21420" title="EN ISO 21420"/>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN 388" title="EN 388 | 3121X"/>
          </standards>
          <brand>CERV</brand>
@@ -10010,6 +10011,7 @@
             <color code="80" title="biela"/>
          </colors>
          <standards>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN 388" title="EN 388 | 3121X"/>
          </standards>
@@ -10572,6 +10574,7 @@
             <color code="99" title="-"/>
          </colors>
          <standards>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN 388" title="EN 388 | 3X43E"/>
          </standards>
@@ -14666,6 +14669,7 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             <color code="99" title="-"/>
          </colors>
          <standards>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN ISO 21420" title="EN ISO 21420"/>
             <standard code="EN 388" title="EN 388 | 4342B"/>
          </standards>
@@ -22566,6 +22570,44 @@ UNO S3S ESD LG SR is an ideal choice for everyday work where comfort, safety, an
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjI2NHxpbWFnZS93ZWJwfDkzNjc0MDIwODY0MzAvMDIwMTA2NTJfMDIwMjA5MTRfMDIxMDAwMDlfU0lHTl9EX0luc29sZV9EU0NfOTMwNy5wbmd8YzUxOWNiNzA2OTI3YjBiODdiOTQ2NWJjNTk4NDJjZDdlM2Q4NzUxYTU1YzFiMzU3OTlhOTE1NTRmOGMwNmJkNg</path>
+            </image>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
+         <code>02010657</code>
+         <title>SIGN-L O1 ESD poltopánka</title>
+         <description>Lightweight and comfortable work footwear with a modern, sporty design • PU-coated leather upper for easy maintenance • Extensive perforation for enhanced breathability • Lightweight, shock-absorbing EVA/rubber outsole • SR slip resistance • HRO heat-resistant outsole • FO resistance to fuel oil • ESD properties for workplaces requiring control of electrostatic discharge</description>
+         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="038" title="38"/>
+            <size code="039" title="39"/>
+            <size code="040" title="40"/>
+            <size code="041" title="41"/>
+            <size code="042" title="42"/>
+            <size code="043" title="43"/>
+            <size code="044" title="44"/>
+            <size code="045" title="45"/>
+            <size code="046" title="46"/>
+            <size code="047" title="47"/>
+            <size code="048" title="48"/>
+         </sizes>
+         <colors>
+            <color code="60" title="čierna"/>
+            <color code="80" title="biela"/>
+         </colors>
+         <standards>
+            <standard code="EN ISO 20347" title="EN ISO 20347 | O1 HRO FO SR"/>
+            <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
+         </standards>
+         <brand>CERV</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjQzNHxpbWFnZS93ZWJwfDkzNjcwMTk0NTQ0OTQvMDIwMTA2NTJfU0lHTl9MX08xX0VTRF9sb3dfd2hpdGVfRFNDXzc4OTEucG5nfGQ4YTk2OGNkOWM4MDFhMDRkZWY2Njg2NjdjMmI1YWM2ZTY4NzRhMDFhM2QwYWExM2ZkMDMzZjg3YjNhNzhiNzE</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjk3NHxpbWFnZS93ZWJwfDkzNjcxNTExODE4NTQvMDIwMTA2NTJfU0lHTl9MX08xX0VTRF9sb3dfYmxhY2tfRFNDXzc4ODkucG5nfGFkNzAwMTU5NmZhN2NmZTUyNmRhOGRhNDc4YmYyZGI3ZWRjOTY2OGU5ZjZiNjVlYzYyZWVmZGQ1NDhhNjhhYmY</path>
             </image>
          </images>
          <unit>PÁR</unit>
