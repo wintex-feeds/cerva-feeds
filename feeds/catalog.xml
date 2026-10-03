@@ -54406,37 +54406,6 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
          <unit>KS</unit>
       </product>
       <product>
-         <code>03210006</code>
-         <title>Zdravot. dámsk.blúza zúbky</title>
-         <description/>
-         <categoryPath>Produkty/Odevy/Tričká a košele/Košele</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="000" title="XS"/>
-            <size code="001" title="S"/>
-            <size code="002" title="M"/>
-            <size code="003" title="L"/>
-            <size code="004" title="XL"/>
-            <size code="005" title="XXL"/>
-            <size code="006" title="3XL"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyMDAzNHxpbWFnZS93ZWJwfDkyNDk5OTcwOTQ5NDIvMDMyMTAwMDZfVHNoaXJ0X2JhbWJpbmFfdGVldGgudGlmLnBuZ3xkMzk2NWYxNGJhZjJhNzljMjYwODUxNzkxMGY4YzA4NGFhMzE5OWFjYmEzZGFlMTBhYmVmNDkwMDc5OGNlNDg3</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDA2NHxpbWFnZS93ZWJwfDkyNDk5OTc3ODMwNzAvMDMyMTAwMDZfVHNoaXJ0X2JhbWJpbmFfdGVldGhfbW9kZWwudGlmLnBuZ3w1NzM2OGFiZjI2OWQ1ODAzNDVmM2E1MDI0ODYyYWJmMzEwYjc3YmIxMTE4ZmU0ZTYwYzRhNTBiOWIzY2E1NmMy</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
          <code>03210007</code>
          <title>Zdravot. dámská blúza chobotničky</title>
          <description/>
@@ -68545,7 +68514,10 @@ positioned so that the headset is easy to plug in and unplug in all situations.<
          <brand>CERV</brand>
          <images>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4Mjk2fGltYWdlL3dlYnB8OTI0OTUyOTAwNDA2Mi8wNDAzMDAzOV9FRF9ESVNQRU5TRVJfbG9nb0NlcnZhLnRpZi5wbmd8NGFiY2IwYWIxYjA0Y2FmYWI0MjE2OTYwMTMwOWMwNTI3MDk3MmIwMjA1NmMwMjI2OGZmZTczYzNkZGQzZWZhOA</path>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MzEwfGltYWdlL3BuZ3w5Mzc1NDg4MzExMzI2LzA0MDMwMDM5X0VEX0RJU1BFTlNFUl9EU0NfMzY4NV8wMS5wbmd8YmZmOTNjOTdlMDMyNGZjMzU5NGJjNmJlNTc4Yjk2ZmY4ZTdiOTJjYTExZjA1MjIxZTMyYjg2ZTc5ZjFjMmNhNQ</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDI0OHxpbWFnZS9wbmd8OTM3NTQ4ODg2ODM4Mi8wNDAzMDAzOV9FRF9ESVNQRU5TRVJfRFNDXzM2ODUucG5nfDlkMDM1ZWIzYzU4NDM2OTkxNDQ5Yjc4MzE2YTFiYjc1ODM0OTgwMWE2NGVmMDBjMWZlYjg3ZWRjZjU0YWJjYmI</path>
             </image>
          </images>
          <unit>SET</unit>
