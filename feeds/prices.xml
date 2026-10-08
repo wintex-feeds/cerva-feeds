@@ -11621,7 +11621,6 @@
    </product>
    <product code="03020222" title="FF UDO BE-01-006 nohavice náprsenka">
       <variant code="0302022241062" title="FF UDO BE-01-006 nohavice náprse navy 62" price="16.776" currency="EUR" unit="KS"/>
-      <variant code="0302022241060" title="FF UDO BE-01-006 nohavice náprse navy 60" price="16.776" currency="EUR" unit="KS"/>
       <variant code="0302022241058" title="FF UDO BE-01-006 nohavice náprse navy 58" price="16.776" currency="EUR" unit="KS"/>
       <variant code="0302022241054" title="FF UDO BE-01-006 nohavice náprse navy 54" price="16.776" currency="EUR" unit="KS"/>
       <variant code="0302022241050" title="FF UDO BE-01-006 nohavice náprse navy 50" price="16.776" currency="EUR" unit="KS"/>
@@ -20027,7 +20026,6 @@
       <variant code="03520008N0046" title="BILBAO HV nohavice navy/oranžová 46" price="24.786" currency="EUR" unit="KS"/>
       <variant code="0352000830064" title="BILBAO HV nohavice sivá/žltá 64" price="24.786" currency="EUR" unit="KS"/>
       <variant code="0352000830062" title="BILBAO HV nohavice sivá/žltá 62" price="24.786" currency="EUR" unit="KS"/>
-      <variant code="0352000830060" title="BILBAO HV nohavice sivá/žltá 60" price="24.786" currency="EUR" unit="KS"/>
       <variant code="0352000830058" title="BILBAO HV nohavice sivá/žltá 58" price="24.786" currency="EUR" unit="KS"/>
       <variant code="0352000830056" title="BILBAO HV nohavice sivá/žltá 56" price="24.786" currency="EUR" unit="KS"/>
       <variant code="0352000830054" title="BILBAO HV nohavice sivá/žltá 54" price="24.786" currency="EUR" unit="KS"/>
@@ -21599,13 +21597,13 @@
       <variant code="0352016110044" title="STIRLING STRETCH zimné nohavice zel. 44" price="47.358" currency="EUR" unit="KS"/>
       <variant code="0352016110042" title="STIRLING STRETCH zimné nohavice zel. 42" price="47.358" currency="EUR" unit="KS"/>
    </product>
-   <product code="03520174" title="SIP 1RX3 protipor.nohavice">
-      <variant code="0352017462005" title="SIP 1RX3 protipor.nohav. antr/čierna XXL" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0352017462004" title="SIP 1RX3 protipor.nohav. antr/čierna XL" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0352017462003" title="SIP 1RX3 protipor.nohav. antr/čierna L" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0352017462002" title="SIP 1RX3 protipor.nohav. antr/čierna M" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0352017462001" title="SIP 1RX3 protipor.nohav. antr/čierna S" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0352017462000" title="SIP 1RX3 protipor.nohav. antr/čierna XS" price="Bude upresnené" currency="" unit="KS"/>
+   <product code="03520174" title="SIP Ventoux 3 protipor.nohavice">
+      <variant code="0352017462005" title="SIP Ventoux 3 protipor.nohavice čier.XXL" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0352017462004" title="SIP Ventoux 3 protipor.nohavice čier.XL" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0352017462003" title="SIP Ventoux 3 protipor.nohavice čier.L" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0352017462002" title="SIP Ventoux 3 protipor.nohavice čier.M" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0352017462001" title="SIP Ventoux 3 protipor.nohavice čier.S" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0352017462000" title="SIP Ventoux 3 protipor.nohavice čier.XS" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="03530001" title="REUSEL nohavice náprs.">
       <variant code="03530001A0064" title="REUSEL nohavice náp antracit/červená 64" price="50.583" currency="EUR" unit="KS"/>
