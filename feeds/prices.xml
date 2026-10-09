@@ -4683,6 +4683,7 @@
       <variant code="02010616W6048" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 48" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6047" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 47" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6046" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 46" price="49.83" currency="EUR" unit="PÁR"/>
+      <variant code="02010616W6044" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 44" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6043" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 43" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6042" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 42" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6041" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 41" price="49.83" currency="EUR" unit="PÁR"/>
@@ -11595,6 +11596,7 @@
       <variant code="0302020582003" title="CHENA CRV nohavice bežová L" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020582002" title="CHENA CRV nohavice bežová M" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560005" title="CHENA CRV nohavice čierna XXL" price="36.643" currency="EUR" unit="KS"/>
+      <variant code="0302020560004" title="CHENA CRV nohavice čierna XL" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560003" title="CHENA CRV nohavice čierna L" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560002" title="CHENA CRV nohavice čierna M" price="36.643" currency="EUR" unit="KS"/>
       <variant code="0302020560001" title="CHENA CRV nohavice čierna S" price="36.643" currency="EUR" unit="KS"/>
@@ -23026,6 +23028,7 @@
       <variant code="0357001070052" title="FERROL HV šortky žltá 52" price="24.125" currency="EUR" unit="KS"/>
       <variant code="0357001070050" title="FERROL HV šortky žltá 50" price="24.125" currency="EUR" unit="KS"/>
       <variant code="0357001070048" title="FERROL HV šortky žltá 48" price="24.125" currency="EUR" unit="KS"/>
+      <variant code="0357001070046" title="FERROL HV šortky žltá 46" price="24.125" currency="EUR" unit="KS"/>
    </product>
    <product code="03570011" title="GREENDALE šortky">
       <variant code="03570011A5064" title="GREENDALE šortky antracit/limetková 64" price="23.33" currency="EUR" unit="KS"/>
@@ -23642,6 +23645,9 @@
    </product>
    <product code="0402002599999" title="PELTOR - sluch. H540A-411-SV/H10A">
       <variant code="0402002599999" title="PELTOR - sluch. H540A-411-SV/H10A" price="31.41" currency="EUR" unit="KS"/>
+   </product>
+   <product code="0402002699999" title="PELTOR - sluch. H540A-461-GB/H10A">
+      <variant code="0402002699999" title="PELTOR - sluch. H540A-461-GB/H10A" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0402003799999" title="PELTOR - sluch. H510B-403-GU/H9B">
       <variant code="0402003799999" title="PELTOR - sluch. H510B-403-GU/H9B" price="25.29" currency="EUR" unit="KS"/>
