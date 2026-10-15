@@ -42904,7 +42904,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
          <brand>CERV</brand>
          <images>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mzk4fGltYWdlL3dlYnB8OTI1MDY4NzcxMzMxMC8wMzAzMDA0OF9RVU9MTF92ZXN0X3llbGxvd19DRVJWQSAwNDIwMTdfMTA4OTYudGlmLnBuZ3xkMTU1OTU3ODhiZGVlZTlmMGIwMmY2ZWQ1Njk3NzhkMzg5MGU1NTYwYTc0YTVlZmExNDhhNWUzNGMyYjZkZjQ5</path>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mzc2fGltYWdlL3BuZ3w5Mzc5OTAwMjYwMzgyLzAzMDMwMDQ4X1FVT0xMX3Zlc3RfeWVsbG93X0NFUlZBXzA0MjAxN18xMDg5Ni50aWYucG5nfDAyMmQzY2U3YjBmMmI4MzY3OGMyOWMzNzMyNjQzYWY3MmYyYWMwMDQ1MjQxOGMzNjc1MjcxY2IxMWExYzNlZmY</path>
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDg3MnxpbWFnZS93ZWJwfDkyNDYwMzczNzcwNTQvMDMwMzAwNDhfUVVPTExfdmVzdF9vcmFuZ2VfQ0VSVkEgMDQyMDE3XzEwODk2LnRpZi5wbmd8Mzc2YjU4M2ZkNTY4YTMxNjEzYTE4ODU0MjIzMGQ1NGE5YmJhYjhkMjFjYjVlMzM4ZWUzM2ExMjIyNTU2YzE2Mg</path>
@@ -66551,8 +66551,8 @@ Polštářky lze snadno vyměnit</description>
       <product>
          <code>0402002699999</code>
          <title>PELTOR - sluch. H540A-461-GB/H10A</title>
-         <description/>
-         <categoryPath>Produkty/Ochrana sluchu/Musľové chrániče</categoryPath>
+         <description>3M™ PELTOR™ Optime™ III Earmuffs are our high performance hearing protectors for use in extremely loud environments, reducing noise levels by up to 34 dB; they have a double casing that minimises resonance and comfortable soft, wide cushions to decrease pressure around the ears; earmuffs are tested in accordance with EN 352:2020, our earmuffs reduce noise levels up to 34 dB; they’re ideal for use in extremely loud environments such as airports, power stations, marine engine rooms and print works; created with a double-casing technology that minimises resonance in the holder casing that results in maximum high-frequency attenuation; the large space inside the cups helps reduce heat and moisture build-up, and the soft, wide foam cushions offer low contact pressure around the ears, making them comfortable to wear for long periods and increasing compliance through user wear preference</description>
+         <categoryPath>Produkty/Ochrana sluchu/Musľové chrániče/Pasívne</categoryPath>
          <packaging></packaging>
          <sizes>
          </sizes>
@@ -66562,6 +66562,9 @@ Polštářky lze snadno vyměnit</description>
          </standards>
          <brand>3M</brand>
          <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjQzOHxpbWFnZS9wbmd8OTM3OTgwNjcwNzc0Mi8wNDAyMDAyNl9QZWx0b3JfSDU0MEFfNDYxR0JfRWFybXVmZl9oZWFkYl9IVi5wbmd8YjVjMzk4OWQ1MTI5OGIyMzVhNTk4MzJjMGVhMmY0MDJhNjQyOTU0MWZmZDRiOGIwZmM3YjY4ZGZmNWUyOGJmNQ</path>
+            </image>
          </images>
          <unit>KS</unit>
       </product>
