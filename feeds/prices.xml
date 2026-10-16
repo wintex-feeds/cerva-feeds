@@ -7785,7 +7785,6 @@
    </product>
    <product code="02040150" title="RAVEN XT O2 CI SR SC poloholeň.obuv">
       <variant code="0204015060050" title="RAVEN XT O2 CI SR SC poloholeň 50 čierna" price="44.23" currency="EUR" unit="PÁR"/>
-      <variant code="0204015060049" title="RAVEN XT O2 CI SR SC poloholeň 49 čierna" price="44.23" currency="EUR" unit="PÁR"/>
       <variant code="0204015060048" title="RAVEN XT O2 CI SR SC poloholeň 48 čierna" price="44.23" currency="EUR" unit="PÁR"/>
       <variant code="0204015060047" title="RAVEN XT O2 CI SR SC poloholeň 47 čierna" price="44.23" currency="EUR" unit="PÁR"/>
       <variant code="0204015060045" title="RAVEN XT O2 CI SR SC poloholeň 45 čierna" price="44.23" currency="EUR" unit="PÁR"/>
@@ -25127,7 +25126,6 @@
       <variant code="0601013679999" title="ALPINWORKER PRO prilba WR nevent.HV žltá" price="43.692" currency="EUR" unit="KS"/>
       <variant code="0601013670999" title="ALPINWORKER PRO prilba WR neventil žltá" price="39.959" currency="EUR" unit="KS"/>
       <variant code="0601013661999" title="ALPINWORKER PRO prilba WR neventil.antr" price="39.959" currency="EUR" unit="KS"/>
-      <variant code="0601013660999" title="ALPINWORKER PRO prilba WR nevent. čierna" price="39.959" currency="EUR" unit="KS"/>
       <variant code="0601013640999" title="ALPINWORKER PRO prilba WR neventil modrá" price="39.959" currency="EUR" unit="KS"/>
    </product>
    <product code="06010138" title="JSP EVO Lite prilba WR neventilovaná">
@@ -25318,6 +25316,12 @@
    <product code="06030034" title="3M First Base+ Bump Cap Micro Peak 25mm">
       <variant code="0603003442999" title="3M First Base+ Bump Cap Micro Peak 25blu" price="Bude upresnené" currency="" unit="KS"/>
    </product>
+   <product code="06030035" title="JSP HARDCAP AEROLITE 60° 2,5cm">
+      <variant code="0603003580999" title="JSP HARDCAP AEROLITE 60° 2,5cm biela -" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0603003579999" title="JSP HARDCAP AEROLITE 60° 2,5cm HV žltá -" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0603003541999" title="JSP HARDCAP AEROLITE 60° 2,5cm navy -" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0603003520999" title="JSP HARDCAP AEROLITE 60° 2,5cm červená -" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
    <product code="0604002299999" title="LAS remienok k prilbe s kov.sponou">
       <variant code="0604002299999" title="LAS remienok k prilbe s kov.sponou" price="5.52" currency="EUR" unit="KS"/>
    </product>
@@ -25494,6 +25498,12 @@
    </product>
    <product code="0604012999999" title="JSP EVO VISTA sada klipov na čelovku">
       <variant code="0604012999999" title="JSP EVO VISTA sada klipov na čelovku" price="Bude upresnené" currency="" unit="KS"/>
+   </product>
+   <product code="06040130" title="JSP HARDCAP AEROLITE 60° Cover 2,5 cm">
+      <variant code="0604013080999" title="JSP HARDCAP AEROLITE 60° Cover 2,5 biela" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0604013079999" title="JSP HARDCAP AEROLITE 60° Cov.2,5 HV žltá" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0604013041999" title="JSP HARDCAP AEROLITE 60° Cover 2,5 navy" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0604013020999" title="JSP HARDCAP AEROLITE 60° Cover 2,5červ" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0701000199999" title="3M 8710 resp.FFP1">
       <variant code="0701000199999" title="3M 8710 resp.FFP1" price="1.23" currency="EUR" unit="KS"/>
