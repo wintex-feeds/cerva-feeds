@@ -34072,6 +34072,97 @@
       <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wzNTEwNjB8aW1hZ2UvanBlZ3w4OTk5ODY2NDk5MTAyLzAxMDUwMDE4OTlfUlVGRl9uaXRyaWxfZGlwcF9nbG92ZXMtMDEuanBnfDIxNjg0NzliNmY0N2EzOWM3ZmUxNDk1YzgwZDdlZWIxZTYzMmRmNTcxMDMzZjc0ZTVjN2I1MGJhMTA2YjQ1MGQ</IMGURL_ALTERNATIVE>
    </SHOPITEM>
    <SHOPITEM>
+      <ITEM_ID>0105001899080</ITEM_ID>
+      <PRODUCTNAME>RUFF ruk. nitril polomáč.tuhá manžeta</PRODUCTNAME>
+      <PRODUCT>RUFF ruk. nitril polomáč.tuhá manžet - 8</PRODUCT>
+      <DESCRIPTION>• rukavice šité z bavlneného úpletu • polomáčané v nitrile • pevná manžeta</DESCRIPTION>
+      <URL>/sk/sk/ruff-ruk.-nitril-polomac.tuha-manzet-8/p/01050018?cl=99&amp;s=01-080</URL>
+      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTAzNjAxfGltYWdlL3BuZ3w5MDIyNDk3ODgyMTQyLzAxMDUwMDE4X1JVRkZfQ0VSVkFfMjAxNl8xNDQ5NV9hbGxfMjAxOS50aWYucG5nfDUxMTY2MDYyNzMwY2MxMzNiYzU1ZjQwYmEyOTQ3ZmMwZGU5MWU2M2M2YzZiODJiNDEzNTQ1OWMxMmE1MWQzNTg</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Nová veľkosť</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Veľkosť</PARAM_NAME>
+         <VAL>8</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba</PARAM_NAME>
+         <VAL>-</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>modrá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 21420:2020</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 388:2016+A1:2018 | 4211X</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Materiál máčania</PARAM_NAME>
+         <VAL>nitril</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Materiál rukavíc</PARAM_NAME>
+         <VAL>bavlna, Pletený</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Materiál manžety</PARAM_NAME>
+         <VAL>bavlna, Pletený</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Typ manžety</PARAM_NAME>
+         <VAL>rukavice</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Oblasť máčania</PARAM_NAME>
+         <VAL>3/4</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>MOQ</PARAM_NAME>
+         <VAL>1 PÁR</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>EN 20471</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Šité rukavice</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Rukavice</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Cutting</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Nepříznivé počasí</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Máčané a povrstvené</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Mechanické</VAL>
+      </PARAM>
+      <MANUFACTURER>CERVA GROUP a.s.</MANUFACTURER>
+      <MANUFACTURER_POSTAL_ADDRESS>Průmyslová 483, 252 61 Jeneč, Czech Republic</MANUFACTURER_POSTAL_ADDRESS>
+      <MANUFACTURER_ELECTRONIC_ADDRESS/>
+      <CATEGORYTEXT>Produkty | Rukavice | Máčané a povrstvené | Šité rukavice</CATEGORYTEXT>
+      <EAN>8591806179226</EAN>
+      <ITEMGROUP_ID>01050018</ITEMGROUP_ID>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wzNTEwNjB8aW1hZ2UvanBlZ3w4OTk5ODY2NDk5MTAyLzAxMDUwMDE4OTlfUlVGRl9uaXRyaWxfZGlwcF9nbG92ZXMtMDEuanBnfDIxNjg0NzliNmY0N2EzOWM3ZmUxNDk1YzgwZDdlZWIxZTYzMmRmNTcxMDMzZjc0ZTVjN2I1MGJhMTA2YjQ1MGQ</IMGURL_ALTERNATIVE>
+   </SHOPITEM>
+   <SHOPITEM>
       <ITEM_ID>0105002599100</ITEM_ID>
       <PRODUCTNAME>ANSELL  32-105 Hynit</PRODUCTNAME>
       <PRODUCT>ANSELL  32-105/100 Hynit</PRODUCT>
@@ -212712,6 +212803,10 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
       <DESCRIPTION>• zimné zateplené nepremokavé rukavice s priedušnou membránou • dlaň polyester- PU • chrbát z pružného nylonového úpletu spevneného PU koženkou • podšívka v dlani polyester/bambus • na chrbte polyesterový izolačný materiál • zateplenie Thinsulate 40 g • reflexné doplnky</DESCRIPTION>
       <URL>/sk/sk/atra-rukavice-zimne-cierna-10/p/01190014?cl=60&amp;s=01-100</URL>
       <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MTYzMTN8aW1hZ2UvcG5nfDkwMjM5ODM2NDg3OTgvMDExOTAwMTRfQVRSQV9DRVJWQV8yMDE2XzE0MjIyX2FsbC50aWYucG5nfDc4Njk5MDQzYjA0ZGQ0MGRmMTZlMjllMWRiODI4ZTY5MzVmYTgyNDk3NTFkZWNhOTlmYmE1ODgzNWM4NWQ0ODQ</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Dopredaj</VAL>
+      </PARAM>
       <PARAM>
          <PARAM_NAME>Veľkosť</PARAM_NAME>
          <VAL>10</VAL>
