@@ -3451,9 +3451,6 @@
       <variant code="0119001170100" title="TURTUR rukavice zimné máč. PVC žltá 10" price="7.815" currency="EUR" unit="PÁR"/>
       <variant code="0119001170080" title="TURTUR rukavice zimné máč. PVC žltá 8" price="3.0" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="01190014" title="ATRA rukavice zimné">
-      <variant code="0119001460100" title="ATRA rukavice zimné čierna 10" price="22.085" currency="EUR" unit="PÁR"/>
-   </product>
    <product code="01190015" title="RED SIGNAL rukavice zimné">
       <variant code="0119001560110" title="RED SIGNAL rukavice zimné čierna 11" price="9.795" currency="EUR" unit="PÁR"/>
       <variant code="0119001560100" title="RED SIGNAL rukavice zimné čierna 10" price="9.795" currency="EUR" unit="PÁR"/>
@@ -5005,12 +5002,8 @@
       <variant code="0201062840049" title="ENERGY S1PL FO SR poltop. modrá 49" price="69.634" currency="EUR" unit="PÁR"/>
       <variant code="0201062840048" title="ENERGY S1PL FO SR poltop. modrá 48" price="69.634" currency="EUR" unit="PÁR"/>
       <variant code="0201062840047" title="ENERGY S1PL FO SR poltop. modrá 47" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062840046" title="ENERGY S1PL FO SR poltop. modrá 46" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062840045" title="ENERGY S1PL FO SR poltop. modrá 45" price="69.634" currency="EUR" unit="PÁR"/>
       <variant code="0201062840044" title="ENERGY S1PL FO SR poltop. modrá 44" price="69.634" currency="EUR" unit="PÁR"/>
       <variant code="0201062840043" title="ENERGY S1PL FO SR poltop. modrá 43" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062840042" title="ENERGY S1PL FO SR poltop. modrá 42" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062840041" title="ENERGY S1PL FO SR poltop. modrá 41" price="69.634" currency="EUR" unit="PÁR"/>
       <variant code="0201062840040" title="ENERGY S1PL FO SR poltop. modrá 40" price="69.634" currency="EUR" unit="PÁR"/>
       <variant code="0201062840039" title="ENERGY S1PL FO SR poltop. modrá 39" price="69.634" currency="EUR" unit="PÁR"/>
       <variant code="0201062840038" title="ENERGY S1PL FO SR poltop. modrá 38" price="69.634" currency="EUR" unit="PÁR"/>
@@ -5036,18 +5029,6 @@
       <variant code="0201062800050" title="ENERGY S1PL FO SR poltop. sivá 50" price="69.634" currency="EUR" unit="PÁR"/>
       <variant code="0201062800049" title="ENERGY S1PL FO SR poltop. sivá 49" price="69.634" currency="EUR" unit="PÁR"/>
       <variant code="0201062800048" title="ENERGY S1PL FO SR poltop. sivá 48" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800047" title="ENERGY S1PL FO SR poltop. sivá 47" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800046" title="ENERGY S1PL FO SR poltop. sivá 46" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800045" title="ENERGY S1PL FO SR poltop. sivá 45" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800044" title="ENERGY S1PL FO SR poltop. sivá 44" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800043" title="ENERGY S1PL FO SR poltop. sivá 43" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800042" title="ENERGY S1PL FO SR poltop. sivá 42" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800041" title="ENERGY S1PL FO SR poltop. sivá 41" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800040" title="ENERGY S1PL FO SR poltop. sivá 40" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800039" title="ENERGY S1PL FO SR poltop. sivá 39" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800038" title="ENERGY S1PL FO SR poltop. sivá 38" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800037" title="ENERGY S1PL FO SR poltop. sivá 37" price="69.634" currency="EUR" unit="PÁR"/>
-      <variant code="0201062800036" title="ENERGY S1PL FO SR poltop. sivá 36" price="69.634" currency="EUR" unit="PÁR"/>
       <variant code="0201062800035" title="ENERGY S1PL FO SR poltop. sivá 35" price="69.634" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010629" title="ZIP S3S MF SR poltopánka">
@@ -7134,7 +7115,6 @@
       <variant code="0203015860045" title="GAMMA NEOS S1 SRC sandále čierna 45" price="35.459" currency="EUR" unit="PÁR"/>
       <variant code="0203015860044" title="GAMMA NEOS S1 SRC sandále čierna 44" price="35.459" currency="EUR" unit="PÁR"/>
       <variant code="0203015860043" title="GAMMA NEOS S1 SRC sandále čierna 43" price="35.459" currency="EUR" unit="PÁR"/>
-      <variant code="0203015860040" title="GAMMA NEOS S1 SRC sandále čierna 40" price="35.459" currency="EUR" unit="PÁR"/>
       <variant code="0203015860039" title="GAMMA NEOS S1 SRC sandále čierna 39" price="35.459" currency="EUR" unit="PÁR"/>
       <variant code="0203015860038" title="GAMMA NEOS S1 SRC sandále čierna 38" price="35.459" currency="EUR" unit="PÁR"/>
       <variant code="0203015860037" title="GAMMA NEOS S1 SRC sandále čierna 37" price="35.459" currency="EUR" unit="PÁR"/>
@@ -12823,6 +12803,7 @@
       <variant code="03020408A2046PB" title="EMERTON PLUS PB náprs.noh. antr/oranž 46" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="03020410" title="LAGAN nohavice">
+      <variant code="0302041060060" title="LAGAN nohavice čierna 60" price="12.805" currency="EUR" unit="KS"/>
       <variant code="0302041060056" title="LAGAN nohavice čierna 56" price="12.805" currency="EUR" unit="KS"/>
       <variant code="0302041060054" title="LAGAN nohavice čierna 54" price="12.805" currency="EUR" unit="KS"/>
       <variant code="0302041060052" title="LAGAN nohavice čierna 52" price="12.805" currency="EUR" unit="KS"/>

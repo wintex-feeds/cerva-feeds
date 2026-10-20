@@ -17439,38 +17439,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>01190014</code>
-         <title>ATRA rukavice zimné</title>
-         <description>• zimné zateplené nepremokavé rukavice s priedušnou membránou • dlaň polyester- PU • chrbát z pružného nylonového úpletu spevneného PU koženkou • podšívka v dlani polyester/bambus • na chrbte polyesterový izolačný materiál • zateplenie Thinsulate 40 g • reflexné doplnky</description>
-         <categoryPath>Produkty/Rukavice</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="080" title="8"/>
-            <size code="100" title="10"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-            <standard code="EN 420" title="EN 420"/>
-            <standard code="EN 388" title="EN 388 | 2231X"/>
-            <standard code="EN 511" title="EN 511 | 12X"/>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTA0NHxpbWFnZS93ZWJwfDkyNDk3MzM0MTA4NDYvMDExOTAwMTRfQVRSQV9DRVJWQV8yMDE2XzE0MjIyX2FsbC50aWYucG5nfDY5NzJhZTQwNmU2MzAyY2Q2YTBmZjBjNWZmZGVjMzRiOWE4NjkzN2JkM2RhODhlOTZmNTgyZjRmMmMwMTE0Nzc</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyMjEwfGltYWdlL3dlYnB8OTI0NjA2MTUyNzA3MC8wMTE5MDAxNF9BVFJBX3dpbnRlcl9nbG92ZXMtMDEuanBnfDBmNzQ1M2Y1YzE1NzJhYzgwMGQyNDVjNGI0MTQ0OTZjOGI1YTI0NmY5NzVjZGQ1YzY3M2VhNTgwYjkwZjBkOWY</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NDc4fGltYWdlL3dlYnB8OTI0OTk5NzE5MzI0NnwwOWUzNDRlYzk4NWRhODAyZjE1MDU1ODA2MDkwNTQ2YmM4YWFkMDRiYzRkNjRlODI5MGIzZGY4ODEwZmU0MDIy</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>01190015</code>
          <title>RED SIGNAL rukavice zimné</title>
          <description>• zimné päťprstové rukavice z čiernej polyuretánom potiahnutej tkaniny (PUR) s membránou a flísovou podšívkou • chrbát z polyamidového úpletu • elastická manžeta   •  vhodné pro ovládání dotykových displejů</description>
