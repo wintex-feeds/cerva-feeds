@@ -6391,7 +6391,6 @@
    <product code="02020885" title="X-510 S3 ESD SRC členok">
       <variant code="0202088560047" title="X-510 S3 ESD SRC členok čierna 47" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560046" title="X-510 S3 ESD SRC členok čierna 46" price="91.667" currency="EUR" unit="PÁR"/>
-      <variant code="0202088560045" title="X-510 S3 ESD SRC členok čierna 45" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560040" title="X-510 S3 ESD SRC členok čierna 40" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560039" title="X-510 S3 ESD SRC členok čierna 39" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560038" title="X-510 S3 ESD SRC členok čierna 38" price="91.667" currency="EUR" unit="PÁR"/>
@@ -7021,15 +7020,12 @@
       <variant code="0203014599036" title="MONTROSE ROYAL ESD S1P SRC sandále 36 -" price="22.841" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02030146" title="PRESTIGE SUEDE OB SRA sandále">
-      <variant code="0203014640048" title="PRESTIGE SUEDE OB SRA sandále 48 modrá" price="67.976" currency="EUR" unit="PÁR"/>
       <variant code="0203014640047" title="PRESTIGE SUEDE OB SRA sandále 47 modrá" price="67.976" currency="EUR" unit="PÁR"/>
       <variant code="0203014640046" title="PRESTIGE SUEDE OB SRA sandále 46 modrá" price="67.976" currency="EUR" unit="PÁR"/>
       <variant code="0203014640045" title="PRESTIGE SUEDE OB SRA sandále 45 modrá" price="67.976" currency="EUR" unit="PÁR"/>
       <variant code="0203014640044" title="PRESTIGE SUEDE OB SRA sandále 44 modrá" price="67.976" currency="EUR" unit="PÁR"/>
-      <variant code="0203014640043" title="PRESTIGE SUEDE OB SRA sandále 43 modrá" price="67.976" currency="EUR" unit="PÁR"/>
       <variant code="0203014640042" title="PRESTIGE SUEDE OB SRA sandále 42 modrá" price="67.976" currency="EUR" unit="PÁR"/>
       <variant code="0203014640041" title="PRESTIGE SUEDE OB SRA sandále 41 modrá" price="67.976" currency="EUR" unit="PÁR"/>
-      <variant code="0203014640040" title="PRESTIGE SUEDE OB SRA sandále 40 modrá" price="67.976" currency="EUR" unit="PÁR"/>
       <variant code="0203014640039" title="PRESTIGE SUEDE OB SRA sandále 39 modrá" price="67.976" currency="EUR" unit="PÁR"/>
       <variant code="0203014640038" title="PRESTIGE SUEDE OB SRA sandále 38 modrá" price="67.976" currency="EUR" unit="PÁR"/>
       <variant code="0203014640037" title="PRESTIGE SUEDE OB SRA sandále 37 modrá" price="67.976" currency="EUR" unit="PÁR"/>
@@ -8150,6 +8146,70 @@
       <variant code="0208006560038" title="THERMO FORMED stielka čierna 38" price="7.412" currency="EUR" unit="PÁR"/>
       <variant code="0208006560037" title="THERMO FORMED stielka čierna 37" price="7.412" currency="EUR" unit="PÁR"/>
       <variant code="0208006560036" title="THERMO FORMED stielka čierna 36" price="7.412" currency="EUR" unit="PÁR"/>
+   </product>
+   <product code="02080075" title="U-POWER ERGO DRY vložky do top.">
+      <variant code="0208007599048" title="U-POWER ERGO DRY vložky do top. - 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599047" title="U-POWER ERGO DRY vložky do top. - 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599046" title="U-POWER ERGO DRY vložky do top. - 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599045" title="U-POWER ERGO DRY vložky do top. - 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599044" title="U-POWER ERGO DRY vložky do top. - 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599043" title="U-POWER ERGO DRY vložky do top. - 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599042" title="U-POWER ERGO DRY vložky do top. - 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599041" title="U-POWER ERGO DRY vložky do top. - 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599040" title="U-POWER ERGO DRY vložky do top. - 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599039" title="U-POWER ERGO DRY vložky do top. - 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599038" title="U-POWER ERGO DRY vložky do top. - 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599037" title="U-POWER ERGO DRY vložky do top. - 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599036" title="U-POWER ERGO DRY vložky do top. - 36" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007599035" title="U-POWER ERGO DRY vložky do top. - 35" price="Bude upresnené" currency="" unit="PÁR"/>
+   </product>
+   <product code="02080077" title="WOW 2 vložky do top.">
+      <variant code="0208007799048" title="WOW 2 vložky do top. - 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007799047" title="WOW 2 vložky do top. - 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007799046" title="WOW 2 vložky do top. - 46" price="10.9" currency="EUR" unit="PÁR"/>
+      <variant code="0208007799045" title="WOW 2 vložky do top. - 45" price="10.9" currency="EUR" unit="PÁR"/>
+      <variant code="0208007799044" title="WOW 2 vložky do top. - 44" price="10.9" currency="EUR" unit="PÁR"/>
+      <variant code="0208007799043" title="WOW 2 vložky do top. - 43" price="10.9" currency="EUR" unit="PÁR"/>
+      <variant code="0208007799042" title="WOW 2 vložky do top. - 42" price="10.9" currency="EUR" unit="PÁR"/>
+      <variant code="0208007799041" title="WOW 2 vložky do top. - 41" price="10.9" currency="EUR" unit="PÁR"/>
+      <variant code="0208007799040" title="WOW 2 vložky do top. - 40" price="10.9" currency="EUR" unit="PÁR"/>
+      <variant code="0208007799039" title="WOW 2 vložky do top. - 39" price="10.9" currency="EUR" unit="PÁR"/>
+      <variant code="0208007799038" title="WOW 2 vložky do top. - 38" price="10.9" currency="EUR" unit="PÁR"/>
+      <variant code="0208007799037" title="WOW 2 vložky do top. - 37" price="10.9" currency="EUR" unit="PÁR"/>
+      <variant code="0208007799036" title="WOW 2 vložky do top. - 36" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007799035" title="WOW 2 vložky do top. - 35" price="Bude upresnené" currency="" unit="PÁR"/>
+   </product>
+   <product code="02080078" title="WOW GEL vložky do top.">
+      <variant code="0208007899048" title="WOW GEL vložky do top. - 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899047" title="WOW GEL vložky do top. - 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899046" title="WOW GEL vložky do top. - 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899045" title="WOW GEL vložky do top. - 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899044" title="WOW GEL vložky do top. - 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899043" title="WOW GEL vložky do top. - 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899042" title="WOW GEL vložky do top. - 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899041" title="WOW GEL vložky do top. - 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899040" title="WOW GEL vložky do top. - 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899039" title="WOW GEL vložky do top. - 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899038" title="WOW GEL vložky do top. - 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899037" title="WOW GEL vložky do top. - 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899036" title="WOW GEL vložky do top. - 36" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208007899035" title="WOW GEL vložky do top. - 35" price="Bude upresnené" currency="" unit="PÁR"/>
+   </product>
+   <product code="02080080" title="U-POWER ORIGINAL vložky do top.">
+      <variant code="0208008099048" title="U-POWER ORIGINAL vložky do top. - 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099047" title="U-POWER ORIGINAL vložky do top. - 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099046" title="U-POWER ORIGINAL vložky do top. - 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099045" title="U-POWER ORIGINAL vložky do top. - 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099044" title="U-POWER ORIGINAL vložky do top. - 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099043" title="U-POWER ORIGINAL vložky do top. - 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099042" title="U-POWER ORIGINAL vložky do top. - 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099041" title="U-POWER ORIGINAL vložky do top. - 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099040" title="U-POWER ORIGINAL vložky do top. - 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099039" title="U-POWER ORIGINAL vložky do top. - 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099038" title="U-POWER ORIGINAL vložky do top. - 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099037" title="U-POWER ORIGINAL vložky do top. - 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099036" title="U-POWER ORIGINAL vložky do top. - 36" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0208008099035" title="U-POWER ORIGINAL vložky do top. - 35" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02090018" title="WICCAN mokasíny">
       <variant code="0209001841040" title="WICCAN mokasíny navy 40" price="8.396" currency="EUR" unit="PÁR"/>
