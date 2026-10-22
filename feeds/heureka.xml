@@ -2221298,6 +2221298,10 @@ Možnost objednání náhradních zorníků.
       <URL>/sk/sk/jsp-okular.-evo-thermex/p/0501052199999</URL>
       <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3MzUxNzR8aW1hZ2UvcG5nfDg5Njg5OTQyNTg5NzQvMDUwMTA1MjFfVEhFUk1FWF9kZXNpZ251ai50aWYucG5nfGE2Y2RlOTJjMTU0MDQ5ZWIwZTMwZTUxYzBjZTEwOWQzZDhhZGIwN2U3YzAwNTlmOTUzMDIwMzdhNjg0MTgwMWI</IMGURL>
       <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Na objednávku</VAL>
+      </PARAM>
+      <PARAM>
          <PARAM_NAME>Normy</PARAM_NAME>
          <VAL>EN 166:2001</VAL>
       </PARAM>
