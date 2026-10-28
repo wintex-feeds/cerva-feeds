@@ -54538,99 +54538,6 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
          <unit>KS</unit>
       </product>
       <product>
-         <code>03210005</code>
-         <title>Zdravot. dámsk.blúza sova</title>
-         <description/>
-         <categoryPath>Produkty/Odevy/Tričká a košele/Košele</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="000" title="XS"/>
-            <size code="001" title="S"/>
-            <size code="002" title="M"/>
-            <size code="003" title="L"/>
-            <size code="004" title="XL"/>
-            <size code="005" title="XXL"/>
-            <size code="006" title="3XL"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyNTM4NnxpbWFnZS93ZWJwfDkyNDk3NzU0NTIxOTAvMDMyMTAwMDVfYmFtYmluYV9UU0hJUlRfb3dsLnRpZi5wbmd8NTVjNjI5NGFmZWM5ZmY2OWQ5ZjZhMGNiOWE2NjI5YThlMjIwYTljN2M0NDRjMDM2MzU0OTRhZWNkMGE0ZTM0Ng</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjcyNnxpbWFnZS93ZWJwfDkyNTA2MzkzNDc3NDIvMDMyMTAwMDVfYmFtYmluYV9UU0hJUlRfb3dsX21vZGVsLnRpZi5wbmd8NWJhMzA5ZGNhN2Q0MTA1MWIyYzhkZTg3ZmExNjNmZDk2YTRiNjY5ZTY2MWE1ZGI5MmQzYTgyMzIyYjBhOGNmNQ</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
-         <code>03210007</code>
-         <title>Zdravot. dámská blúza chobotničky</title>
-         <description/>
-         <categoryPath>Produkty/Odevy/Tričká a košele/Košele</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="000" title="XS"/>
-            <size code="001" title="S"/>
-            <size code="002" title="M"/>
-            <size code="003" title="L"/>
-            <size code="004" title="XL"/>
-            <size code="005" title="XXL"/>
-            <size code="006" title="3XL"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyMjM4NnxpbWFnZS93ZWJwfDkyNDYzNzAwMzc3OTAvMDMyMTAwMDdfVHNoaXJ0X2JhbWJpbmFfb2N0b3B1cy50aWYucG5nfDNjNTkwMjdlMjk0NGYxMmQ2MDU4NWIzMTFlZmM4MTA5MWYwMDc1NDhmNjYwODkwYzY4NDVmMjBkOTQ0OGQxNzM</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNzU3NHxpbWFnZS93ZWJwfDkyNDYxNjUyNzA1NTgvMDMyMTAwMDdfVHNoaXJ0X2JhbWJpbmFfb2N0b3B1c19tb2RlbC50aWYucG5nfGNiZjc1OWQyOTc3NTRlY2I2N2QyOTUyNmEzNTkwNTk3ZWYwOWU2MjE2ZjE1MjQ0Yzc1ZmM2YTdhYmI5Yzc0OTU</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
-         <code>03210008</code>
-         <title>Zdravot. dámská blúza vážky</title>
-         <description/>
-         <categoryPath>Produkty/Odevy/Tričká a košele/Košele</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="000" title="XS"/>
-            <size code="001" title="S"/>
-            <size code="002" title="M"/>
-            <size code="003" title="L"/>
-            <size code="004" title="XL"/>
-            <size code="005" title="XXL"/>
-            <size code="006" title="3XL"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyMzE4OHxpbWFnZS93ZWJwfDkyNDYzMjI3ODYzMzQvMDMyMTAwMDhfVHNoaXJ0X2JhbWJpbmFfZHJhZ29uZmx5LnRpZi5wbmd8OTZmZmM2YWU4Yzc2ODcxOGE5Nzc5YzRmNGI5ZGZmNTljYzhkZTM2ODNlZWUwNWZhMDBlY2Y4ODBmZjczNjZlOA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTY1NHxpbWFnZS93ZWJwfDkyNDY0MTIxNDQ2NzAvMDMyMTAwMDhfVHNoaXJ0X2JhbWJpbmFfZHJhZ29uZmx5X21vZGVsLnRpZi5wbmd8ZjIwYWI3YzJmYTYyMzViZDdjNjRiNDc0ZjBkOWNlOTkyMGE5OWIwMGUyYzEzN2I4NTZiYzliMDU4ZDZmOTRmMw</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
          <code>03210009</code>
          <title>Zdravot.dámská blúza srdiečka tmavé</title>
          <description>» dámska tunika s veselou potlačou
@@ -69337,40 +69244,6 @@ Details
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjM3NnxpbWFnZS93ZWJwfDkzNjcyMjk3OTIyODYvMDQwMzAxMDFfM01fUEVMVE9SX1VTQi1DX0NoYXJnaW5nX0oxOTdfMS5wbmd8YzcyNjkyZTVlNmYyZDM3Mjk2YjIwM2VlMmNiYWYxZmI5NjQzZGQ2M2VhYTg2MDNjYmQ3NjFkNjA1ODFjZmMwMg</path>
             </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
-         <code>0501007799999</code>
-         <title>UVEX 9160068 okuliare I-VO hnedé</title>
-         <description>Okuliare so športovým dizajnom. Zmäkčenie rámika v oblasti nosníka, čela a koncov stranníc. Zorník optidur NC, supravision HC-AF, modro-oranžový rám.</description>
-         <categoryPath>Produkty/Ochrana očí/Okuliare/Okuliare</categoryPath>
-         <packaging></packaging>
-         <sizes>
-         </sizes>
-         <colors>
-         </colors>
-         <standards>
-         </standards>
-         <brand>UVEX</brand>
-         <images>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
-         <code>0501008399999</code>
-         <title>UVEX 9160265 okuliare I-VO číre</title>
-         <description>Okuliare so športovým dizajnom. Zmäkčenie rámika v oblasti nosníka, čela a koncov stranníc. Zorník optidur NC, supravision HC-AF, modro-oranžový rám.</description>
-         <categoryPath>Produkty/Ochrana očí/Okuliare/Okuliare</categoryPath>
-         <packaging></packaging>
-         <sizes>
-         </sizes>
-         <colors>
-         </colors>
-         <standards>
-         </standards>
-         <brand>UVEX</brand>
-         <images>
          </images>
          <unit>KS</unit>
       </product>
@@ -94590,29 +94463,6 @@ Tradiční prachovky prach výří, Easy Trap Duster všechen prach zachytí.
          <unit>ULO</unit>
       </product>
       <product>
-         <code>9904008499999</code>
-         <title>Katalog ČERVA EN 2023/2024</title>
-         <description>Catalogue CERVA EN 2023/2024</description>
-         <categoryPath>Produkty/Ostatné/Catalogues</categoryPath>
-         <packaging></packaging>
-         <sizes>
-         </sizes>
-         <colors>
-         </colors>
-         <standards>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTIxOHxpbWFnZS93ZWJwfDkyNTA4MTY2ODgxNTgvOTkwNDAwODNfOTkwNDAwODRfOTkwNDAwODVfOTkwNDAwODZfQ0FUQUxPR1VFXzIwMjMtMjAyNF9vbmx5LnRpZi5wbmd8NWUxYzI5ZDk5YjA4ZjBjNzkzNjA3MGE0MGRhNjBjNTMwOTE1NDg0ZmI4ZDljMDMxN2RhMDQ3OTFhZWFiNTUwNA</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxODc1NnxpbWFnZS93ZWJwfDkyNTA4MTU4Njg5NTgvOTkwNDAwODNfOTkwNDAwODRfOTkwNDAwODVfOTkwNDAwODZfQ0FUQUxPR1VFXzIwMjMtMjAyNC50aWYucG5nfGEyNDNiMDRkNWE4ZmQ5ZDQ5ZjFmZWIzNmZlYTRhZDE4ODM1ZDdjZjQ2ZGM3YzgwYWMyZGIzNzVkMjIxY2YxNmE</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
          <code>9904008799999</code>
          <title>Katalog PURE CERVA 2023-2024 - CZ-EN</title>
          <description/>
@@ -94649,29 +94499,6 @@ Tradiční prachovky prach výří, Easy Trap Duster všechen prach zachytí.
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDAyMHxpbWFnZS93ZWJwfDkyNDk4OTgzOTc3MjYvOTkwNDAwODdfUFVSRV9DRVJWQV8yMDIzLTIwMjRfQ1otRU5fRFNDXzQyMjYudGlmLnBuZ3w1MDY3YjRjZmI0ODNlNTE2NThkYjg1NjM5ODFjMmIzMDNmN2Q5Yjg2ZDQwOTY0YTU0YzVjZWZmNzQwMTU2ZDcw</path>
-            </image>
-         </images>
-         <unit>KS</unit>
-      </product>
-      <product>
-         <code>9904008999999</code>
-         <title>Katalog ČERVA CZ 2026</title>
-         <description/>
-         <categoryPath>Produkty/Ostatné/Catalogues</categoryPath>
-         <packaging></packaging>
-         <sizes>
-         </sizes>
-         <colors>
-         </colors>
-         <standards>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w2NDg2fGltYWdlL3dlYnB8OTM2NzQzMzgwNTg1NC85OTA0MDA4OV9DQVRBTE9HVUVfMjAyNl9jb3Zlcl9jei5qcGd8MmYxNTk5MTE5ZWFhZjIxMzhjMTE5YTliYzgxMTZmZTBjOTZlYTZiYTJjODkyNjA3YjBhZDgzYWI2OTU4NjBhYQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w1NTMwfGltYWdlL3dlYnB8OTM2NzA0NDM5MDk0Mi85OTA0MDA4OV9DQVRBTE9HVUVfMjAyNl9pbnNpZGVfY3ouanBnfDBlNjc5NTFhMmE0MzJiOTMyMGNjNjBjZTFhODk4MGNjODNjNmQ3Y2ExMDNiYWVhYmNiZTY2OWI2Y2Q1ODA0ODc</path>
             </image>
          </images>
          <unit>KS</unit>

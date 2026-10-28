@@ -4677,13 +4677,11 @@
    <product code="02010616" title="ULTRALIGHT MF ESD S1 SR poltop.">
       <variant code="02010616W6048" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 48" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6047" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 47" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6046" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 46" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6044" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 44" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6043" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 43" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6042" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 42" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6041" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 41" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6040" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 40" price="49.83" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6039" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 39" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6035" title="ULTRALIGHT MF ESD S1 SR pol.sivá/biel 35" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666048" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 48" price="49.83" currency="EUR" unit="PÁR"/>
       <variant code="0201061666047" title="ULTRALIGHT MF ESD S1 SR pol.čier/biel 47" price="49.83" currency="EUR" unit="PÁR"/>
@@ -5148,85 +5146,85 @@
       <variant code="0201064768035" title="UNO S3S ESD LG SR poltop. čierna/sivá 35" price="76.4" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02010648" title="SIGN-F S1PS ESD poltopánka">
-      <variant code="0201064800048" title="SIGN-F S1PS ESD poltopánka sivá 48" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800047" title="SIGN-F S1PS ESD poltopánka sivá 47" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800046" title="SIGN-F S1PS ESD poltopánka sivá 46" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800045" title="SIGN-F S1PS ESD poltopánka sivá 45" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800044" title="SIGN-F S1PS ESD poltopánka sivá 44" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800043" title="SIGN-F S1PS ESD poltopánka sivá 43" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800042" title="SIGN-F S1PS ESD poltopánka sivá 42" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800041" title="SIGN-F S1PS ESD poltopánka sivá 41" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800040" title="SIGN-F S1PS ESD poltopánka sivá 40" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800039" title="SIGN-F S1PS ESD poltopánka sivá 39" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800038" title="SIGN-F S1PS ESD poltopánka sivá 38" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800037" title="SIGN-F S1PS ESD poltopánka sivá 37" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800036" title="SIGN-F S1PS ESD poltopánka sivá 36" price="62.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064800035" title="SIGN-F S1PS ESD poltopánka sivá 35" price="62.999" currency="EUR" unit="PÁR"/>
+      <variant code="0201064800048" title="SIGN-F S1PS ESD poltopánka sivá 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800047" title="SIGN-F S1PS ESD poltopánka sivá 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800046" title="SIGN-F S1PS ESD poltopánka sivá 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800045" title="SIGN-F S1PS ESD poltopánka sivá 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800044" title="SIGN-F S1PS ESD poltopánka sivá 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800043" title="SIGN-F S1PS ESD poltopánka sivá 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800042" title="SIGN-F S1PS ESD poltopánka sivá 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800041" title="SIGN-F S1PS ESD poltopánka sivá 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800040" title="SIGN-F S1PS ESD poltopánka sivá 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800039" title="SIGN-F S1PS ESD poltopánka sivá 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800038" title="SIGN-F S1PS ESD poltopánka sivá 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800037" title="SIGN-F S1PS ESD poltopánka sivá 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800036" title="SIGN-F S1PS ESD poltopánka sivá 36" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064800035" title="SIGN-F S1PS ESD poltopánka sivá 35" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02010649" title="SIGN-XF S1PS ESD poltopánka">
-      <variant code="0201064900048" title="SIGN-XF S1PS ESD poltopánka sivá 48" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900047" title="SIGN-XF S1PS ESD poltopánka sivá 47" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900046" title="SIGN-XF S1PS ESD poltopánka sivá 46" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900045" title="SIGN-XF S1PS ESD poltopánka sivá 45" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900044" title="SIGN-XF S1PS ESD poltopánka sivá 44" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900043" title="SIGN-XF S1PS ESD poltopánka sivá 43" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900042" title="SIGN-XF S1PS ESD poltopánka sivá 42" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900041" title="SIGN-XF S1PS ESD poltopánka sivá 41" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900040" title="SIGN-XF S1PS ESD poltopánka sivá 40" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900039" title="SIGN-XF S1PS ESD poltopánka sivá 39" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900038" title="SIGN-XF S1PS ESD poltopánka sivá 38" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900037" title="SIGN-XF S1PS ESD poltopánka sivá 37" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900036" title="SIGN-XF S1PS ESD poltopánka sivá 36" price="74.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201064900035" title="SIGN-XF S1PS ESD poltopánka sivá 35" price="74.999" currency="EUR" unit="PÁR"/>
+      <variant code="0201064900048" title="SIGN-XF S1PS ESD poltopánka sivá 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900047" title="SIGN-XF S1PS ESD poltopánka sivá 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900046" title="SIGN-XF S1PS ESD poltopánka sivá 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900045" title="SIGN-XF S1PS ESD poltopánka sivá 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900044" title="SIGN-XF S1PS ESD poltopánka sivá 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900043" title="SIGN-XF S1PS ESD poltopánka sivá 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900042" title="SIGN-XF S1PS ESD poltopánka sivá 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900041" title="SIGN-XF S1PS ESD poltopánka sivá 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900040" title="SIGN-XF S1PS ESD poltopánka sivá 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900039" title="SIGN-XF S1PS ESD poltopánka sivá 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900038" title="SIGN-XF S1PS ESD poltopánka sivá 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900037" title="SIGN-XF S1PS ESD poltopánka sivá 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900036" title="SIGN-XF S1PS ESD poltopánka sivá 36" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201064900035" title="SIGN-XF S1PS ESD poltopánka sivá 35" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02010650" title="SIGN-R S3S ESD poltopánka">
-      <variant code="0201065000048" title="SIGN-R S3S ESD poltopánka sivá 48" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000047" title="SIGN-R S3S ESD poltopánka sivá 47" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000046" title="SIGN-R S3S ESD poltopánka sivá 46" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000045" title="SIGN-R S3S ESD poltopánka sivá 45" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000044" title="SIGN-R S3S ESD poltopánka sivá 44" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000043" title="SIGN-R S3S ESD poltopánka sivá 43" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000042" title="SIGN-R S3S ESD poltopánka sivá 42" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000041" title="SIGN-R S3S ESD poltopánka sivá 41" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000040" title="SIGN-R S3S ESD poltopánka sivá 40" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000039" title="SIGN-R S3S ESD poltopánka sivá 39" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000038" title="SIGN-R S3S ESD poltopánka sivá 38" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000037" title="SIGN-R S3S ESD poltopánka sivá 37" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000036" title="SIGN-R S3S ESD poltopánka sivá 36" price="67.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065000035" title="SIGN-R S3S ESD poltopánka sivá 35" price="67.999" currency="EUR" unit="PÁR"/>
+      <variant code="0201065000048" title="SIGN-R S3S ESD poltopánka sivá 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000047" title="SIGN-R S3S ESD poltopánka sivá 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000046" title="SIGN-R S3S ESD poltopánka sivá 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000045" title="SIGN-R S3S ESD poltopánka sivá 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000044" title="SIGN-R S3S ESD poltopánka sivá 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000043" title="SIGN-R S3S ESD poltopánka sivá 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000042" title="SIGN-R S3S ESD poltopánka sivá 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000041" title="SIGN-R S3S ESD poltopánka sivá 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000040" title="SIGN-R S3S ESD poltopánka sivá 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000039" title="SIGN-R S3S ESD poltopánka sivá 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000038" title="SIGN-R S3S ESD poltopánka sivá 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000037" title="SIGN-R S3S ESD poltopánka sivá 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000036" title="SIGN-R S3S ESD poltopánka sivá 36" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065000035" title="SIGN-R S3S ESD poltopánka sivá 35" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02010651" title="SIGN-XR S3S ESD poltopánka">
-      <variant code="0201065100048" title="SIGN-XR S3S ESD poltopánka sivá 48" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100047" title="SIGN-XR S3S ESD poltopánka sivá 47" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100046" title="SIGN-XR S3S ESD poltopánka sivá 46" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100045" title="SIGN-XR S3S ESD poltopánka sivá 45" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100044" title="SIGN-XR S3S ESD poltopánka sivá 44" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100043" title="SIGN-XR S3S ESD poltopánka sivá 43" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100042" title="SIGN-XR S3S ESD poltopánka sivá 42" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100041" title="SIGN-XR S3S ESD poltopánka sivá 41" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100040" title="SIGN-XR S3S ESD poltopánka sivá 40" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100039" title="SIGN-XR S3S ESD poltopánka sivá 39" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100038" title="SIGN-XR S3S ESD poltopánka sivá 38" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100037" title="SIGN-XR S3S ESD poltopánka sivá 37" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100036" title="SIGN-XR S3S ESD poltopánka sivá 36" price="79.999" currency="EUR" unit="PÁR"/>
-      <variant code="0201065100035" title="SIGN-XR S3S ESD poltopánka sivá 35" price="79.999" currency="EUR" unit="PÁR"/>
+      <variant code="0201065100048" title="SIGN-XR S3S ESD poltopánka sivá 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100047" title="SIGN-XR S3S ESD poltopánka sivá 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100046" title="SIGN-XR S3S ESD poltopánka sivá 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100045" title="SIGN-XR S3S ESD poltopánka sivá 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100044" title="SIGN-XR S3S ESD poltopánka sivá 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100043" title="SIGN-XR S3S ESD poltopánka sivá 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100042" title="SIGN-XR S3S ESD poltopánka sivá 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100041" title="SIGN-XR S3S ESD poltopánka sivá 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100040" title="SIGN-XR S3S ESD poltopánka sivá 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100039" title="SIGN-XR S3S ESD poltopánka sivá 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100038" title="SIGN-XR S3S ESD poltopánka sivá 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100037" title="SIGN-XR S3S ESD poltopánka sivá 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100036" title="SIGN-XR S3S ESD poltopánka sivá 36" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065100035" title="SIGN-XR S3S ESD poltopánka sivá 35" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02010652" title="SIGN-D S7S HRO poltopánka">
-      <variant code="0201065260050" title="SIGN-D S7S HRO poltopánka čierna 50" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260049" title="SIGN-D S7S HRO poltopánka čierna 49" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260048" title="SIGN-D S7S HRO poltopánka čierna 48" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260047" title="SIGN-D S7S HRO poltopánka čierna 47" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260046" title="SIGN-D S7S HRO poltopánka čierna 46" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260045" title="SIGN-D S7S HRO poltopánka čierna 45" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260044" title="SIGN-D S7S HRO poltopánka čierna 44" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260043" title="SIGN-D S7S HRO poltopánka čierna 43" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260042" title="SIGN-D S7S HRO poltopánka čierna 42" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260041" title="SIGN-D S7S HRO poltopánka čierna 41" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260040" title="SIGN-D S7S HRO poltopánka čierna 40" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260039" title="SIGN-D S7S HRO poltopánka čierna 39" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260038" title="SIGN-D S7S HRO poltopánka čierna 38" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260037" title="SIGN-D S7S HRO poltopánka čierna 37" price="74.985" currency="EUR" unit="PÁR"/>
-      <variant code="0201065260036" title="SIGN-D S7S HRO poltopánka čierna 36" price="74.985" currency="EUR" unit="PÁR"/>
+      <variant code="0201065260050" title="SIGN-D S7S HRO poltopánka čierna 50" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260049" title="SIGN-D S7S HRO poltopánka čierna 49" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260048" title="SIGN-D S7S HRO poltopánka čierna 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260047" title="SIGN-D S7S HRO poltopánka čierna 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260046" title="SIGN-D S7S HRO poltopánka čierna 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260045" title="SIGN-D S7S HRO poltopánka čierna 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260044" title="SIGN-D S7S HRO poltopánka čierna 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260043" title="SIGN-D S7S HRO poltopánka čierna 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260042" title="SIGN-D S7S HRO poltopánka čierna 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260041" title="SIGN-D S7S HRO poltopánka čierna 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260040" title="SIGN-D S7S HRO poltopánka čierna 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260039" title="SIGN-D S7S HRO poltopánka čierna 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260038" title="SIGN-D S7S HRO poltopánka čierna 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260037" title="SIGN-D S7S HRO poltopánka čierna 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0201065260036" title="SIGN-D S7S HRO poltopánka čierna 36" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02010657" title="SIGN-L O1 ESD poltopánka">
       <variant code="0201065780048" title="SIGN-L O1 ESD poltopánka biela 48" price="Bude upresnené" currency="" unit="PÁR"/>
@@ -6575,53 +6573,53 @@
       <variant code="0202090875038" title="ASTA O6 HRO SR členok hnedá 38" price="98.554" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02020912" title="SIGN-R S3S ESD členok">
-      <variant code="0202091200048" title="SIGN-R S3S ESD členok sivá 48" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200047" title="SIGN-R S3S ESD členok sivá 47" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200046" title="SIGN-R S3S ESD členok sivá 46" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200045" title="SIGN-R S3S ESD členok sivá 45" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200044" title="SIGN-R S3S ESD členok sivá 44" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200043" title="SIGN-R S3S ESD členok sivá 43" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200042" title="SIGN-R S3S ESD členok sivá 42" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200041" title="SIGN-R S3S ESD členok sivá 41" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200040" title="SIGN-R S3S ESD členok sivá 40" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200039" title="SIGN-R S3S ESD členok sivá 39" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200038" title="SIGN-R S3S ESD členok sivá 38" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200037" title="SIGN-R S3S ESD členok sivá 37" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200036" title="SIGN-R S3S ESD členok sivá 36" price="69.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091200035" title="SIGN-R S3S ESD členok sivá 35" price="69.999" currency="EUR" unit="PÁR"/>
+      <variant code="0202091200048" title="SIGN-R S3S ESD členok sivá 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200047" title="SIGN-R S3S ESD členok sivá 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200046" title="SIGN-R S3S ESD členok sivá 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200045" title="SIGN-R S3S ESD členok sivá 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200044" title="SIGN-R S3S ESD členok sivá 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200043" title="SIGN-R S3S ESD členok sivá 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200042" title="SIGN-R S3S ESD členok sivá 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200041" title="SIGN-R S3S ESD členok sivá 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200040" title="SIGN-R S3S ESD členok sivá 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200039" title="SIGN-R S3S ESD členok sivá 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200038" title="SIGN-R S3S ESD členok sivá 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200037" title="SIGN-R S3S ESD členok sivá 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200036" title="SIGN-R S3S ESD členok sivá 36" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091200035" title="SIGN-R S3S ESD členok sivá 35" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02020913" title="SIGN-XR S3S ESD SR členok">
-      <variant code="0202091300048" title="SIGN-XR S3S ESD SR členok sivá 48" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300047" title="SIGN-XR S3S ESD SR členok sivá 47" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300046" title="SIGN-XR S3S ESD SR členok sivá 46" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300045" title="SIGN-XR S3S ESD SR členok sivá 45" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300044" title="SIGN-XR S3S ESD SR členok sivá 44" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300043" title="SIGN-XR S3S ESD SR členok sivá 43" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300042" title="SIGN-XR S3S ESD SR členok sivá 42" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300041" title="SIGN-XR S3S ESD SR členok sivá 41" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300040" title="SIGN-XR S3S ESD SR členok sivá 40" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300039" title="SIGN-XR S3S ESD SR členok sivá 39" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300038" title="SIGN-XR S3S ESD SR členok sivá 38" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300037" title="SIGN-XR S3S ESD SR členok sivá 37" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300036" title="SIGN-XR S3S ESD SR členok sivá 36" price="82.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091300035" title="SIGN-XR S3S ESD SR členok sivá 35" price="82.999" currency="EUR" unit="PÁR"/>
+      <variant code="0202091300048" title="SIGN-XR S3S ESD SR členok sivá 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300047" title="SIGN-XR S3S ESD SR členok sivá 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300046" title="SIGN-XR S3S ESD SR členok sivá 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300045" title="SIGN-XR S3S ESD SR členok sivá 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300044" title="SIGN-XR S3S ESD SR členok sivá 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300043" title="SIGN-XR S3S ESD SR členok sivá 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300042" title="SIGN-XR S3S ESD SR členok sivá 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300041" title="SIGN-XR S3S ESD SR členok sivá 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300040" title="SIGN-XR S3S ESD SR členok sivá 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300039" title="SIGN-XR S3S ESD SR členok sivá 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300038" title="SIGN-XR S3S ESD SR členok sivá 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300037" title="SIGN-XR S3S ESD SR členok sivá 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300036" title="SIGN-XR S3S ESD SR členok sivá 36" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091300035" title="SIGN-XR S3S ESD SR členok sivá 35" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02020914" title="SIGN-D S7S HRO členok">
-      <variant code="0202091460050" title="SIGN-D S7S HRO členok čierna 50" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460049" title="SIGN-D S7S HRO členok čierna 49" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460048" title="SIGN-D S7S HRO členok čierna 48" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460047" title="SIGN-D S7S HRO členok čierna 47" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460046" title="SIGN-D S7S HRO členok čierna 46" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460045" title="SIGN-D S7S HRO členok čierna 45" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460044" title="SIGN-D S7S HRO členok čierna 44" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460043" title="SIGN-D S7S HRO členok čierna 43" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460042" title="SIGN-D S7S HRO členok čierna 42" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460041" title="SIGN-D S7S HRO členok čierna 41" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460040" title="SIGN-D S7S HRO členok čierna 40" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460039" title="SIGN-D S7S HRO členok čierna 39" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460038" title="SIGN-D S7S HRO členok čierna 38" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460037" title="SIGN-D S7S HRO členok čierna 37" price="89.999" currency="EUR" unit="PÁR"/>
-      <variant code="0202091460036" title="SIGN-D S7S HRO členok čierna 36" price="87.489" currency="EUR" unit="PÁR"/>
+      <variant code="0202091460050" title="SIGN-D S7S HRO členok čierna 50" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460049" title="SIGN-D S7S HRO členok čierna 49" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460048" title="SIGN-D S7S HRO členok čierna 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460047" title="SIGN-D S7S HRO členok čierna 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460046" title="SIGN-D S7S HRO členok čierna 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460045" title="SIGN-D S7S HRO členok čierna 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460044" title="SIGN-D S7S HRO členok čierna 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460043" title="SIGN-D S7S HRO členok čierna 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460042" title="SIGN-D S7S HRO členok čierna 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460041" title="SIGN-D S7S HRO členok čierna 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460040" title="SIGN-D S7S HRO členok čierna 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460039" title="SIGN-D S7S HRO členok čierna 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460038" title="SIGN-D S7S HRO členok čierna 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460037" title="SIGN-D S7S HRO členok čierna 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0202091460036" title="SIGN-D S7S HRO členok čierna 36" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02020933" title="PANAMA ESD S3S CI FO SR členok">
       <variant code="0202093360048" title="PANAMA ESD S3S CI FO SR členok čierna 48" price="156.4" currency="EUR" unit="PÁR"/>
@@ -8308,21 +8306,21 @@
       <variant code="0209002480036" title="HYGOSAFE O2 ESD SR mokasíny biela 36" price="36.173" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02100009" title="SIGN-D S7S HRO poloholeň">
-      <variant code="0210000960050" title="SIGN-D S7S HRO poloholeň čierna 50" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960049" title="SIGN-D S7S HRO poloholeň čierna 49" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960048" title="SIGN-D S7S HRO poloholeň čierna 48" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960047" title="SIGN-D S7S HRO poloholeň čierna 47" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960046" title="SIGN-D S7S HRO poloholeň čierna 46" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960045" title="SIGN-D S7S HRO poloholeň čierna 45" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960044" title="SIGN-D S7S HRO poloholeň čierna 44" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960043" title="SIGN-D S7S HRO poloholeň čierna 43" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960042" title="SIGN-D S7S HRO poloholeň čierna 42" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960041" title="SIGN-D S7S HRO poloholeň čierna 41" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960040" title="SIGN-D S7S HRO poloholeň čierna 40" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960039" title="SIGN-D S7S HRO poloholeň čierna 39" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960038" title="SIGN-D S7S HRO poloholeň čierna 38" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960037" title="SIGN-D S7S HRO poloholeň čierna 37" price="95.565" currency="EUR" unit="PÁR"/>
-      <variant code="0210000960036" title="SIGN-D S7S HRO poloholeň čierna 36" price="95.565" currency="EUR" unit="PÁR"/>
+      <variant code="0210000960050" title="SIGN-D S7S HRO poloholeň čierna 50" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960049" title="SIGN-D S7S HRO poloholeň čierna 49" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960048" title="SIGN-D S7S HRO poloholeň čierna 48" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960047" title="SIGN-D S7S HRO poloholeň čierna 47" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960046" title="SIGN-D S7S HRO poloholeň čierna 46" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960045" title="SIGN-D S7S HRO poloholeň čierna 45" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960044" title="SIGN-D S7S HRO poloholeň čierna 44" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960043" title="SIGN-D S7S HRO poloholeň čierna 43" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960042" title="SIGN-D S7S HRO poloholeň čierna 42" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960041" title="SIGN-D S7S HRO poloholeň čierna 41" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960040" title="SIGN-D S7S HRO poloholeň čierna 40" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960039" title="SIGN-D S7S HRO poloholeň čierna 39" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960038" title="SIGN-D S7S HRO poloholeň čierna 38" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960037" title="SIGN-D S7S HRO poloholeň čierna 37" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0210000960036" title="SIGN-D S7S HRO poloholeň čierna 36" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="02120003" title="GUMO-FILC D99079/2 E SRA čižmy">
       <variant code="0212000360048" title="GUMO-FILC D99079/2 E SRA čižmy čier48" price="29.56" currency="EUR" unit="PÁR"/>
@@ -17650,16 +17648,6 @@
    <product code="0319000299999" title="TACORA zváračská gamaša">
       <variant code="0319000299999" title="TACORA zváračská gamaša" price="42.9" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="03210005" title="Zdravot. dámsk.blúza sova">
-      <variant code="0321000599000" title="Zdravot. dámsk.blúza sova - XS" price="14.92" currency="EUR" unit="KS"/>
-   </product>
-   <product code="03210007" title="Zdravot. dámská blúza chobotničky">
-      <variant code="0321000799001" title="Zdravot. dámská blúza chobotničky - S" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321000799000" title="Zdravot. dámská blúza chobotničky - XS" price="14.92" currency="EUR" unit="KS"/>
-   </product>
-   <product code="03210008" title="Zdravot. dámská blúza vážky">
-      <variant code="0321000899000" title="Zdravot. dámská blúza vážky - XS" price="14.92" currency="EUR" unit="KS"/>
-   </product>
    <product code="03210009" title="Zdravot.dámská blúza srdiečka tmavé">
       <variant code="0321000999006" title="Zdravot.dámská blúza srdiečka tmavé 3XL" price="14.92" currency="EUR" unit="KS"/>
       <variant code="0321000999005" title="Zdravot.dámská blúza srdiečka tmavé XXL" price="14.92" currency="EUR" unit="KS"/>
@@ -24014,12 +24002,6 @@
    <product code="0403010199999" title="3M PELTOR USB-C Charging J197/1">
       <variant code="0403010199999" title="3M PELTOR USB-C Charging J197/1" price="Bude upresnené" currency="" unit="KS"/>
    </product>
-   <product code="0501007799999" title="UVEX 9160068 okuliare I-VO hnedé">
-      <variant code="0501007799999" title="UVEX 9160068 okuliare I-VO hnedé" price="Bude upresnené" currency="" unit="KS"/>
-   </product>
-   <product code="0501008399999" title="UVEX 9160265 okuliare I-VO číre">
-      <variant code="0501008399999" title="UVEX 9160265 okuliare I-VO číre" price="Bude upresnené" currency="" unit="KS"/>
-   </product>
    <product code="0501028899999" title="ULTRAVISION UH 9301714 okuliar. acetát">
       <variant code="0501028899999" title="ULTRAVISION UH 9301714 okuliar. acetát" price="Bude upresnené" currency="" unit="KS"/>
    </product>
@@ -27459,14 +27441,8 @@
    <product code="9902001299999" title="3M Scotch-Brite Pre-Cut 640 200mm x 4m">
       <variant code="9902001299999" title="3M Scotch-Brite Pre-Cut 640 200mm x 4m" price="Bude upresnené" currency="" unit="ULO"/>
    </product>
-   <product code="9904008499999" title="Katalog ČERVA EN 2023/2024">
-      <variant code="9904008499999" title="Katalog ČERVA EN 2023/2024" price="Bude upresnené" currency="" unit="KS"/>
-   </product>
    <product code="9904008799999" title="Katalog PURE CERVA 2023-2024 - CZ-EN">
       <variant code="9904008799999" title="Katalog PURE CERVA 2023-2024 - CZ-EN" price="Bude upresnené" currency="" unit="KS"/>
-   </product>
-   <product code="9904008999999" title="Katalog ČERVA CZ 2026">
-      <variant code="9904008999999" title="Katalog ČERVA CZ 2026" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="99050007" title="LAKSAM reflexná páska">
       <variant code="9905000779034" title="LAKSAM reflexná páska HV žltá 34 cm" price="1.532" currency="EUR" unit="KS"/>
