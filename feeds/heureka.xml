@@ -2212643,86 +2212643,6 @@ Details
       <ITEMGROUP_ID>0403010199999</ITEMGROUP_ID>
    </SHOPITEM>
    <SHOPITEM>
-      <ITEM_ID>0501028899999</ITEM_ID>
-      <PRODUCTNAME>ULTRAVISION UH 9301714 okuliar. acetát</PRODUCTNAME>
-      <PRODUCT>ULTRAVISION UH 9301714 okuliar. acetát</PRODUCT>
-      <DESCRIPTION>Uzatvorené tvárové okuliare s výmennými zorníkmi. Panoramatický tvar, prichytené voduodpudivou gumovou páskou. Špeciálny systém odvetrávania, zakomponovaná ochrana proti oslneniu zhora. Možno nasadiť na dioptrické okuliare. Zorník UH-acetát, nezahmlievajúca úprava.</DESCRIPTION>
-      <URL>/sk/sk/ultravision-uh-9301714-okuliar.-acetat/p/0501028899999</URL>
-      <IMGURL/>
-      <PARAM>
-         <PARAM_NAME>MOQ</PARAM_NAME>
-         <VAL>1 KS</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Ochrana očí</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>EN 20471</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Cutting</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Nepříznivé počasí</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Ochranné okuliare</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Okuliare</VAL>
-      </PARAM>
-      <MANUFACTURER>Uvex</MANUFACTURER>
-      <MANUFACTURER_POSTAL_ADDRESS>UVEX — UVEX ARBEITSSCHUTZ GmbH, Würzburger Straße 181–189, 90766 Fürth, Germany.</MANUFACTURER_POSTAL_ADDRESS>
-      <MANUFACTURER_ELECTRONIC_ADDRESS/>
-      <CATEGORYTEXT>Produkty | Ochrana očí | Okuliare | Ochranné okuliare</CATEGORYTEXT>
-      <EAN>8591806055506</EAN>
-      <ITEMGROUP_ID>0501028899999</ITEMGROUP_ID>
-   </SHOPITEM>
-   <SHOPITEM>
-      <ITEM_ID>0501029599999</ITEM_ID>
-      <PRODUCTNAME>ULTRASONIC HC-AF 9302245 siv/orange číre</PRODUCTNAME>
-      <PRODUCT>ULTRASONIC HC-AF 9302245 siv/orange číre</PRODUCT>
-      <DESCRIPTION>Uzatvorené tvárové okuliare s výmennými a nezahmlievajúcimi PC zorníkmi. Panoramatický tvar, prichytenie gumou. Špeciálny systém odvetrania. Vhodné do prašného prostredia, proti nárazu letiacich častíc i proti roztreku kvapalín.</DESCRIPTION>
-      <URL>/sk/sk/ultrasonic-hc-af-9302245-siv-orange-cire/p/0501029599999</URL>
-      <IMGURL/>
-      <PARAM>
-         <PARAM_NAME>MOQ</PARAM_NAME>
-         <VAL>1 KS</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Ochrana očí</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>EN 20471</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Cutting</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Nepříznivé počasí</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Okuliare</VAL>
-      </PARAM>
-      <MANUFACTURER>Uvex</MANUFACTURER>
-      <MANUFACTURER_POSTAL_ADDRESS>UVEX — UVEX ARBEITSSCHUTZ GmbH, Würzburger Straße 181–189, 90766 Fürth, Germany.</MANUFACTURER_POSTAL_ADDRESS>
-      <MANUFACTURER_ELECTRONIC_ADDRESS/>
-      <CATEGORYTEXT>Produkty | Ochrana očí | Okuliare | Okuliare</CATEGORYTEXT>
-      <EAN>8591806055575</EAN>
-      <ITEMGROUP_ID>0501029599999</ITEMGROUP_ID>
-   </SHOPITEM>
-   <SHOPITEM>
       <ITEM_ID>0501033481999</ITEM_ID>
       <PRODUCTNAME>3M 280x okuliare bezp.zorník</PRODUCTNAME>
       <PRODUCT>3M 2800 okuliare číre bezp.zorník</PRODUCT>
@@ -2323937,43 +2323857,6 @@ Tradiční prachovky prach výří, Easy Trap Duster všechen prach zachytí.
       <CATEGORYTEXT>Produkty | Ostatné | Upratovanie</CATEGORYTEXT>
       <EAN>3134375392297</EAN>
       <ITEMGROUP_ID>9902001299999</ITEMGROUP_ID>
-   </SHOPITEM>
-   <SHOPITEM>
-      <ITEM_ID>9904008799999</ITEM_ID>
-      <PRODUCTNAME>Katalog PURE CERVA 2023-2024 - CZ-EN</PRODUCTNAME>
-      <PRODUCT>Katalog PURE CERVA 2023-2024 - CZ-EN</PRODUCT>
-      <DESCRIPTION/>
-      <URL>/sk/sk/katalog-pure-cerva-2023-2024-cz-en/p/9904008799999</URL>
-      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NjgzODF8aW1hZ2UvcG5nfDkwMjIzODc3ODE2NjIvOTkwNDAwODdfUFVSRV9DRVJWQV8yMDIzLTIwMjRfQ1otRU5fRFNDXzQxOTcudGlmLnBuZ3wzYjljMzM3ZmI5NTZjNTY2NjZjNzZjOTFhY2ZlZWMzODc2YmFkMzkyODYwNTIyNmZhY2UxYWFkZmY4Nzg3MWY2</IMGURL>
-      <PARAM>
-         <PARAM_NAME>Status</PARAM_NAME>
-         <VAL>Katalógy</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>MOQ</PARAM_NAME>
-         <VAL>1 KS</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Ostatné</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Catalogues</VAL>
-      </PARAM>
-      <MANUFACTURER>CERVA</MANUFACTURER>
-      <MANUFACTURER_POSTAL_ADDRESS/>
-      <MANUFACTURER_ELECTRONIC_ADDRESS/>
-      <CATEGORYTEXT>Produkty | Ostatné | Catalogues</CATEGORYTEXT>
-      <EAN>8591806808089</EAN>
-      <ITEMGROUP_ID>9904008799999</ITEMGROUP_ID>
-      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MTU3Njh8aW1hZ2UvcG5nfDkwMTg1NjU0MjcyMzAvOTkwNDAwODdfUFVSRV9DRVJWQV8yMDIzLTIwMjRfQ1otRU5fRFNDXzQxOTMudGlmLnBuZ3wwNWVmMDgwZTUzN2I5NTgwNzAyMDc5YTdiZjM0OWM2ZDU3Y2JiMjM2N2VhN2UxZDY5NDQwOTEwZDMxMmIzMTBl</IMGURL_ALTERNATIVE>
-      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDk1Mzg0fGltYWdlL3BuZ3w4OTk0NDE5ODM0OTEwLzk5MDQwMDg3X1BVUkVfQ0VSVkFfMjAyMy0yMDI0X0NaLUVOX2dhcm1lbnRzX0RTQ180MjA5LnRpZi5wbmd8YzU1YTQ1MjA3ZmZmNmQxYTRlZDBmNTFkMTRlY2RhMzcwMTk4YjZiZDQ0MjhiNDAwZjY2MmM3YzA1OGYxNzBhZg</IMGURL_ALTERNATIVE>
-      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDE2OTE2fGltYWdlL3BuZ3w4OTk0NDIwMDY0Mjg2Lzk5MDQwMDg3X1BVUkVfQ0VSVkFfMjAyMy0yMDI0X0NaLUVOX2dsb3Zlc19EU0NfNDIwNi50aWYucG5nfDNiMzMyNjRkN2M5ODY4M2RkYmNmOGI5Mjc2OGU3Mzk3MDJhZTUwMTRhMDExODYwNmU3ZjUxNTBjM2UwYzdmYmI</IMGURL_ALTERNATIVE>
-      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDE5MDY1fGltYWdlL3BuZ3w4OTk0NDIxMjExMTY2Lzk5MDQwMDg3X1BVUkVfQ0VSVkFfMjAyMy0yMDI0X0NaLUVOX3Nob2VzX0RTQ180MjA4LnRpZi5wbmd8NTU3M2NkMGQ2OWVlMDEzNmJlM2RhZjBmZjg5ZGNmYTIxZWMxYjk2YjE3ODk1YmNjNWY1YzIzYjY0ZjAxN2U1ZA</IMGURL_ALTERNATIVE>
-      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDIzNDc4fGltYWdlL3BuZ3w4OTk0NDIwNDI0NzM0Lzk5MDQwMDg3X1BVUkVfQ0VSVkFfMjAyMy0yMDI0X0NaLUVOX19oZWFkX3Byb3RlY3Rpb25fRFNDXzQyMDcudGlmLnBuZ3wzMjBiMjhjM2IxMDNjMGM1MWZiNGY3ODNlN2MxMDBlMDJlZGMzNTgzN2YzZDk3NjJmZTVjMTdiOTI2YmM3MWZj</IMGURL_ALTERNATIVE>
-      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5OTQ5MzF8aW1hZ2UvcG5nfDg5OTQ0MTk0MDg5MjYvOTkwNDAwODdfUFVSRV9DRVJWQV8yMDIzLTIwMjRfQ1otRU5fX2ZhbGxfcHJvdGVjdGlvbl9EU0NfNDIwNS50aWYucG5nfDRkOTJjZTVmYzI4ZGZjY2M5YzAwMDNkMmFkNjNjNGY1MGU2MjYyZDMzYzEzNWJjZTc3ZjM4MzgyNmU3ODhlYjU</IMGURL_ALTERNATIVE>
-      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzAwMTQ0fGltYWdlL3BuZ3w4OTk0NDE4MTMwOTc0Lzk5MDQwMDg3X1BVUkVfQ0VSVkFfMjAyMy0yMDI0X0NaLUVOX0RTQ180MjI2LnRpZi5wbmd8NWUxOTZkMzU1M2UwMTE3OTJmNDZjN2JlNDM3ZTFlOTFiZTU4YmZiZDVmZjE3MzgxMTgzNTY1OGJlYTNiNWI0Zg</IMGURL_ALTERNATIVE>
    </SHOPITEM>
    <SHOPITEM>
       <ITEM_ID>9905000779034</ITEM_ID>
