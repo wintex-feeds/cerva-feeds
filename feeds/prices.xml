@@ -955,7 +955,6 @@
    </product>
    <product code="01070043" title="SABINI rukav. celomáčané v nirile">
       <variant code="0107004399100" title="SABINI rukav. celomáčané v niri - 10" price="2.698" currency="EUR" unit="PÁR"/>
-      <variant code="0107004399090" title="SABINI rukav. celomáčané v niril - 9" price="2.698" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01070044" title="BORIN ruk.nitril celomáč.manžeta">
       <variant code="0107004499110" title="BORIN ruk.nitril celomáč.manže - 11" price="3.889" currency="EUR" unit="PÁR"/>
@@ -2799,7 +2798,6 @@
    <product code="01130001" title="GADWALL rukavice bezš.úplet,Kevlar">
       <variant code="0113000199100" title="GADWALL r 10 rukavice bezš.úplet,Kevlar" price="8.87" currency="EUR" unit="PÁR"/>
       <variant code="0113000199090" title="GADWALL ru 9 rukavice bezš.úplet,Kevlar" price="8.87" currency="EUR" unit="PÁR"/>
-      <variant code="0113000199080" title="GADWALL ru 8 rukavice bezš.úplet,Kevlar" price="8.87" currency="EUR" unit="PÁR"/>
       <variant code="0113000199070" title="GADWALL ru 7 rukavice bezš.úplet,Kevlar" price="8.87" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01130003" title="CHIFFCHAFF ruk.Kevlar str.silný, terč.">
@@ -2815,7 +2813,6 @@
    </product>
    <product code="01130008" title="CROPPER DOT ruk.plet.zo synt.vlák.terč">
       <variant code="0113000899100" title="CROPPER DOT 10 ruk.plet.zo synt.vlák.ter" price="6.2" currency="EUR" unit="PÁR"/>
-      <variant code="0113000899080" title="CROPPER DOT 8 ruk.plet.zo synt.vlák.terč" price="6.2" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01130011" title="Cropper strong ruk.plet.synt.+ koža">
       <variant code="0113001199100" title="Cropper strong 10 ruk.plet.synt.+ koža" price="11.158" currency="EUR" unit="PÁR"/>
@@ -15443,6 +15440,15 @@
       <variant code="0308003210002" title="STIRLING STRETCH pletený sveter zelená M" price="33.756" currency="EUR" unit="KS"/>
       <variant code="0308003210001" title="STIRLING STRETCH pletený sveter zelená S" price="33.756" currency="EUR" unit="KS"/>
       <variant code="0308003210000" title="STIRLING STRETCH pletený sveter zel. XS" price="33.756" currency="EUR" unit="KS"/>
+   </product>
+   <product code="03080034" title="CORRAN HV sweater">
+      <variant code="0308003472007" title="CORRAN HV sweater žltá/navy 4XL" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0308003472006" title="CORRAN HV sweater žltá/navy 3XL" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0308003472005" title="CORRAN HV sweater žltá/navy XXL" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0308003472004" title="CORRAN HV sweater žltá/navy XL" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0308003472003" title="CORRAN HV sweater žltá/navy L" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0308003472002" title="CORRAN HV sweater žltá/navy M" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0308003472001" title="CORRAN HV sweater žltá/navy S" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="03090001" title="LION tričko dlhý rukáv">
       <variant code="0309000141007" title="LION tričko dlhý rukáv navy 3XL/4XL" price="25.093" currency="EUR" unit="KS"/>

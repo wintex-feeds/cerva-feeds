@@ -46294,6 +46294,49 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
          <unit>KS</unit>
       </product>
       <product>
+         <code>03080034</code>
+         <title>CORRAN HV sweater</title>
+         <description>• Corran is a trendy hi-vis sweater with segmented reflective tape that offers ARC protection • the bi-colour sweater is equipped with 2 side pockets with zip closure and has anti-microbial properties, convenient in hazardous situations • it has straight collar, front zip closure under flap and elasticated waist • the sweater complies to international standards like IEC 61482-2, EN ISO 11612, EN ISO 11416 and EN 1149-5 amongst others</description>
+         <categoryPath>Produkty/Odevy/Mikiny, svetre, vesty/Svetre</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="001" title="S"/>
+            <size code="002" title="M"/>
+            <size code="003" title="L"/>
+            <size code="004" title="XL"/>
+            <size code="005" title="XXL"/>
+            <size code="006" title="3XL"/>
+            <size code="007" title="4XL"/>
+         </sizes>
+         <colors>
+            <color code="72" title="žltá/navy"/>
+         </colors>
+         <standards>
+            <standard code="EN ISO 13688" title="EN ISO 13688"/>
+            <standard code="EN 1149-5" title="EN 1149-5"/>
+            <standard code="EN 61482-2" title="EN 61482-2 | APCAPC1 ELIM12 cal/cm2 EBT15 cal/cm2"/>
+            <standard code="EN ISO 11612" title="EN ISO 11612 | A1 B1 C1 F1"/>
+            <standard code="EN ISO 14116" title="EN ISO 14116 | Index:IND.3"/>
+            <standard code="EN ISO 20471" title="EN ISO 20471 | Class: 2"/>
+         </standards>
+         <brand>SIOE</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTc2MHxpbWFnZS9wbmd8OTM4Njg2NzMyNzAwNi8wMzA4MDAzNF9TSU9FTl9Db3JyYW5fNjE2QV8yNzhfQTJfTVI1X0ZSLnBuZ3wwZTA1MDU3OTZhOWIyYTQ0MWRhZDExOWZlMGFkNjgzM2NkNGIxNDA1MzAyMmE0NDFlMDk1ZjM3MTNjY2Q0NjZl</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTY3NnxpbWFnZS9wbmd8OTM4Njg2NjY3MTY0Ni8wMzA4MDAzNF9TSU9FTl9Db3JyYW5fNjE2QV8yNzhfU0lSLnBuZ3wzMWE1M2JlZTVmMWI2MWQ1NzczNWViNmM3Njg0OGQ2N2Y4MTkyMGQyMTExNDE2OTRjNTEwMjY2MjZmMzM3YTYz</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjQzMnxpbWFnZS9wbmd8OTM4Njg2NjAxNjI4Ni8wMzA4MDAzNF9TSU9FTl9Db3JyYW5fNjE2QV8yNzhfU0lMLnBuZ3xmZjRkMDA1MTJiMzU5ZDZlNTc1ZDgyNjg1ZmY0YmQ2MDRlODM2Nzg4MzA4NTIxMjNiNjU4YzU0NDBkZWYwYWMx</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTQxMnxpbWFnZS9wbmd8OTM4Njg2NzUyMzYxNC8wMzA4MDAzNF9TSU9FTl9Db3JyYW5fNjE2QV8yNzhfQkEucG5nfDFhODEwYzk1ZjdmN2M0YTkyMGQzN2Y5NmI1MGU3YjBiNGMzZjI4YjlhOGM0OTIwNmI4Nzk2NjY3ZjNmNjE2NGE</path>
+            </image>
+         </images>
+         <unit>KS</unit>
+      </product>
+      <product>
          <code>03090001</code>
          <title>LION tričko dlhý rukáv</title>
          <description>• pánska funkčná spodná bielizeň (zimná verzia) • predĺžený zadný diel</description>

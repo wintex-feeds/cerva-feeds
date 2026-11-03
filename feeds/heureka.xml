@@ -50651,6 +50651,10 @@
       <URL>/sk/sk/sabini-rukav.-celomacane-v-niri-10/p/01070043?cl=99&amp;s=01-100</URL>
       <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTA2Mjk3fGltYWdlL3BuZ3w5MDI0MTcwMTY0MjU0LzAxMDcwMDQzX1NBQklOSV9DRVJWQV8yMDE2XzE0MDg2X2FsbF9sYWJlbC50aWYucG5nfGVkNmY3MWFlNTM4ZjcyODg0MzdlMDBkOTdkZWI2YzI3MzY2NjA5ODAyNDExZDU2NjdiZjA1OTZkYWI4MWU3ODE</IMGURL>
       <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Dopredaj</VAL>
+      </PARAM>
+      <PARAM>
          <PARAM_NAME>Veľkosť</PARAM_NAME>
          <VAL>10</VAL>
       </PARAM>
@@ -50755,120 +50759,6 @@
       <MANUFACTURER_ELECTRONIC_ADDRESS/>
       <CATEGORYTEXT>Produkty | Rukavice | Máčané a povrstvené | Šité rukavice</CATEGORYTEXT>
       <EAN>8591806132924</EAN>
-      <ITEMGROUP_ID>01070043</ITEMGROUP_ID>
-   </SHOPITEM>
-   <SHOPITEM>
-      <ITEM_ID>0107004399090</ITEM_ID>
-      <PRODUCTNAME>SABINI rukav. celomáčané v nirile</PRODUCTNAME>
-      <PRODUCT>SABINI rukav. celomáčané v niril - 9</PRODUCT>
-      <DESCRIPTION>• rukavice šité z bavlneného úpletu • máčané v nitrile (protišmykové uchopenie) • s elastickou pletenou manžetou zabraňujúcou prieniku nečistôt • určené pre prácu s abrazívnymi materiálmi v ľahko zaolejovanom prostredí</DESCRIPTION>
-      <URL>/sk/sk/sabini-rukav.-celomacane-v-niril-9/p/01070043?cl=99&amp;s=01-090</URL>
-      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTA2Mjk3fGltYWdlL3BuZ3w5MDI0MTcwMTY0MjU0LzAxMDcwMDQzX1NBQklOSV9DRVJWQV8yMDE2XzE0MDg2X2FsbF9sYWJlbC50aWYucG5nfGVkNmY3MWFlNTM4ZjcyODg0MzdlMDBkOTdkZWI2YzI3MzY2NjA5ODAyNDExZDU2NjdiZjA1OTZkYWI4MWU3ODE</IMGURL>
-      <PARAM>
-         <PARAM_NAME>Veľkosť</PARAM_NAME>
-         <VAL>9</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Farba</PARAM_NAME>
-         <VAL>-</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Farba2</PARAM_NAME>
-         <VAL>modrá</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Materiál máčania</PARAM_NAME>
-         <VAL>nitril</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Materiál rukavíc</PARAM_NAME>
-         <VAL>bavlna, Pletený</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Materiál manžety</PARAM_NAME>
-         <VAL>bavlna, Pletený</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Typ manžety</PARAM_NAME>
-         <VAL>knitwrist</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Oblasť máčania</PARAM_NAME>
-         <VAL>Úplny</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Priemysel</PARAM_NAME>
-         <VAL>Poľnohospodárstvo, lesníctvo, rybolov</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Priemysel</PARAM_NAME>
-         <VAL>Baníctvo a ťažba</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Priemysel</PARAM_NAME>
-         <VAL>Strojárstvo</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Priemysel</PARAM_NAME>
-         <VAL>Ťažký priemysel</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Priemysel</PARAM_NAME>
-         <VAL>Stavba</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Priemysel</PARAM_NAME>
-         <VAL>Preprava a skladovanie</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Oblasť použitia</PARAM_NAME>
-         <VAL>Montážna hala</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Oblasť použitia</PARAM_NAME>
-         <VAL>Údržba</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Povolanie</PARAM_NAME>
-         <VAL>Montážnik</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Povolanie</PARAM_NAME>
-         <VAL>Skladník</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>MOQ</PARAM_NAME>
-         <VAL>1 PÁR</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>EN 20471</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Šité rukavice</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Rukavice</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Cutting</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Nepříznivé počasí</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Máčané a povrstvené</VAL>
-      </PARAM>
-      <MANUFACTURER>CERVA</MANUFACTURER>
-      <MANUFACTURER_POSTAL_ADDRESS/>
-      <MANUFACTURER_ELECTRONIC_ADDRESS/>
-      <CATEGORYTEXT>Produkty | Rukavice | Máčané a povrstvené | Šité rukavice</CATEGORYTEXT>
-      <EAN>8591806130630</EAN>
       <ITEMGROUP_ID>01070043</ITEMGROUP_ID>
    </SHOPITEM>
    <SHOPITEM>
@@ -175093,6 +174983,10 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
       <URL>/sk/sk/gadwall-r-10-rukavice-bezs.uplet-kevlar/p/01130001?cl=99&amp;s=01-100</URL>
       <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDA5NTYwfGltYWdlL3BuZ3w5MDI0MjE5MjUwNzE4LzAxMTMwMDAxX0dBRFdBTExfQ0VSVkFfMjAxNl8xMzkwNl9hbGwudGlmLnBuZ3w0MDBkNTQ0MDM0Yjk5NGU4NmQxZTVlZTE5NTk3MTdlNTdlZWFhMDM0MzFmMDlkZWFkMzJhN2MxZjU0YmY3M2Fh</IMGURL>
       <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Dopredaj</VAL>
+      </PARAM>
+      <PARAM>
          <PARAM_NAME>Veľkosť</PARAM_NAME>
          <VAL>10</VAL>
       </PARAM>
@@ -175180,6 +175074,10 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
       <URL>/sk/sk/gadwall-ru-9-rukavice-bezs.uplet-kevlar/p/01130001?cl=99&amp;s=01-090</URL>
       <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDA5NTYwfGltYWdlL3BuZ3w5MDI0MjE5MjUwNzE4LzAxMTMwMDAxX0dBRFdBTExfQ0VSVkFfMjAxNl8xMzkwNl9hbGwudGlmLnBuZ3w0MDBkNTQ0MDM0Yjk5NGU4NmQxZTVlZTE5NTk3MTdlNTdlZWFhMDM0MzFmMDlkZWFkMzJhN2MxZjU0YmY3M2Fh</IMGURL>
       <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Dopredaj</VAL>
+      </PARAM>
+      <PARAM>
          <PARAM_NAME>Veľkosť</PARAM_NAME>
          <VAL>9</VAL>
       </PARAM>
@@ -175260,99 +175158,16 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
       <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyNjM0ODV8aW1hZ2UvcG5nfDkyNDYwODQyMDI1MjYvMDExMzAwMDE5OV9HQURXQUxMX2tldmxhcmxfZ2xvdmVzLTAxLmpwZ3w4ZjhhYzFlMzRjYTgzMTJjYmM0MDkwNzQzOGNhNmQzNGUyZDM3NjkxMmM5YTY5YWYxMzU4NzJkZDlmMTJiMWQ1</IMGURL_ALTERNATIVE>
    </SHOPITEM>
    <SHOPITEM>
-      <ITEM_ID>0113000199080</ITEM_ID>
-      <PRODUCTNAME>GADWALL rukavice bezš.úplet,Kevlar</PRODUCTNAME>
-      <PRODUCT>GADWALL ru 8 rukavice bezš.úplet,Kevlar</PRODUCT>
-      <DESCRIPTION>• pletené, bezšvové, stredne silné kevlarové rukavice</DESCRIPTION>
-      <URL>/sk/sk/gadwall-ru-8-rukavice-bezs.uplet-kevlar/p/01130001?cl=99&amp;s=01-080</URL>
-      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDA5NTYwfGltYWdlL3BuZ3w5MDI0MjE5MjUwNzE4LzAxMTMwMDAxX0dBRFdBTExfQ0VSVkFfMjAxNl8xMzkwNl9hbGwudGlmLnBuZ3w0MDBkNTQ0MDM0Yjk5NGU4NmQxZTVlZTE5NTk3MTdlNTdlZWFhMDM0MzFmMDlkZWFkMzJhN2MxZjU0YmY3M2Fh</IMGURL>
-      <PARAM>
-         <PARAM_NAME>Veľkosť</PARAM_NAME>
-         <VAL>8</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Farba</PARAM_NAME>
-         <VAL>-</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Farba2</PARAM_NAME>
-         <VAL>žltá</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Normy</PARAM_NAME>
-         <VAL>EN ISO 21420:2020</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Normy</PARAM_NAME>
-         <VAL>EN 388:2016+A1:2018 | 1341X</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Normy</PARAM_NAME>
-         <VAL>EN 407:2020 | 2XXXXX</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Materiál rukavíc</PARAM_NAME>
-         <VAL>DuPont Kevlar, Pletený</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Materiál manžety</PARAM_NAME>
-         <VAL>DuPont Kevlar, Pletený</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Typ manžety</PARAM_NAME>
-         <VAL>knitwrist</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Mierka</PARAM_NAME>
-         <VAL>10 GG</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>MOQ</PARAM_NAME>
-         <VAL>1 PÁR</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>EN 20471</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Rukavice</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Cutting</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Nepříznivé počasí</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Mechanické</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Tepelné riziká</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Odolné voči teplu</VAL>
-      </PARAM>
-      <MANUFACTURER>CERVA GROUP a.s.</MANUFACTURER>
-      <MANUFACTURER_POSTAL_ADDRESS>Průmyslová 483, 252 61 Jeneč, Czech Republic</MANUFACTURER_POSTAL_ADDRESS>
-      <MANUFACTURER_ELECTRONIC_ADDRESS/>
-      <CATEGORYTEXT>Produkty | Rukavice</CATEGORYTEXT>
-      <EAN>8591806061996</EAN>
-      <ITEMGROUP_ID>01130001</ITEMGROUP_ID>
-      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyNjM0ODV8aW1hZ2UvcG5nfDkyNDYwODQyMDI1MjYvMDExMzAwMDE5OV9HQURXQUxMX2tldmxhcmxfZ2xvdmVzLTAxLmpwZ3w4ZjhhYzFlMzRjYTgzMTJjYmM0MDkwNzQzOGNhNmQzNGUyZDM3NjkxMmM5YTY5YWYxMzU4NzJkZDlmMTJiMWQ1</IMGURL_ALTERNATIVE>
-   </SHOPITEM>
-   <SHOPITEM>
       <ITEM_ID>0113000199070</ITEM_ID>
       <PRODUCTNAME>GADWALL rukavice bezš.úplet,Kevlar</PRODUCTNAME>
       <PRODUCT>GADWALL ru 7 rukavice bezš.úplet,Kevlar</PRODUCT>
       <DESCRIPTION>• pletené, bezšvové, stredne silné kevlarové rukavice</DESCRIPTION>
       <URL>/sk/sk/gadwall-ru-7-rukavice-bezs.uplet-kevlar/p/01130001?cl=99&amp;s=01-070</URL>
       <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDA5NTYwfGltYWdlL3BuZ3w5MDI0MjE5MjUwNzE4LzAxMTMwMDAxX0dBRFdBTExfQ0VSVkFfMjAxNl8xMzkwNl9hbGwudGlmLnBuZ3w0MDBkNTQ0MDM0Yjk5NGU4NmQxZTVlZTE5NTk3MTdlNTdlZWFhMDM0MzFmMDlkZWFkMzJhN2MxZjU0YmY3M2Fh</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Dopredaj</VAL>
+      </PARAM>
       <PARAM>
          <PARAM_NAME>Veľkosť</PARAM_NAME>
          <VAL>7</VAL>
@@ -176018,6 +175833,10 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
       <URL>/sk/sk/cropper-dot-10-ruk.plet.zo-synt.vlak.ter/p/01130008?cl=99&amp;s=01-100</URL>
       <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzcxMDA1fGltYWdlL3BuZ3w5MDIyMzAyMjU3MTgyLzAxMTMwMDA4X0NST1BQRVJfRE9UU19hbGxfRFNDXzEwMTMudGlmLnBuZ3xhOWRjNGNiZDAxNGIzNTIwYjYwNjlmMDYxY2U1NmQyOGY2NTdjN2VhNzY0OTg2Y2MwMTQ5MGU1ZTcxZjg5OWI2</IMGURL>
       <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Dopredaj</VAL>
+      </PARAM>
+      <PARAM>
          <PARAM_NAME>Veľkosť</PARAM_NAME>
          <VAL>10</VAL>
       </PARAM>
@@ -176090,89 +175909,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
       <MANUFACTURER_ELECTRONIC_ADDRESS/>
       <CATEGORYTEXT>Produkty | Rukavice</CATEGORYTEXT>
       <EAN>8591806072077</EAN>
-      <ITEMGROUP_ID>01130008</ITEMGROUP_ID>
-      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyNDM4MzJ8aW1hZ2UvcG5nfDkyNDYyNzQzODc5OTgvMDExMzAwMDg5OV9DUk9QUEVSX0RPVFNfZ2xhc3NfZmlicmVfZ2xvdmVzLTAxLmpwZ3w4YzQ4OTk2MDEyMzIyN2VlNDkwNjMzNDZmMGNkMTliZjk2NmIwZWRkMzVkZmY5MWUxMjlhY2JlZTQwMmQ4YzBk</IMGURL_ALTERNATIVE>
-   </SHOPITEM>
-   <SHOPITEM>
-      <ITEM_ID>0113000899080</ITEM_ID>
-      <PRODUCTNAME>CROPPER DOT ruk.plet.zo synt.vlák.terč</PRODUCTNAME>
-      <PRODUCT>CROPPER DOT 8 ruk.plet.zo synt.vlák.terč</PRODUCT>
-      <DESCRIPTION>• pletené, bezšvové rukavice z modifikovaného skleneného vlákna, Spandexu a nylonu • s PVC terčíkmi v dlani a na prstoch • odolnosť proti prerezu tr. C</DESCRIPTION>
-      <URL>/sk/sk/cropper-dot-8-ruk.plet.zo-synt.vlak.terc/p/01130008?cl=99&amp;s=01-080</URL>
-      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzcxMDA1fGltYWdlL3BuZ3w5MDIyMzAyMjU3MTgyLzAxMTMwMDA4X0NST1BQRVJfRE9UU19hbGxfRFNDXzEwMTMudGlmLnBuZ3xhOWRjNGNiZDAxNGIzNTIwYjYwNjlmMDYxY2U1NmQyOGY2NTdjN2VhNzY0OTg2Y2MwMTQ5MGU1ZTcxZjg5OWI2</IMGURL>
-      <PARAM>
-         <PARAM_NAME>Veľkosť</PARAM_NAME>
-         <VAL>8</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Farba</PARAM_NAME>
-         <VAL>-</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Farba2</PARAM_NAME>
-         <VAL>sivá</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Normy</PARAM_NAME>
-         <VAL>EN ISO 21420:2020</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Normy</PARAM_NAME>
-         <VAL>EN 388:2016+A1:2018 | 3X4XC</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Materiál máčania</PARAM_NAME>
-         <VAL>nitril</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Materiál rukavíc</PARAM_NAME>
-         <VAL>HPPE, sklenené vlákno, polyamid (nylon), Lycra</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Materiál manžety</PARAM_NAME>
-         <VAL>HPPE, sklenené vlákno, polyamid (nylon), Lycra</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Typ manžety</PARAM_NAME>
-         <VAL>knitwrist</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Mierka</PARAM_NAME>
-         <VAL>13 GG</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>MOQ</PARAM_NAME>
-         <VAL>1 PÁR</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>EN 20471</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Rukavice</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Cutting</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Nepříznivé počasí</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Rez a prepichnutie</VAL>
-      </PARAM>
-      <PARAM>
-         <PARAM_NAME>Kategórie</PARAM_NAME>
-         <VAL>Mechanické</VAL>
-      </PARAM>
-      <MANUFACTURER>CERVA GROUP a.s.</MANUFACTURER>
-      <MANUFACTURER_POSTAL_ADDRESS>Průmyslová 483, 252 61 Jeneč, Czech Republic</MANUFACTURER_POSTAL_ADDRESS>
-      <MANUFACTURER_ELECTRONIC_ADDRESS/>
-      <CATEGORYTEXT>Produkty | Rukavice</CATEGORYTEXT>
-      <EAN>8591806072053</EAN>
       <ITEMGROUP_ID>01130008</ITEMGROUP_ID>
       <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyNDM4MzJ8aW1hZ2UvcG5nfDkyNDYyNzQzODc5OTgvMDExMzAwMDg5OV9DUk9QUEVSX0RPVFNfZ2xhc3NfZmlicmVfZ2xvdmVzLTAxLmpwZ3w4YzQ4OTk2MDEyMzIyN2VlNDkwNjMzNDZmMGNkMTliZjk2NmIwZWRkMzVkZmY5MWUxMjlhY2JlZTQwMmQ4YzBk</IMGURL_ALTERNATIVE>
    </SHOPITEM>
@@ -205707,10 +205443,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
       <URL>/sk/sk/elsec-10-11-class1-dielektr.-ruk.-7-5-kv/p/01170003?cl=99&amp;s=01-110</URL>
       <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjE1MzAxfGltYWdlL3BuZ3w5Mzc3Mjc1NTQzNTgyLzAxMTcwMDAzX0VMU0VDXzYzMTUzMF8xODFHTEUwMF9iLnBuZ3w5YjY5YWIzYjI4MGM1N2U1ODA1NjYyMDc0YzY1Y2I3ODQ5Yjc3ZjZlZWYzYzAwMzdmNTNiMGJmYzExMWExOGRi</IMGURL>
       <PARAM>
-         <PARAM_NAME>Status</PARAM_NAME>
-         <VAL>Na objednávku</VAL>
-      </PARAM>
-      <PARAM>
          <PARAM_NAME>Veľkosť</PARAM_NAME>
          <VAL>11</VAL>
       </PARAM>
@@ -205792,10 +205524,6 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
       <DESCRIPTION>• dielektrické izolačné rukavice z kvalitného prírodného latexu pre ochranu pred nebezpečným napätím (pozri tabuľku)</DESCRIPTION>
       <URL>/sk/sk/elsec-10-10-class1-dielektr.-ruk.-7-5kv/p/01170003?cl=99&amp;s=01-100</URL>
       <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjE1MzAxfGltYWdlL3BuZ3w5Mzc3Mjc1NTQzNTgyLzAxMTcwMDAzX0VMU0VDXzYzMTUzMF8xODFHTEUwMF9iLnBuZ3w5YjY5YWIzYjI4MGM1N2U1ODA1NjYyMDc0YzY1Y2I3ODQ5Yjc3ZjZlZWYzYzAwMzdmNTNiMGJmYzExMWExOGRi</IMGURL>
-      <PARAM>
-         <PARAM_NAME>Status</PARAM_NAME>
-         <VAL>Na objednávku</VAL>
-      </PARAM>
       <PARAM>
          <PARAM_NAME>Veľkosť</PARAM_NAME>
          <VAL>10</VAL>
@@ -1427472,6 +1427200,825 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
       <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTcyNjI1fGltYWdlL3BuZ3w5MzI4NzAwNDI0MjIyLzAzMDgwMDMyX1NUSVJMSU5HX1NUUkVUQ0hfa25pdHRlZF9zd2VhdGVyX2dyZWVuX0RTQ18xOTEyLnBuZ3wyMWU1ZTI2OWM5ZmEzM2U0ZWU4YWY0NDIyZTg5YjE5MTAzMjE2ZWVjOGFiNTk0NTk3ZTJhZTQ2NmE5OTQyOWE1</IMGURL_ALTERNATIVE>
       <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w1NDYzODN8aW1hZ2UvcG5nfDkzMjg3MTQwMjI5NDIvMDMwODAwMzJfU1RJUkxJTkdfU1RSRVRDSF9rbml0dGVkX3N3ZWF0ZXJfZ3JlZW5fbW9kZWxfQ2hvZG92XzA4XzIwMjUtMTMyNy5wbmd8OTc1MzM4Zjc4YzJlZmUyODk5OTlmMWVhZTE0ZGFlODMxNTI2NDY0YjYwZjk3NjBlZTk4ZmYyZDQ5OTFlODg0ZQ</IMGURL_ALTERNATIVE>
       <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w1MzY0NTF8aW1hZ2UvcG5nfDkzMjg3MTM0MzMxMTgvMDMwODAwMzJfU1RJUkxJTkdfU1RSRVRDSF9rbml0dGVkX3N3ZWF0ZXJfZ3JlZW5fbW9kZWxfQ2hvZG92XzA4XzIwMjUtMTMzOS5wbmd8NjcyNjI3NmQ5NDVmMjA3ZmM5OTEwYzViZDJjNWI1OWI1MTEwMGZiNjA4OWZiMmU0MTAzMjc2ZTM5MjRlMjE1OQ</IMGURL_ALTERNATIVE>
+   </SHOPITEM>
+   <SHOPITEM>
+      <ITEM_ID>0308003472007</ITEM_ID>
+      <PRODUCTNAME>CORRAN HV sweater</PRODUCTNAME>
+      <PRODUCT>CORRAN HV sweater žltá/navy 4XL</PRODUCT>
+      <DESCRIPTION>• Corran is a trendy hi-vis sweater with segmented reflective tape that offers ARC protection • the bi-colour sweater is equipped with 2 side pockets with zip closure and has anti-microbial properties, convenient in hazardous situations • it has straight collar, front zip closure under flap and elasticated waist • the sweater complies to international standards like IEC 61482-2, EN ISO 11612, EN ISO 11416 and EN 1149-5 amongst others</DESCRIPTION>
+      <URL>/sk/sk/corran-hv-sweater-zlta-navy-4xl/p/03080034?cl=72&amp;s=03-007</URL>
+      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDU2NDQ0fGltYWdlL3BuZ3w5Mzg2ODY3NDI1MzEwLzAzMDgwMDM0X1NJT0VOX0NvcnJhbl82MTZBXzI3OF9BMl9NUjVfRlIucG5nfGMwNTRkNDRkMzgxM2QyY2U1NWM5MTliMTZmZjQ3ZGU2NmU1ZTZlMGRhZDBjZTRkZWEzYTA4YTM1NGY5YTNkYmQ</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Na objednávku</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Veľkosť</PARAM_NAME>
+         <VAL>4XL</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba</PARAM_NAME>
+         <VAL>žltá/navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013+A1:2021</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 1149-5:2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 61482-2:2020 | APCAPC1 ELIM12 cal/cm2 EBT15 cal/cm2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 11612:2015 | A1 B1 C1 F1</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 14116:2015 | Index:IND.3</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 20471:2013+A1:2016 | Class: 2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vrchná časť oblečenia</PARAM_NAME>
+         <VAL>55% modakryl, 43% bavlna, 2% antistatické vlákno, 310 g/m²</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Počet cyklov</PARAM_NAME>
+         <VAL>25</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Prať na 40 °C, jemný prací proces</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Nebieliť</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Sušenie v bubnovej sušičke, nízka teplota</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Žehliť pri maximálnej teplote 100 °C</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Chemické čistenie zakázané</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>MOQ</PARAM_NAME>
+         <VAL>1 KS</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>EN 20471</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Cutting</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Nepříznivé počasí</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Svetre</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Mikiny, svetre, vesty</VAL>
+      </PARAM>
+      <MANUFACTURER>Sioen</MANUFACTURER>
+      <MANUFACTURER_POSTAL_ADDRESS>SIOEN — Sioen N.V., Fabriekstraat 23, 8850 Ardooie, Belgium.</MANUFACTURER_POSTAL_ADDRESS>
+      <MANUFACTURER_ELECTRONIC_ADDRESS>https://sioen-ppc.com/en</MANUFACTURER_ELECTRONIC_ADDRESS>
+      <CATEGORYTEXT>Produkty | Odevy | Mikiny, svetre, vesty | Svetre</CATEGORYTEXT>
+      <EAN>5415275427660</EAN>
+      <ITEMGROUP_ID>03080034</ITEMGROUP_ID>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mzc2MzJ8aW1hZ2UvcG5nfDkzODY4NjY3Njk5NTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJUi5wbmd8ODBlNGI2OWU5ZGIxMDhiYzQ0NWZkN2RhNWQyYzcyNjUzNWQ5OWJmN2RmMzE2MTMxMTk0Y2RkZDA2OGJlNDI3OQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5OTE0NTB8aW1hZ2UvcG5nfDkzODY4NjYxMTQ1OTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJTC5wbmd8MDI1Y2M1NGY5Y2JiZWRmMTY4Y2Q4ZmI3NGVjNTkzMmNiY2EwN2VhOTFhNTkyNDMzOTIxOTk5MzM5MGVlZjg5Nw</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4Njc5Mzh8aW1hZ2UvcG5nfDkzODY4Njc2MjE5MTgvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X0JBLnBuZ3w0MDRhODM1OTMwZjAwM2E5NjY0NmFkMWZmZjllNzhmZjJiN2E3N2M3NjUzZGQ4OWRkMjdmZjM3YjBkZDE3MWEw</IMGURL_ALTERNATIVE>
+   </SHOPITEM>
+   <SHOPITEM>
+      <ITEM_ID>0308003472006</ITEM_ID>
+      <PRODUCTNAME>CORRAN HV sweater</PRODUCTNAME>
+      <PRODUCT>CORRAN HV sweater žltá/navy 3XL</PRODUCT>
+      <DESCRIPTION>• Corran is a trendy hi-vis sweater with segmented reflective tape that offers ARC protection • the bi-colour sweater is equipped with 2 side pockets with zip closure and has anti-microbial properties, convenient in hazardous situations • it has straight collar, front zip closure under flap and elasticated waist • the sweater complies to international standards like IEC 61482-2, EN ISO 11612, EN ISO 11416 and EN 1149-5 amongst others</DESCRIPTION>
+      <URL>/sk/sk/corran-hv-sweater-zlta-navy-3xl/p/03080034?cl=72&amp;s=03-006</URL>
+      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDU2NDQ0fGltYWdlL3BuZ3w5Mzg2ODY3NDI1MzEwLzAzMDgwMDM0X1NJT0VOX0NvcnJhbl82MTZBXzI3OF9BMl9NUjVfRlIucG5nfGMwNTRkNDRkMzgxM2QyY2U1NWM5MTliMTZmZjQ3ZGU2NmU1ZTZlMGRhZDBjZTRkZWEzYTA4YTM1NGY5YTNkYmQ</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Na objednávku</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Veľkosť</PARAM_NAME>
+         <VAL>3XL</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba</PARAM_NAME>
+         <VAL>žltá/navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013+A1:2021</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 1149-5:2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 61482-2:2020 | APCAPC1 ELIM12 cal/cm2 EBT15 cal/cm2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 11612:2015 | A1 B1 C1 F1</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 14116:2015 | Index:IND.3</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 20471:2013+A1:2016 | Class: 2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vrchná časť oblečenia</PARAM_NAME>
+         <VAL>55% modakryl, 43% bavlna, 2% antistatické vlákno, 310 g/m²</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Počet cyklov</PARAM_NAME>
+         <VAL>25</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Prať na 40 °C, jemný prací proces</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Nebieliť</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Sušenie v bubnovej sušičke, nízka teplota</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Žehliť pri maximálnej teplote 100 °C</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Chemické čistenie zakázané</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>MOQ</PARAM_NAME>
+         <VAL>1 KS</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>EN 20471</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Cutting</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Nepříznivé počasí</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Svetre</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Mikiny, svetre, vesty</VAL>
+      </PARAM>
+      <MANUFACTURER>Sioen</MANUFACTURER>
+      <MANUFACTURER_POSTAL_ADDRESS>SIOEN — Sioen N.V., Fabriekstraat 23, 8850 Ardooie, Belgium.</MANUFACTURER_POSTAL_ADDRESS>
+      <MANUFACTURER_ELECTRONIC_ADDRESS>https://sioen-ppc.com/en</MANUFACTURER_ELECTRONIC_ADDRESS>
+      <CATEGORYTEXT>Produkty | Odevy | Mikiny, svetre, vesty | Svetre</CATEGORYTEXT>
+      <EAN>5415275427653</EAN>
+      <ITEMGROUP_ID>03080034</ITEMGROUP_ID>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mzc2MzJ8aW1hZ2UvcG5nfDkzODY4NjY3Njk5NTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJUi5wbmd8ODBlNGI2OWU5ZGIxMDhiYzQ0NWZkN2RhNWQyYzcyNjUzNWQ5OWJmN2RmMzE2MTMxMTk0Y2RkZDA2OGJlNDI3OQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5OTE0NTB8aW1hZ2UvcG5nfDkzODY4NjYxMTQ1OTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJTC5wbmd8MDI1Y2M1NGY5Y2JiZWRmMTY4Y2Q4ZmI3NGVjNTkzMmNiY2EwN2VhOTFhNTkyNDMzOTIxOTk5MzM5MGVlZjg5Nw</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4Njc5Mzh8aW1hZ2UvcG5nfDkzODY4Njc2MjE5MTgvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X0JBLnBuZ3w0MDRhODM1OTMwZjAwM2E5NjY0NmFkMWZmZjllNzhmZjJiN2E3N2M3NjUzZGQ4OWRkMjdmZjM3YjBkZDE3MWEw</IMGURL_ALTERNATIVE>
+   </SHOPITEM>
+   <SHOPITEM>
+      <ITEM_ID>0308003472005</ITEM_ID>
+      <PRODUCTNAME>CORRAN HV sweater</PRODUCTNAME>
+      <PRODUCT>CORRAN HV sweater žltá/navy XXL</PRODUCT>
+      <DESCRIPTION>• Corran is a trendy hi-vis sweater with segmented reflective tape that offers ARC protection • the bi-colour sweater is equipped with 2 side pockets with zip closure and has anti-microbial properties, convenient in hazardous situations • it has straight collar, front zip closure under flap and elasticated waist • the sweater complies to international standards like IEC 61482-2, EN ISO 11612, EN ISO 11416 and EN 1149-5 amongst others</DESCRIPTION>
+      <URL>/sk/sk/corran-hv-sweater-zlta-navy-xxl/p/03080034?cl=72&amp;s=03-005</URL>
+      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDU2NDQ0fGltYWdlL3BuZ3w5Mzg2ODY3NDI1MzEwLzAzMDgwMDM0X1NJT0VOX0NvcnJhbl82MTZBXzI3OF9BMl9NUjVfRlIucG5nfGMwNTRkNDRkMzgxM2QyY2U1NWM5MTliMTZmZjQ3ZGU2NmU1ZTZlMGRhZDBjZTRkZWEzYTA4YTM1NGY5YTNkYmQ</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Na objednávku</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Veľkosť</PARAM_NAME>
+         <VAL>XXL</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba</PARAM_NAME>
+         <VAL>žltá/navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013+A1:2021</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 1149-5:2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 61482-2:2020 | APCAPC1 ELIM12 cal/cm2 EBT15 cal/cm2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 11612:2015 | A1 B1 C1 F1</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 14116:2015 | Index:IND.3</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 20471:2013+A1:2016 | Class: 2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vrchná časť oblečenia</PARAM_NAME>
+         <VAL>55% modakryl, 43% bavlna, 2% antistatické vlákno, 310 g/m²</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Počet cyklov</PARAM_NAME>
+         <VAL>25</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Prať na 40 °C, jemný prací proces</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Nebieliť</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Sušenie v bubnovej sušičke, nízka teplota</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Žehliť pri maximálnej teplote 100 °C</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Chemické čistenie zakázané</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>MOQ</PARAM_NAME>
+         <VAL>1 KS</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>EN 20471</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Cutting</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Nepříznivé počasí</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Svetre</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Mikiny, svetre, vesty</VAL>
+      </PARAM>
+      <MANUFACTURER>Sioen</MANUFACTURER>
+      <MANUFACTURER_POSTAL_ADDRESS>SIOEN — Sioen N.V., Fabriekstraat 23, 8850 Ardooie, Belgium.</MANUFACTURER_POSTAL_ADDRESS>
+      <MANUFACTURER_ELECTRONIC_ADDRESS>https://sioen-ppc.com/en</MANUFACTURER_ELECTRONIC_ADDRESS>
+      <CATEGORYTEXT>Produkty | Odevy | Mikiny, svetre, vesty | Svetre</CATEGORYTEXT>
+      <EAN>5415275427646</EAN>
+      <ITEMGROUP_ID>03080034</ITEMGROUP_ID>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mzc2MzJ8aW1hZ2UvcG5nfDkzODY4NjY3Njk5NTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJUi5wbmd8ODBlNGI2OWU5ZGIxMDhiYzQ0NWZkN2RhNWQyYzcyNjUzNWQ5OWJmN2RmMzE2MTMxMTk0Y2RkZDA2OGJlNDI3OQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5OTE0NTB8aW1hZ2UvcG5nfDkzODY4NjYxMTQ1OTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJTC5wbmd8MDI1Y2M1NGY5Y2JiZWRmMTY4Y2Q4ZmI3NGVjNTkzMmNiY2EwN2VhOTFhNTkyNDMzOTIxOTk5MzM5MGVlZjg5Nw</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4Njc5Mzh8aW1hZ2UvcG5nfDkzODY4Njc2MjE5MTgvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X0JBLnBuZ3w0MDRhODM1OTMwZjAwM2E5NjY0NmFkMWZmZjllNzhmZjJiN2E3N2M3NjUzZGQ4OWRkMjdmZjM3YjBkZDE3MWEw</IMGURL_ALTERNATIVE>
+   </SHOPITEM>
+   <SHOPITEM>
+      <ITEM_ID>0308003472004</ITEM_ID>
+      <PRODUCTNAME>CORRAN HV sweater</PRODUCTNAME>
+      <PRODUCT>CORRAN HV sweater žltá/navy XL</PRODUCT>
+      <DESCRIPTION>• Corran is a trendy hi-vis sweater with segmented reflective tape that offers ARC protection • the bi-colour sweater is equipped with 2 side pockets with zip closure and has anti-microbial properties, convenient in hazardous situations • it has straight collar, front zip closure under flap and elasticated waist • the sweater complies to international standards like IEC 61482-2, EN ISO 11612, EN ISO 11416 and EN 1149-5 amongst others</DESCRIPTION>
+      <URL>/sk/sk/corran-hv-sweater-zlta-navy-xl/p/03080034?cl=72&amp;s=03-004</URL>
+      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDU2NDQ0fGltYWdlL3BuZ3w5Mzg2ODY3NDI1MzEwLzAzMDgwMDM0X1NJT0VOX0NvcnJhbl82MTZBXzI3OF9BMl9NUjVfRlIucG5nfGMwNTRkNDRkMzgxM2QyY2U1NWM5MTliMTZmZjQ3ZGU2NmU1ZTZlMGRhZDBjZTRkZWEzYTA4YTM1NGY5YTNkYmQ</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Na objednávku</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Veľkosť</PARAM_NAME>
+         <VAL>XL</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba</PARAM_NAME>
+         <VAL>žltá/navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013+A1:2021</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 1149-5:2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 61482-2:2020 | APCAPC1 ELIM12 cal/cm2 EBT15 cal/cm2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 11612:2015 | A1 B1 C1 F1</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 14116:2015 | Index:IND.3</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 20471:2013+A1:2016 | Class: 2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vrchná časť oblečenia</PARAM_NAME>
+         <VAL>55% modakryl, 43% bavlna, 2% antistatické vlákno, 310 g/m²</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Počet cyklov</PARAM_NAME>
+         <VAL>25</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Prať na 40 °C, jemný prací proces</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Nebieliť</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Sušenie v bubnovej sušičke, nízka teplota</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Žehliť pri maximálnej teplote 100 °C</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Chemické čistenie zakázané</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>MOQ</PARAM_NAME>
+         <VAL>1 KS</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>EN 20471</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Cutting</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Nepříznivé počasí</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Svetre</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Mikiny, svetre, vesty</VAL>
+      </PARAM>
+      <MANUFACTURER>Sioen</MANUFACTURER>
+      <MANUFACTURER_POSTAL_ADDRESS>SIOEN — Sioen N.V., Fabriekstraat 23, 8850 Ardooie, Belgium.</MANUFACTURER_POSTAL_ADDRESS>
+      <MANUFACTURER_ELECTRONIC_ADDRESS>https://sioen-ppc.com/en</MANUFACTURER_ELECTRONIC_ADDRESS>
+      <CATEGORYTEXT>Produkty | Odevy | Mikiny, svetre, vesty | Svetre</CATEGORYTEXT>
+      <EAN>5415275427639</EAN>
+      <ITEMGROUP_ID>03080034</ITEMGROUP_ID>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mzc2MzJ8aW1hZ2UvcG5nfDkzODY4NjY3Njk5NTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJUi5wbmd8ODBlNGI2OWU5ZGIxMDhiYzQ0NWZkN2RhNWQyYzcyNjUzNWQ5OWJmN2RmMzE2MTMxMTk0Y2RkZDA2OGJlNDI3OQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5OTE0NTB8aW1hZ2UvcG5nfDkzODY4NjYxMTQ1OTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJTC5wbmd8MDI1Y2M1NGY5Y2JiZWRmMTY4Y2Q4ZmI3NGVjNTkzMmNiY2EwN2VhOTFhNTkyNDMzOTIxOTk5MzM5MGVlZjg5Nw</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4Njc5Mzh8aW1hZ2UvcG5nfDkzODY4Njc2MjE5MTgvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X0JBLnBuZ3w0MDRhODM1OTMwZjAwM2E5NjY0NmFkMWZmZjllNzhmZjJiN2E3N2M3NjUzZGQ4OWRkMjdmZjM3YjBkZDE3MWEw</IMGURL_ALTERNATIVE>
+   </SHOPITEM>
+   <SHOPITEM>
+      <ITEM_ID>0308003472003</ITEM_ID>
+      <PRODUCTNAME>CORRAN HV sweater</PRODUCTNAME>
+      <PRODUCT>CORRAN HV sweater žltá/navy L</PRODUCT>
+      <DESCRIPTION>• Corran is a trendy hi-vis sweater with segmented reflective tape that offers ARC protection • the bi-colour sweater is equipped with 2 side pockets with zip closure and has anti-microbial properties, convenient in hazardous situations • it has straight collar, front zip closure under flap and elasticated waist • the sweater complies to international standards like IEC 61482-2, EN ISO 11612, EN ISO 11416 and EN 1149-5 amongst others</DESCRIPTION>
+      <URL>/sk/sk/corran-hv-sweater-zlta-navy-l/p/03080034?cl=72&amp;s=03-003</URL>
+      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDU2NDQ0fGltYWdlL3BuZ3w5Mzg2ODY3NDI1MzEwLzAzMDgwMDM0X1NJT0VOX0NvcnJhbl82MTZBXzI3OF9BMl9NUjVfRlIucG5nfGMwNTRkNDRkMzgxM2QyY2U1NWM5MTliMTZmZjQ3ZGU2NmU1ZTZlMGRhZDBjZTRkZWEzYTA4YTM1NGY5YTNkYmQ</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Na objednávku</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Veľkosť</PARAM_NAME>
+         <VAL>L</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba</PARAM_NAME>
+         <VAL>žltá/navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013+A1:2021</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 1149-5:2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 61482-2:2020 | APCAPC1 ELIM12 cal/cm2 EBT15 cal/cm2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 11612:2015 | A1 B1 C1 F1</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 14116:2015 | Index:IND.3</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 20471:2013+A1:2016 | Class: 2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vrchná časť oblečenia</PARAM_NAME>
+         <VAL>55% modakryl, 43% bavlna, 2% antistatické vlákno, 310 g/m²</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Počet cyklov</PARAM_NAME>
+         <VAL>25</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Prať na 40 °C, jemný prací proces</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Nebieliť</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Sušenie v bubnovej sušičke, nízka teplota</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Žehliť pri maximálnej teplote 100 °C</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Chemické čistenie zakázané</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>MOQ</PARAM_NAME>
+         <VAL>1 KS</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>EN 20471</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Cutting</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Nepříznivé počasí</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Svetre</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Mikiny, svetre, vesty</VAL>
+      </PARAM>
+      <MANUFACTURER>Sioen</MANUFACTURER>
+      <MANUFACTURER_POSTAL_ADDRESS>SIOEN — Sioen N.V., Fabriekstraat 23, 8850 Ardooie, Belgium.</MANUFACTURER_POSTAL_ADDRESS>
+      <MANUFACTURER_ELECTRONIC_ADDRESS>https://sioen-ppc.com/en</MANUFACTURER_ELECTRONIC_ADDRESS>
+      <CATEGORYTEXT>Produkty | Odevy | Mikiny, svetre, vesty | Svetre</CATEGORYTEXT>
+      <EAN>5415275427622</EAN>
+      <ITEMGROUP_ID>03080034</ITEMGROUP_ID>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mzc2MzJ8aW1hZ2UvcG5nfDkzODY4NjY3Njk5NTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJUi5wbmd8ODBlNGI2OWU5ZGIxMDhiYzQ0NWZkN2RhNWQyYzcyNjUzNWQ5OWJmN2RmMzE2MTMxMTk0Y2RkZDA2OGJlNDI3OQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5OTE0NTB8aW1hZ2UvcG5nfDkzODY4NjYxMTQ1OTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJTC5wbmd8MDI1Y2M1NGY5Y2JiZWRmMTY4Y2Q4ZmI3NGVjNTkzMmNiY2EwN2VhOTFhNTkyNDMzOTIxOTk5MzM5MGVlZjg5Nw</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4Njc5Mzh8aW1hZ2UvcG5nfDkzODY4Njc2MjE5MTgvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X0JBLnBuZ3w0MDRhODM1OTMwZjAwM2E5NjY0NmFkMWZmZjllNzhmZjJiN2E3N2M3NjUzZGQ4OWRkMjdmZjM3YjBkZDE3MWEw</IMGURL_ALTERNATIVE>
+   </SHOPITEM>
+   <SHOPITEM>
+      <ITEM_ID>0308003472002</ITEM_ID>
+      <PRODUCTNAME>CORRAN HV sweater</PRODUCTNAME>
+      <PRODUCT>CORRAN HV sweater žltá/navy M</PRODUCT>
+      <DESCRIPTION>• Corran is a trendy hi-vis sweater with segmented reflective tape that offers ARC protection • the bi-colour sweater is equipped with 2 side pockets with zip closure and has anti-microbial properties, convenient in hazardous situations • it has straight collar, front zip closure under flap and elasticated waist • the sweater complies to international standards like IEC 61482-2, EN ISO 11612, EN ISO 11416 and EN 1149-5 amongst others</DESCRIPTION>
+      <URL>/sk/sk/corran-hv-sweater-zlta-navy-m/p/03080034?cl=72&amp;s=03-002</URL>
+      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDU2NDQ0fGltYWdlL3BuZ3w5Mzg2ODY3NDI1MzEwLzAzMDgwMDM0X1NJT0VOX0NvcnJhbl82MTZBXzI3OF9BMl9NUjVfRlIucG5nfGMwNTRkNDRkMzgxM2QyY2U1NWM5MTliMTZmZjQ3ZGU2NmU1ZTZlMGRhZDBjZTRkZWEzYTA4YTM1NGY5YTNkYmQ</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Na objednávku</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Veľkosť</PARAM_NAME>
+         <VAL>M</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba</PARAM_NAME>
+         <VAL>žltá/navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013+A1:2021</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 1149-5:2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 61482-2:2020 | APCAPC1 ELIM12 cal/cm2 EBT15 cal/cm2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 11612:2015 | A1 B1 C1 F1</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 14116:2015 | Index:IND.3</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 20471:2013+A1:2016 | Class: 2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vrchná časť oblečenia</PARAM_NAME>
+         <VAL>55% modakryl, 43% bavlna, 2% antistatické vlákno, 310 g/m²</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Počet cyklov</PARAM_NAME>
+         <VAL>25</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Prať na 40 °C, jemný prací proces</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Nebieliť</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Sušenie v bubnovej sušičke, nízka teplota</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Žehliť pri maximálnej teplote 100 °C</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Chemické čistenie zakázané</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>MOQ</PARAM_NAME>
+         <VAL>1 KS</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>EN 20471</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Cutting</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Nepříznivé počasí</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Svetre</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Mikiny, svetre, vesty</VAL>
+      </PARAM>
+      <MANUFACTURER>Sioen</MANUFACTURER>
+      <MANUFACTURER_POSTAL_ADDRESS>SIOEN — Sioen N.V., Fabriekstraat 23, 8850 Ardooie, Belgium.</MANUFACTURER_POSTAL_ADDRESS>
+      <MANUFACTURER_ELECTRONIC_ADDRESS>https://sioen-ppc.com/en</MANUFACTURER_ELECTRONIC_ADDRESS>
+      <CATEGORYTEXT>Produkty | Odevy | Mikiny, svetre, vesty | Svetre</CATEGORYTEXT>
+      <EAN>5415275427615</EAN>
+      <ITEMGROUP_ID>03080034</ITEMGROUP_ID>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mzc2MzJ8aW1hZ2UvcG5nfDkzODY4NjY3Njk5NTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJUi5wbmd8ODBlNGI2OWU5ZGIxMDhiYzQ0NWZkN2RhNWQyYzcyNjUzNWQ5OWJmN2RmMzE2MTMxMTk0Y2RkZDA2OGJlNDI3OQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5OTE0NTB8aW1hZ2UvcG5nfDkzODY4NjYxMTQ1OTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJTC5wbmd8MDI1Y2M1NGY5Y2JiZWRmMTY4Y2Q4ZmI3NGVjNTkzMmNiY2EwN2VhOTFhNTkyNDMzOTIxOTk5MzM5MGVlZjg5Nw</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4Njc5Mzh8aW1hZ2UvcG5nfDkzODY4Njc2MjE5MTgvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X0JBLnBuZ3w0MDRhODM1OTMwZjAwM2E5NjY0NmFkMWZmZjllNzhmZjJiN2E3N2M3NjUzZGQ4OWRkMjdmZjM3YjBkZDE3MWEw</IMGURL_ALTERNATIVE>
+   </SHOPITEM>
+   <SHOPITEM>
+      <ITEM_ID>0308003472001</ITEM_ID>
+      <PRODUCTNAME>CORRAN HV sweater</PRODUCTNAME>
+      <PRODUCT>CORRAN HV sweater žltá/navy S</PRODUCT>
+      <DESCRIPTION>• Corran is a trendy hi-vis sweater with segmented reflective tape that offers ARC protection • the bi-colour sweater is equipped with 2 side pockets with zip closure and has anti-microbial properties, convenient in hazardous situations • it has straight collar, front zip closure under flap and elasticated waist • the sweater complies to international standards like IEC 61482-2, EN ISO 11612, EN ISO 11416 and EN 1149-5 amongst others</DESCRIPTION>
+      <URL>/sk/sk/corran-hv-sweater-zlta-navy-s/p/03080034?cl=72&amp;s=03-001</URL>
+      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDU2NDQ0fGltYWdlL3BuZ3w5Mzg2ODY3NDI1MzEwLzAzMDgwMDM0X1NJT0VOX0NvcnJhbl82MTZBXzI3OF9BMl9NUjVfRlIucG5nfGMwNTRkNDRkMzgxM2QyY2U1NWM5MTliMTZmZjQ3ZGU2NmU1ZTZlMGRhZDBjZTRkZWEzYTA4YTM1NGY5YTNkYmQ</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Na objednávku</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Veľkosť</PARAM_NAME>
+         <VAL>S</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba</PARAM_NAME>
+         <VAL>žltá/navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>navy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013+A1:2021</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 1149-5:2018</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN 61482-2:2020 | APCAPC1 ELIM12 cal/cm2 EBT15 cal/cm2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 11612:2015 | A1 B1 C1 F1</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 14116:2015 | Index:IND.3</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 20471:2013+A1:2016 | Class: 2</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vrchná časť oblečenia</PARAM_NAME>
+         <VAL>55% modakryl, 43% bavlna, 2% antistatické vlákno, 310 g/m²</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Počet cyklov</PARAM_NAME>
+         <VAL>25</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Prať na 40 °C, jemný prací proces</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Nebieliť</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Sušenie v bubnovej sušičke, nízka teplota</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Žehliť pri maximálnej teplote 100 °C</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Chemické čistenie zakázané</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>MOQ</PARAM_NAME>
+         <VAL>1 KS</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>EN 20471</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Cutting</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Nepříznivé počasí</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Svetre</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Mikiny, svetre, vesty</VAL>
+      </PARAM>
+      <MANUFACTURER>Sioen</MANUFACTURER>
+      <MANUFACTURER_POSTAL_ADDRESS>SIOEN — Sioen N.V., Fabriekstraat 23, 8850 Ardooie, Belgium.</MANUFACTURER_POSTAL_ADDRESS>
+      <MANUFACTURER_ELECTRONIC_ADDRESS>https://sioen-ppc.com/en</MANUFACTURER_ELECTRONIC_ADDRESS>
+      <CATEGORYTEXT>Produkty | Odevy | Mikiny, svetre, vesty | Svetre</CATEGORYTEXT>
+      <EAN>5415275427608</EAN>
+      <ITEMGROUP_ID>03080034</ITEMGROUP_ID>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5Mzc2MzJ8aW1hZ2UvcG5nfDkzODY4NjY3Njk5NTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJUi5wbmd8ODBlNGI2OWU5ZGIxMDhiYzQ0NWZkN2RhNWQyYzcyNjUzNWQ5OWJmN2RmMzE2MTMxMTk0Y2RkZDA2OGJlNDI3OQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5OTE0NTB8aW1hZ2UvcG5nfDkzODY4NjYxMTQ1OTAvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X1NJTC5wbmd8MDI1Y2M1NGY5Y2JiZWRmMTY4Y2Q4ZmI3NGVjNTkzMmNiY2EwN2VhOTFhNTkyNDMzOTIxOTk5MzM5MGVlZjg5Nw</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w4Njc5Mzh8aW1hZ2UvcG5nfDkzODY4Njc2MjE5MTgvMDMwODAwMzRfU0lPRU5fQ29ycmFuXzYxNkFfMjc4X0JBLnBuZ3w0MDRhODM1OTMwZjAwM2E5NjY0NmFkMWZmZjllNzhmZjJiN2E3N2M3NjUzZGQ4OWRkMjdmZjM3YjBkZDE3MWEw</IMGURL_ALTERNATIVE>
    </SHOPITEM>
    <SHOPITEM>
       <ITEM_ID>0309000141007</ITEM_ID>
