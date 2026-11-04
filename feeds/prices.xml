@@ -7238,7 +7238,6 @@
       <variant code="0203018160035" title="GARY ESD S1PS FO SR sandále čierna 35" price="128.2" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02040004" title="KRAKEN 6187 čižmy">
-      <variant code="0204000460048" title="KRAKEN 6187 čižmy čierna - 48" price="Bude upresnené" currency="" unit="PÁR"/>
       <variant code="0204000460047" title="KRAKEN 6187 čižmy čierna - 47" price="35.309" currency="EUR" unit="PÁR"/>
       <variant code="0204000460046" title="KRAKEN 6187 čižmy čierna - 46" price="35.309" currency="EUR" unit="PÁR"/>
       <variant code="0204000460045" title="KRAKEN 6187 čižmy čierna - 45" price="35.309" currency="EUR" unit="PÁR"/>
@@ -7248,9 +7247,6 @@
       <variant code="0204000460041" title="KRAKEN 6187 čižmy čierna - 41" price="35.309" currency="EUR" unit="PÁR"/>
       <variant code="0204000460040" title="KRAKEN 6187 čižmy čierna - 40" price="33.286" currency="EUR" unit="PÁR"/>
       <variant code="0204000460039" title="KRAKEN 6187 čižmy čierna - 39" price="35.309" currency="EUR" unit="PÁR"/>
-      <variant code="0204000460038" title="KRAKEN 6187 čižmy čierna - 38" price="33.286" currency="EUR" unit="PÁR"/>
-      <variant code="0204000460037" title="KRAKEN 6187 čižmy čierna - 37" price="33.286" currency="EUR" unit="PÁR"/>
-      <variant code="0204000460036" title="KRAKEN 6187 čižmy čierna - 36" price="33.286" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02040006" title="GINOCCHIO OB FO čižmy">
       <variant code="0204000680047" title="GINOCCHIO OB FO čižmy 47 biela" price="14.644" currency="EUR" unit="PÁR"/>
@@ -12748,36 +12744,6 @@
       <variant code="0302041260002" title="TORNE OUTDOOR nohavice čierna M" price="33.941" currency="EUR" unit="KS"/>
       <variant code="0302041260001" title="TORNE OUTDOOR nohavice čierna S" price="33.941" currency="EUR" unit="KS"/>
    </product>
-   <product code="03020455" title="SK dámske nohavice ELA STRETCH">
-      <variant code="03020455R7006" title="SK dámske nohavice ELA STRETCH losos.3XL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="03020455R7005" title="SK dámske nohavice ELA STRETCH losos.XXL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="03020455R7004" title="SK dámske nohavice ELA STRETCH losos.XL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="03020455R7003" title="SK dámske nohavice ELA STRETCH losos.L" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="03020455R7002" title="SK dámske nohavice ELA STRETCH losos.M" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="03020455R7001" title="SK dámske nohavice ELA STRETCH losos.S" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="03020455R7000" title="SK dámske nohavice ELA STRETCH losos.XS" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045580006" title="SK dámske nohavice ELA STRETCH biela 3XL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045580005" title="SK dámske nohavice ELA STRETCH biela XXL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045580004" title="SK dámske nohavice ELA STRETCH biela XL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045580003" title="SK dámske nohavice ELA STRETCH biela L" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045580002" title="SK dámske nohavice ELA STRETCH biela M" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045580001" title="SK dámske nohavice ELA STRETCH biela S" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045580000" title="SK dámske nohavice ELA STRETCH biela XS" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045560006" title="SK dámske nohavice ELA STRETCH čierna3XL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045560005" title="SK dámske nohavice ELA STRETCH čiernaXXL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045560004" title="SK dámske nohavice ELA STRETCH čierna XL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045560003" title="SK dámske nohavice ELA STRETCH čierna L" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045560002" title="SK dámske nohavice ELA STRETCH čierna M" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045560001" title="SK dámske nohavice ELA STRETCH čierna S" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045560000" title="SK dámske nohavice ELA STRETCH čierna XS" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045541006" title="SK dámske nohavice ELA STRETCH navy 3XL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045541005" title="SK dámske nohavice ELA STRETCH navy XXL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045541004" title="SK dámske nohavice ELA STRETCH navy XL" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045541003" title="SK dámske nohavice ELA STRETCH navy L" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045541002" title="SK dámske nohavice ELA STRETCH navy M" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045541001" title="SK dámske nohavice ELA STRETCH navy S" price="23.3" currency="EUR" unit="KS"/>
-      <variant code="0302045541000" title="SK dámske nohavice ELA STRETCH navy XS" price="23.3" currency="EUR" unit="KS"/>
-   </product>
    <product code="03020458" title="EMERTON STR zimné nohavice">
       <variant code="0302045860068" title="EMERTON STR zimné nohavice čierna 68" price="36.292" currency="EUR" unit="KS"/>
       <variant code="0302045860066" title="EMERTON STR zimné nohavice čierna 66" price="36.292" currency="EUR" unit="KS"/>
@@ -16359,138 +16325,6 @@
       <variant code="0312007110002" title="TOMAGA SET zelená M" price="24.092" currency="EUR" unit="SET"/>
       <variant code="0312007110001" title="TOMAGA SET zelená S" price="24.092" currency="EUR" unit="SET"/>
    </product>
-   <product code="03120075" title="CESARE zdrav.blúza+noh.">
-      <variant code="03120075B4007" title="CESARE zdrav.blúza+noh. belasá 4XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="03120075B4006" title="CESARE zdrav.blúza+noh. belasá 3XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="03120075B4005" title="CESARE zdrav.blúza+noh. belasá XXL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="03120075B4004" title="CESARE zdrav.blúza+noh. belasá XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="03120075B4003" title="CESARE zdrav.blúza+noh. belasá L" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="03120075B4002" title="CESARE zdrav.blúza+noh. belasá M" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="03120075B4001" title="CESARE zdrav.blúza+noh. belasá S" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="03120075B4000" title="CESARE zdrav.blúza+noh. belasá XS" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007580007" title="CESARE zdrav.blúza+noh. biela 4XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007580006" title="CESARE zdrav.blúza+noh. biela 3XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007580005" title="CESARE zdrav.blúza+noh. biela XXL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007580004" title="CESARE zdrav.blúza+noh. biela XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007580003" title="CESARE zdrav.blúza+noh. biela L" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007580002" title="CESARE zdrav.blúza+noh. biela M" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007580001" title="CESARE zdrav.blúza+noh. biela S" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007580000" title="CESARE zdrav.blúza+noh. biela XS" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007560007" title="CESARE zdrav.blúza+noh. čierna 4XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007560006" title="CESARE zdrav.blúza+noh. čierna 3XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007560005" title="CESARE zdrav.blúza+noh. čierna XXL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007560004" title="CESARE zdrav.blúza+noh. čierna XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007560003" title="CESARE zdrav.blúza+noh. čierna L" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007560002" title="CESARE zdrav.blúza+noh. čierna M" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007560001" title="CESARE zdrav.blúza+noh. čierna S" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007560000" title="CESARE zdrav.blúza+noh. čierna XS" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007558007" title="CESARE zdrav.blúza+noh. tm.fialová 4XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007558006" title="CESARE zdrav.blúza+noh. tm.fialová 3XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007558005" title="CESARE zdrav.blúza+noh. tm.fialová XXL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007558004" title="CESARE zdrav.blúza+noh. tm.fialová XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007558003" title="CESARE zdrav.blúza+noh. tm.fialová L" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007558002" title="CESARE zdrav.blúza+noh. tm.fialová M" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007558001" title="CESARE zdrav.blúza+noh. tm.fialová S" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007558000" title="CESARE zdrav.blúza+noh. tm.fialová XS" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007557007" title="CESARE zdrav.blúza+noh. sv.fialová 4XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007557006" title="CESARE zdrav.blúza+noh. sv.fialová 3XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007557005" title="CESARE zdrav.blúza+noh. sv.fialová XXL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007557004" title="CESARE zdrav.blúza+noh. sv.fialová XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007557003" title="CESARE zdrav.blúza+noh. sv.fialová L" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007557002" title="CESARE zdrav.blúza+noh. sv.fialová M" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007557001" title="CESARE zdrav.blúza+noh. sv.fialová S" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007557000" title="CESARE zdrav.blúza+noh. sv.fialová XS" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007552007" title="CESARE zdrav.blúza+noh. sv.modrá 4XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007552006" title="CESARE zdrav.blúza+noh. sv.modrá 3XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007552005" title="CESARE zdrav.blúza+noh. sv.modrá XXL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007552004" title="CESARE zdrav.blúza+noh. sv.modrá XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007552003" title="CESARE zdrav.blúza+noh. sv.modrá L" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007552002" title="CESARE zdrav.blúza+noh. sv.modrá M" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007552001" title="CESARE zdrav.blúza+noh. sv.modrá S" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007552000" title="CESARE zdrav.blúza+noh. sv.modrá XS" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007541007" title="CESARE zdrav.blúza+noh. navy 4XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007541006" title="CESARE zdrav.blúza+noh. navy 3XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007541005" title="CESARE zdrav.blúza+noh. navy XXL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007541004" title="CESARE zdrav.blúza+noh. navy XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007541003" title="CESARE zdrav.blúza+noh. navy L" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007541002" title="CESARE zdrav.blúza+noh. navy M" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007541001" title="CESARE zdrav.blúza+noh. navy S" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007541000" title="CESARE zdrav.blúza+noh. navy XS" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007527007" title="CESARE zdrav.blúza+noh. bordó 4XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007527006" title="CESARE zdrav.blúza+noh. bordó 3XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007527005" title="CESARE zdrav.blúza+noh. bordó XXL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007527004" title="CESARE zdrav.blúza+noh. bordó XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007527003" title="CESARE zdrav.blúza+noh. bordó L" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007527002" title="CESARE zdrav.blúza+noh. bordó M" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007527001" title="CESARE zdrav.blúza+noh. bordó S" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007527000" title="CESARE zdrav.blúza+noh. bordó XS" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007513007" title="CESARE zdrav.blúza+noh. sv.zelená 4XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007513006" title="CESARE zdrav.blúza+noh. sv.zelená 3XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007513005" title="CESARE zdrav.blúza+noh. sv.zelená XXL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007513004" title="CESARE zdrav.blúza+noh. sv.zelená XL" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007513003" title="CESARE zdrav.blúza+noh. sv.zelená L" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007513002" title="CESARE zdrav.blúza+noh. sv.zelená M" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007513001" title="CESARE zdrav.blúza+noh. sv.zelená S" price="23.0" currency="EUR" unit="SET"/>
-      <variant code="0312007513000" title="CESARE zdrav.blúza+noh. sv.zelená XS" price="23.0" currency="EUR" unit="SET"/>
-   </product>
-   <product code="03120076" title="COLOMBO zdrav.blúza+noh.">
-      <variant code="0312007680007" title="COLOMBO zdrav.blúza+noh. biela 4XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007680006" title="COLOMBO zdrav.blúza+noh. biela 3XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007680005" title="COLOMBO zdrav.blúza+noh. biela XXL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007680004" title="COLOMBO zdrav.blúza+noh. biela XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007680003" title="COLOMBO zdrav.blúza+noh. biela L" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007680002" title="COLOMBO zdrav.blúza+noh. biela M" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007680001" title="COLOMBO zdrav.blúza+noh. biela S" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007680000" title="COLOMBO zdrav.blúza+noh. biela XS" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007650007" title="COLOMBO zdrav.blúza+noh. royal modrá 4XL" price="Bude upresnené" currency="" unit="SET"/>
-      <variant code="0312007650006" title="COLOMBO zdrav.blúza+noh. royal modrá 3XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007650005" title="COLOMBO zdrav.blúza+noh. royal modrá XXL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007650004" title="COLOMBO zdrav.blúza+noh. royal modrá XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007650003" title="COLOMBO zdrav.blúza+noh. royal modrá L" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007650002" title="COLOMBO zdrav.blúza+noh. royal modrá M" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007650001" title="COLOMBO zdrav.blúza+noh. royal modrá S" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007650000" title="COLOMBO zdrav.blúza+noh. royal modrá XS" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007649007" title="COLOMBO zdrav.blúza+noh.nebes.modrá 4XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007649006" title="COLOMBO zdrav.blúza+noh.nebes.modrá 3XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007649005" title="COLOMBO zdrav.blúza+noh.nebes.modrá XXL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007649004" title="COLOMBO zdrav.blúza+noh.nebes.modrá XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007649003" title="COLOMBO zdrav.blúza+noh.nebes.modrá L" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007649002" title="COLOMBO zdrav.blúza+noh.nebes.modrá M" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007649001" title="COLOMBO zdrav.blúza+noh.nebes.modrá S" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007649000" title="COLOMBO zdrav.blúza+noh.nebes.modrá XS" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007641007" title="COLOMBO zdrav.blúza+noh. navy 4XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007641006" title="COLOMBO zdrav.blúza+noh. navy 3XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007641005" title="COLOMBO zdrav.blúza+noh. navy XXL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007641004" title="COLOMBO zdrav.blúza+noh. navy XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007641003" title="COLOMBO zdrav.blúza+noh. navy L" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007641002" title="COLOMBO zdrav.blúza+noh. navy M" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007641001" title="COLOMBO zdrav.blúza+noh. navy S" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007641000" title="COLOMBO zdrav.blúza+noh. navy XS" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007627007" title="COLOMBO zdrav.blúza+noh. bordó 4XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007627006" title="COLOMBO zdrav.blúza+noh. bordó 3XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007627005" title="COLOMBO zdrav.blúza+noh. bordó XXL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007627004" title="COLOMBO zdrav.blúza+noh. bordó XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007627003" title="COLOMBO zdrav.blúza+noh. bordó L" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007627002" title="COLOMBO zdrav.blúza+noh. bordó M" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007627001" title="COLOMBO zdrav.blúza+noh. bordó S" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007627000" title="COLOMBO zdrav.blúza+noh. bordó XS" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007610007" title="COLOMBO zdrav.blúza+noh. zelená 4XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007610006" title="COLOMBO zdrav.blúza+noh. zelená 3XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007610005" title="COLOMBO zdrav.blúza+noh. zelená XXL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007610004" title="COLOMBO zdrav.blúza+noh. zelená XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007610003" title="COLOMBO zdrav.blúza+noh. zelená L" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007610002" title="COLOMBO zdrav.blúza+noh. zelená M" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007610001" title="COLOMBO zdrav.blúza+noh. zelená S" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007610000" title="COLOMBO zdrav.blúza+noh. zelená XS" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007605007" title="COLOMBO zdrav.blúza+noh. tm.sivá 4XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007605006" title="COLOMBO zdrav.blúza+noh. tm.sivá 3XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007605005" title="COLOMBO zdrav.blúza+noh. tm.sivá XXL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007605004" title="COLOMBO zdrav.blúza+noh. tm.sivá XL" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007605003" title="COLOMBO zdrav.blúza+noh. tm.sivá L" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007605002" title="COLOMBO zdrav.blúza+noh. tm.sivá M" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007605001" title="COLOMBO zdrav.blúza+noh. tm.sivá S" price="22.0" currency="EUR" unit="SET"/>
-      <variant code="0312007605000" title="COLOMBO zdrav.blúza+noh. tm.sivá XS" price="22.0" currency="EUR" unit="SET"/>
-   </product>
    <product code="03130003" title="BAT Zástera z hliníkových došt. 55x60">
       <variant code="0313000399999" title="BAT Zástera z hliníkových došt. 55x60" price="183.921" currency="EUR" unit="KS"/>
    </product>
@@ -17473,33 +17307,6 @@
    <product code="0319000299999" title="TACORA zváračská gamaša">
       <variant code="0319000299999" title="TACORA zváračská gamaša" price="42.9" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="03210009" title="Zdravot.dámská blúza srdiečka tmavé">
-      <variant code="0321000999006" title="Zdravot.dámská blúza srdiečka tmavé 3XL" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321000999005" title="Zdravot.dámská blúza srdiečka tmavé XXL" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321000999004" title="Zdravot.dámská blúza srdiečka tmavé XL" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321000999003" title="Zdravot.dámská blúza srdiečka tmavé L" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321000999002" title="Zdravot.dámská blúza srdiečka tmavé M" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321000999001" title="Zdravot.dámská blúza srdiečka tmavé S" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321000999000" title="Zdravot.dámská blúza srdiečka tmavé XS" price="14.92" currency="EUR" unit="KS"/>
-   </product>
-   <product code="03210010" title="Zdravot.dámská blúza tyrkys.zúbky">
-      <variant code="0321001099006" title="Zdravot.dámská blúza tyrkys.zúbky - 3XL" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001099005" title="Zdravot.dámská blúza tyrkys.zúbky - XXL" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001099004" title="Zdravot.dámská blúza tyrkys.zúbky - XL" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001099003" title="Zdravot.dámská blúza tyrkys.zúbky - L" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001099002" title="Zdravot.dámská blúza tyrkys.zúbky - M" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001099001" title="Zdravot.dámská blúza tyrkys.zúbky - S" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001099000" title="Zdravot.dámská blúza tyrkys.zúbky - XS" price="14.92" currency="EUR" unit="KS"/>
-   </product>
-   <product code="03210011" title="Zdravot.dámská blúza fareb.srdiečka">
-      <variant code="0321001199006" title="Zdravot.dámská blúza fareb.srdiečka 3XL" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001199005" title="Zdravot.dámská blúza fareb.srdiečka XXL" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001199004" title="Zdravot.dámská blúza fareb.srdiečka - XL" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001199003" title="Zdravot.dámská blúza fareb.srdiečka - L" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001199002" title="Zdravot.dámská blúza fareb.srdiečka - M" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001199001" title="Zdravot.dámská blúza fareb.srdiečka - S" price="14.92" currency="EUR" unit="KS"/>
-      <variant code="0321001199000" title="Zdravot.dámská blúza fareb.srdiečka - XS" price="14.92" currency="EUR" unit="KS"/>
-   </product>
    <product code="03210012" title="Zdravot.dámská blúza psy a mačky">
       <variant code="0321001299006" title="Zdravot.dámská blúza psy a mačky - 3XL" price="14.92" currency="EUR" unit="KS"/>
       <variant code="0321001299005" title="Zdravot.dámská blúza psy a mačky - XXL" price="14.92" currency="EUR" unit="KS"/>
@@ -17508,64 +17315,6 @@
       <variant code="0321001299002" title="Zdravot.dámská blúza psy a mačky - M" price="14.92" currency="EUR" unit="KS"/>
       <variant code="0321001299001" title="Zdravot.dámská blúza psy a mačky - S" price="14.92" currency="EUR" unit="KS"/>
       <variant code="0321001299000" title="Zdravot.dámská blúza psy a mačky - XS" price="14.92" currency="EUR" unit="KS"/>
-   </product>
-   <product code="03210013" title="JUSTINA zdrav. blúza">
-      <variant code="03210013R7006" title="JUSTINA zdrav. blúza lososová 3XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013R7005" title="JUSTINA zdrav. blúza lososová XXL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013R7004" title="JUSTINA zdrav. blúza lososová XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013R7003" title="JUSTINA zdrav. blúza lososová L" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013R7002" title="JUSTINA zdrav. blúza lososová M" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013R7001" title="JUSTINA zdrav. blúza lososová S" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013R7000" title="JUSTINA zdrav. blúza lososová XS" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013G0006" title="JUSTINA zdrav. blúza sivý melír 3XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013G0005" title="JUSTINA zdrav. blúza sivý melír XXL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013G0004" title="JUSTINA zdrav. blúza sivý melír XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013G0003" title="JUSTINA zdrav. blúza sivý melír L" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013G0002" title="JUSTINA zdrav. blúza sivý melír M" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013G0001" title="JUSTINA zdrav. blúza sivý melír S" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013G0000" title="JUSTINA zdrav. blúza sivý melír XS" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013B4006" title="JUSTINA zdrav. blúza belasá 3XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013B4005" title="JUSTINA zdrav. blúza belasá XXL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013B4004" title="JUSTINA zdrav. blúza belasá XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013B4003" title="JUSTINA zdrav. blúza belasá L" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013B4002" title="JUSTINA zdrav. blúza belasá M" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013B4001" title="JUSTINA zdrav. blúza belasá S" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="03210013B4000" title="JUSTINA zdrav. blúza belasá XS" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001384006" title="JUSTINA zdrav. blúza piesková 3XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001384005" title="JUSTINA zdrav. blúza piesková XXL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001384004" title="JUSTINA zdrav. blúza piesková XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001384003" title="JUSTINA zdrav. blúza piesková L" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001384002" title="JUSTINA zdrav. blúza piesková M" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001384001" title="JUSTINA zdrav. blúza piesková S" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001384000" title="JUSTINA zdrav. blúza piesková XS" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001360006" title="JUSTINA zdrav. blúza čierna 3XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001360005" title="JUSTINA zdrav. blúza čierna XXL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001360004" title="JUSTINA zdrav. blúza čierna XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001360003" title="JUSTINA zdrav. blúza čierna L" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001360002" title="JUSTINA zdrav. blúza čierna M" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001360001" title="JUSTINA zdrav. blúza čierna S" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001360000" title="JUSTINA zdrav. blúza čierna XS" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001353006" title="JUSTINA zdrav. blúza tyrkysová 3XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001353005" title="JUSTINA zdrav. blúza tyrkysová XXL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001353004" title="JUSTINA zdrav. blúza tyrkysová XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001353003" title="JUSTINA zdrav. blúza tyrkysová L" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001353002" title="JUSTINA zdrav. blúza tyrkysová M" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001353001" title="JUSTINA zdrav. blúza tyrkysová S" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001353000" title="JUSTINA zdrav. blúza tyrkysová XS" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001341006" title="JUSTINA zdrav. blúza navy 3XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001341005" title="JUSTINA zdrav. blúza navy XXL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001341004" title="JUSTINA zdrav. blúza navy XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001341003" title="JUSTINA zdrav. blúza navy L" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001341002" title="JUSTINA zdrav. blúza navy M" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001341001" title="JUSTINA zdrav. blúza navy S" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001341000" title="JUSTINA zdrav. blúza navy XS" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001325006" title="JUSTINA zdrav. blúza ružová 3XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001325005" title="JUSTINA zdrav. blúza ružová XXL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001325004" title="JUSTINA zdrav. blúza ružová XL" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001325003" title="JUSTINA zdrav. blúza ružová L" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001325002" title="JUSTINA zdrav. blúza ružová M" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001325001" title="JUSTINA zdrav. blúza ružová S" price="23.5" currency="EUR" unit="KS"/>
-      <variant code="0321001325000" title="JUSTINA zdrav. blúza ružová XS" price="23.5" currency="EUR" unit="KS"/>
    </product>
    <product code="03220001" title="GARAT HV polokošeľa dlhy rukáv">
       <variant code="0322000170006" title="GARAT HV polokošeľa dlhy rukáv žltá 3XL" price="151.615" currency="EUR" unit="KS"/>
@@ -23963,7 +23712,6 @@
    </product>
    <product code="05010517" title="BENAIS IS okuliare AF, AS">
       <variant code="0501051781999" title="BENAIS IS okuliare AF, AS číra -" price="10.214" currency="EUR" unit="KS"/>
-      <variant code="0501051770999" title="BENAIS IS okuliare AF, AS žltá -" price="9.301" currency="EUR" unit="KS"/>
       <variant code="0501051716005" title="BENAIS IS okuliare AF, A tm.zelená st. 5" price="16.676" currency="EUR" unit="KS"/>
       <variant code="0501051716003" title="BENAIS IS okuliare AF, A tm.zelená st. 3" price="15.956" currency="EUR" unit="KS"/>
    </product>
