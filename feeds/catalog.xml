@@ -965,6 +965,33 @@
          <unit>PÁR</unit>
       </product>
       <product>
+         <code>01010091</code>
+         <title>FF MAGPIE LIGHT HS-01-003 rukavice</title>
+         <description>• kombinované rukavice z hovädzej štiepenky a textilu • zosilnená dlaň s podšívkou • tkanina na chrbte</description>
+         <categoryPath>Produkty/Rukavice/Kožené kombinované</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="105" title="10"/>
+         </sizes>
+         <colors>
+            <color code="99" title="-"/>
+         </colors>
+         <standards>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
+            <standard code="EN 388" title="EN 388 | 1111X"/>
+         </standards>
+         <brand>FF</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjk5MHxpbWFnZS93ZWJwfDkyNDYwMDgyMTM1MzQvMDEwMTAwOTFfTUFHUElFX0xJR0hUX0hTLTAxLTAwM19DRVJWQV8yMDE2XzE0Mzg2X2FsbC50aWYucG5nfDZiYzcyNzBlZTI2NzMyZjI2OGJlNjU0ZThkMzQ1YzZiODUwYzE2ZGEyY2E5YTg1ODIwNTU2YjA2Y2YwMDdlZDQ</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/0101009199-FF-MAGPIE-LIGHT-gloves-01.jpg?context=bWFzdGVyfGltYWdlc3w5Nzk2N3xpbWFnZS9qcGVnfDg5OTcxNDYyNjM1ODIvMDEwMTAwOTE5OV9GRl9NQUdQSUVfTElHSFRfZ2xvdmVzLTAxLmpwZ3xhNjI5OGUwNDM0YzAzNWUwOGE0ZTdjOTA3OTA0MzM5MDU3Mzk1ZmVhYjBiYmJkMDA1Y2VhNWE4NDUwYjM4MjYz</path>
+            </image>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
          <code>01010099</code>
          <title>THRUSH rukavice kombinované</title>
          <description>• rukavice zo syntetickej kože • bavlna/spandex • manžeta na suchý zips</description>
@@ -72245,6 +72272,26 @@ features the new JSP Revolution® wheel ratchet, securely tightening and holding
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTY4NHxpbWFnZS93ZWJwfDkyNDk2OTEyNzExOTgvMDUwMjAxMzVfMDUwMjAxMzhfRVZPR3VhcmRfQzRfTWF4X3Zpc29yX2VuZF9kZXRhaWwudGlmLnBuZ3xiNzAwNjU0NzhjNmQ2NTBkNjFiMjVkZGZkZmEyYWQyMDhmOGRjY2I4ZDE4YTQwMGJhODY0NWJkYTRiMjUyN2Mz</path>
+            </image>
+         </images>
+         <unit>KS</unit>
+      </product>
+      <product>
+         <code>0502013999999</code>
+         <title>3M PC štít 5H</title>
+         <description>the 3M™ 5H series face shield is an optical class 1 polycarbonate protective visor, certified according to the EN 166:2001 and EN 1731:2006 standards; it is designed to provide protection against low-energy particle impacts (45 m/s), corresponding to the “F” rating; this face shield is intended for use with 3M™ SecureFit™ X5000 and X5500 safety helmets, G3000 series helmets, and G500 series carrier systems; the overall height of the visor is 190 mm</description>
+         <categoryPath>Produkty/Ochrana očí/Tvárový štít</categoryPath>
+         <packaging></packaging>
+         <sizes>
+         </sizes>
+         <colors>
+         </colors>
+         <standards>
+         </standards>
+         <brand>3M</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w1MTMwfGltYWdlL3BuZ3w5MzgyNTU1NjQ4MDMwLzA1MDIwMTM5XzNNX1BDX1Zpc29yXzVILnBuZ3w0MTdmOGU4MDViYWQxYzRjYWMyMDMwNTJmMDRkNjExMWRmYTBhNzEyMTk1Yzk2MmQ5NDg5NjI1NWJkYjIwMjM0</path>
             </image>
          </images>
          <unit>KS</unit>
