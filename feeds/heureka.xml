@@ -753,7 +753,7 @@
       </PARAM>
       <PARAM>
          <PARAM_NAME>MOQ</PARAM_NAME>
-         <VAL>12 PÁR</VAL>
+         <VAL>1224 PÁR</VAL>
       </PARAM>
       <PARAM>
          <PARAM_NAME>Kategórie</PARAM_NAME>
@@ -1713597,6 +1713597,236 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
       <MANUFACTURER_ELECTRONIC_ADDRESS/>
       <CATEGORYTEXT>Produkty | Odevy | Bundy a kabáty | Bundy</CATEGORYTEXT>
       <EAN>8591806284180</EAN>
+      <ITEMGROUP_ID>03510039</ITEMGROUP_ID>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NTk3NTB8aW1hZ2UvcG5nfDg5MjIzMzAyNjc2Nzh8M2QzYTEzNDcwYTQzZmM0ODRiN2IwMGY5YTAyYjU3YjM2NjYyZjc5Y2NiMDQ2NTU3OGU5ZjY5NjQyYTU3YTJkOQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0NTgwMTJ8aW1hZ2UvcG5nfDg5MjEzMjg4MTIwNjJ8NDk5YjkwYWRhODAzNzFkNDMyZGE1NTdiOGNlODNmMjQzZDM0YmU1N2Y2OGFmY2NjZjk0MWZlOWY0NjI2YTVjYQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0NDI1Mzh8aW1hZ2UvcG5nfDg5MjEzMjk0MDE4ODZ8ZmZkMzRjNTljZjBmNDhmY2UyZDA1MThjZmYxOWRmZmMyMTU4MDQwZjg1ZGZlZGUxNThhODg4OGVlMjk5NmI1Mw</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0MTY4ODF8aW1hZ2UvcG5nfDg5MjEzMjk3OTUxMDJ8MGRlMjFlZDhiMmVkNzFlOGU1MjA5NzhhMDI4YjhlYTI1ZDIzMjc2MjRiMjAzN2Y4MGI2MTgyNGNjMzExZjM5NA</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0MjUxNDB8aW1hZ2UvcG5nfDg5MjEzMjk2NjQwMzB8ZjE4YzAzNjMxYjZjNWJjYTYyMGRkMmMxNWQzODVlMGVhMGY3ZGUwZjM4OTIwZWRlYTZkZTA0NzM5ZDVkZjU2NA</IMGURL_ALTERNATIVE>
+   </SHOPITEM>
+   <SHOPITEM>
+      <ITEM_ID>0351003964060</ITEM_ID>
+      <PRODUCTNAME>MAX VIVO RFLX bunda</PRODUCTNAME>
+      <PRODUCT>MAX VIVO RFLX bunda černá/žltá 60</PRODUCT>
+      <DESCRIPTION>• pánska reflexná pracovná bunda so zapínaním na zips • odopínateľné rukávy • 2 predné vrecká • 2 náprsné vrecká • zosilnenie namáhaných miest ramien a lakťov • dvojica našitých 5 cm reflexných pruhov cez spodný obvod pása a rukávov • 2 menšie pruhy cez ramená • reflexné lemovky lemujúce zosilnené časti rukávov a ramien • pružné náplety manžiet rukávov a elastický spodný obvod pása.</DESCRIPTION>
+      <URL>/sk/sk/max-vivo-rflx-bunda-cerna-zlta-60/p/03510039?cl=64&amp;s=03-060</URL>
+      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTUxNDM0fGltYWdlL3BuZ3w5MDIyODc3Nzk0MzM0LzAzNTEwMDM5X01BWF9WSVZPX1JGTFhfamFja2V0X2JsYWNrX3llbGxvd19DRVJWQV9MRURFTl8yMDIwXzM5MzQudGlmLnBuZ3w4Yjc2OGUwMzc5ZDM4OWFjZjQxYTI1MmY2MjM0M2EyMDUyY2U0YjcwMDBjODllYjhjMTQxNmM5ZGQ4MjRkOTAx</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Tovar je vyradený</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Veľkosť</PARAM_NAME>
+         <VAL>60</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba</PARAM_NAME>
+         <VAL>černá/žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>čierna</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013+A1:2021</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vrchná časť oblečenia</PARAM_NAME>
+         <VAL>65% polyester, 35% bavlna, 250 g/m²</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vystužený vrchný odev</PARAM_NAME>
+         <VAL>100% polyester, Oxford</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vlastnosti</PARAM_NAME>
+         <VAL>Odnímateľné rukávy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Prať na 40 °C, normálny proces prania</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Nebieliť</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Sušenie v bubnovej sušičke, nízka teplota</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Žehliť pri maximálnej teplote 100 °C</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Chemické čistenie zakázané</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>MOQ</PARAM_NAME>
+         <VAL>1 KS</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>EN 20471</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Cutting</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Nepříznivé počasí</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>MAX</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Pracovné odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Bundy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Bundy a kabáty</VAL>
+      </PARAM>
+      <MANUFACTURER>CERVA GROUP a.s.</MANUFACTURER>
+      <MANUFACTURER_POSTAL_ADDRESS>Průmyslová 483, 252 61 Jeneč, Czech Republic</MANUFACTURER_POSTAL_ADDRESS>
+      <MANUFACTURER_ELECTRONIC_ADDRESS/>
+      <CATEGORYTEXT>Produkty | Odevy | Bundy a kabáty | Bundy</CATEGORYTEXT>
+      <EAN>8591806284173</EAN>
+      <ITEMGROUP_ID>03510039</ITEMGROUP_ID>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NTk3NTB8aW1hZ2UvcG5nfDg5MjIzMzAyNjc2Nzh8M2QzYTEzNDcwYTQzZmM0ODRiN2IwMGY5YTAyYjU3YjM2NjYyZjc5Y2NiMDQ2NTU3OGU5ZjY5NjQyYTU3YTJkOQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0NTgwMTJ8aW1hZ2UvcG5nfDg5MjEzMjg4MTIwNjJ8NDk5YjkwYWRhODAzNzFkNDMyZGE1NTdiOGNlODNmMjQzZDM0YmU1N2Y2OGFmY2NjZjk0MWZlOWY0NjI2YTVjYQ</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0NDI1Mzh8aW1hZ2UvcG5nfDg5MjEzMjk0MDE4ODZ8ZmZkMzRjNTljZjBmNDhmY2UyZDA1MThjZmYxOWRmZmMyMTU4MDQwZjg1ZGZlZGUxNThhODg4OGVlMjk5NmI1Mw</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0MTY4ODF8aW1hZ2UvcG5nfDg5MjEzMjk3OTUxMDJ8MGRlMjFlZDhiMmVkNzFlOGU1MjA5NzhhMDI4YjhlYTI1ZDIzMjc2MjRiMjAzN2Y4MGI2MTgyNGNjMzExZjM5NA</IMGURL_ALTERNATIVE>
+      <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0MjUxNDB8aW1hZ2UvcG5nfDg5MjEzMjk2NjQwMzB8ZjE4YzAzNjMxYjZjNWJjYTYyMGRkMmMxNWQzODVlMGVhMGY3ZGUwZjM4OTIwZWRlYTZkZTA0NzM5ZDVkZjU2NA</IMGURL_ALTERNATIVE>
+   </SHOPITEM>
+   <SHOPITEM>
+      <ITEM_ID>0351003964058</ITEM_ID>
+      <PRODUCTNAME>MAX VIVO RFLX bunda</PRODUCTNAME>
+      <PRODUCT>MAX VIVO RFLX bunda černá/žltá 58</PRODUCT>
+      <DESCRIPTION>• pánska reflexná pracovná bunda so zapínaním na zips • odopínateľné rukávy • 2 predné vrecká • 2 náprsné vrecká • zosilnenie namáhaných miest ramien a lakťov • dvojica našitých 5 cm reflexných pruhov cez spodný obvod pása a rukávov • 2 menšie pruhy cez ramená • reflexné lemovky lemujúce zosilnené časti rukávov a ramien • pružné náplety manžiet rukávov a elastický spodný obvod pása.</DESCRIPTION>
+      <URL>/sk/sk/max-vivo-rflx-bunda-cerna-zlta-58/p/03510039?cl=64&amp;s=03-058</URL>
+      <IMGURL>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMTUxNDM0fGltYWdlL3BuZ3w5MDIyODc3Nzk0MzM0LzAzNTEwMDM5X01BWF9WSVZPX1JGTFhfamFja2V0X2JsYWNrX3llbGxvd19DRVJWQV9MRURFTl8yMDIwXzM5MzQudGlmLnBuZ3w4Yjc2OGUwMzc5ZDM4OWFjZjQxYTI1MmY2MjM0M2EyMDUyY2U0YjcwMDBjODllYjhjMTQxNmM5ZGQ4MjRkOTAx</IMGURL>
+      <PARAM>
+         <PARAM_NAME>Status</PARAM_NAME>
+         <VAL>Tovar je vyradený</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Veľkosť</PARAM_NAME>
+         <VAL>58</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba</PARAM_NAME>
+         <VAL>černá/žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>žltá</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Farba2</PARAM_NAME>
+         <VAL>čierna</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Normy</PARAM_NAME>
+         <VAL>EN ISO 13688:2013+A1:2021</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vrchná časť oblečenia</PARAM_NAME>
+         <VAL>65% polyester, 35% bavlna, 250 g/m²</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vystužený vrchný odev</PARAM_NAME>
+         <VAL>100% polyester, Oxford</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Vlastnosti</PARAM_NAME>
+         <VAL>Odnímateľné rukávy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Prať na 40 °C, normálny proces prania</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Nebieliť</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Sušenie v bubnovej sušičke, nízka teplota</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Žehliť pri maximálnej teplote 100 °C</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Údržba</PARAM_NAME>
+         <VAL>Chemické čistenie zakázané</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>MOQ</PARAM_NAME>
+         <VAL>1 KS</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>EN 20471</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Cutting</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Nepříznivé počasí</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>MAX</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Pracovné odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Bundy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Odevy</VAL>
+      </PARAM>
+      <PARAM>
+         <PARAM_NAME>Kategórie</PARAM_NAME>
+         <VAL>Bundy a kabáty</VAL>
+      </PARAM>
+      <MANUFACTURER>CERVA GROUP a.s.</MANUFACTURER>
+      <MANUFACTURER_POSTAL_ADDRESS>Průmyslová 483, 252 61 Jeneč, Czech Republic</MANUFACTURER_POSTAL_ADDRESS>
+      <MANUFACTURER_ELECTRONIC_ADDRESS/>
+      <CATEGORYTEXT>Produkty | Odevy | Bundy a kabáty | Bundy</CATEGORYTEXT>
+      <EAN>8591806284166</EAN>
       <ITEMGROUP_ID>03510039</ITEMGROUP_ID>
       <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5NTk3NTB8aW1hZ2UvcG5nfDg5MjIzMzAyNjc2Nzh8M2QzYTEzNDcwYTQzZmM0ODRiN2IwMGY5YTAyYjU3YjM2NjYyZjc5Y2NiMDQ2NTU3OGU5ZjY5NjQyYTU3YTJkOQ</IMGURL_ALTERNATIVE>
       <IMGURL_ALTERNATIVE>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w0NTgwMTJ8aW1hZ2UvcG5nfDg5MjEzMjg4MTIwNjJ8NDk5YjkwYWRhODAzNzFkNDMyZGE1NTdiOGNlODNmMjQzZDM0YmU1N2Y2OGFmY2NjZjk0MWZlOWY0NjI2YTVjYQ</IMGURL_ALTERNATIVE>
