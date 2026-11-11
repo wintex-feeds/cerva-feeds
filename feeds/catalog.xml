@@ -10794,10 +10794,10 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <brand>CERV</brand>
          <images>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMzUyMnxpbWFnZS93ZWJwfDkyNjgwOTgzMzQ3NTAvMDEwODAzMzFfRUNPX0NSSU5DTEVfZ2xvdmVzX0RTQ185OTM3LnBuZ3w1ZTFjYTBjY2IyNjc3NWYxMTY4YjMzMjIzNzhjNGM2MGYxOTVmMzQwN2Y5ZTZmODZmZjNmZTA4NDVhOTQyODRl</path>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNzU4NHxpbWFnZS9wbmd8OTM4OTk0MDUzOTQyMi8wMTA4MDMzMV9FQ09fQ1JJTkNMRV9nbG92ZXNfRFNDXzk5MzcucG5nfDBhZWUxZTA4MGExYTQzYWNhNzJhMGRmM2JkNGZmMmY0YWE1OWY3ZTRjMDQwYmJjODczOGZhMDg0YTY1Yjk4MDc</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjE0OHxpbWFnZS93ZWJwfDkyNDk1MTQzODk1MzQvMDEwODAzMzFfRUNPX0NSSU5DTEVfZ2xvdmVzX0RTQ185OTM3LnRpZi5wbmd8ZmNlNWEwMThhYTExODcyMWU1NTVhZjVkYTdlMWQyM2MxNjkzMTEzNzY0ZmE4MzZlNjM1YmFiODE4Njc0MWU5OA</path>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxODU4NHxpbWFnZS9wbmd8OTM4OTk0MDMxMDA0Ni8wMTA4MDMzMV9FQ09fQ1JJTkNMRV9nbG92ZXNfRFNDXzk5MzcudGlmLnBuZ3wwNjM3MDY2N2M4N2M4NWZkZDA2YzQxMDg2ZmE5MDc0OGY2Y2ViNDRmOWM3Nzc1MjlmMjcxODM4MTIwZGFmZGRk</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -10827,7 +10827,7 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
          <brand>CERV</brand>
          <images>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxODk2NHxpbWFnZS93ZWJwfDkyNjc4NTgzNzQ2ODYvMDEwODAzMzJfRUNPX0ZPQU1fZ2xvdmVzX0RTQ18yOTY5LnBuZ3wyODI2YjI3ODVhNmVhOTRjMjdkOWY3N2ZhMWVkOTk5ZDg1NjVlM2M4MmE3MmIzMzg0OWY4NTFiMDE1NTQ0M2Q5</path>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wyMDQ3OHxpbWFnZS9wbmd8OTM4OTkzODY3MTY0Ni8wMTA4MDMzMl9FQ09fRk9BTV9nbG92ZXNfRFNDXzI5NjkucG5nfDFjNGNhMmNlZDE3ZGVkODY5OWUxYzhhNjk5ZTZlZTZiOWIxMTkzZmJiYzBhMDIxMzEzNDc5NzViNGMyNGQ0NzY</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -18444,6 +18444,46 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             </image>
             <image>
                <path>https://media.cerva.com/medias/0201021260-OXFORD-S3-SRB-low-01.jpg?context=bWFzdGVyfGltYWdlc3w3NzQyNHxpbWFnZS9qcGVnfDkwMTEzOTkwMDAwOTQvMDIwMTAyMTI2MF9PWEZPUkRfUzNfU1JCX2xvdy0wMS5qcGd8NTYzNTNhY2VhZTgwMmM4OTU1ZDE4MmI4ZDEzYWQzZDQ3MzEzMjg5NDE0MmRkNjU3NTUyYjRkMzk4ZTM3MTZiNw</path>
+            </image>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
+         <code>02010262</code>
+         <title>REGATA MF S3 SRC poltopánka</title>
+         <description>• bezpečnostná poltopánka s kompozitnou bezpečnostnou špicou a Kevlarovou stielkou odolnou voči prepichnutiu • podošva - PU/TPU • SRC podošva odolná voči olejom • zvršok z vodeodolnej kože</description>
+         <categoryPath>Produkty/Obuv/Poltopánky</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="036" title="36"/>
+            <size code="037" title="37"/>
+            <size code="038" title="38"/>
+            <size code="039" title="39"/>
+            <size code="040" title="40"/>
+            <size code="041" title="41"/>
+            <size code="042" title="42"/>
+            <size code="043" title="43"/>
+            <size code="044" title="44"/>
+            <size code="045" title="45"/>
+            <size code="046" title="46"/>
+            <size code="047" title="47"/>
+         </sizes>
+         <colors>
+            <color code="60" title="čierna"/>
+         </colors>
+         <standards>
+            <standard code="EN ISO 20345" title="EN ISO 20345 | S3 SRC"/>
+         </standards>
+         <brand>PAND</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMjgxNHxpbWFnZS93ZWJwfDkyNDYzNzU0MTE3NDIvMDIwMTAyNjJfTFgtMjUxOSBTMyBTUkMgLSBSRUdBVEFfY2F0YWxvZ19jbXlrLnBuZ3xlM2U1MGRmYmM3ZTlhMDViYjkzYjIxYjY5NTkzZGMzYmFkZjYyODk1ZjI0NjM1MDc2YjhiMjUyOGVkMGM5ODEz</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MzUwfGltYWdlL3dlYnB8OTI0NjI1ODIwMDYwNnwzNTM4YmU4ZTJjZWJhODMzOWIyNjg1ZWI5ZWZlMzk4Zjg4NTM1MTE1NTVjNzZhYThhYjY2ZTU4MjdiMTA1MWE0</path>
+            </image>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wzMzMyfGltYWdlL3dlYnB8OTI0NjM1MjMxMDMwMi8wMjAxMDI2MjYwX1JFR0FUQV9NRl9TM19TUkNfbG93LTAxLmpwZ3xiMjk5NGQ0MDRlMzU5YWU4MTJjMzk3MThlYjQ3MWViYTUxNThiYzgzMjRjYzQ3Y2Q0YWZmNzMzMTFlMTJkMzgx</path>
             </image>
          </images>
          <unit>PÁR</unit>
@@ -95972,7 +96012,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500019</code>
          <title>DECKPLATE rohož</title>
-         <description/>
+         <description>Deckplate Anti Fatigue Mat reduces standing fatigue for workers in industry; dual layer mat provides balance of comfort and wear resistance; hardwearing top surface ensures a long life in normal use; checker plate style design suits dry indoor industrial environments as packing stations, assembly areas, production lines; self-extinguishing top surface (tested to BS EN 13501-1) provides resilience to many industrial chemicals; high visibility version available with bright yellow borders; bevelled edges help reduce the risk of trips and falls; cleaning method: brush/mop the top surface</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96154,7 +96194,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500026</code>
          <title>COMFORT-LOK end</title>
-         <description/>
+         <description>Comfort-Lok rubber workplace mats provide a comfortable standing surface for operatives; available as interlocking modules for long runs, or as a single workstation mat; resistant to oil and grease making it ideal for food production areas or in any catering business; suitable for wet and dry indoor high temperature environments; diamond patterned surface provides underfoot grip; hardwearing rubber ensures a long life in normal use; cleaning method:	pressure hose</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96176,7 +96216,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500027</code>
          <title>COMFORT-LOK middle</title>
-         <description/>
+         <description>Comfort-Lok rubber workplace mats provide a comfortable standing surface for operatives; available as interlocking modules for long runs, or as a single workstation mat; resistant to oil and grease making it ideal for food production areas or in any catering business; suitable for wet and dry indoor high temperature environments; diamond patterned surface provides underfoot grip; hardwearing rubber ensures a long life in normal use; cleaning method:	pressure hose</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96198,7 +96238,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500028</code>
          <title>COMFORT-LOK rohož</title>
-         <description/>
+         <description>Comfort-Lok rubber workplace mats provide a comfortable standing surface for operatives; available as interlocking modules for long runs, or as a single workstation mat; resistant to oil and grease making it ideal for food production areas or in any catering business; suitable for wet and dry indoor high temperature environments; diamond patterned surface provides underfoot grip; hardwearing rubber ensures a long life in normal use; cleaning method:	pressure hose</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96220,7 +96260,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500030</code>
          <title>RAMPMAT rohož</title>
-         <description/>
+         <description>Rampmat Rubber workplace mats provide standing relief to all workers with this economical anti-fatigue mat; raised circular surface provides effective slip resistance; open drainage holes capture spilt liquids, swarf or other debris to help prevent slips; moulded ramped edges to reduce the risk of trips and allow wheeled access; made from hardwearing rubber mix including &gt;50% recycled material increasing its durability</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96246,7 +96286,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500030PK2</code>
          <title>RAMPMAT rohož (2pcs)</title>
-         <description/>
+         <description>Rampmat Rubber workplace mats provide standing relief to all workers with this economical anti-fatigue mat; raised circular surface provides effective slip resistance; open drainage holes capture spilt liquids, swarf or other debris to help prevent slips; moulded ramped edges to reduce the risk of trips and allow wheeled access; made from hardwearing rubber mix including &gt;50% recycled material increasing its durability</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96457,7 +96497,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500040</code>
          <title>GRIPFOOT pásik</title>
-         <description>GRIPFOOT opasok</description>
+         <description>samolepiace pásky s drsným povrchom, ktorý zlepšuje protišmykové vlastnosti; odolné riešenie s jednoduchou inštaláciou, ktoré pomáha predchádzať pošmyknutiam a zakopnutiam; vhodné do interiérov; dostupné vo viacerých farebných vyhotoveniach vrátane verzie určenej na označenie nebezpečných miest, ktorá zaručuje vysokú viditeľnosť v tme a pri slabom osvetlení; pásky Gripfoot sú univerzálne použiteľné na podlahy, stroje aj vozidlá</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96492,7 +96532,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500041</code>
          <title>DIAMOND TREAD rohož</title>
-         <description/>
+         <description>Diamond Tread welding mats provides welders need relief from standing like any other professional; heavy-duty flame retardant top surface (tested to BS EN 13501-1) so weld sparks aren’t an issue; top surface is both resilient and fire tested, whilst the soft foam underlayer provides cushioning for the feet; suitable for dry indoor environments, for welding bays and demanding industrial use; welding mats can be moved easily; bevelled edges help avoid creating a trip risk; cleaning method: brush/mop the top surface</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96516,7 +96556,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500042</code>
          <title>COBAELITE ESD rohož</title>
-         <description/>
+         <description>COBAelite® ESD Anti Fatigue Mat Static-dissipative anti-fatigue mat for comfort and safety; conductive buried layer neutralises static charge, protecting components; comfortable bubbled surface promotes subtle movement further reducing fatigue; grounded via a 10 mm male stud fitted to the mat; mat meets or exceeds IEC61340-5-1 resistance requirements: resistance point to point (Rp-p): 9.4 x 10⁴ Ω; resistance to a groundable point (Rgp): 6.1 x 10⁵ Ω; volume resistance (Rv): 7.2 x 10⁵ Ω; PU offers limited resistance to chemicals and oils; suitable for dry indoor environments</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96569,7 +96609,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500045</code>
          <title>GRIPFOOT dlaždice</title>
-         <description/>
+         <description>self-adhesive tapes, cleats or tiles with an abrasive grip surface which helps to improve anti-slip properties; hardwearing and easy to install solution to help prevent slips and trips; suitable for indoor environments; available in a range of colours, including a hazard version which provides high visibility in darkness and low light conditions; Gripfoot Tape – versatile for floor surfaces, machinery and vehicles; Gripfoot Cleats (rectangular) are designed for use on steps and stairs; Gripfoot Tiles (square) are ideal for increasing safety on smooth tiled floors; packaging of 10 pcs</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96591,7 +96631,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500046</code>
          <title>GRIPFOOT nášlapy</title>
-         <description/>
+         <description>self-adhesive tapes, cleats or tiles with an abrasive grip surface which helps to improve anti-slip properties; hardwearing and easy to install solution to help prevent slips and trips; suitable for indoor environments; available in a range of colours, including a hazard version which provides high visibility in darkness and low light conditions; Gripfoot Tape – versatile for floor surfaces, machinery and vehicles; Gripfoot Cleats (rectangular) are designed for use on steps and stairs; Gripfoot Tiles (square) are ideal for increasing safety on smooth tiled floors; packaging of 10 pcs</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96638,7 +96678,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500048</code>
          <title>DECKPLATE metráž</title>
-         <description/>
+         <description>Deckplate Anti Fatigue Mat reduces standing fatigue for workers in industry; dual layer mat provides balance of comfort and wear resistance; hardwearing top surface ensures a long life in normal use; checker plate style design suits dry indoor industrial environments as packing stations, assembly areas, production lines; self-extinguishing top surface (tested to BS EN 13501-1) provides resilience to many industrial chemicals; high visibility version available with bright yellow borders; bevelled edges help reduce the risk of trips and falls; cleaning method: brush/mop the top surface</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96662,7 +96702,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500049</code>
          <title>DIAMOND TREAD metráž</title>
-         <description/>
+         <description>Diamond Tread welding mats provides welders need relief from standing like any other professional; heavy-duty flame retardant top surface (tested to BS EN 13501-1) so weld sparks aren’t an issue; top surface is both resilient and fire tested, whilst the soft foam underlayer provides cushioning for the feet; suitable for dry indoor environments, for welding bays and demanding industrial use; welding mats can be moved easily; bevelled edges help avoid creating a trip risk; cleaning method: brush/mop the top surface</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>
@@ -96684,7 +96724,7 @@ Krém sa ľahko vstrebáva a pokožku jedinečne zvláčňuje. Nezastupiteľnú 
       <product>
          <code>99500054</code>
          <title>Commercial Rubber</title>
-         <description/>
+         <description>general rubber sheeting purpose grade for water applications and diluted chemicals; operating temperature: min. -30°C - max. +80°C</description>
          <categoryPath>Produkty/Ostatné/Rohože/Industrial mats</categoryPath>
          <packaging></packaging>
          <sizes>

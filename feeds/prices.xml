@@ -3799,6 +3799,9 @@
       <variant code="0201021260040" title="OXFORD S3 SRB poltopánka 40 čierna" price="100.947" currency="EUR" unit="PÁR"/>
       <variant code="0201021260039" title="OXFORD S3 SRB poltopánka 39 čierna" price="100.947" currency="EUR" unit="PÁR"/>
    </product>
+   <product code="02010262" title="REGATA MF S3 SRC poltopánka">
+      <variant code="0201026260040" title="REGATA MF S3 SRC poltopánka 40 čierna" price="57.823" currency="EUR" unit="PÁR"/>
+   </product>
    <product code="02010287" title="RAVEN XT S1P SR SC poltopánka">
       <variant code="0201028760042" title="RAVEN XT S1P SR SC poltopánka 42 čierna" price="32.905" currency="EUR" unit="PÁR"/>
       <variant code="0201028760040" title="RAVEN XT S1P SR SC poltopánka 40 čierna" price="32.905" currency="EUR" unit="PÁR"/>
