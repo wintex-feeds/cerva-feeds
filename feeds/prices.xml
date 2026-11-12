@@ -3473,8 +3473,8 @@
       <variant code="0119004599070" title="TURACO rukavice zimné - 7" price="3.752" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01190045BN" title="TURACO rukavice zimné blister">
-      <variant code="0119004599100BN" title="TURACO rukavice zimné blister - 10" price="Bude upresnené" currency="" unit="PÁR"/>
-      <variant code="0119004599080BN" title="TURACO rukavice zimné blister - 8" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0119004599100BN" title="TURACO rukavice zimné blister - 10" price="3.959" currency="EUR" unit="PÁR"/>
+      <variant code="0119004599080BN" title="TURACO rukavice zimné blister - 8" price="3.959" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01190046" title="TB 755 COLDGRIP rukavice">
       <variant code="0119004699110" title="TB 755 COLDGRIP rukavice - 11" price="Bude upresnené" currency="" unit="PÁR"/>
@@ -17875,7 +17875,6 @@
       <variant code="0346000380003" title="BHADRA fleece mikina biela L" price="20.55" currency="EUR" unit="KS"/>
       <variant code="0346000380002" title="BHADRA fleece mikina biela M" price="20.55" currency="EUR" unit="KS"/>
       <variant code="0346000380001" title="BHADRA fleece mikina biela S" price="20.55" currency="EUR" unit="KS"/>
-      <variant code="0346000380000" title="BHADRA fleece mikina biela XS" price="20.55" currency="EUR" unit="KS"/>
       <variant code="0346000360006" title="BHADRA fleece mikina čierna 3XL" price="20.55" currency="EUR" unit="KS"/>
       <variant code="0346000360005" title="BHADRA fleece mikina čierna XXL" price="20.55" currency="EUR" unit="KS"/>
       <variant code="0346000360004" title="BHADRA fleece mikina čierna XL" price="20.55" currency="EUR" unit="KS"/>
