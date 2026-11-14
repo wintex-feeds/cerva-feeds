@@ -6108,7 +6108,6 @@
       <variant code="0202072182036" title="BK FARMER O2 CI SRC členok 36 bežová" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175046" title="BK FARMER O2 CI SRC členok 46 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175041" title="BK FARMER O2 CI SRC členok 41 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
-      <variant code="0202072175040" title="BK FARMER O2 CI SRC členok 40 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175039" title="BK FARMER O2 CI SRC členok 39 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072175037" title="BK FARMER O2 CI SRC členok 37 hnedá" price="68.612" currency="EUR" unit="PÁR"/>
       <variant code="0202072160047" title="BK FARMER O2 CI SRC členok 47 čierna" price="68.612" currency="EUR" unit="PÁR"/>
@@ -11827,7 +11826,6 @@
       <variant code="03020326A1058A" title="KNOXFIELD HV DW275 nohavice antr/žltá 58" price="41.138" currency="EUR" unit="KS"/>
       <variant code="03020326A0062A" title="KNOXFIELD HV DW275 nohavice antr/červ 62" price="41.138" currency="EUR" unit="KS"/>
       <variant code="03020326A0058A" title="KNOXFIELD HV DW275 nohavice antr/červ 58" price="41.138" currency="EUR" unit="KS"/>
-      <variant code="03020326A0056A" title="KNOXFIELD HV DW275 nohavice antr/červ 56" price="41.138" currency="EUR" unit="KS"/>
       <variant code="03020326A0054A" title="KNOXFIELD HV DW275 nohavice antr/červ 54" price="41.138" currency="EUR" unit="KS"/>
    </product>
    <product code="03020328" title="KNOXFIELD HV FL290 náprs.nohavice">
@@ -26744,12 +26742,12 @@
       <variant code="0807002199110" title="LANO AC 300 pro zach. pádu CATCHER 10 m" price="40.077" currency="EUR" unit="KS"/>
    </product>
    <product code="08070027" title="TENDON eSTATIC 11,0 lano">
-      <variant code="0807002796160" title="TENDON eSTATIC 11,0 lano HV oranž. 60 m" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0807002796150" title="TENDON eSTATIC 11,0 lano HV oranž. 50 m" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0807002796130" title="TENDON eSTATIC 11,0 lano HV oranž. 30 m" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0807002756160" title="TENDON eSTATIC 11,0 lano fialová 60 m" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0807002756150" title="TENDON eSTATIC 11,0 lano fialová 50 m" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0807002756130" title="TENDON eSTATIC 11,0 lano fialová 30 m" price="Bude upresnené" currency="" unit="KS"/>
+      <variant code="0807002796160" title="TENDON eSTATIC 11,0 lano HV oranž. 60 m" price="178.345" currency="EUR" unit="KS"/>
+      <variant code="0807002796150" title="TENDON eSTATIC 11,0 lano HV oranž. 50 m" price="151.819" currency="EUR" unit="KS"/>
+      <variant code="0807002796130" title="TENDON eSTATIC 11,0 lano HV oranž. 30 m" price="91.092" currency="EUR" unit="KS"/>
+      <variant code="0807002756160" title="TENDON eSTATIC 11,0 lano fialová 60 m" price="182.181" currency="EUR" unit="KS"/>
+      <variant code="0807002756150" title="TENDON eSTATIC 11,0 lano fialová 50 m" price="151.819" currency="EUR" unit="KS"/>
+      <variant code="0807002756130" title="TENDON eSTATIC 11,0 lano fialová 30 m" price="89.174" currency="EUR" unit="KS"/>
    </product>
    <product code="0808000299999" title="Karabina AZ002">
       <variant code="0808000299999" title="Karabina AZ002" price="8.042" currency="EUR" unit="KS"/>
