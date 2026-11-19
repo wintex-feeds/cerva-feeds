@@ -8641,6 +8641,36 @@
          <unit>PÁR</unit>
       </product>
       <product>
+         <code>01080122</code>
+         <title>FF FIRECREST LIGHT rukavice</title>
+         <description/>
+         <categoryPath>Produkty/Rukavice/Máčané a povrstvené/Bezšvové rukavice</categoryPath>
+         <packaging></packaging>
+         <sizes>
+            <size code="060" title="6"/>
+            <size code="070" title="7"/>
+            <size code="080" title="8"/>
+            <size code="090" title="9"/>
+            <size code="100" title="10"/>
+            <size code="110" title="11"/>
+         </sizes>
+         <colors>
+            <color code="23" title="červená/čierna"/>
+            <color code="40" title="modrá"/>
+         </colors>
+         <standards>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
+            <standard code="EN 388" title="EN 388 | 2121X"/>
+         </standards>
+         <brand>FF</brand>
+         <images>
+            <image>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjU0MnxpbWFnZS93ZWJwfDkyNDY1MTc2NTc2MzAvMDEwODAxMjJfRmlyZWNyZXN0X2xpZ2h0X0RTQ18yNjE2LnRpZi5wbmd8MDc1NjdiYjk3ZDBmMWI0NDNiYjUxM2NhZjRiYjRmNGUxYWI0NmJkNTY5NjkyMTVhNjE4NmFiNTEyNmNmZmViNw</path>
+            </image>
+         </images>
+         <unit>PÁR</unit>
+      </product>
+      <product>
          <code>01080124</code>
          <title>ANSELL 11-727 HyFlex</title>
          <description>• pletené bezšvové rukavice • 15GG úplet • kategórie prerezu 3 s vláknami INTERCEPTtm Technology • PU povrstvenie • pletené zápästie</description>
@@ -17686,6 +17716,9 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             <color code="99" title="-"/>
          </colors>
          <standards>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
+            <standard code="EN 388" title="EN 388 | 2122X"/>
+            <standard code="EN 511" title="EN 511 | 11X"/>
          </standards>
          <brand>CERV</brand>
          <images>
@@ -17715,6 +17748,9 @@ Tieto 5-prstové bezšvové rukavice sú vyrobené z bielej recyklovanej polyest
             <color code="99" title="-"/>
          </colors>
          <standards>
+            <standard code="EN ISO 21420" title="EN ISO 21420"/>
+            <standard code="EN 388" title="EN 388 | 2122X"/>
+            <standard code="EN 511" title="EN 511 | 11X"/>
          </standards>
          <brand>CERV</brand>
          <images>
@@ -35345,7 +35381,7 @@ Poznámka: Hodnota Icler bola stanovená v komplete s nohavicami KNOXFIELD HVPS 
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTE5NHxpbWFnZS93ZWJwfDkyNDYxMTU3NTgxMTB8NGM3NTFkNjhlMzYyNzc1Y2FiNzE4ZWJkZDkyYzg1NjNiODFhNzRmNWM4NjQ4YTRjOTE0YjM4OTBiNmM5ZTk1Zg</path>
             </image>
             <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNTA4OHxpbWFnZS93ZWJwfDkyNTEwNjI2NDQ3NjYvMDMwMTA1NjlfQ1JFTU9STkVfSkFDS0VUX25hdnlfQ0VSVkEgRFVCRU4gMjAxOTQyNjIxLnRpZi5wbmd8NzlmYjk1OWQ0NWQ2ZjI1YTNjOTNhMjcwNjFjZGYzMjk4MDA3NGNlZmVjODkyYWU1M2VhMjA5ZTkzODAwNmJkNQ</path>
+               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDI1NnxpbWFnZS9wbmd8OTM5MzE3MzAzNzA4Ni8wMzAxMDU2OV9DUkVNT1JORV9KQUNLRVRfbmF2eV9DRVJWQV9EVUJFTl8yMDE5NDI2MjEudGlmLnBuZ3xkMDI0NWM3NmJjYjM0ZTU4YmYyMmE2NjllMGE2ZDA4Mzg0NDI3NzBiNGU5YmMyYmQ1ZDg4NDdhOWQwYTMzZTMz</path>
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNDY2MHxpbWFnZS93ZWJwfDkyNDk1NjA1MjY4NzgvMDMwMTA1NjlfQ1JFTU9STkVfSkFDS0VUX2dyZXlfQ0VSVkEgRFVCRU4gMjAxOTQyNjE2LnRpZi5wbmd8OGJmYmZlNjMzNDc2ZmU0MzZhNGM3ZmUwNGI2NWMyYmFmZjQzNTIwN2NkMDQ4MDkzZWVlYzFiNjBiNGZlY2JkOQ</path>
@@ -69562,8 +69598,8 @@ UV ochrana poskytuje spoľahlivú ochranu pred stanovenými úrovňami nebezpeč
             <color code="81" title="číra"/>
          </colors>
          <standards>
-            <standard code="EN 166" title="EN 166 | 1FKN·F"/>
-            <standard code="EN 170" title="EN 170 | 2C-1,2"/>
+            <standard code="EN 166" title="EN 166"/>
+            <standard code="EN 170" title="EN 170 | 2C-1.2"/>
          </standards>
          <brand>CERV</brand>
          <images>
