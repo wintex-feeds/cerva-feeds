@@ -4296,8 +4296,6 @@
       <variant code="0201059100048" title="POSEIDON MF S3 SRC poltopánka sivá 48" price="62.756" currency="EUR" unit="PÁR"/>
       <variant code="0201059100047" title="POSEIDON MF S3 SRC poltopánka sivá 47" price="62.756" currency="EUR" unit="PÁR"/>
       <variant code="0201059100045" title="POSEIDON MF S3 SRC poltopánka sivá 45" price="62.756" currency="EUR" unit="PÁR"/>
-      <variant code="0201059100044" title="POSEIDON MF S3 SRC poltopánka sivá 44" price="62.756" currency="EUR" unit="PÁR"/>
-      <variant code="0201059100043" title="POSEIDON MF S3 SRC poltopánka sivá 43" price="62.756" currency="EUR" unit="PÁR"/>
       <variant code="0201059100039" title="POSEIDON MF S3 SRC poltopánka sivá 39" price="62.756" currency="EUR" unit="PÁR"/>
       <variant code="0201059100038" title="POSEIDON MF S3 SRC poltopánka sivá 38" price="62.756" currency="EUR" unit="PÁR"/>
       <variant code="0201059100037" title="POSEIDON MF S3 SRC poltopánka sivá 37" price="62.756" currency="EUR" unit="PÁR"/>
@@ -4354,7 +4352,6 @@
       <variant code="0201059760046" title="BETA NEOS S1P SRC poltop. čierna 46" price="36.728" currency="EUR" unit="PÁR"/>
       <variant code="0201059760045" title="BETA NEOS S1P SRC poltop. čierna 45" price="36.728" currency="EUR" unit="PÁR"/>
       <variant code="0201059760044" title="BETA NEOS S1P SRC poltop. čierna 44" price="36.728" currency="EUR" unit="PÁR"/>
-      <variant code="0201059760042" title="BETA NEOS S1P SRC poltop. čierna 42" price="36.728" currency="EUR" unit="PÁR"/>
       <variant code="0201059760041" title="BETA NEOS S1P SRC poltop. čierna 41" price="36.728" currency="EUR" unit="PÁR"/>
       <variant code="0201059760040" title="BETA NEOS S1P SRC poltop. čierna 40" price="36.728" currency="EUR" unit="PÁR"/>
       <variant code="0201059760039" title="BETA NEOS S1P SRC poltop. čierna 39" price="36.728" currency="EUR" unit="PÁR"/>
@@ -16484,7 +16481,7 @@
       <variant code="0314011064012" title="KNOXFIELD WINTER čiapka černá/žltá M/L" price="10.205" currency="EUR" unit="KS"/>
    </product>
    <product code="0314011299999" title="3M 954410 zváracie čiapka pod kuklu">
-      <variant code="0314011299999" title="3M 954410 zváracie čiapka pod kuklu" price="3.91" currency="EUR" unit="BAL"/>
+      <variant code="0314011299999" title="3M 954410 zváracie čiapka pod kuklu" price="3.914" currency="EUR" unit="BAL"/>
    </product>
    <product code="0314011399999" title="JSP SUREFIT Čiapka pod prilbu M/L">
       <variant code="0314011399999" title="JSP SUREFIT Čiapka pod prilbu M/L" price="16.726" currency="EUR" unit="KS"/>
@@ -16748,8 +16745,8 @@
    </product>
    <product code="03150044" title="3M 4520 Oblek jednoráz.">
       <variant code="0315004499006" title="3M 4520 Oblek jednoráz. - 3XL" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0315004499005" title="3M 4520 Oblek jednoráz. - XXL" price="8.16" currency="EUR" unit="KS"/>
-      <variant code="0315004499004" title="3M 4520 Oblek jednoráz. - XL" price="8.16" currency="EUR" unit="KS"/>
+      <variant code="0315004499005" title="3M 4520 Oblek jednoráz. - XXL" price="8.444" currency="EUR" unit="KS"/>
+      <variant code="0315004499004" title="3M 4520 Oblek jednoráz. - XL" price="8.444" currency="EUR" unit="KS"/>
       <variant code="0315004499003" title="3M 4520 Oblek jednoráz. - L" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0315004499002" title="3M 4520 Oblek jednoráz. - M" price="Bude upresnené" currency="" unit="KS"/>
    </product>
@@ -17227,7 +17224,7 @@
       <variant code="0318003199736" title="OB návlek cez obuv - č.36-38" price="14.235" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0318003299999" title="3M 450 návleky na vysokú obuv protišmyk">
-      <variant code="0318003299999" title="3M 450 návleky na vysokú obuv protišmyk" price="4.95" currency="EUR" unit="PÁR"/>
+      <variant code="0318003299999" title="3M 450 návleky na vysokú obuv protišmyk" price="4.957" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0319000299999" title="TACORA zváračská gamaša">
       <variant code="0319000299999" title="TACORA zváračská gamaša" price="42.9" currency="EUR" unit="PÁR"/>
@@ -22983,37 +22980,37 @@
       <variant code="0399001799999" title="Ansell AlphaTec Glove Connector 070" price="12.706" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401001899999" title="3M 1100 zátky">
-      <variant code="0401001899999" title="3M 1100 zátky" price="36.36" currency="EUR" unit="BOX"/>
+      <variant code="0401001899999" title="3M 1100 zátky" price="36.268" currency="EUR" unit="BOX"/>
    </product>
    <product code="0401002199999" title="3M 1100R náhr.náplň zátok , 500 párov">
-      <variant code="0401002199999" title="3M 1100R náhr.náplň zátok , 500 párov" price="54.22" currency="EUR" unit="BOX"/>
+      <variant code="0401002199999" title="3M 1100R náhr.náplň zátok , 500 párov" price="93.499" currency="EUR" unit="BOX"/>
    </product>
    <product code="0401002299999" title="3M 1110 zátky so šnúrkou">
-      <variant code="0401002299999" title="3M 1110 zátky so šnúrkou" price="0.459" currency="EUR" unit="PÁR"/>
+      <variant code="0401002299999" title="3M 1110 zátky so šnúrkou" price="0.46" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401002899999" title="3M 1271 zátky so šnúrkou">
-      <variant code="0401002899999" title="3M 1271 zátky so šnúrkou" price="1.54" currency="EUR" unit="PÁR"/>
+      <variant code="0401002899999" title="3M 1271 zátky so šnúrkou" price="1.542" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401002999999" title="3M 1310 zátky s pásikom">
-      <variant code="0401002999999" title="3M 1310 zátky s pásikom" price="7.25" currency="EUR" unit="KS"/>
+      <variant code="0401002999999" title="3M 1310 zátky s pásikom" price="7.259" currency="EUR" unit="KS"/>
    </product>
    <product code="0401003099999" title="3M 1311 náhr.zátky k 1310">
-      <variant code="0401003099999" title="3M 1311 náhr.zátky k 1310" price="2.45" currency="EUR" unit="PÁR"/>
+      <variant code="0401003099999" title="3M 1311 náhr.zátky k 1310" price="2.454" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401003599999" title="E.A.R. Classic">
-      <variant code="0401003599999" title="E.A.R. Classic" price="0.232" currency="EUR" unit="PÁR"/>
+      <variant code="0401003599999" title="E.A.R. Classic" price="0.233" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401003899999" title="E.A.R. Supersoft">
       <variant code="0401003899999" title="E.A.R. Supersoft" price="0.174" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401003999999" title="E.A.R  zásobník zátok-nádoba 500 pár">
-      <variant code="0401003999999" title="E.A.R  zásobník zátok-nádoba 500 pár" price="95.95" currency="EUR" unit="BAL"/>
+      <variant code="0401003999999" title="E.A.R  zásobník zátok-nádoba 500 pár" price="96.333" currency="EUR" unit="BAL"/>
    </product>
    <product code="0401004099999" title="E.A.R  náhradná náplň 500 pár">
-      <variant code="0401004099999" title="E.A.R  náhradná náplň 500 pár" price="86.75" currency="EUR" unit="BOX"/>
+      <variant code="0401004099999" title="E.A.R  náhradná náplň 500 pár" price="85.944" currency="EUR" unit="BOX"/>
    </product>
    <product code="0401004199999" title="E.A.R. Cabocord">
-      <variant code="0401004199999" title="E.A.R. Cabocord" price="0.535" currency="EUR" unit="PÁR"/>
+      <variant code="0401004199999" title="E.A.R. Cabocord" price="0.536" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401004399999" title="E.A.R. Soft so šnúrkou">
       <variant code="0401004399999" title="E.A.R. Soft so šnúrkou" price="0.439" currency="EUR" unit="PÁR"/>
@@ -23022,19 +23019,19 @@
       <variant code="0401004799999" title="E.A.R next No-touch so šnúrkou" price="0.99" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401004899999" title="E.A.R. CABOFLEX">
-      <variant code="0401004899999" title="E.A.R. CABOFLEX" price="9.28" currency="EUR" unit="PÁR"/>
+      <variant code="0401004899999" title="E.A.R. CABOFLEX" price="9.291" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401004999999" title="E.A.R. ULTRAFIT CORDED s lankom">
-      <variant code="0401004999999" title="E.A.R. ULTRAFIT CORDED s lankom" price="2.28" currency="EUR" unit="PÁR"/>
+      <variant code="0401004999999" title="E.A.R. ULTRAFIT CORDED s lankom" price="2.282" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401005199999" title="PELTOR TRI FLANGE zátky s3lam/plet.vlákn">
-      <variant code="0401005199999" title="PELTOR TRI FLANGE zátky s3lam/plet.vlákn" price="2.02" currency="EUR" unit="PÁR"/>
+      <variant code="0401005199999" title="PELTOR TRI FLANGE zátky s3lam/plet.vlákn" price="2.024" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401005299999" title="E.A.R.Classic One Touch Refill PD-01-001">
-      <variant code="0401005299999" title="E.A.R.Classic One Touch Refill PD-01-001" price="102.0" currency="EUR" unit="BAL"/>
+      <variant code="0401005299999" title="E.A.R.Classic One Touch Refill PD-01-001" price="101.999" currency="EUR" unit="BAL"/>
    </product>
    <product code="0401005399999" title="E.A.R. Tracers TR-01-000">
-      <variant code="0401005399999" title="E.A.R. Tracers TR-01-000" price="2.75" currency="EUR" unit="PÁR"/>
+      <variant code="0401005399999" title="E.A.R. Tracers TR-01-000" price="2.756" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401005499999" title="E.A.R. Express bez lanka">
       <variant code="0401005499999" title="E.A.R. Express bez lanka" price="0.879" currency="EUR" unit="PÁR"/>
@@ -23043,19 +23040,19 @@
       <variant code="0401005599999" title="E.A.R  PUSH INS" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="0401005699999" title="E.A.R. Express s lankom">
-      <variant code="0401005699999" title="E.A.R. Express s lankom" price="1.34" currency="EUR" unit="PÁR"/>
+      <variant code="0401005699999" title="E.A.R. Express s lankom" price="1.342" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401005799999" title="E.A.R PUSCH INS CORDED - s lankom">
-      <variant code="0401005799999" title="E.A.R PUSCH INS CORDED - s lankom" price="0.898" currency="EUR" unit="PÁR"/>
+      <variant code="0401005799999" title="E.A.R PUSCH INS CORDED - s lankom" price="0.897" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401006499999" title="E.A.R. Soft detekčné modré ES-01-011A">
       <variant code="0401006499999" title="E.A.R. Soft detekčné modré ES-01-011A" price="0.869" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401006599999" title="E.A.R  CLASSIC náhradná náplň box500 pár">
-      <variant code="0401006599999" title="E.A.R  CLASSIC náhradná náplň box500 pár" price="383.8" currency="EUR" unit="KA1"/>
+      <variant code="0401006599999" title="E.A.R  CLASSIC náhradná náplň box500 pár" price="385.327" currency="EUR" unit="KA1"/>
    </product>
    <product code="0401007199999" title="E.A.R. Caps EC-01-000">
-      <variant code="0401007199999" title="E.A.R. Caps EC-01-000" price="5.25" currency="EUR" unit="KS"/>
+      <variant code="0401007199999" title="E.A.R. Caps EC-01-000" price="5.258" currency="EUR" unit="KS"/>
    </product>
    <product code="0401007799999" title="ED COMFORT PLUG ušné zátky (250 p.)">
       <variant code="0401007799999" title="ED COMFORT PLUG ušné zátky (250 p.)" price="34.5" currency="EUR" unit="BOX"/>
@@ -23091,7 +23088,7 @@
       <variant code="0401009399999" title="E.A.R.Classic soft PR-01-0004" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="0401010299999" title="3M 1100B Nádoba sa zátkami pre zásobník">
-      <variant code="0401010299999" title="3M 1100B Nádoba sa zátkami pre zásobník" price="0.184" currency="EUR" unit="PÁR"/>
+      <variant code="0401010299999" title="3M 1100B Nádoba sa zátkami pre zásobník" price="0.182" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0401010599999" title="E.A.R Soft zátky ES-01-020">
       <variant code="0401010599999" title="E.A.R Soft zátky ES-01-020" price="Bude upresnené" currency="" unit="PÁR"/>
@@ -23109,7 +23106,7 @@
       <variant code="0401019899999" title="13E CC zátky so šnúrkou" price="104.191" currency="EUR" unit="BOX"/>
    </product>
    <product code="0401019999999" title="3M PELTOR elektron.ušní zátky EEP-100 EU">
-      <variant code="0401019999999" title="3M PELTOR elektron.ušní zátky EEP-100 EU" price="308.49" currency="EUR" unit="KS"/>
+      <variant code="0401019999999" title="3M PELTOR elektron.ušní zátky EEP-100 EU" price="308.828" currency="EUR" unit="KS"/>
    </product>
    <product code="04020021" title="LASOGARD - slúchadla LA 3001">
       <variant code="0402002140999" title="LASOGARD - slúchadla LA 3001 modrá" price="12.225" currency="EUR" unit="KS"/>
@@ -23117,46 +23114,46 @@
       <variant code="0402002110999" title="LASOGARD - slúchadla LA 3001 zelené" price="12.225" currency="EUR" unit="KS"/>
    </product>
    <product code="0402002399999" title="PELTOR - sluch. H510A-401-GU/H9A">
-      <variant code="0402002399999" title="PELTOR - sluch. H510A-401-GU/H9A" price="21.79" currency="EUR" unit="KS"/>
+      <variant code="0402002399999" title="PELTOR - sluch. H510A-401-GU/H9A" price="21.815" currency="EUR" unit="KS"/>
    </product>
    <product code="0402002499999" title="PELTOR - sluch. H520A-407-GQ/ H7A">
-      <variant code="0402002499999" title="PELTOR - sluch. H520A-407-GQ/ H7A" price="26.8" currency="EUR" unit="KS"/>
+      <variant code="0402002499999" title="PELTOR - sluch. H520A-407-GQ/ H7A" price="26.829" currency="EUR" unit="KS"/>
    </product>
    <product code="0402002599999" title="PELTOR - sluch. H540A-411-SV/H10A">
-      <variant code="0402002599999" title="PELTOR - sluch. H540A-411-SV/H10A" price="31.41" currency="EUR" unit="KS"/>
+      <variant code="0402002599999" title="PELTOR - sluch. H540A-411-SV/H10A" price="31.445" currency="EUR" unit="KS"/>
    </product>
    <product code="0402002699999" title="PELTOR - sluch. H540A-461-GB/H10A">
       <variant code="0402002699999" title="PELTOR - sluch. H540A-461-GB/H10A" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0402003799999" title="PELTOR - sluch. H510B-403-GU/H9B">
-      <variant code="0402003799999" title="PELTOR - sluch. H510B-403-GU/H9B" price="25.29" currency="EUR" unit="KS"/>
+      <variant code="0402003799999" title="PELTOR - sluch. H510B-403-GU/H9B" price="25.32" currency="EUR" unit="KS"/>
    </product>
    <product code="0402003899999" title="PELTOR - sluch. H520B-408-GQ/ H7B">
-      <variant code="0402003899999" title="PELTOR - sluch. H520B-408-GQ/ H7B" price="31.11" currency="EUR" unit="KS"/>
+      <variant code="0402003899999" title="PELTOR - sluch. H520B-408-GQ/ H7B" price="31.145" currency="EUR" unit="KS"/>
    </product>
    <product code="0402003999999" title="PELTOR - sluch. H540B-412-SV/H10B">
-      <variant code="0402003999999" title="PELTOR - sluch. H540B-412-SV/H10B" price="35.71" currency="EUR" unit="KS"/>
+      <variant code="0402003999999" title="PELTOR - sluch. H540B-412-SV/H10B" price="35.75" currency="EUR" unit="KS"/>
    </product>
    <product code="0402004399999" title="PELTOR - sluch. H510P3E-405-GU /H9P3e">
-      <variant code="0402004399999" title="PELTOR - sluch. H510P3E-405-GU /H9P3e" price="24.63" currency="EUR" unit="KS"/>
+      <variant code="0402004399999" title="PELTOR - sluch. H510P3E-405-GU /H9P3e" price="24.658" currency="EUR" unit="KS"/>
    </product>
    <product code="0402004499999" title="PELTOR - sluch. H520P3E-410-GQ/H7P3e">
-      <variant code="0402004499999" title="PELTOR - sluch. H520P3E-410-GQ/H7P3e" price="30.29" currency="EUR" unit="KS"/>
+      <variant code="0402004499999" title="PELTOR - sluch. H520P3E-410-GQ/H7P3e" price="30.325" currency="EUR" unit="KS"/>
    </product>
    <product code="0402004599999" title="PELTOR - sluch. H540P3E-413-SV /H10P3E">
-      <variant code="0402004599999" title="PELTOR - sluch. H540P3E-413-SV /H10P3E" price="35.49" currency="EUR" unit="KS"/>
+      <variant code="0402004599999" title="PELTOR - sluch. H540P3E-413-SV /H10P3E" price="35.531" currency="EUR" unit="KS"/>
    </product>
    <product code="0402004999999" title="PELTOR - sluch. H515FB-516-GN skladacie">
       <variant code="0402004999999" title="PELTOR - sluch. H515FB-516-GN skladacie" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0402005099999" title="PELTOR - sluch. H515FB-516-SVL skladacie">
-      <variant code="0402005099999" title="PELTOR - sluch. H515FB-516-SVL skladacie" price="29.84" currency="EUR" unit="KS"/>
+      <variant code="0402005099999" title="PELTOR - sluch. H515FB-516-SVL skladacie" price="29.873" currency="EUR" unit="KS"/>
    </product>
    <product code="0402005199999" title="PELTORsluch. H520F-409-GQ /H7F - sklad.">
-      <variant code="0402005199999" title="PELTORsluch. H520F-409-GQ /H7F - sklad." price="37.25" currency="EUR" unit="KS"/>
+      <variant code="0402005199999" title="PELTORsluch. H520F-409-GQ /H7F - sklad." price="37.292" currency="EUR" unit="KS"/>
    </product>
    <product code="0402005299999" title="PELTOR - sluch. MT16H210F-478-GN  Sport">
-      <variant code="0402005299999" title="PELTOR - sluch. MT16H210F-478-GN  Sport" price="263.09" currency="EUR" unit="KS"/>
+      <variant code="0402005299999" title="PELTOR - sluch. MT16H210F-478-GN  Sport" price="263.38" currency="EUR" unit="KS"/>
    </product>
    <product code="0402006099999" title="JSP AER100 sluchátka Classic GP">
       <variant code="0402006099999" title="JSP AER100 sluchátka Classic GP" price="34.686" currency="EUR" unit="KS"/>
@@ -23165,7 +23162,7 @@
       <variant code="0402006299999" title="JSP AER110 sluchátka Classic Extreme" price="49.892" currency="EUR" unit="KS"/>
    </product>
    <product code="0402006499999" title="PELTOR - sluch. MT16H210F-478-RD  Sport">
-      <variant code="0402006499999" title="PELTOR - sluch. MT16H210F-478-RD  Sport" price="265.72" currency="EUR" unit="KS"/>
+      <variant code="0402006499999" title="PELTOR - sluch. MT16H210F-478-RD  Sport" price="266.011" currency="EUR" unit="KS"/>
    </product>
    <product code="0402007399999" title="ED 1H sluchátka-hlava EAR DEFENDER green">
       <variant code="0402007399999" title="ED 1H sluchátka-hlava EAR DEFENDER green" price="23.99" currency="EUR" unit="KS"/>
@@ -23192,34 +23189,34 @@
       <variant code="0402008220999" title="FF MOSEL slúchadla červená" price="5.019" currency="EUR" unit="KS"/>
    </product>
    <product code="0402008799999" title="3M PELTOR - sluch. X1A-GA">
-      <variant code="0402008799999" title="3M PELTOR - sluch. X1A-GA" price="27.05" currency="EUR" unit="KS"/>
+      <variant code="0402008799999" title="3M PELTOR - sluch. X1A-GA" price="27.082" currency="EUR" unit="KS"/>
    </product>
    <product code="0402008899999" title="3M Peltor X1P5E-GA Sluch. prilba">
-      <variant code="0402008899999" title="3M Peltor X1P5E-GA Sluch. prilba" price="29.48" currency="EUR" unit="KS"/>
+      <variant code="0402008899999" title="3M Peltor X1P5E-GA Sluch. prilba" price="29.514" currency="EUR" unit="KS"/>
    </product>
    <product code="0402008999999" title="3M PELTOR - sluch. X2A-GU">
-      <variant code="0402008999999" title="3M PELTOR - sluch. X2A-GU" price="34.7" currency="EUR" unit="KS"/>
+      <variant code="0402008999999" title="3M PELTOR - sluch. X2A-GU" price="34.738" currency="EUR" unit="KS"/>
    </product>
    <product code="0402009099999" title="3M Peltor X2P5E-GU Sluch. prilba">
-      <variant code="0402009099999" title="3M Peltor X2P5E-GU Sluch. prilba" price="37.82" currency="EUR" unit="KS"/>
+      <variant code="0402009099999" title="3M Peltor X2P5E-GU Sluch. prilba" price="37.863" currency="EUR" unit="KS"/>
    </product>
    <product code="0402009399999" title="3M PELTOR - sluch. X4A-GB">
-      <variant code="0402009399999" title="3M PELTOR - sluch. X4A-GB" price="45.86" currency="EUR" unit="KS"/>
+      <variant code="0402009399999" title="3M PELTOR - sluch. X4A-GB" price="45.911" currency="EUR" unit="KS"/>
    </product>
    <product code="0402009499999" title="3M Peltor X4P5E-GB Sluch. prilba">
-      <variant code="0402009499999" title="3M Peltor X4P5E-GB Sluch. prilba" price="49.99" currency="EUR" unit="KS"/>
+      <variant code="0402009499999" title="3M Peltor X4P5E-GB Sluch. prilba" price="50.046" currency="EUR" unit="KS"/>
    </product>
    <product code="0402009599999" title="3M PELTOR - sluch. X5A-SV">
-      <variant code="0402009599999" title="3M PELTOR - sluch. X5A-SV" price="51.98" currency="EUR" unit="KS"/>
+      <variant code="0402009599999" title="3M PELTOR - sluch. X5A-SV" price="52.038" currency="EUR" unit="KS"/>
    </product>
    <product code="0402009699999" title="3M Peltor X5P5E-SV Sluch. prilba">
-      <variant code="0402009699999" title="3M Peltor X5P5E-SV Sluch. prilba" price="56.65" currency="EUR" unit="KS"/>
+      <variant code="0402009699999" title="3M Peltor X5P5E-SV Sluch. prilba" price="56.714" currency="EUR" unit="KS"/>
    </product>
    <product code="0402009799999" title="3M PELTOR drôt.štít/sluch.G500V5CH510-OR">
-      <variant code="0402009799999" title="3M PELTOR drôt.štít/sluch.G500V5CH510-OR" price="77.21" currency="EUR" unit="KS"/>
+      <variant code="0402009799999" title="3M PELTOR drôt.štít/sluch.G500V5CH510-OR" price="77.293" currency="EUR" unit="KS"/>
    </product>
    <product code="0402009899999" title="3M PELTOR PC štít/sluch.G500V5FH510-GU">
-      <variant code="0402009899999" title="3M PELTOR PC štít/sluch.G500V5FH510-GU" price="77.88" currency="EUR" unit="KS"/>
+      <variant code="0402009899999" title="3M PELTOR PC štít/sluch.G500V5FH510-GU" price="77.965" currency="EUR" unit="KS"/>
    </product>
    <product code="0402010399999" title="ED 2H sluchatka/drôtený štít">
       <variant code="0402010399999" title="ED 2H sluchatka/drôtený štít" price="75.795" currency="EUR" unit="KS"/>
@@ -23228,13 +23225,13 @@
       <variant code="0402010499999" title="ED 2H sluchatka/PC štít" price="72.69" currency="EUR" unit="KS"/>
    </product>
    <product code="0402010599999" title="MT53H7A4400-EU LiteCom, PMR 446 headband">
-      <variant code="0402010599999" title="MT53H7A4400-EU LiteCom, PMR 446 headband" price="818.35" currency="EUR" unit="KS"/>
+      <variant code="0402010599999" title="MT53H7A4400-EU LiteCom, PMR 446 headband" price="819.248" currency="EUR" unit="KS"/>
    </product>
    <product code="0402010899999" title="FF EMS GS-01-002 slúchadla červená">
       <variant code="0402010899999" title="FF EMS GS-01-002 slúchadla červená" price="11.69" currency="EUR" unit="KS"/>
    </product>
    <product code="0402010999999" title="Peltor H505B-596-SV Sluch svářečské krčn">
-      <variant code="0402010999999" title="Peltor H505B-596-SV Sluch svářečské krčn" price="44.45" currency="EUR" unit="KS"/>
+      <variant code="0402010999999" title="Peltor H505B-596-SV Sluch svářečské krčn" price="44.501" currency="EUR" unit="KS"/>
    </product>
    <product code="04020117" title="CIRON BASIC slúchadla Hi-Viz">
       <variant code="0402011779999" title="CIRON BASIC slúchadla Hi-Viz HV žltá -" price="9.644" currency="EUR" unit="KS"/>
@@ -23246,10 +23243,10 @@
       <variant code="0402012079999" title="CIRON HELMET slúchadla Hi-Viz HV žltá -" price="12.633" currency="EUR" unit="KS"/>
    </product>
    <product code="0402012199999" title="MT73H7P3E4410EU LITECOM PLUS">
-      <variant code="0402012199999" title="MT73H7P3E4410EU LITECOM PLUS" price="1279.39" currency="EUR" unit="KS"/>
+      <variant code="0402012199999" title="MT73H7P3E4410EU LITECOM PLUS" price="1280.791" currency="EUR" unit="KS"/>
    </product>
    <product code="0402012499999" title="MT73H7A4410-EU LiteCom Plus 446 hl.páska">
-      <variant code="0402012499999" title="MT73H7A4410-EU LiteCom Plus 446 hl.páska" price="1279.39" currency="EUR" unit="KS"/>
+      <variant code="0402012499999" title="MT73H7A4410-EU LiteCom Plus 446 hl.páska" price="1280.791" currency="EUR" unit="KS"/>
    </product>
    <product code="0402012599999" title="ED 2H RELAX EAR DEFENDER">
       <variant code="0402012599999" title="ED 2H RELAX EAR DEFENDER" price="109.0" currency="EUR" unit="KS"/>
@@ -23312,10 +23309,10 @@
       <variant code="0402015699999" title="JSP SONIS C slúchadla" price="68.375" currency="EUR" unit="KS"/>
    </product>
    <product code="0402015799999" title="MT13H220A sluchátka 3M PELTOR ProTac III">
-      <variant code="0402015799999" title="MT13H220A sluchátka 3M PELTOR ProTac III" price="129.98" currency="EUR" unit="KS"/>
+      <variant code="0402015799999" title="MT13H220A sluchátka 3M PELTOR ProTac III" price="130.121" currency="EUR" unit="KS"/>
    </product>
    <product code="0402015899999" title="HRXS220A Sluchátka 3M PELTOR Work Tunes">
-      <variant code="0402015899999" title="HRXS220A Sluchátka 3M PELTOR Work Tunes" price="106.54" currency="EUR" unit="KS"/>
+      <variant code="0402015899999" title="HRXS220A Sluchátka 3M PELTOR Work Tunes" price="106.656" currency="EUR" unit="KS"/>
    </product>
    <product code="0402016399999" title="3M Peltor X4P3 X series Sluch. prilba">
       <variant code="0402016399999" title="3M Peltor X4P3 X series Sluch. prilba" price="Bude upresnené" currency="" unit="KS"/>
@@ -23333,31 +23330,31 @@
       <variant code="0402017099999" title="17-P slúchadlá k prilbe CURRO" price="27.878" currency="EUR" unit="KS"/>
    </product>
    <product code="0402017299999" title="MT73H7A4410WS6EU WS LiteCom Plus hl.pásk">
-      <variant code="0402017299999" title="MT73H7A4410WS6EU WS LiteCom Plus hl.pásk" price="1486.85" currency="EUR" unit="KS"/>
+      <variant code="0402017299999" title="MT73H7A4410WS6EU WS LiteCom Plus hl.pásk" price="1488.479" currency="EUR" unit="KS"/>
    </product>
    <product code="0402017399999" title="MT20H682FB-68 SV sluch.ComTact XPI">
       <variant code="0402017399999" title="MT20H682FB-68 SV sluch.ComTact XPI" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0402017799999" title="MT73H7P3E4410WS6EU WS LiteCom Plus sluch">
-      <variant code="0402017799999" title="MT73H7P3E4410WS6EU WS LiteCom Plus sluch" price="1486.85" currency="EUR" unit="KS"/>
+      <variant code="0402017799999" title="MT73H7P3E4410WS6EU WS LiteCom Plus sluch" price="1488.479" currency="EUR" unit="KS"/>
    </product>
    <product code="0402017899999" title="3M PELTOR CH-3 MT74H52A-110 sluch.">
-      <variant code="0402017899999" title="3M PELTOR CH-3 MT74H52A-110 sluch." price="259.94" currency="EUR" unit="KS"/>
+      <variant code="0402017899999" title="3M PELTOR CH-3 MT74H52A-110 sluch." price="260.226" currency="EUR" unit="KS"/>
    </product>
    <product code="0402017999999" title="3M PELTOR MT15H7AWS6 ProTac XPI slúch.">
-      <variant code="0402017999999" title="3M PELTOR MT15H7AWS6 ProTac XPI slúch." price="762.13" currency="EUR" unit="KS"/>
+      <variant code="0402017999999" title="3M PELTOR MT15H7AWS6 ProTac XPI slúch." price="762.965" currency="EUR" unit="KS"/>
    </product>
    <product code="0402018099999" title="MT13H221A sluchátka 3M PELTOR ProTac III">
-      <variant code="0402018099999" title="MT13H221A sluchátka 3M PELTOR ProTac III" price="137.22" currency="EUR" unit="KS"/>
+      <variant code="0402018099999" title="MT13H221A sluchátka 3M PELTOR ProTac III" price="137.372" currency="EUR" unit="KS"/>
    </product>
    <product code="0402018299999" title="3M PELTOR MT15H7AWS6-111 ProTac XPI">
-      <variant code="0402018299999" title="3M PELTOR MT15H7AWS6-111 ProTac XPI" price="999.63" currency="EUR" unit="KS"/>
+      <variant code="0402018299999" title="3M PELTOR MT15H7AWS6-111 ProTac XPI" price="1000.726" currency="EUR" unit="KS"/>
    </product>
    <product code="0402018399999" title="3M PELTOR MT74H52P3E-110 CH-3 slúch.">
-      <variant code="0402018399999" title="3M PELTOR MT74H52P3E-110 CH-3 slúch." price="259.94" currency="EUR" unit="KS"/>
+      <variant code="0402018399999" title="3M PELTOR MT74H52P3E-110 CH-3 slúch." price="260.226" currency="EUR" unit="KS"/>
    </product>
    <product code="0402018499999" title="3M PELTOR CH-3 MT74H52A-111 sluch.">
-      <variant code="0402018499999" title="3M PELTOR CH-3 MT74H52A-111 sluch." price="389.93" currency="EUR" unit="KS"/>
+      <variant code="0402018499999" title="3M PELTOR CH-3 MT74H52A-111 sluch." price="390.358" currency="EUR" unit="KS"/>
    </product>
    <product code="0402018699999" title="SECURE 2H Safe1 2H sluchatka/PC štít">
       <variant code="0402018699999" title="SECURE 2H Safe1 2H sluchatka/PC štít" price="72.745" currency="EUR" unit="KS"/>
@@ -23366,7 +23363,7 @@
       <variant code="0402018899999" title="SECURE 2H Safe1 2H sluchatka/drôt. štít" price="75.847" currency="EUR" unit="KS"/>
    </product>
    <product code="0402018999999" title="Peltor H515FB-508-GN Sluch sklád. zelená">
-      <variant code="0402018999999" title="Peltor H515FB-508-GN Sluch sklád. zelená" price="29.84" currency="EUR" unit="KS"/>
+      <variant code="0402018999999" title="Peltor H515FB-508-GN Sluch sklád. zelená" price="29.873" currency="EUR" unit="KS"/>
    </product>
    <product code="0402019699999" title="JSP SONIS C pro Full Brim přilbu">
       <variant code="0402019699999" title="JSP SONIS C pro Full Brim přilbu" price="82.269" currency="EUR" unit="KS"/>
@@ -23375,16 +23372,16 @@
       <variant code="0402020099999" title="3M Peltor X Series X2P3 mušľové chrániče" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0403000899999" title="PELTOR - hygienická podložka HY100A">
-      <variant code="0403000899999" title="PELTOR - hygienická podložka HY100A" price="136.0" currency="EUR" unit="BOX"/>
+      <variant code="0403000899999" title="PELTOR - hygienická podložka HY100A" price="136.188" currency="EUR" unit="BOX"/>
    </product>
    <product code="0403000999999" title="PELTOR - hygienický set k H540">
-      <variant code="0403000999999" title="PELTOR - hygienický set k H540" price="10.78" currency="EUR" unit="PÁR"/>
+      <variant code="0403000999999" title="PELTOR - hygienický set k H540" price="10.792" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0403001399999" title="PELTOR - hygienický set k HY79">
-      <variant code="0403001399999" title="PELTOR - hygienický set k HY79" price="21.54" currency="EUR" unit="PÁR"/>
+      <variant code="0403001399999" title="PELTOR - hygienický set k HY79" price="21.565" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0403001599999" title="Peltor HYM1000 Hyg.obal mikrofón-role 5m">
-      <variant code="0403001599999" title="Peltor HYM1000 Hyg.obal mikrofón-role 5m" price="43.09" currency="EUR" unit="KS"/>
+      <variant code="0403001599999" title="Peltor HYM1000 Hyg.obal mikrofón-role 5m" price="43.139" currency="EUR" unit="KS"/>
    </product>
    <product code="0403001699999" title="PELTOR - M60/2 mikrofón">
       <variant code="0403001699999" title="PELTOR - M60/2 mikrofón" price="Bude upresnené" currency="" unit="KS"/>
@@ -23408,19 +23405,19 @@
       <variant code="0403003999999" title="ED DÁVKOVAČ ušných zátok" price="69.5" currency="EUR" unit="SET"/>
    </product>
    <product code="0403004099999" title="3M PELTOR - HYX1 hygienický set k X1">
-      <variant code="0403004099999" title="3M PELTOR - HYX1 hygienický set k X1" price="10.78" currency="EUR" unit="PÁR"/>
+      <variant code="0403004099999" title="3M PELTOR - HYX1 hygienický set k X1" price="10.792" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0403004199999" title="3M PELTOR - HYX2 hygienický set k X2">
-      <variant code="0403004199999" title="3M PELTOR - HYX2 hygienický set k X2" price="10.78" currency="EUR" unit="PÁR"/>
+      <variant code="0403004199999" title="3M PELTOR - HYX2 hygienický set k X2" price="10.792" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0403004399999" title="3M PELTOR - HYX4 hygienický set k X4">
-      <variant code="0403004399999" title="3M PELTOR - HYX4 hygienický set k X4" price="14.0" currency="EUR" unit="PÁR"/>
+      <variant code="0403004399999" title="3M PELTOR - HYX4 hygienický set k X4" price="14.016" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0403004499999" title="3M PELTOR - HYX5 hygienický set k X5">
-      <variant code="0403004499999" title="3M PELTOR - HYX5 hygienický set k X5" price="14.0" currency="EUR" unit="PÁR"/>
+      <variant code="0403004499999" title="3M PELTOR - HYX5 hygienický set k X5" price="14.016" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0403004899999" title="E.A.R.One touch PRO dávkovač zátok">
-      <variant code="0403004899999" title="E.A.R.One touch PRO dávkovač zátok" price="128.55" currency="EUR" unit="KS"/>
+      <variant code="0403004899999" title="E.A.R.One touch PRO dávkovač zátok" price="128.693" currency="EUR" unit="KS"/>
    </product>
    <product code="0403005199999" title="MT67H05WS6-EU WIRELESS COMM X SERIES">
       <variant code="0403005199999" title="MT67H05WS6-EU WIRELESS COMM X SERIES" price="Bude upresnené" currency="" unit="KS"/>
@@ -23429,7 +23426,7 @@
       <variant code="0403005299999" title="hygienický set FM-1/2/3" price="3.274" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0403005399999" title="3M Peltor HY21 hyg.set pro SporTac">
-      <variant code="0403005399999" title="3M Peltor HY21 hyg.set pro SporTac" price="13.31" currency="EUR" unit="KS"/>
+      <variant code="0403005399999" title="3M Peltor HY21 hyg.set pro SporTac" price="13.324" currency="EUR" unit="KS"/>
    </product>
    <product code="0403006299999" title="JSP SONIS 1 hygienický set">
       <variant code="0403006299999" title="JSP SONIS 1 hygienický set" price="21.134" currency="EUR" unit="SET"/>
@@ -23444,10 +23441,10 @@
       <variant code="0403006599999" title="JSP SONIS C hygienický set" price="24.896" currency="EUR" unit="SET"/>
    </product>
    <product code="0403006699999" title="ACK053 Bater. modul NiMH 2,4V 2500mAh">
-      <variant code="0403006699999" title="ACK053 Bater. modul NiMH 2,4V 2500mAh" price="79.51" currency="EUR" unit="KS"/>
+      <variant code="0403006699999" title="ACK053 Bater. modul NiMH 2,4V 2500mAh" price="79.597" currency="EUR" unit="KS"/>
    </product>
    <product code="0403006799999" title="FR08 Síťový adaptér USB pro bater.ACK053">
-      <variant code="0403006799999" title="FR08 Síťový adaptér USB pro bater.ACK053" price="38.02" currency="EUR" unit="KS"/>
+      <variant code="0403006799999" title="FR08 Síťový adaptér USB pro bater.ACK053" price="38.063" currency="EUR" unit="KS"/>
    </product>
    <product code="0403006899999" title="FR09 Napájecí kabel USB">
       <variant code="0403006899999" title="FR09 Napájecí kabel USB" price="Bude upresnené" currency="" unit="KS"/>
@@ -23459,36 +23456,36 @@
       <variant code="0403007199999" title="F09/SP Hlavová podložka Sporttac" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0403007899999" title="FL5035 PELTOR PTT adapter">
-      <variant code="0403007899999" title="FL5035 PELTOR PTT adapter" price="248.14" currency="EUR" unit="KS"/>
+      <variant code="0403007899999" title="FL5035 PELTOR PTT adapter" price="248.412" currency="EUR" unit="KS"/>
    </product>
    <product code="0403007999999" title="FL5063 PELTOR PTT adapter">
-      <variant code="0403007999999" title="FL5063 PELTOR PTT adapter" price="330.85" currency="EUR" unit="KS"/>
+      <variant code="0403007999999" title="FL5063 PELTOR PTT adapter" price="331.213" currency="EUR" unit="KS"/>
    </product>
    <product code="0403008199999" title="3M PELTOR RCU-300EU/1">
-      <variant code="0403008199999" title="3M PELTOR RCU-300EU/1" price="226.7" currency="EUR" unit="KS"/>
+      <variant code="0403008199999" title="3M PELTOR RCU-300EU/1" price="226.948" currency="EUR" unit="KS"/>
    </product>
    <product code="0403008299999" title="MOTOROLA SCU-FL063">
-      <variant code="0403008299999" title="MOTOROLA SCU-FL063" price="346.04" currency="EUR" unit="KS"/>
+      <variant code="0403008299999" title="MOTOROLA SCU-FL063" price="346.42" currency="EUR" unit="KS"/>
    </product>
    <product code="0403008599999" title="3M PELTOR FLX2-201 kábel">
       <variant code="0403008599999" title="3M PELTOR FLX2-201 kábel" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0403008699999" title="3M PELTOR AL2AI/SP kábel">
-      <variant code="0403008699999" title="3M PELTOR AL2AI/SP kábel" price="22.81" currency="EUR" unit="KS"/>
+      <variant code="0403008699999" title="3M PELTOR AL2AI/SP kábel" price="22.834" currency="EUR" unit="KS"/>
    </product>
    <product code="0403008799999" title="3M  MT33-05/1 Mikrofón">
-      <variant code="0403008799999" title="3M  MT33-05/1 Mikrofón" price="329.46" currency="EUR" unit="KS"/>
+      <variant code="0403008799999" title="3M  MT33-05/1 Mikrofón" price="329.822" currency="EUR" unit="KS"/>
    </product>
    <product code="0403010199999" title="3M PELTOR USB-C Charging J197/1">
       <variant code="0403010199999" title="3M PELTOR USB-C Charging J197/1" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="05010334" title="3M 280x okuliare bezp.zorník">
-      <variant code="0501033481999" title="3M 2800 okuliare číre bezp.zorník" price="11.17" currency="EUR" unit="KS"/>
-      <variant code="0501033470999" title="3M 2802 okuliare žlté bezp.zorník" price="11.17" currency="EUR" unit="KS"/>
+      <variant code="0501033481999" title="3M 2800 okuliare číre bezp.zorník" price="11.183" currency="EUR" unit="KS"/>
+      <variant code="0501033470999" title="3M 2802 okuliare žlté bezp.zorník" price="11.183" currency="EUR" unit="KS"/>
       <variant code="0501033405999" title="3M 2805 okuliare IR 5 zvaračské" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0501034899999" title="AOS 11356-00000M okul. s postr.svelom Le">
-      <variant code="0501034899999" title="AOS 11356-00000M okul. s postr.svelom Le" price="23.35" currency="EUR" unit="KS"/>
+      <variant code="0501034899999" title="AOS 11356-00000M okul. s postr.svelom Le" price="23.377" currency="EUR" unit="KS"/>
    </product>
    <product code="05010360" title="AOS 1322x-00000M okuliare MAXIM číre">
       <variant code="0501036076999" title="AOS 1322x-000006 okuliare MAXIM dymové" price="Bude upresnené" currency="" unit="KS"/>
@@ -23527,10 +23524,10 @@
       <variant code="0501037899999" title="WELDGUARD SE 1140 okul.zváračské hranaté" price="8.542" currency="EUR" unit="KS"/>
    </product>
    <product code="0501038499999" title="AOS 71448-00001M okuliare VISITOR číre">
-      <variant code="0501038499999" title="AOS 71448-00001M okuliare VISITOR číre" price="2.82" currency="EUR" unit="KS"/>
+      <variant code="0501038499999" title="AOS 71448-00001M okuliare VISITOR číre" price="2.825" currency="EUR" unit="KS"/>
    </product>
    <product code="0501038599999" title="Peltor 71360-00015M(5)FAHRENHEIT čir.ace">
-      <variant code="0501038599999" title="Peltor 71360-00015M(5)FAHRENHEIT čir.ace" price="17.31" currency="EUR" unit="KS"/>
+      <variant code="0501038599999" title="Peltor 71360-00015M(5)FAHRENHEIT čir.ace" price="17.33" currency="EUR" unit="KS"/>
    </product>
    <product code="0501038899999" title="WAITARA okuliare číre, sivý lem">
       <variant code="0501038899999" title="WAITARA okuliare číre, sivý lem" price="7.579" currency="EUR" unit="KS"/>
@@ -23576,10 +23573,10 @@
       <variant code="0501043306999" title="Okuliare NELLORE IS AF, AS dymová" price="10.394" currency="EUR" unit="KS"/>
    </product>
    <product code="0501043499999" title="3M 2890A okuliare číre acetat">
-      <variant code="0501043499999" title="3M 2890A okuliare číre acetat" price="19.76" currency="EUR" unit="KS"/>
+      <variant code="0501043499999" title="3M 2890A okuliare číre acetat" price="19.784" currency="EUR" unit="KS"/>
    </product>
    <product code="0501045399999" title="3M 2890S okuliare číre polykarbonát">
-      <variant code="0501045399999" title="3M 2890S okuliare číre polykarbonát" price="17.01" currency="EUR" unit="KS"/>
+      <variant code="0501045399999" title="3M 2890S okuliare číre polykarbonát" price="17.028" currency="EUR" unit="KS"/>
    </product>
    <product code="05010482" title="FF DONAU okuliare">
       <variant code="0501048281999" title="FF DONAU okuliare číra" price="1.635" currency="EUR" unit="KS"/>
@@ -23623,7 +23620,7 @@
       <variant code="0501050806999" title="JSP okular. M9700 SPORTS AS dymová -" price="9.085" currency="EUR" unit="KS"/>
    </product>
    <product code="0501051399999" title="3M 2890 okuliare číre polykarbonát">
-      <variant code="0501051399999" title="3M 2890 okuliare číre polykarbonát" price="16.68" currency="EUR" unit="KS"/>
+      <variant code="0501051399999" title="3M 2890 okuliare číre polykarbonát" price="16.699" currency="EUR" unit="KS"/>
    </product>
    <product code="05010516" title="AOS  11865-00000M MAXIM Ballistic RAS">
       <variant code="0501051681999" title="AOS  11865-00000M MAXIM Ballistic číra -" price="Bude upresnené" currency="" unit="KS"/>
@@ -23646,17 +23643,17 @@
       <variant code="0501052199999" title="JSP okular. EVO THERMEX" price="67.206" currency="EUR" unit="KS"/>
    </product>
    <product code="05010524" title="3M SecureFit SF200 AF/AS">
-      <variant code="0501052481999" title="3M SecureFit SF201 AFP číra,číry rám." price="8.16" currency="EUR" unit="KS"/>
-      <variant code="0501052481040" title="3M SecureFit SF201SGAF-BLU číra,mod.rám." price="9.51" currency="EUR" unit="KS"/>
-      <variant code="0501052470999" title="3M SecureFit SF203 AFP žltá,žltý rám." price="8.16" currency="EUR" unit="KS"/>
-      <variant code="0501052400999" title="3M SecureFit SF202 AF sivá,sivý rám." price="8.16" currency="EUR" unit="KS"/>
+      <variant code="0501052481999" title="3M SecureFit SF201 AFP číra,číry rám." price="8.171" currency="EUR" unit="KS"/>
+      <variant code="0501052481040" title="3M SecureFit SF201SGAF-BLU číra,mod.rám." price="9.52" currency="EUR" unit="KS"/>
+      <variant code="0501052470999" title="3M SecureFit SF203 AFP žltá,žltý rám." price="8.171" currency="EUR" unit="KS"/>
+      <variant code="0501052400999" title="3M SecureFit SF202 AF sivá,sivý rám." price="8.171" currency="EUR" unit="KS"/>
    </product>
    <product code="05010530" title="3M SecureFit SF400 AS/AF">
-      <variant code="0501053099999" title="3M SecureFit SF410 AS I/O zrkad. zel.rám" price="11.74" currency="EUR" unit="KS"/>
-      <variant code="0501053081999" title=" 3M SecureFit SF401 AF číra zel.rám." price="9.79" currency="EUR" unit="KS"/>
-      <variant code="0501053070999" title="3M SecureFit SF403 AF žltá zel.rám." price="10.29" currency="EUR" unit="KS"/>
-      <variant code="0501053045999" title="3M SecureFit SF408 AS zr. modrá zel.rám" price="11.74" currency="EUR" unit="KS"/>
-      <variant code="0501053000999" title="3M SecureFit SF402 AF sivá,zel.rám" price="10.28" currency="EUR" unit="KS"/>
+      <variant code="0501053099999" title="3M SecureFit SF410 AS I/O zrkad. zel.rám" price="11.754" currency="EUR" unit="KS"/>
+      <variant code="0501053081999" title=" 3M SecureFit SF401 AF číra zel.rám." price="9.801" currency="EUR" unit="KS"/>
+      <variant code="0501053070999" title="3M SecureFit SF403 AF žltá zel.rám." price="10.302" currency="EUR" unit="KS"/>
+      <variant code="0501053045999" title="3M SecureFit SF408 AS zr. modrá zel.rám" price="11.754" currency="EUR" unit="KS"/>
+      <variant code="0501053000999" title="3M SecureFit SF402 AF sivá,zel.rám" price="10.292" currency="EUR" unit="KS"/>
    </product>
    <product code="05010531" title="JSP okular. STEALTH 16g AS">
       <variant code="0501053181999" title="JSP okular. STEALTH 16g AS číra" price="5.335" currency="EUR" unit="KS"/>
@@ -23664,13 +23661,13 @@
       <variant code="0501053106999" title="JSP okular. STEALTH 16g AS dymová" price="5.335" currency="EUR" unit="KS"/>
    </product>
    <product code="0501053599999" title="3M TORA CCS okuliare číra">
-      <variant code="0501053599999" title="3M TORA CCS okuliare číra" price="8.48" currency="EUR" unit="KS"/>
+      <variant code="0501053599999" title="3M TORA CCS okuliare číra" price="8.49" currency="EUR" unit="KS"/>
    </product>
    <product code="0501054099999" title="3M 13200-99999M Maxim Ballistic Utility">
       <variant code="0501054099999" title="3M 13200-99999M Maxim Ballistic Utility" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0501054199999" title="3M 2890SA okuliare uzavr.utěs acetat z.">
-      <variant code="0501054199999" title="3M 2890SA okuliare uzavr.utěs acetat z." price="19.54" currency="EUR" unit="KS"/>
+      <variant code="0501054199999" title="3M 2890SA okuliare uzavr.utěs acetat z." price="19.562" currency="EUR" unit="KS"/>
    </product>
    <product code="05010542" title="Okuliare HALTON IS AS">
       <variant code="0501054281999" title="Okuliare HALTON IS AS, AF číra -" price="8.652" currency="EUR" unit="KS"/>
@@ -23736,6 +23733,7 @@
    <product code="05010582" title="OYRE IS okuliare,damske,AF,AS">
       <variant code="0501058281025" title="OYRE IS okuliare,dams číra růžový rám." price="4.059" currency="EUR" unit="KS"/>
       <variant code="0501058206026" title="OYRE IS okul dýmová růžová/čierna rám." price="4.626" currency="EUR" unit="KS"/>
+      <variant code="0501058206018" title="OYRE IS okul dýmová zelená/čierna rám." price="4.626" currency="EUR" unit="KS"/>
    </product>
    <product code="0501058499999" title="OBTERRE IS okuliare,AF,HP,OP">
       <variant code="0501058499999" title="OBTERRE IS okuliare,AF,HP,OP" price="26.665" currency="EUR" unit="KS"/>
@@ -23843,9 +23841,9 @@
       <variant code="0501062881999" title="3M Solus 1101SGAFKT - KIT modrá/čierna" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="05010629" title="Peltor V9 Integ. brýle k přilbě">
-      <variant code="0501062981999" title="Peltor V9C Integ. brýle k přilbě číra" price="16.06" currency="EUR" unit="KS"/>
-      <variant code="0501062970999" title="Peltor V9A Integ. brýle k přilbě žltá" price="16.06" currency="EUR" unit="KS"/>
-      <variant code="0501062900999" title="Peltor V9G Integ. brýle k přilbě sivá" price="16.06" currency="EUR" unit="KS"/>
+      <variant code="0501062981999" title="Peltor V9C Integ. brýle k přilbě číra" price="16.078" currency="EUR" unit="KS"/>
+      <variant code="0501062970999" title="Peltor V9A Integ. brýle k přilbě žltá" price="16.078" currency="EUR" unit="KS"/>
+      <variant code="0501062900999" title="Peltor V9G Integ. brýle k přilbě sivá" price="16.078" currency="EUR" unit="KS"/>
    </product>
    <product code="05010630" title="LUZERET IS Okuliare AF,AS">
       <variant code="0501063081999" title="LUZERET IS Okuliare AF,AS číra -" price="7.314" currency="EUR" unit="KS"/>
@@ -23899,7 +23897,7 @@
    </product>
    <product code="05010655" title="3M SecureFit SF3700">
       <variant code="0501065581999" title="3M SecureFit SF3701SGAF-BLU číra,mod.rám" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0501065581040" title="3M SecureFit SF3701ASP-BLU číra,mod.rám." price="16.87" currency="EUR" unit="KS"/>
+      <variant code="0501065581040" title="3M SecureFit SF3701ASP-BLU číra,mod.rám." price="16.888" currency="EUR" unit="KS"/>
       <variant code="0501065581019" title="3M SecureFit SF3701SGAF-GRN číra,zel.rám" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0501065506040" title="3M SecureFit SF3707SGAF-BLU dým,modr.r." price="Bude upresnené" currency="" unit="KS"/>
    </product>
@@ -23910,15 +23908,15 @@
       <variant code="0501065781999" title="JSP RIGI okuliare AS,AF, INDOOR/OUTDOOR" price="14.454" currency="EUR" unit="KS"/>
    </product>
    <product code="05010659" title="3M SOLUS CCS KN">
-      <variant code="0501065999999" title="3M SOLUS CCS KN SCCS07SGAF-GRN I/O" price="10.49" currency="EUR" unit="KS"/>
-      <variant code="0501065981999" title="3M SOLUS CCS KN SCCS01SGAF-GRN číra" price="10.06" currency="EUR" unit="KS"/>
-      <variant code="0501065900999" title="3M SOLUS CCS KN SCCS02SGAF-GRN sivá" price="10.58" currency="EUR" unit="KS"/>
+      <variant code="0501065999999" title="3M SOLUS CCS KN SCCS07SGAF-GRN I/O" price="10.503" currency="EUR" unit="KS"/>
+      <variant code="0501065981999" title="3M SOLUS CCS KN SCCS01SGAF-GRN číra" price="10.072" currency="EUR" unit="KS"/>
+      <variant code="0501065900999" title="3M SOLUS CCS KN SCCS02SGAF-GRN sivá" price="10.592" currency="EUR" unit="KS"/>
    </product>
    <product code="05010660" title="3M SOLUS 2000 KN">
-      <variant code="0501066081999" title="3M SOLUS 2000 KN S2001SGAF-RED-EU číra" price="16.96" currency="EUR" unit="KS"/>
-      <variant code="0501066081997" title="3M SOLUS 2000 KN S2001SGAF-BGR-F-EU číra" price="21.35" currency="EUR" unit="KS"/>
-      <variant code="0501066070999" title="3M SOLUS 2000 KN S2003SGAF-BGR-EU žltá" price="17.3" currency="EUR" unit="KS"/>
-      <variant code="0501066000999" title="3M SOLUS 2000 KN S2002SGAF-RED-EU sivá" price="17.14" currency="EUR" unit="KS"/>
+      <variant code="0501066081999" title="3M SOLUS 2000 KN S2001SGAF-RED-EU číra" price="16.98" currency="EUR" unit="KS"/>
+      <variant code="0501066081997" title="3M SOLUS 2000 KN S2001SGAF-BGR-F-EU číra" price="21.374" currency="EUR" unit="KS"/>
+      <variant code="0501066070999" title="3M SOLUS 2000 KN S2003SGAF-BGR-EU žltá" price="17.32" currency="EUR" unit="KS"/>
+      <variant code="0501066000999" title="3M SOLUS 2000 KN S2002SGAF-RED-EU sivá" price="17.159" currency="EUR" unit="KS"/>
       <variant code="0501066000020" title="3M SOLUS 2000 KN S2002SGAF-BGR-EU sivá" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="05010661" title="3M SF401XSGAF-BLU EU">
@@ -23945,11 +23943,11 @@
       <variant code="0501066581210" title="JSP EYEMAX okuliare AS,AF číra +1" price="18.52" currency="EUR" unit="KS"/>
    </product>
    <product code="0501066699999" title="3M SOLUS 2000 S2001AF-BLU-EU číra">
-      <variant code="0501066699999" title="3M SOLUS 2000 S2001AF-BLU-EU číra" price="13.57" currency="EUR" unit="KS"/>
+      <variant code="0501066699999" title="3M SOLUS 2000 S2001AF-BLU-EU číra" price="13.584" currency="EUR" unit="KS"/>
    </product>
    <product code="05010667" title="3M SecureFit 500">
       <variant code="0501066799999" title="3M SecureFit 500 SF501SGAF-BLK číra" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0501066781999" title="3M SecureFit 500 SF501AF-BLK-EU číra" price="10.79" currency="EUR" unit="KS"/>
+      <variant code="0501066781999" title="3M SecureFit 500 SF501AF-BLK-EU číra" price="10.802" currency="EUR" unit="KS"/>
       <variant code="0501066770999" title="3M SecureFit 500 SF503SGAF-BLK-EU žltá" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0501066767005" title="3M SecureFit 500 SF550ASP-GRN-EU IR5" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0501066706999" title="3M SecureFit 500 SF502SGAF-BLK-EU dýmová" price="Bude upresnené" currency="" unit="KS"/>
@@ -24014,13 +24012,13 @@
       <variant code="0502005199999" title="Štít ŠP 29" price="18.864" currency="EUR" unit="KS"/>
    </product>
    <product code="0502006199999" title="PELTOR  štít  PC čirý WP96, TUFFMASTER">
-      <variant code="0502006199999" title="PELTOR  štít  PC čirý WP96, TUFFMASTER" price="13.04" currency="EUR" unit="KS"/>
+      <variant code="0502006199999" title="PELTOR  štít  PC čirý WP96, TUFFMASTER" price="13.055" currency="EUR" unit="KS"/>
    </product>
    <product code="0502008399999" title="JSP ANW060-230-008 štít+držiak Evo rang">
       <variant code="0502008399999" title="JSP ANW060-230-008 štít+držiak Evo rang" price="59.219" currency="EUR" unit="KS"/>
    </product>
    <product code="0502008699999" title="3M PELTOR 5F-11 štít">
-      <variant code="0502008699999" title="3M PELTOR 5F-11 štít" price="16.44" currency="EUR" unit="KS"/>
+      <variant code="0502008699999" title="3M PELTOR 5F-11 štít" price="16.459" currency="EUR" unit="KS"/>
    </product>
    <product code="0502009199999" title="Peltor štít PC 1,5m čirý střední V4H">
       <variant code="0502009199999" title="Peltor štít PC 1,5m čirý střední V4H" price="Bude upresnené" currency="" unit="KS"/>
@@ -24041,7 +24039,7 @@
       <variant code="0502010099999" title="VISIGUARD drátěný štít" price="12.12" currency="EUR" unit="KS"/>
    </product>
    <product code="0502010299999" title="3M 5XG-IR5 PC štít žiaruvzdorný zlatý">
-      <variant code="0502010299999" title="3M 5XG-IR5 PC štít žiaruvzdorný zlatý" price="153.67" currency="EUR" unit="KS"/>
+      <variant code="0502010299999" title="3M 5XG-IR5 PC štít žiaruvzdorný zlatý" price="153.839" currency="EUR" unit="KS"/>
    </product>
    <product code="0502010399999" title="Čírý PC štítok pre set ED">
       <variant code="0502010399999" title="Čírý PC štítok pre set ED" price="14.029" currency="EUR" unit="KS"/>
@@ -24053,7 +24051,7 @@
       <variant code="0502010581999" title="VITRAC štít polykarbonát.AS,AF číra -" price="34.586" currency="EUR" unit="KS"/>
    </product>
    <product code="0502010699999" title="3M Štít 5C-1 drátený">
-      <variant code="0502010699999" title="3M Štít 5C-1 drátený" price="15.57" currency="EUR" unit="KS"/>
+      <variant code="0502010699999" title="3M Štít 5C-1 drátený" price="15.588" currency="EUR" unit="KS"/>
    </product>
    <product code="0502011599999" title="JSP ANK310-230-000 Electric visor">
       <variant code="0502011599999" title="JSP ANK310-230-000 Electric visor" price="72.272" currency="EUR" unit="KS"/>
@@ -24068,7 +24066,7 @@
       <variant code="0502012799999" title="JSP EVOGuard C1 Industrial štít" price="38.249" currency="EUR" unit="KS"/>
    </product>
    <product code="05020128" title="3M štít X5-SV">
-      <variant code="0502012881999" title="3M štít X5-SV01-CE číra -" price="34.49" currency="EUR" unit="KS"/>
+      <variant code="0502012881999" title="3M štít X5-SV01-CE číra -" price="34.53" currency="EUR" unit="KS"/>
       <variant code="0502012870999" title="3M štít X5-SV03-CE žltá -" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="05020129" title="JSP Inter Surefit Visor Carrier 17,5cm">
@@ -24078,7 +24076,7 @@
       <variant code="0502013299999" title="JSP EVOGuard C2 Industrial štít" price="55.763" currency="EUR" unit="KS"/>
    </product>
    <product code="0502013499999" title="3M 5A-CPF acetát. štít s ochranou brady">
-      <variant code="0502013499999" title="3M 5A-CPF acetát. štít s ochranou brady" price="34.9" currency="EUR" unit="KS"/>
+      <variant code="0502013499999" title="3M 5A-CPF acetát. štít s ochranou brady" price="34.939" currency="EUR" unit="KS"/>
    </product>
    <product code="05020135" title="JSP EVOGuard C3-MAX Industrial štít">
       <variant code="0502013581999" title="JSP EVOGuard C3-MAX Industrial štít číra" price="69.025" currency="EUR" unit="KS"/>
@@ -24087,7 +24085,7 @@
       <variant code="0502013699999" title="EVOGuard M2 Forestry system drôtený štít" price="126.661" currency="EUR" unit="KS"/>
    </product>
    <product code="0502013799999" title="3M WP98 Acetátový štít">
-      <variant code="0502013799999" title="3M WP98 Acetátový štít" price="25.36" currency="EUR" unit="KS"/>
+      <variant code="0502013799999" title="3M WP98 Acetátový štít" price="25.389" currency="EUR" unit="KS"/>
    </product>
    <product code="0502013899999" title="JSP EVOGuard C5-MAX Industrial štít KN">
       <variant code="0502013899999" title="JSP EVOGuard C5-MAX Industrial štít KN" price="115.289" currency="EUR" unit="KS"/>
@@ -24114,13 +24112,13 @@
       <variant code="0503001799999" title="Zvar.kukla - potítka pre plast.kríže" price="1.846" currency="EUR" unit="KS"/>
    </product>
    <product code="0503002699999" title="3M 426000 sklo vonk. pre Sp.Glass 10 ks">
-      <variant code="0503002699999" title="3M 426000 sklo vonk. pre Sp.Glass 10 ks" price="47.58" currency="EUR" unit="BAL"/>
+      <variant code="0503002699999" title="3M 426000 sklo vonk. pre Sp.Glass 10 ks" price="47.633" currency="EUR" unit="BAL"/>
    </product>
    <product code="0503004699999" title="KZ109 vonkajší zorník k ASK300,110x90x1">
       <variant code="0503004699999" title="KZ109 vonkajší zorník k ASK300,110x90x1" price="1.079" currency="EUR" unit="KS"/>
    </product>
    <product code="0503004899999" title="3M 705015 Speedglas  univ.hlavový košík">
-      <variant code="0503004899999" title="3M 705015 Speedglas  univ.hlavový košík" price="37.83" currency="EUR" unit="KS"/>
+      <variant code="0503004899999" title="3M 705015 Speedglas  univ.hlavový košík" price="37.871" currency="EUR" unit="KS"/>
    </product>
    <product code="0503005199999" title="SK 200 Zváračská kukla plastová">
       <variant code="0503005199999" title="SK 200 Zváračská kukla plastová" price="9.489" currency="EUR" unit="KS"/>
@@ -24138,55 +24136,55 @@
       <variant code="0503006599999" title="ASK 900krycí zorník vonkajší KZ133" price="1.586" currency="EUR" unit="KS"/>
    </product>
    <product code="0503007999999" title="3M tvárové tesnenie pre Speedglas 9100">
-      <variant code="0503007999999" title="3M tvárové tesnenie pre Speedglas 9100" price="95.53" currency="EUR" unit="KS"/>
+      <variant code="0503007999999" title="3M tvárové tesnenie pre Speedglas 9100" price="95.636" currency="EUR" unit="KS"/>
    </product>
    <product code="0503008099999" title="KZ108850 Krycí zorník vnútorný k ASK900">
       <variant code="0503008099999" title="KZ108850 Krycí zorník vnútorný k ASK900" price="0.834" currency="EUR" unit="KS"/>
    </product>
    <product code="0503008299999" title="3M vnútorné sklíčko 9000V 1DIN (5 ks)">
-      <variant code="0503008299999" title="3M vnútorné sklíčko 9000V 1DIN (5 ks)" price="52.36" currency="EUR" unit="BAL"/>
+      <variant code="0503008299999" title="3M vnútorné sklíčko 9000V 1DIN (5 ks)" price="52.419" currency="EUR" unit="BAL"/>
    </product>
    <product code="0503008399999" title="3M Vnútorné sklíčko 9000V 2DIN (5 ks)">
-      <variant code="0503008399999" title="3M Vnútorné sklíčko 9000V 2DIN (5 ks)" price="52.55" currency="EUR" unit="BAL"/>
+      <variant code="0503008399999" title="3M Vnútorné sklíčko 9000V 2DIN (5 ks)" price="52.609" currency="EUR" unit="BAL"/>
    </product>
    <product code="0503008499999" title="3M Speedglas kazeta 9100V">
-      <variant code="0503008499999" title="3M Speedglas kazeta 9100V" price="497.77" currency="EUR" unit="KS"/>
+      <variant code="0503008499999" title="3M Speedglas kazeta 9100V" price="498.316" currency="EUR" unit="KS"/>
    </product>
    <product code="0503008699999" title="3M vonkajšie sklíčko STD 9100">
-      <variant code="0503008699999" title="3M vonkajšie sklíčko STD 9100" price="43.79" currency="EUR" unit="BAL"/>
+      <variant code="0503008699999" title="3M vonkajšie sklíčko STD 9100" price="43.839" currency="EUR" unit="BAL"/>
    </product>
    <product code="0503008799999" title="3M vnútorné sklíčko 9100X">
-      <variant code="0503008799999" title="3M vnútorné sklíčko 9100X" price="25.24" currency="EUR" unit="BAL"/>
+      <variant code="0503008799999" title="3M vnútorné sklíčko 9100X" price="25.267" currency="EUR" unit="BAL"/>
    </product>
    <product code="0503009299999" title="3M 527000 vonkajšie sklíčko">
-      <variant code="0503009299999" title="3M 527000 vonkajšie sklíčko" price="65.68" currency="EUR" unit="BAL"/>
+      <variant code="0503009299999" title="3M 527000 vonkajšie sklíčko" price="65.751" currency="EUR" unit="BAL"/>
    </product>
    <product code="0503009499999" title="3M 528025 Speedglas vnútorné sklíčko(PK)">
-      <variant code="0503009499999" title="3M 528025 Speedglas vnútorné sklíčko(PK)" price="28.14" currency="EUR" unit="BAL"/>
+      <variant code="0503009499999" title="3M 528025 Speedglas vnútorné sklíčko(PK)" price="28.171" currency="EUR" unit="BAL"/>
    </product>
    <product code="0503009599999" title="ASK 500 Kukla samozatmievacia">
       <variant code="0503009599999" title="ASK 500 Kukla samozatmievacia" price="99.295" currency="EUR" unit="KS"/>
    </product>
    <product code="0503009699999" title="3M vnútorné sklíčko 9100V (PK5)">
-      <variant code="0503009699999" title="3M vnútorné sklíčko 9100V (PK5)" price="23.02" currency="EUR" unit="BAL"/>
+      <variant code="0503009699999" title="3M vnútorné sklíčko 9100V (PK5)" price="23.048" currency="EUR" unit="BAL"/>
    </product>
    <product code="0503009799999" title="3M 527001 vonkajšie sklíčko 9100 (PK10)">
-      <variant code="0503009799999" title="3M 527001 vonkajšie sklíčko 9100 (PK10)" price="74.1" currency="EUR" unit="BAL"/>
+      <variant code="0503009799999" title="3M 527001 vonkajšie sklíčko 9100 (PK10)" price="74.182" currency="EUR" unit="BAL"/>
    </product>
    <product code="0503009999999" title="3M 401385 Zvar.kukla s kazetou 9002NC">
-      <variant code="0503009999999" title="3M 401385 Zvar.kukla s kazetou 9002NC" price="456.71" currency="EUR" unit="KS"/>
+      <variant code="0503009999999" title="3M 401385 Zvar.kukla s kazetou 9002NC" price="457.21" currency="EUR" unit="KS"/>
    </product>
    <product code="0503010299999" title="3M 577700 Speedglas 9100MP s ADFLO">
-      <variant code="0503010299999" title="3M 577700 Speedglas 9100MP s ADFLO" price="1921.51" currency="EUR" unit="KS"/>
+      <variant code="0503010299999" title="3M 577700 Speedglas 9100MP s ADFLO" price="1923.615" currency="EUR" unit="KS"/>
    </product>
    <product code="0503010799999" title="3M 500015 Speedglas kazeta 9100X">
-      <variant code="0503010799999" title="3M 500015 Speedglas kazeta 9100X" price="596.71" currency="EUR" unit="KS"/>
+      <variant code="0503010799999" title="3M 500015 Speedglas kazeta 9100X" price="597.364" currency="EUR" unit="KS"/>
    </product>
    <product code="0503010899999" title="3M 541890 Speedglas skelet 9100FX">
-      <variant code="0503010899999" title="3M 541890 Speedglas skelet 9100FX" price="320.96" currency="EUR" unit="KS"/>
+      <variant code="0503010899999" title="3M 541890 Speedglas skelet 9100FX" price="321.313" currency="EUR" unit="KS"/>
    </product>
    <product code="0503010999999" title="3M 631820 Speedglas prilba G5-03">
-      <variant code="0503010999999" title="3M 631820 Speedglas prilba G5-03" price="655.39" currency="EUR" unit="KS"/>
+      <variant code="0503010999999" title="3M 631820 Speedglas prilba G5-03" price="656.11" currency="EUR" unit="KS"/>
    </product>
    <product code="0503011299999" title="3M 610031 Speedglas kazeta G5-01/03VC">
       <variant code="0503011299999" title="3M 610031 Speedglas kazeta G5-01/03VC" price="Bude upresnené" currency="" unit="KS"/>
@@ -24198,16 +24196,16 @@
       <variant code="0503011599999" title="3M 631830 zváračská kukla Pro G5-01/03VC" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0504000999999" title="3M 272 šnúrka na okuliare s bezpeč.pojis">
-      <variant code="0504000999999" title="3M 272 šnúrka na okuliare s bezpeč.pojis" price="6.1" currency="EUR" unit="KS"/>
+      <variant code="0504000999999" title="3M 272 šnúrka na okuliare s bezpeč.pojis" price="6.107" currency="EUR" unit="KS"/>
    </product>
    <product code="0504002399999" title="PELTOR 120600 obal na okuliare">
-      <variant code="0504002399999" title="PELTOR 120600 obal na okuliare" price="8.39" currency="EUR" unit="KS"/>
+      <variant code="0504002399999" title="PELTOR 120600 obal na okuliare" price="8.401" currency="EUR" unit="KS"/>
    </product>
    <product code="0504002499999" title="AOS - 26-2000-00M čistiaca handrička 500">
-      <variant code="0504002499999" title="AOS - 26-2000-00M čistiaca handrička 500" price="99.01" currency="EUR" unit="BOX"/>
+      <variant code="0504002499999" title="AOS - 26-2000-00M čistiaca handrička 500" price="99.118" currency="EUR" unit="BOX"/>
    </product>
    <product code="0504002599999" title="PELTOR 90931 šnúrka k okuliarom">
-      <variant code="0504002599999" title="PELTOR 90931 šnúrka k okuliarom" price="1.09" currency="EUR" unit="KS"/>
+      <variant code="0504002599999" title="PELTOR 90931 šnúrka k okuliarom" price="1.092" currency="EUR" unit="KS"/>
    </product>
    <product code="0504002699999" title="Zváračské sklo 110x90 číre">
       <variant code="0504002699999" title="Zváračské sklo 110x90 číre" price="0.25" currency="EUR" unit="KS"/>
@@ -24250,7 +24248,7 @@
       <variant code="0504003799999" title="JSP ANV000-001 držiak štítu-prilba MK2,3" price="35.553" currency="EUR" unit="KS"/>
    </product>
    <product code="0504003899999" title="Peltor adaptér P3EV/2 prilba/štít 30mm">
-      <variant code="0504003899999" title="Peltor adaptér P3EV/2 prilba/štít 30mm" price="8.53" currency="EUR" unit="PÁR"/>
+      <variant code="0504003899999" title="Peltor adaptér P3EV/2 prilba/štít 30mm" price="8.54" currency="EUR" unit="PÁR"/>
    </product>
    <product code="0504005599999" title="Zváračská fólia do kukly">
       <variant code="0504005599999" title="Zváračská fólia do kukly" price="Bude upresnené" currency="" unit="KS"/>
@@ -24268,16 +24266,16 @@
       <variant code="0504007299999" title="JSP ANV000-001-108 držiak štítu Evo" price="33.893" currency="EUR" unit="KS"/>
    </product>
    <product code="0504007499999" title="3M 289 náhr. PC zorník k 2890/2890S">
-      <variant code="0504007499999" title="3M 289 náhr. PC zorník k 2890/2890S" price="5.49" currency="EUR" unit="KS"/>
+      <variant code="0504007499999" title="3M 289 náhr. PC zorník k 2890/2890S" price="5.498" currency="EUR" unit="KS"/>
    </product>
    <product code="0504008199999" title="3M Penová vložka do okuliarov TORA CCS">
       <variant code="0504008199999" title="3M Penová vložka do okuliarov TORA CCS" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0504008499999" title="3M 777000 AS Speedglass">
-      <variant code="0504008499999" title="3M 777000 AS Speedglass" price="61.21" currency="EUR" unit="KA1"/>
+      <variant code="0504008499999" title="3M 777000 AS Speedglass" price="61.278" currency="EUR" unit="KA1"/>
    </product>
    <product code="0504008599999" title="3M 289A náhr.zorník k 2890A/2890SA">
-      <variant code="0504008599999" title="3M 289A náhr.zorník k 2890A/2890SA" price="10.1" currency="EUR" unit="KS"/>
+      <variant code="0504008599999" title="3M 289A náhr.zorník k 2890A/2890SA" price="10.11" currency="EUR" unit="KS"/>
    </product>
    <product code="05040086" title="B808 L rámček na okuliare">
       <variant code="0504008675999" title="B808BL L rámček na okuliare čierná" price="59.493" currency="EUR" unit="KS"/>
@@ -24327,7 +24325,7 @@
       <variant code="0504011099999" title="JSP držiak štítu EVO ABS" price="36.322" currency="EUR" unit="KS"/>
    </product>
    <product code="0504011199999" title="3M G500-GU G500 Náhlavní souprava">
-      <variant code="0504011199999" title="3M G500-GU G500 Náhlavní souprava" price="35.57" currency="EUR" unit="KS"/>
+      <variant code="0504011199999" title="3M G500-GU G500 Náhlavní souprava" price="35.609" currency="EUR" unit="KS"/>
    </product>
    <product code="0504011299999" title="KP002 potní páska ASK 300, ASK 900">
       <variant code="0504011299999" title="KP002 potní páska ASK 300, ASK 900" price="2.64" currency="EUR" unit="KS"/>
@@ -24351,7 +24349,7 @@
       <variant code="0504012699999" title="B412 Čistiaca spray 50ml" price="5.286" currency="EUR" unit="KS"/>
    </product>
    <product code="0504012899999" title="P3ADG-F SV/2 adapter k přilbě">
-      <variant code="0504012899999" title="P3ADG-F SV/2 adapter k přilbě" price="59.37" currency="EUR" unit="KS"/>
+      <variant code="0504012899999" title="P3ADG-F SV/2 adapter k přilbě" price="59.436" currency="EUR" unit="KS"/>
    </product>
    <product code="0504012999999" title="JSP Čistiaci sprej 500ml">
       <variant code="0504012999999" title="JSP Čistiaci sprej 500ml" price="23.21" currency="EUR" unit="KS"/>
@@ -24384,10 +24382,10 @@
       <variant code="0504014100999" title="JSP EVOGuard® čelný držiak štítu sivá -" price="29.885" currency="EUR" unit="KS"/>
    </product>
    <product code="0504014299999" title="3M FH1 držiak štítu">
-      <variant code="0504014299999" title="3M FH1 držiak štítu" price="10.98" currency="EUR" unit="KS"/>
+      <variant code="0504014299999" title="3M FH1 držiak štítu" price="10.993" currency="EUR" unit="KS"/>
    </product>
    <product code="0504014599999" title="3M 428000 vnútorné sklíčko 9000V (PK5)">
-      <variant code="0504014599999" title="3M 428000 vnútorné sklíčko 9000V (PK5)" price="22.82" currency="EUR" unit="BAL"/>
+      <variant code="0504014599999" title="3M 428000 vnútorné sklíčko 9000V (PK5)" price="22.847" currency="EUR" unit="BAL"/>
    </product>
    <product code="0504015099999" title="JSP čistiace vlhčené obrúsky 100ks">
       <variant code="0504015099999" title="JSP čistiace vlhčené obrúsky 100ks" price="13.46" currency="EUR" unit="BOX"/>
@@ -24414,7 +24412,7 @@
       <variant code="0505000499999" title="JSP PROFILE POLYCARBONATE okuliare vent" price="23.741" currency="EUR" unit="KS"/>
    </product>
    <product code="0505000599999" title="Peltor 71360-00017M FAHRENHEIT číré ACE">
-      <variant code="0505000599999" title="Peltor 71360-00017M FAHRENHEIT číré ACE" price="17.6" currency="EUR" unit="KS"/>
+      <variant code="0505000599999" title="Peltor 71360-00017M FAHRENHEIT číré ACE" price="17.619" currency="EUR" unit="KS"/>
    </product>
    <product code="06010015" title="LAS S14 prilba, textil 4b">
       <variant code="0601001590999" title="LAS S14 prilba, textil 4b oranžová" price="12.305" currency="EUR" unit="KS"/>
@@ -24451,13 +24449,13 @@
       <variant code="0601004420999" title="JSP EVO8 WR prilba ventilovaná červená" price="92.4" currency="EUR" unit="KS"/>
    </product>
    <product code="06010046" title="PELTOR prilba G3000NUV">
-      <variant code="0601004690999" title="PELTOR prilba G3000NUV OR oranžová" price="28.16" currency="EUR" unit="KS"/>
-      <variant code="0601004680999" title="PELTOR prilba G3000NUV VI biela" price="28.16" currency="EUR" unit="KS"/>
-      <variant code="0601004679999" title="PELTOR prilba G3000NUV GB HV žltá" price="28.16" currency="EUR" unit="KS"/>
-      <variant code="0601004670999" title="PELTOR prilba G3000NUV GU žltá" price="28.16" currency="EUR" unit="KS"/>
-      <variant code="0601004640999" title="PELTOR prilba G3000NUV BB modrá" price="28.16" currency="EUR" unit="KS"/>
-      <variant code="0601004620999" title="PELTOR prilba G3000NUV RD červená" price="28.16" currency="EUR" unit="KS"/>
-      <variant code="0601004610999" title="PELTOR prilba G3000NUV GP zelená" price="28.16" currency="EUR" unit="KS"/>
+      <variant code="0601004690999" title="PELTOR prilba G3000NUV OR oranžová" price="23.963" currency="EUR" unit="KS"/>
+      <variant code="0601004680999" title="PELTOR prilba G3000NUV VI biela" price="23.963" currency="EUR" unit="KS"/>
+      <variant code="0601004679999" title="PELTOR prilba G3000NUV GB HV žltá" price="23.963" currency="EUR" unit="KS"/>
+      <variant code="0601004670999" title="PELTOR prilba G3000NUV GU žltá" price="23.963" currency="EUR" unit="KS"/>
+      <variant code="0601004640999" title="PELTOR prilba G3000NUV BB modrá" price="23.963" currency="EUR" unit="KS"/>
+      <variant code="0601004620999" title="PELTOR prilba G3000NUV RD červená" price="23.963" currency="EUR" unit="KS"/>
+      <variant code="0601004610999" title="PELTOR prilba G3000NUV GP zelená" price="23.963" currency="EUR" unit="KS"/>
    </product>
    <product code="06010063" title="JSP EVO2 prilba neventilovaná">
       <variant code="0601006390999" title="JSP EVO2 prilba neventilovaná oranžová" price="12.788" currency="EUR" unit="KS"/>
@@ -24562,7 +24560,7 @@
       <variant code="0601011340999" title="Prilba Peltor G3001NUV modrá -" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="06010114" title="Prilba Peltor G3001MUV 1000V">
-      <variant code="0601011490999" title="Prilba Peltor G3001MUV 1000V oranžová -" price="36.08" currency="EUR" unit="KS"/>
+      <variant code="0601011490999" title="Prilba Peltor G3001MUV 1000V oranžová -" price="36.12" currency="EUR" unit="KS"/>
       <variant code="0601011480999" title="Prilba Peltor G3001MUV 1000V biela -" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0601011479999" title="Prilba Peltor G3001MUV 1000V HV žltá -" price="Bude upresnené" currency="" unit="KS"/>
       <variant code="0601011440999" title="Prilba Peltor G3001MUV 1000V modrá -" price="Bude upresnené" currency="" unit="KS"/>
@@ -24663,7 +24661,7 @@
    </product>
    <product code="06010158" title="3M SecureFit X5000V-CE prilba ventil.">
       <variant code="06010158F4999" title="3M SecureFit X5014V-CE přilba ven.HV zel" price="Bude upresnené" currency="" unit="KS"/>
-      <variant code="0601015880999" title="3M SecureFit X5001V-CE prilba ven.biela" price="135.59" currency="EUR" unit="KS"/>
+      <variant code="0601015880999" title="3M SecureFit X5001V-CE prilba ven.biela" price="135.74" currency="EUR" unit="KS"/>
    </product>
    <product code="06010159" title="3M SecureFit X5500NVE-CE prilba nevent.">
       <variant code="0601015980999" title="3M SecureFit X5501NVE-CE prilba nev.biel" price="Bude upresnené" currency="" unit="KS"/>
@@ -24701,7 +24699,7 @@
       <variant code="0601017180999" title="JSP EVO3 Mid Peak WR 3 Point Miners biel" price="36.218" currency="EUR" unit="KS"/>
    </product>
    <product code="0601017399999" title="Peltor G3000NOR31FH15C Les.komp.oranž">
-      <variant code="0601017399999" title="Peltor G3000NOR31FH15C Les.komp.oranž" price="90.73" currency="EUR" unit="KS"/>
+      <variant code="0601017399999" title="Peltor G3000NOR31FH15C Les.komp.oranž" price="90.83" currency="EUR" unit="KS"/>
    </product>
    <product code="06010174" title="JSP EVO ALTA Dualswitch WR ventil. CR2">
       <variant code="0601017496999" title="JSP EVO ALTA Dualswitch WR ven.CR2 HVora" price="116.867" currency="EUR" unit="KS"/>
@@ -24829,10 +24827,10 @@
       <variant code="0604002699999" title="LAS LP 2017 výstielka do prilby" price="4.83" currency="EUR" unit="KS"/>
    </product>
    <product code="0604002899999" title="PELTOR  HYG4 potná páska">
-      <variant code="0604002899999" title="PELTOR  HYG4 potná páska" price="6.92" currency="EUR" unit="KS"/>
+      <variant code="0604002899999" title="PELTOR  HYG4 potná páska" price="6.929" currency="EUR" unit="KS"/>
    </product>
    <product code="0604002999999" title="PELTOR GR3C zásterka">
-      <variant code="0604002999999" title="PELTOR GR3C zásterka" price="7.84" currency="EUR" unit="KS"/>
+      <variant code="0604002999999" title="PELTOR GR3C zásterka" price="7.848" currency="EUR" unit="KS"/>
    </product>
    <product code="0604003099999" title="PELTOR GP44 výstielka">
       <variant code="0604003099999" title="PELTOR GP44 výstielka" price="Bude upresnené" currency="" unit="KS"/>
@@ -24847,19 +24845,19 @@
       <variant code="0604003799999" title="JSP elast. remienky prilba MK1,2,3,7,EVO" price="4.237" currency="EUR" unit="KS"/>
    </product>
    <product code="0604004499999" title="PELTOR náhlavní kříž H8, TUFFMASTER">
-      <variant code="0604004499999" title="PELTOR náhlavní kříž H8, TUFFMASTER" price="36.1" currency="EUR" unit="KS"/>
+      <variant code="0604004499999" title="PELTOR náhlavní kříž H8, TUFFMASTER" price="36.14" currency="EUR" unit="KS"/>
    </product>
    <product code="0604004999999" title="PEL GH1  2-bod.-podbrad. páska G3000">
-      <variant code="0604004999999" title="PEL GH1  2-bod.-podbrad. páska G3000" price="7.39" currency="EUR" unit="KS"/>
+      <variant code="0604004999999" title="PEL GH1  2-bod.-podbrad. páska G3000" price="7.4" currency="EUR" unit="KS"/>
    </product>
    <product code="0604005999999" title="PEL GH4  3-bod.-podbrad. páska G3000">
-      <variant code="0604005999999" title="PEL GH4  3-bod.-podbrad. páska G3000" price="8.82" currency="EUR" unit="KS"/>
+      <variant code="0604005999999" title="PEL GH4  3-bod.-podbrad. páska G3000" price="8.833" currency="EUR" unit="KS"/>
    </product>
    <product code="0604006299999" title="JSP EVO Chamlon potní páska Revolution">
       <variant code="0604006299999" title="JSP EVO Chamlon potní páska Revolution" price="3.496" currency="EUR" unit="KS"/>
    </product>
    <product code="0604006499999" title="PELTOR HYG3 potná páska standard">
-      <variant code="0604006499999" title="PELTOR HYG3 potná páska standard" price="3.92" currency="EUR" unit="KS"/>
+      <variant code="0604006499999" title="PELTOR HYG3 potná páska standard" price="3.926" currency="EUR" unit="KS"/>
    </product>
    <product code="0604006799999" title="JSP AHV391-002-900 Reflex nálepky Evo2/3">
       <variant code="0604006799999" title="JSP AHV391-002-900 Reflex nálepky Evo2/3" price="102.363" currency="EUR" unit="BAL"/>
@@ -24868,7 +24866,7 @@
       <variant code="0604006899999" title="JSP AHV390-002-900 Reflex nálepky EvoLit" price="88.838" currency="EUR" unit="BAL"/>
    </product>
    <product code="0604007299999" title="3M Náhlav.kríž G2Npl.pot.pás.G2000,G3000">
-      <variant code="0604007299999" title="3M Náhlav.kríž G2Npl.pot.pás.G2000,G3000" price="17.13" currency="EUR" unit="KS"/>
+      <variant code="0604007299999" title="3M Náhlav.kríž G2Npl.pot.pás.G2000,G3000" price="17.149" currency="EUR" unit="KS"/>
    </product>
    <product code="0604007699999" title="Elast. remienok (10ks) GP 3000, PALLADIO">
       <variant code="0604007699999" title="Elast. remienok (10ks) GP 3000, PALLADIO" price="15.321" currency="EUR" unit="BAL"/>
@@ -24877,7 +24875,7 @@
       <variant code="0604007799999" title="Potná páska (10ks) GP 3000, PALLADIO" price="1.74" currency="EUR" unit="BAL"/>
    </product>
    <product code="0604007899999" title="3M Náhlav.kríž G2Mkož..pot.p.G2000,G3000">
-      <variant code="0604007899999" title="3M Náhlav.kríž G2Mkož..pot.p.G2000,G3000" price="19.95" currency="EUR" unit="KS"/>
+      <variant code="0604007899999" title="3M Náhlav.kríž G2Mkož..pot.p.G2000,G3000" price="19.973" currency="EUR" unit="KS"/>
    </product>
    <product code="0604007999999" title="JSP AHV000-400-000 helmet comforter">
       <variant code="0604007999999" title="JSP AHV000-400-000 helmet comforter" price="34.727" currency="EUR" unit="KS"/>
@@ -24904,13 +24902,13 @@
       <variant code="0604009299999" title="4-bodový podbradný pásik ALPINWORKER" price="8.164" currency="EUR" unit="KS"/>
    </product>
    <product code="0604009499999" title="3M Z3AF/2 adaptér X-series/VERSAFLO">
-      <variant code="0604009499999" title="3M Z3AF/2 adaptér X-series/VERSAFLO" price="14.69" currency="EUR" unit="KS"/>
+      <variant code="0604009499999" title="3M Z3AF/2 adaptér X-series/VERSAFLO" price="14.708" currency="EUR" unit="KS"/>
    </product>
    <product code="0604009699999" title="JSP náhlavnú kríž + potné páska pre EVO2">
       <variant code="0604009699999" title="JSP náhlavnú kríž + potné páska pre EVO2" price="8.232" currency="EUR" unit="KS"/>
    </product>
    <product code="0604009799999" title="3M FC-1 AL predný kryt helmy">
-      <variant code="0604009799999" title="3M FC-1 AL predný kryt helmy" price="96.14" currency="EUR" unit="KS"/>
+      <variant code="0604009799999" title="3M FC-1 AL predný kryt helmy" price="96.247" currency="EUR" unit="KS"/>
    </product>
    <product code="0604009999999" title="JSP Deluxe podbradní pásek EVO">
       <variant code="0604009999999" title="JSP Deluxe podbradní pásek EVO" price="7.607" currency="EUR" unit="KS"/>
@@ -24940,10 +24938,10 @@
       <variant code="0604010899999" title="JSP EVO VISTA náhr.okuliare vnútor/vonka" price="36.339" currency="EUR" unit="KS"/>
    </product>
    <product code="0604010999999" title="3M 4-bodový podbradný pásik X5-P4PTCS1">
-      <variant code="0604010999999" title="3M 4-bodový podbradný pásik X5-P4PTCS1" price="31.76" currency="EUR" unit="KS"/>
+      <variant code="0604010999999" title="3M 4-bodový podbradný pásik X5-P4PTCS1" price="31.796" currency="EUR" unit="KS"/>
    </product>
    <product code="0604011099999" title="3M 4-bodový podbradný pásik X5-P4PTCS2">
-      <variant code="0604011099999" title="3M 4-bodový podbradný pásik X5-P4PTCS2" price="34.46" currency="EUR" unit="KS"/>
+      <variant code="0604011099999" title="3M 4-bodový podbradný pásik X5-P4PTCS2" price="34.498" currency="EUR" unit="KS"/>
    </product>
    <product code="0604011199999" title="Podbradný remienok na prilbu 5-RS">
       <variant code="0604011199999" title="Podbradný remienok na prilbu 5-RS" price="1.398" currency="EUR" unit="KS"/>
@@ -24967,7 +24965,7 @@
       <variant code="0604011899999" title="Potná páska (10ks) PALLADIO ADVANCE" price="2.486" currency="EUR" unit="BAL"/>
    </product>
    <product code="0604011999999" title="3M SecureFit X5-BWPD01 potná páska">
-      <variant code="0604011999999" title="3M SecureFit X5-BWPD01 potná páska" price="5.88" currency="EUR" unit="KS"/>
+      <variant code="0604011999999" title="3M SecureFit X5-BWPD01 potná páska" price="5.887" currency="EUR" unit="KS"/>
    </product>
    <product code="0604012099999" title="JSP Revolution Flex Spare WR náhl.kríž">
       <variant code="0604012099999" title="JSP Revolution Flex Spare WR náhl.kríž" price="19.764" currency="EUR" unit="KS"/>
@@ -24994,55 +24992,55 @@
       <variant code="0604013020999" title="JSP HARDCAP AEROLITE 60° Cover 2,5červ" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0701000199999" title="3M 8710 resp.FFP1">
-      <variant code="0701000199999" title="3M 8710 resp.FFP1" price="1.23" currency="EUR" unit="KS"/>
+      <variant code="0701000199999" title="3M 8710 resp.FFP1" price="1.233" currency="EUR" unit="KS"/>
    </product>
    <product code="0701000299999" title="3M 8810 respirátor FFP2 20/BAL">
-      <variant code="0701000299999" title="3M 8810 respirátor FFP2 20/BAL" price="2.0" currency="EUR" unit="KS"/>
+      <variant code="0701000299999" title="3M 8810 respirátor FFP2 20/BAL" price="2.003" currency="EUR" unit="KS"/>
    </product>
    <product code="0701000399999" title="3M 8812 respirátor FFP1 vent.">
-      <variant code="0701000399999" title="3M 8812 respirátor FFP1 vent." price="2.3" currency="EUR" unit="KS"/>
+      <variant code="0701000399999" title="3M 8812 respirátor FFP1 vent." price="2.304" currency="EUR" unit="KS"/>
    </product>
    <product code="0701000499999" title="3M 8822 respirátor FFP2 vent. 10/BAL">
-      <variant code="0701000499999" title="3M 8822 respirátor FFP2 vent. 10/BAL" price="2.59" currency="EUR" unit="KS"/>
+      <variant code="0701000499999" title="3M 8822 respirátor FFP2 vent. 10/BAL" price="2.593" currency="EUR" unit="KS"/>
    </product>
    <product code="0701000599999" title="3M 8825+ resp.FFP2D vent.Premium 5/BAL">
-      <variant code="0701000599999" title="3M 8825+ resp.FFP2D vent.Premium 5/BAL" price="9.78" currency="EUR" unit="KS"/>
+      <variant code="0701000599999" title="3M 8825+ resp.FFP2D vent.Premium 5/BAL" price="9.791" currency="EUR" unit="KS"/>
    </product>
    <product code="07010006" title="3M 8835 resp.FFP3D vent.,Premium">
-      <variant code="0701000699025" title="3M 8835+ resp.FFP3D vent.,Prem.M/L 5/BAL" price="11.28" currency="EUR" unit="KS"/>
+      <variant code="0701000699025" title="3M 8835+ resp.FFP3D vent.,Prem.M/L 5/BAL" price="11.292" currency="EUR" unit="KS"/>
    </product>
    <product code="0701000899999" title="3M 9310+ resp.FFP1 Aura 20/BAL">
-      <variant code="0701000899999" title="3M 9310+ resp.FFP1 Aura 20/BAL" price="1.39" currency="EUR" unit="KS"/>
+      <variant code="0701000899999" title="3M 9310+ resp.FFP1 Aura 20/BAL" price="1.394" currency="EUR" unit="KS"/>
    </product>
    <product code="0701000999999" title="3M 9312+ resp.FFP1vent. Aura 10/BAL">
-      <variant code="0701000999999" title="3M 9312+ resp.FFP1vent. Aura 10/BAL" price="1.76" currency="EUR" unit="KS"/>
+      <variant code="0701000999999" title="3M 9312+ resp.FFP1vent. Aura 10/BAL" price="1.763" currency="EUR" unit="KS"/>
    </product>
    <product code="0701001099999" title="3M 9320+ resp. FFP2 Aura 20/BAL">
       <variant code="0701001099999" title="3M 9320+ resp. FFP2 Aura 20/BAL" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0701001099999BLK" title="3M 9320+ Resp. FFP2 Aura BLK">
-      <variant code="0701001099999BLK" title="3M 9320+ Resp. FFP2 Aura BLK" price="2.06" currency="EUR" unit="KS"/>
+      <variant code="0701001099999BLK" title="3M 9320+ Resp. FFP2 Aura BLK" price="2.064" currency="EUR" unit="KS"/>
    </product>
    <product code="0701001199999" title="3M 9322+ resp.FFP2 vent. Aura 10/BAL">
-      <variant code="0701001199999" title="3M 9322+ resp.FFP2 vent. Aura 10/BAL" price="3.23" currency="EUR" unit="KS"/>
+      <variant code="0701001199999" title="3M 9322+ resp.FFP2 vent. Aura 10/BAL" price="3.236" currency="EUR" unit="KS"/>
    </product>
    <product code="0701001299999" title="3M 9332+ resp.FFP3 vent. Aura">
-      <variant code="0701001299999" title="3M 9332+ resp.FFP3 vent. Aura" price="6.47" currency="EUR" unit="KS"/>
+      <variant code="0701001299999" title="3M 9332+ resp.FFP3 vent. Aura" price="6.478" currency="EUR" unit="KS"/>
    </product>
    <product code="0701001399999" title="3M 9906 resp.FFP1,fluorovodík 20/BAL">
       <variant code="0701001399999" title="3M 9906 resp.FFP1,fluorovodík 20/BAL" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0701001499999" title="3M 9913 resp.FFP1,org.výpary 20/BAL">
-      <variant code="0701001499999" title="3M 9913 resp.FFP1,org.výpary 20/BAL" price="5.41" currency="EUR" unit="KS"/>
+      <variant code="0701001499999" title="3M 9913 resp.FFP1,org.výpary 20/BAL" price="5.415" currency="EUR" unit="KS"/>
    </product>
    <product code="0701001599999" title="3M 9914 resp.FFP1,nepr.pachy,výdych.vent">
-      <variant code="0701001599999" title="3M 9914 resp.FFP1,nepr.pachy,výdych.vent" price="6.1" currency="EUR" unit="KS"/>
+      <variant code="0701001599999" title="3M 9914 resp.FFP1,nepr.pachy,výdych.vent" price="6.107" currency="EUR" unit="KS"/>
    </product>
    <product code="0701001899999" title="3M 9926 resp.FFP2,kyslé plyny 10/BAL">
-      <variant code="0701001899999" title="3M 9926 resp.FFP2,kyslé plyny 10/BAL" price="8.43" currency="EUR" unit="KS"/>
+      <variant code="0701001899999" title="3M 9926 resp.FFP2,kyslé plyny 10/BAL" price="8.441" currency="EUR" unit="KS"/>
    </product>
    <product code="0701001999999" title="3M 9928 resp.FFP2 10/BAL">
-      <variant code="0701001999999" title="3M 9928 resp.FFP2 10/BAL" price="11.63" currency="EUR" unit="KS"/>
+      <variant code="0701001999999" title="3M 9928 resp.FFP2 10/BAL" price="11.643" currency="EUR" unit="KS"/>
    </product>
    <product code="07010024" title="REFIL 710 respirátor FFP1 skl.bez vent.">
       <variant code="0701002499999" title="REFIL 710 res.FFP1 skl. bez vent. 20/BAL" price="21.734" currency="EUR" unit="BOX"/>
@@ -25090,13 +25088,13 @@
       <variant code="0701005999999" title="RS 1 Polomaska" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0701007299999" title="3M 8833 resp.FFP3 s vent.">
-      <variant code="0701007299999" title="3M 8833 resp.FFP3 s vent." price="4.98" currency="EUR" unit="KS"/>
+      <variant code="0701007299999" title="3M 8833 resp.FFP3 s vent." price="4.985" currency="EUR" unit="KS"/>
    </product>
    <product code="0701007399999" title="3M 8310 resp.FFP1">
       <variant code="0701007399999" title="3M 8310 resp.FFP1" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0701007699999" title="3M 8322 resp.FFP2 s vent.">
-      <variant code="0701007699999" title="3M 8322 resp.FFP2 s vent." price="4.14" currency="EUR" unit="KS"/>
+      <variant code="0701007699999" title="3M 8322 resp.FFP2 s vent." price="4.146" currency="EUR" unit="KS"/>
    </product>
    <product code="0701009199999" title="REFIL 641 BLIST.FFP2 skl.s ventil.10/BAL">
       <variant code="0701009199999" title="REFIL 641 BLIST.FFP2 skl.s ventil.10/BAL" price="43.209" currency="EUR" unit="BOX"/>
@@ -25117,7 +25115,7 @@
       <variant code="0701009999999" title="SPIROTEK VS2300V resp. FFP3 vent. 10/BAL" price="40.99" currency="EUR" unit="BOX"/>
    </product>
    <product code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL">
-      <variant code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL" price="10.58" currency="EUR" unit="KS"/>
+      <variant code="0701010399999" title="3M 9925 resp.FFP2,vent.,na zváran.10/BAL" price="10.592" currency="EUR" unit="KS"/>
    </product>
    <product code="0701011899999" title="3M 9936 Resp.FFP3 vent,akt.uhlia">
       <variant code="0701011899999" title="3M 9936 Resp.FFP3 vent,akt.uhlia" price="Bude upresnené" currency="" unit="KS"/>
@@ -25159,16 +25157,16 @@
       <variant code="0701013499999" title="REFIL 1052 Resp.FFP3 tvarov.vent. 5/BAL" price="36.954" currency="EUR" unit="BOX"/>
    </product>
    <product code="0701014699999BLK" title="3M 9330+ GEN3 Aura Resp.FFP3 BLK">
-      <variant code="0701014699999BLK" title="3M 9330+ GEN3 Aura Resp.FFP3 BLK" price="4.12" currency="EUR" unit="KS"/>
+      <variant code="0701014699999BLK" title="3M 9330+ GEN3 Aura Resp.FFP3 BLK" price="4.126" currency="EUR" unit="KS"/>
    </product>
    <product code="0701014899999" title="3M 9322+ GEN3 Aura Resp.FFP2 vent.">
-      <variant code="0701014899999" title="3M 9322+ GEN3 Aura Resp.FFP2 vent." price="4.1" currency="EUR" unit="KS"/>
+      <variant code="0701014899999" title="3M 9322+ GEN3 Aura Resp.FFP2 vent." price="4.106" currency="EUR" unit="KS"/>
    </product>
    <product code="0701014999999" title="3M 9332+ GEN3 Aura Resp.FFP3 vent.10/BAL">
-      <variant code="0701014999999" title="3M 9332+ GEN3 Aura Resp.FFP3 vent.10/BAL" price="8.45" currency="EUR" unit="KS"/>
+      <variant code="0701014999999" title="3M 9332+ GEN3 Aura Resp.FFP3 vent.10/BAL" price="8.46" currency="EUR" unit="KS"/>
    </product>
    <product code="0701015199999" title="3M 9922 Resp. FFP2 NR D vent.">
-      <variant code="0701015199999" title="3M 9922 Resp. FFP2 NR D vent." price="6.98" currency="EUR" unit="KS"/>
+      <variant code="0701015199999" title="3M 9922 Resp. FFP2 NR D vent." price="6.989" currency="EUR" unit="KS"/>
    </product>
    <product code="0701015299999" title="JSP Typhoon Respirátor FFP2 (725)">
       <variant code="0701015299999" title="JSP Typhoon Respirátor FFP2 (725)" price="47.742" currency="EUR" unit="BOX"/>
@@ -25231,24 +25229,24 @@
       <variant code="0702000699999" title="3M 4277 polomaska FFABE1P3D" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="07020007" title="3M 6000 polomaska">
-      <variant code="0702000799030" title="3M 6300 polomaska veľká L" price="26.59" currency="EUR" unit="KS"/>
-      <variant code="0702000799020" title="3M 6200 polomaska stredná M" price="26.59" currency="EUR" unit="KS"/>
-      <variant code="0702000799010" title="3M 6100 polomaska malá S" price="26.59" currency="EUR" unit="KS"/>
+      <variant code="0702000799030" title="3M 6300 polomaska veľká L" price="26.619" currency="EUR" unit="KS"/>
+      <variant code="0702000799020" title="3M 6200 polomaska stredná M" price="26.619" currency="EUR" unit="KS"/>
+      <variant code="0702000799010" title="3M 6100 polomaska malá S" price="26.619" currency="EUR" unit="KS"/>
    </product>
    <product code="07020008" title="3M 750x polomaska">
-      <variant code="0702000899030" title="3M 7503 polomaska veľká" price="48.65" currency="EUR" unit="KS"/>
-      <variant code="0702000899020" title="3M 7502 polomaska stredná" price="48.65" currency="EUR" unit="KS"/>
-      <variant code="0702000899010" title="3M 7501 polomaska malá" price="48.65" currency="EUR" unit="KS"/>
+      <variant code="0702000899030" title="3M 7503 polomaska veľká" price="48.705" currency="EUR" unit="KS"/>
+      <variant code="0702000899020" title="3M 7502 polomaska stredná" price="48.705" currency="EUR" unit="KS"/>
+      <variant code="0702000899010" title="3M 7501 polomaska malá" price="48.705" currency="EUR" unit="KS"/>
    </product>
    <product code="0702001099999" title="3M 7582 vdych.ventil k polom.">
-      <variant code="0702001099999" title="3M 7582 vdych.ventil k polom." price="6.23" currency="EUR" unit="KS"/>
+      <variant code="0702001099999" title="3M 7582 vdych.ventil k polom." price="6.238" currency="EUR" unit="KS"/>
    </product>
    <product code="0702002599999" title="JSP Force 8 polomaska M">
       <variant code="0702002599999" title="JSP Force 8 polomaska M" price="29.297" currency="EUR" unit="KS"/>
    </product>
    <product code="07020027" title="3M 6500QL polomaska">
-      <variant code="0702002799030" title="3M 6503QL polomaska - L" price="44.53" currency="EUR" unit="KS"/>
-      <variant code="0702002799020" title="3M 6502QL polomaska - M" price="44.53" currency="EUR" unit="KS"/>
+      <variant code="0702002799030" title="3M 6503QL polomaska - L" price="44.579" currency="EUR" unit="KS"/>
+      <variant code="0702002799020" title="3M 6502QL polomaska - M" price="44.579" currency="EUR" unit="KS"/>
       <variant code="0702002799010" title="3M 6501QL polomaska - S" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0702003299999" title="JSP Force 8 polomaska L">
@@ -25289,16 +25287,16 @@
       <variant code="0702004199015" title="SR 90 AIRLINE polomaska - S/M" price="656.05" currency="EUR" unit="KS"/>
    </product>
    <product code="0702006799999" title="3M 4251+ polomaska FFA1P2RD">
-      <variant code="0702006799999" title="3M 4251+ polomaska FFA1P2RD" price="30.4" currency="EUR" unit="KS"/>
+      <variant code="0702006799999" title="3M 4251+ polomaska FFA1P2RD" price="30.434" currency="EUR" unit="KS"/>
    </product>
    <product code="0702006899999" title="3M 4255+ polomaska FFA2P3RD">
-      <variant code="0702006899999" title="3M 4255+ polomaska FFA2P3RD" price="37.01" currency="EUR" unit="KS"/>
+      <variant code="0702006899999" title="3M 4255+ polomaska FFA2P3RD" price="37.052" currency="EUR" unit="KS"/>
    </product>
    <product code="0702006999999" title="3M 4277+ polomaska FFABE1P3RD">
-      <variant code="0702006999999" title="3M 4277+ polomaska FFABE1P3RD" price="40.71" currency="EUR" unit="KS"/>
+      <variant code="0702006999999" title="3M 4277+ polomaska FFABE1P3RD" price="40.754" currency="EUR" unit="KS"/>
    </product>
    <product code="0702007099999" title="3M 4279+ polomaska FFABEK1P3RD">
-      <variant code="0702007099999" title="3M 4279+ polomaska FFABEK1P3RD" price="47.02" currency="EUR" unit="KS"/>
+      <variant code="0702007099999" title="3M 4279+ polomaska FFABEK1P3RD" price="47.073" currency="EUR" unit="KS"/>
    </product>
    <product code="0702007399999" title="JSP Force 8 polomaska PressToCheck P3">
       <variant code="0702007399999" title="JSP Force 8 polomaska PressToCheck P3" price="47.273" currency="EUR" unit="KS"/>
@@ -25315,59 +25313,59 @@
       <variant code="0702007899999" title="800 polomaska" price="18.038" currency="EUR" unit="KS"/>
    </product>
    <product code="0703000299999" title="3M 501 držiak filtrov 2ks/BAL">
-      <variant code="0703000299999" title="3M 501 držiak filtrov 2ks/BAL" price="5.76" currency="EUR" unit="BAL"/>
+      <variant code="0703000299999" title="3M 501 držiak filtrov 2ks/BAL" price="5.764" currency="EUR" unit="BAL"/>
    </product>
    <product code="0703000399999" title="3M 502 adaptér">
-      <variant code="0703000399999" title="3M 502 adaptér" price="4.5" currency="EUR" unit="KS"/>
+      <variant code="0703000399999" title="3M 502 adaptér" price="4.505" currency="EUR" unit="KS"/>
    </product>
    <product code="0703000499999" title="3M 603 plošina 2ks/BAL">
-      <variant code="0703000499999" title="3M 603 plošina 2ks/BAL" price="10.26" currency="EUR" unit="BAL"/>
+      <variant code="0703000499999" title="3M 603 plošina 2ks/BAL" price="10.273" currency="EUR" unit="BAL"/>
    </product>
    <product code="07030005" title="3M 6700 maska">
-      <variant code="0703000599020" title="3M 6800 maska stredná" price="176.85" currency="EUR" unit="KS"/>
-      <variant code="0703000599010" title="3M 6700 maska malá" price="176.85" currency="EUR" unit="KS"/>
+      <variant code="0703000599020" title="3M 6800 maska stredná" price="177.047" currency="EUR" unit="KS"/>
+      <variant code="0703000599010" title="3M 6700 maska malá" price="177.047" currency="EUR" unit="KS"/>
    </product>
    <product code="0703000699999" title="3M 6864 výdych.ventil komplet">
-      <variant code="0703000699999" title="3M 6864 výdych.ventil komplet" price="30.75" currency="EUR" unit="KS"/>
+      <variant code="0703000699999" title="3M 6864 výdych.ventil komplet" price="30.785" currency="EUR" unit="KS"/>
    </product>
    <product code="0703000799999" title="3M 6878 súprava pre dioptr.okuliare">
-      <variant code="0703000799999" title="3M 6878 súprava pre dioptr.okuliare" price="105.32" currency="EUR" unit="SET"/>
+      <variant code="0703000799999" title="3M 6878 súprava pre dioptr.okuliare" price="105.437" currency="EUR" unit="SET"/>
    </product>
    <product code="0703000899999" title="3M 6885 kryt zorníku - fólia">
-      <variant code="0703000899999" title="3M 6885 kryt zorníku - fólia" price="49.25" currency="EUR" unit="KS"/>
+      <variant code="0703000899999" title="3M 6885 kryt zorníku - fólia" price="1.973" currency="EUR" unit="KS"/>
    </product>
    <product code="0703000999999" title="3M 6889 výdych.ventil k maske">
-      <variant code="0703000999999" title="3M 6889 výdych.ventil k maske" price="5.36" currency="EUR" unit="KS"/>
+      <variant code="0703000999999" title="3M 6889 výdych.ventil k maske" price="5.367" currency="EUR" unit="KS"/>
    </product>
    <product code="0703001099999" title="3M 6893 vdychový ventil k maske">
-      <variant code="0703001099999" title="3M 6893 vdychový ventil k maske" price="2.87" currency="EUR" unit="KS"/>
+      <variant code="0703001099999" title="3M 6893 vdychový ventil k maske" price="2.873" currency="EUR" unit="KS"/>
    </product>
    <product code="0703001199999" title="3M 6895 tesnenie vdych.ventilu k maske">
-      <variant code="0703001199999" title="3M 6895 tesnenie vdych.ventilu k maske" price="1.75" currency="EUR" unit="KS"/>
+      <variant code="0703001199999" title="3M 6895 tesnenie vdych.ventilu k maske" price="1.754" currency="EUR" unit="KS"/>
    </product>
    <product code="0703001299999" title="3M 6896 tesnenie vdych.ventilu k maske">
-      <variant code="0703001299999" title="3M 6896 tesnenie vdych.ventilu k maske" price="4.14" currency="EUR" unit="KS"/>
+      <variant code="0703001299999" title="3M 6896 tesnenie vdych.ventilu k maske" price="4.146" currency="EUR" unit="KS"/>
    </product>
    <product code="0703001399999" title="3M 6897 náhr.upínac.systém k maske">
-      <variant code="0703001399999" title="3M 6897 náhr.upínac.systém k maske" price="36.47" currency="EUR" unit="KS"/>
+      <variant code="0703001399999" title="3M 6897 náhr.upínac.systém k maske" price="36.511" currency="EUR" unit="KS"/>
    </product>
    <product code="0703001499999" title="3M 6898 zorník">
-      <variant code="0703001499999" title="3M 6898 zorník" price="86.26" currency="EUR" unit="KS"/>
+      <variant code="0703001499999" title="3M 6898 zorník" price="86.355" currency="EUR" unit="KS"/>
    </product>
    <product code="07030015" title="3M 6900 maska">
-      <variant code="0703001599030" title="3M 6900 maska veľká" price="176.85" currency="EUR" unit="KS"/>
+      <variant code="0703001599030" title="3M 6900 maska veľká" price="177.047" currency="EUR" unit="KS"/>
    </product>
    <product code="0703003299999" title="3M 107 prepravné puzdro na masky">
       <variant code="0703003299999" title="3M 107 prepravné puzdro na masky" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0703003399999" title="3M 6894 dosedací vnútorná linie k 6800">
-      <variant code="0703003399999" title="3M 6894 dosedací vnútorná linie k 6800" price="30.72" currency="EUR" unit="KS"/>
+      <variant code="0703003399999" title="3M 6894 dosedací vnútorná linie k 6800" price="30.755" currency="EUR" unit="KS"/>
    </product>
    <product code="0703003599999" title="3M 6281 náhr.upínac.systém k maske">
-      <variant code="0703003599999" title="3M 6281 náhr.upínac.systém k maske" price="7.63" currency="EUR" unit="KS"/>
+      <variant code="0703003599999" title="3M 6281 náhr.upínac.systém k maske" price="7.639" currency="EUR" unit="KS"/>
    </product>
    <product code="0703003799999" title="3M 105 čistiace obrúsky (2ks/BAL)">
-      <variant code="0703003799999" title="3M 105 čistiace obrúsky (2ks/BAL)" price="1.09" currency="EUR" unit="BAL"/>
+      <variant code="0703003799999" title="3M 105 čistiace obrúsky (2ks/BAL)" price="1.092" currency="EUR" unit="BAL"/>
    </product>
    <product code="0703003899999" title="3M 6582 náhr.upínac.systém k polomaske">
       <variant code="0703003899999" title="3M 6582 náhr.upínac.systém k polomaske" price="Bude upresnené" currency="" unit="KS"/>
@@ -25408,55 +25406,55 @@
       <variant code="0703005599030" title="3M Secure Click FF-803 maska - L" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0704000199999" title="3M 2125 Filter P2  /BAL">
-      <variant code="0704000199999" title="3M 2125 Filter P2  /BAL" price="10.62" currency="EUR" unit="BAL"/>
+      <variant code="0704000199999" title="3M 2125 Filter P2  /BAL" price="10.63" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704000299999" title="3M 2128 Filter P2,O3  /BAL">
-      <variant code="0704000299999" title="3M 2128 Filter P2,O3  /BAL" price="12.46" currency="EUR" unit="BAL"/>
+      <variant code="0704000299999" title="3M 2128 Filter P2,O3  /BAL" price="12.474" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704000399999" title="3M 2135 Filter P3  /BAL">
-      <variant code="0704000399999" title="3M 2135 Filter P3  /BAL" price="13.1" currency="EUR" unit="BAL"/>
+      <variant code="0704000399999" title="3M 2135 Filter P3  /BAL" price="13.118" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704000499999" title="3M 2138 Filter P3,O3  /BAL">
-      <variant code="0704000499999" title="3M 2138 Filter P3,O3  /BAL" price="15.78" currency="EUR" unit="BAL"/>
+      <variant code="0704000499999" title="3M 2138 Filter P3,O3  /BAL" price="15.799" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704000599999" title="3M 5911 Filter P1  /BAL">
-      <variant code="0704000599999" title="3M 5911 Filter P1  /BAL" price="3.38" currency="EUR" unit="BAL"/>
+      <variant code="0704000599999" title="3M 5911 Filter P1  /BAL" price="3.386" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704000699999" title="3M 5925 Filter P2  /BAL">
-      <variant code="0704000699999" title="3M 5925 Filter P2  /BAL" price="8.98" currency="EUR" unit="BAL"/>
+      <variant code="0704000699999" title="3M 5925 Filter P2  /BAL" price="8.992" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704000799999" title="3M 5935 Filter P3  /BAL">
-      <variant code="0704000799999" title="3M 5935 Filter P3  /BAL" price="11.4" currency="EUR" unit="BAL"/>
+      <variant code="0704000799999" title="3M 5935 Filter P3  /BAL" price="11.413" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704000899999" title="3M 6035 Filter P3  /BAL">
-      <variant code="0704000899999" title="3M 6035 Filter P3  /BAL" price="14.42" currency="EUR" unit="BAL"/>
+      <variant code="0704000899999" title="3M 6035 Filter P3  /BAL" price="14.437" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704000999999" title="3M 6051 Filter A1  /BAL">
-      <variant code="0704000999999" title="3M 6051 Filter A1  /BAL" price="16.56" currency="EUR" unit="BAL"/>
+      <variant code="0704000999999" title="3M 6051 Filter A1  /BAL" price="16.576" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704001099999" title="3M 6054 Filter K1  /BAL">
-      <variant code="0704001099999" title="3M 6054 Filter K1  /BAL" price="20.36" currency="EUR" unit="BAL"/>
+      <variant code="0704001099999" title="3M 6054 Filter K1  /BAL" price="20.381" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704001199999" title="3M 6055 Filter A2  /BAL">
-      <variant code="0704001199999" title="3M 6055 Filter A2  /BAL" price="20.14" currency="EUR" unit="BAL"/>
+      <variant code="0704001199999" title="3M 6055 Filter A2  /BAL" price="20.163" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704001299999" title="3M 6057 Filter ABE1  /BAL">
-      <variant code="0704001299999" title="3M 6057 Filter ABE1  /BAL" price="18.34" currency="EUR" unit="BAL"/>
+      <variant code="0704001299999" title="3M 6057 Filter ABE1  /BAL" price="18.361" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704001399999" title="3M 6059 Filter ABEK1 /BAL">
-      <variant code="0704001399999" title="3M 6059 Filter ABEK1 /BAL" price="21.26" currency="EUR" unit="BAL"/>
+      <variant code="0704001399999" title="3M 6059 Filter ABEK1 /BAL" price="21.285" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704001499999" title="3M 6075 Filter A1 formaldehyde /BAL">
-      <variant code="0704001499999" title="3M 6075 Filter A1 formaldehyde /BAL" price="19.84" currency="EUR" unit="BAL"/>
+      <variant code="0704001499999" title="3M 6075 Filter A1 formaldehyde /BAL" price="19.863" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704001599999" title="3M 6096 Filter A1E1HgP3  /BAL">
-      <variant code="0704001599999" title="3M 6096 Filter A1E1HgP3  /BAL" price="65.92" currency="EUR" unit="BAL"/>
+      <variant code="0704001599999" title="3M 6096 Filter A1E1HgP3  /BAL" price="65.993" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704001699999" title="3M 6098 Filter AXP3 /BAL">
-      <variant code="0704001699999" title="3M 6098 Filter AXP3 /BAL" price="60.18" currency="EUR" unit="BAL"/>
+      <variant code="0704001699999" title="3M 6098 Filter AXP3 /BAL" price="60.249" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704001799999" title="3M 6099 Filter A2B2E2K2HgP3 R /BAL">
-      <variant code="0704001799999" title="3M 6099 Filter A2B2E2K2HgP3 R /BAL" price="58.18" currency="EUR" unit="BAL"/>
+      <variant code="0704001799999" title="3M 6099 Filter A2B2E2K2HgP3 R /BAL" price="58.244" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704004899999" title="JSP filter A1 pre FORCE8">
       <variant code="0704004899999" title="JSP filter A1 pre FORCE8" price="21.16" currency="EUR" unit="BAL"/>
@@ -25471,10 +25469,10 @@
       <variant code="0704005299999" title="JSP Predfilter P2 kit FORCE8" price="12.359" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704008399999" title="3M 836010 Pre-filter ADFLO 5ks">
-      <variant code="0704008399999" title="3M 836010 Pre-filter ADFLO 5ks" price="22.35" currency="EUR" unit="BAL"/>
+      <variant code="0704008399999" title="3M 836010 Pre-filter ADFLO 5ks" price="22.376" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704009699999" title="3M 6038 Filter P3, vapours HF, O3 /BAL">
-      <variant code="0704009699999" title="3M 6038 Filter P3, vapours HF, O3 /BAL" price="21.1" currency="EUR" unit="BAL"/>
+      <variant code="0704009699999" title="3M 6038 Filter P3, vapours HF, O3 /BAL" price="21.126" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704009899999" title="JSP PressToCheck™ cartridge A2P3">
       <variant code="0704009899999" title="JSP PressToCheck™ cartridge A2P3" price="39.812" currency="EUR" unit="BAL"/>
@@ -25564,7 +25562,7 @@
       <variant code="0704014199999" title="JSP filtr P3 R-Force F-1003 Economy" price="60.22" currency="EUR" unit="BOX"/>
    </product>
    <product code="0704014299999" title="3M TR-6310E A2P FILTER VERSAFLO">
-      <variant code="0704014299999" title="3M TR-6310E A2P FILTER VERSAFLO" price="121.86" currency="EUR" unit="KS"/>
+      <variant code="0704014299999" title="3M TR-6310E A2P FILTER VERSAFLO" price="121.995" currency="EUR" unit="KS"/>
    </product>
    <product code="0704016699999" title="JSP PressToCheck Compact P3 F-3103 (PK2)">
       <variant code="0704016699999" title="JSP PressToCheck Compact P3 F-3103 (PK2)" price="14.34" currency="EUR" unit="BAL"/>
@@ -25579,16 +25577,16 @@
       <variant code="0704017999999" title="P3 filter k celotvárovej maske CM-6" price="16.078" currency="EUR" unit="KS"/>
    </product>
    <product code="0704018099999" title="3M 6091 filter A1P3 2ks/BAL">
-      <variant code="0704018099999" title="3M 6091 filter A1P3 2ks/BAL" price="18.0" currency="EUR" unit="BAL"/>
+      <variant code="0704018099999" title="3M 6091 filter A1P3 2ks/BAL" price="36.039" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704018199999" title="3M 6095 filter A2P3 2ks/BAL">
-      <variant code="0704018199999" title="3M 6095 filter A2P3 2ks/BAL" price="19.76" currency="EUR" unit="BAL"/>
+      <variant code="0704018199999" title="3M 6095 filter A2P3 2ks/BAL" price="39.564" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704018299999" title="3M Versaflo TR-6710E">
-      <variant code="0704018299999" title="3M Versaflo TR-6710E" price="54.6" currency="EUR" unit="KS"/>
+      <variant code="0704018299999" title="3M Versaflo TR-6710E" price="54.66" currency="EUR" unit="KS"/>
    </product>
    <product code="0704018399999" title="3M Secure Click D8094 filter A1B1E1K1P3R">
-      <variant code="0704018399999" title="3M Secure Click D8094 filter A1B1E1K1P3R" price="51.69" currency="EUR" unit="BAL"/>
+      <variant code="0704018399999" title="3M Secure Click D8094 filter A1B1E1K1P3R" price="51.744" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704018499999" title="Filter ABEKP3 pre 732-N a 800 (2ks)">
       <variant code="0704018499999" title="Filter ABEKP3 pre 732-N a 800 (2ks)" price="26.222" currency="EUR" unit="BAL"/>
@@ -25615,34 +25613,34 @@
       <variant code="0704019199999" title="OF-02 CBRN A2B2E2K2SXP3 DR filter CM-6" price="49.309" currency="EUR" unit="KS"/>
    </product>
    <product code="0704019299999" title="3M Secure Click D8051 filter A1">
-      <variant code="0704019299999" title="3M Secure Click D8051 filter A1" price="23.57" currency="EUR" unit="BAL"/>
+      <variant code="0704019299999" title="3M Secure Click D8051 filter A1" price="23.595" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704019399999" title="3M Secure Click D8055 Filter A2 /BAL">
-      <variant code="0704019399999" title="3M Secure Click D8055 Filter A2 /BAL" price="28.23" currency="EUR" unit="BAL"/>
+      <variant code="0704019399999" title="3M Secure Click D8055 Filter A2 /BAL" price="56.523" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704019499999" title="3M Secure Click D8059 filter A1B1E1K1">
-      <variant code="0704019499999" title="3M Secure Click D8059 filter A1B1E1K1" price="28.7" currency="EUR" unit="BAL"/>
+      <variant code="0704019499999" title="3M Secure Click D8059 filter A1B1E1K1" price="28.734" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704019599999" title="3M Secure Click D3125 filter P2R">
-      <variant code="0704019599999" title="3M Secure Click D3125 filter P2R" price="28.7" currency="EUR" unit="BAL"/>
+      <variant code="0704019599999" title="3M Secure Click D3125 filter P2R" price="12.573" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704019699999" title="3M Secure Click D3135 filter P3R">
-      <variant code="0704019699999" title="3M Secure Click D3135 filter P3R" price="12.56" currency="EUR" unit="BAL"/>
+      <variant code="0704019699999" title="3M Secure Click D3135 filter P3R" price="15.747" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704019799999" title="3M Secure Click D7915 filter P1R">
-      <variant code="0704019799999" title="3M Secure Click D7915 filter P1R" price="8.16" currency="EUR" unit="BAL"/>
+      <variant code="0704019799999" title="3M Secure Click D7915 filter P1R" price="8.167" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704019899999" title="3M Secure Click D7925 filter P2R">
-      <variant code="0704019899999" title="3M Secure Click D7925 filter P2R" price="11.832" currency="EUR" unit="BAL"/>
+      <variant code="0704019899999" title="3M Secure Click D7925 filter P2R" price="11.817" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704019999999" title="3M Secure Click D7935 filter P3R">
-      <variant code="0704019999999" title="3M Secure Click D7935 filter P3R" price="13.96" currency="EUR" unit="BAL"/>
+      <variant code="0704019999999" title="3M Secure Click D7935 filter P3R" price="13.978" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704020099999" title="JSP Jetstream Kombin. filter TH2A2PSL">
       <variant code="0704020099999" title="JSP Jetstream Kombin. filter TH2A2PSL" price="158.051" currency="EUR" unit="KS"/>
    </product>
    <product code="0704020199999" title="3M TR-6130E ABE1P FILTR VERSAFLO">
-      <variant code="0704020199999" title="3M TR-6130E ABE1P FILTR VERSAFLO" price="132.51" currency="EUR" unit="KS"/>
+      <variant code="0704020199999" title="3M TR-6130E ABE1P FILTR VERSAFLO" price="132.655" currency="EUR" unit="KS"/>
    </product>
    <product code="0704020899999" title="CleanSpace CST1005 TM3 P3 filter (3pk)">
       <variant code="0704020899999" title="CleanSpace CST1005 TM3 P3 filter (3pk)" price="148.899" currency="EUR" unit="BAL"/>
@@ -25663,10 +25661,10 @@
       <variant code="0704021399999" title="CleanSpace CST ABEK1P3 P SL R filter" price="154.774" currency="EUR" unit="KS"/>
    </product>
    <product code="0704021699999" title="3M 6092 filter A1B1E1K1P3 R+form 2ks/BAL">
-      <variant code="0704021699999" title="3M 6092 filter A1B1E1K1P3 R+form 2ks/BAL" price="42.92" currency="EUR" unit="BAL"/>
+      <variant code="0704021699999" title="3M 6092 filter A1B1E1K1P3 R+form 2ks/BAL" price="42.969" currency="EUR" unit="BAL"/>
    </product>
    <product code="0704021799999" title="3M TR-6580E ABE2K1Hg FILTR VERSAFLO">
-      <variant code="0704021799999" title="3M TR-6580E ABE2K1Hg FILTR VERSAFLO" price="166.76" currency="EUR" unit="KS"/>
+      <variant code="0704021799999" title="3M TR-6580E ABE2K1Hg FILTR VERSAFLO" price="166.943" currency="EUR" unit="KS"/>
    </product>
    <product code="0704022099999" title="3M Filter CF32 DT-4045E ABEK2P3 R">
       <variant code="0704022099999" title="3M Filter CF32 DT-4045E ABEK2P3 R" price="Bude upresnené" currency="" unit="KA1"/>
@@ -25685,19 +25683,19 @@
       <variant code="0706002299999" title="3M 085-00-10P Turbojednotka Jupiter I.S." price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706003199999" title="3M 308-00-72P hadica Stan.duty antist10m">
-      <variant code="0706003199999" title="3M 308-00-72P hadica Stan.duty antist10m" price="515.63" currency="EUR" unit="KS"/>
+      <variant code="0706003199999" title="3M 308-00-72P hadica Stan.duty antist10m" price="516.196" currency="EUR" unit="KS"/>
    </product>
    <product code="0706003299999" title="3M 530-12-81P3 sest. spojky CEJN 342 3/8">
       <variant code="0706003299999" title="3M 530-12-81P3 sest. spojky CEJN 342 3/8" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706003799999" title="3M M-957 Pohodlná podložka (20 ks)">
-      <variant code="0706003799999" title="3M M-957 Pohodlná podložka (20 ks)" price="148.24" currency="EUR" unit="BAL"/>
+      <variant code="0706003799999" title="3M M-957 Pohodlná podložka (20 ks)" price="148.402" currency="EUR" unit="BAL"/>
    </product>
    <product code="0706003899999" title="3M BT-40 Dýchacia hadica - Heavy Duty">
-      <variant code="0706003899999" title="3M BT-40 Dýchacia hadica - Heavy Duty" price="167.46" currency="EUR" unit="KS"/>
+      <variant code="0706003899999" title="3M BT-40 Dýchacia hadica - Heavy Duty" price="167.645" currency="EUR" unit="KS"/>
    </product>
    <product code="0706005499999" title="3M S-655 Lehký náhlavní prémio. náhl.koš">
-      <variant code="0706005499999" title="3M S-655 Lehký náhlavní prémio. náhl.koš" price="125.32" currency="EUR" unit="KS"/>
+      <variant code="0706005499999" title="3M S-655 Lehký náhlavní prémio. náhl.koš" price="125.459" currency="EUR" unit="KS"/>
    </product>
    <product code="07060055" title="3M S-533 Lehký náhlavní díl zvýš.odolno">
       <variant code="0706005599030" title="3M S-5L Lehký náhlavní díl zvýš.odo- L" price="Bude upresnené" currency="" unit="KS"/>
@@ -25712,7 +25710,7 @@
       <variant code="0706005799010" title="3M S-920S kryty zorníku pro sérii S - S" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706006199999" title="3M S-757 Náhlavný diel pre lakovníkov">
-      <variant code="0706006199999" title="3M S-757 Náhlavný diel pre lakovníkov" price="130.33" currency="EUR" unit="KS"/>
+      <variant code="0706006199999" title="3M S-757 Náhlavný diel pre lakovníkov" price="130.475" currency="EUR" unit="KS"/>
    </product>
    <product code="0706006299999" title="3M S-707-10 Náhradné kukly">
       <variant code="0706006299999" title="3M S-707-10 Náhradné kukly" price="Bude upresnené" currency="" unit="KS"/>
@@ -25721,100 +25719,100 @@
       <variant code="0706006699999" title="3M S-922 kryty zorníku prosériiS-600,700" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706007099999" title="3M S-855E kukla chemická odoľnosť">
-      <variant code="0706007099999" title="3M S-855E kukla chemická odoľnosť" price="246.73" currency="EUR" unit="KS"/>
+      <variant code="0706007099999" title="3M S-855E kukla chemická odoľnosť" price="247.0" currency="EUR" unit="KS"/>
    </product>
    <product code="0706007199999" title="3M S-805E-5 Náhradné kukly">
-      <variant code="0706007199999" title="3M S-805E-5 Náhradné kukly" price="213.74" currency="EUR" unit="KS"/>
+      <variant code="0706007199999" title="3M S-805E-5 Náhradné kukly" price="42.795" currency="EUR" unit="KS"/>
    </product>
    <product code="0706007299999" title="3M S-605-10 Náhradné ľahké kukly">
       <variant code="0706007299999" title="3M S-605-10 Náhradné ľahké kukly" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706007399999" title="3M S-954 komfortná páska">
-      <variant code="0706007399999" title="3M S-954 komfortná páska" price="5.9" currency="EUR" unit="KS"/>
+      <variant code="0706007399999" title="3M S-954 komfortná páska" price="5.907" currency="EUR" unit="KS"/>
    </product>
    <product code="0706009599999" title="3M S-333LG Lehký náhlavní koš">
-      <variant code="0706009599999" title="3M S-333LG Lehký náhlavní koš" price="114.74" currency="EUR" unit="KS"/>
+      <variant code="0706009599999" title="3M S-333LG Lehký náhlavní koš" price="114.865" currency="EUR" unit="KS"/>
    </product>
    <product code="0706009699999" title="3M BT-30 nastavitelná hadica">
-      <variant code="0706009699999" title="3M BT-30 nastavitelná hadica" price="95.32" currency="EUR" unit="KS"/>
+      <variant code="0706009699999" title="3M BT-30 nastavitelná hadica" price="95.426" currency="EUR" unit="KS"/>
    </product>
    <product code="0706009999999" title="3M TR-302E+Filtroventilační jednotka">
-      <variant code="0706009999999" title="3M TR-302E+Filtroventilační jednotka" price="593.54" currency="EUR" unit="KS"/>
+      <variant code="0706009999999" title="3M TR-302E+Filtroventilační jednotka" price="594.19" currency="EUR" unit="KS"/>
    </product>
    <product code="0706010199999" title="3M TR-332 batéria s vysokou kapacitou">
-      <variant code="0706010199999" title="3M TR-332 batéria s vysokou kapacitou" price="423.96" currency="EUR" unit="KS"/>
+      <variant code="0706010199999" title="3M TR-332 batéria s vysokou kapacitou" price="424.425" currency="EUR" unit="KS"/>
    </product>
    <product code="0706010299999" title="3M TR-325 standardní pások">
       <variant code="0706010299999" title="3M TR-325 standardní pások" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706010399999" title="3M TR-3600  predfilter">
-      <variant code="0706010399999" title="3M TR-3600  predfilter" price="2.456" currency="EUR" unit="KS"/>
+      <variant code="0706010399999" title="3M TR-3600  predfilter" price="2.459" currency="EUR" unit="KS"/>
    </product>
    <product code="0706010699999" title="3M M-307 prilba pre privod vzduchu">
-      <variant code="0706010699999" title="3M M-307 prilba pre privod vzduchu" price="500.71" currency="EUR" unit="KS"/>
+      <variant code="0706010699999" title="3M M-307 prilba pre privod vzduchu" price="501.258" currency="EUR" unit="KS"/>
    </product>
    <product code="0706010899999" title="3M S-657 Lehký náhlavní prémio. náhl.koš">
-      <variant code="0706010899999" title="3M S-657 Lehký náhlavní prémio. náhl.koš" price="129.22" currency="EUR" unit="KS"/>
+      <variant code="0706010899999" title="3M S-657 Lehký náhlavní prémio. náhl.koš" price="129.363" currency="EUR" unit="KS"/>
    </product>
    <product code="0706010999999" title="3M S-607-10 Náhradné ľahké kukly">
       <variant code="0706010999999" title="3M S-607-10 Náhradné ľahké kukly" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706011099999" title="3M V-500E regulátor vzcuchu Versaflo">
-      <variant code="0706011099999" title="3M V-500E regulátor vzcuchu Versaflo" price="508.41" currency="EUR" unit="KS"/>
+      <variant code="0706011099999" title="3M V-500E regulátor vzcuchu Versaflo" price="508.967" currency="EUR" unit="KS"/>
    </product>
    <product code="0706011299999" title="3M M-976 pláštenka hlavy, krku a ramen">
-      <variant code="0706011299999" title="3M M-976 pláštenka hlavy, krku a ramen" price="55.25" currency="EUR" unit="KS"/>
+      <variant code="0706011299999" title="3M M-976 pláštenka hlavy, krku a ramen" price="55.312" currency="EUR" unit="KS"/>
    </product>
    <product code="0706011399999" title="3M M-928 krycie fólie zorníkov">
-      <variant code="0706011399999" title="3M M-928 krycie fólie zorníkov" price="2.25" currency="EUR" unit="KS"/>
+      <variant code="0706011399999" title="3M M-928 krycie fólie zorníkov" price="2.254" currency="EUR" unit="KS"/>
    </product>
    <product code="0706011499999" title="3M TR-315E+ startovní kit">
-      <variant code="0706011499999" title="3M TR-315E+ startovní kit" price="1312.98" currency="EUR" unit="KS"/>
+      <variant code="0706011499999" title="3M TR-315E+ startovní kit" price="1314.418" currency="EUR" unit="KS"/>
    </product>
    <product code="0706011599999" title="3M 023-05-51P5 náhr. filtr regulátoru">
-      <variant code="0706011599999" title="3M 023-05-51P5 náhr. filtr regulátoru" price="64.236" currency="EUR" unit="KS"/>
+      <variant code="0706011599999" title="3M 023-05-51P5 náhr. filtr regulátoru" price="64.307" currency="EUR" unit="KS"/>
    </product>
    <product code="0706011699999" title="3M 312-03-01P3 rozbočovač pro 2 odběr.mí">
-      <variant code="0706011699999" title="3M 312-03-01P3 rozbočovač pro 2 odběr.mí" price="45.013" currency="EUR" unit="KS"/>
+      <variant code="0706011699999" title="3M 312-03-01P3 rozbočovač pro 2 odběr.mí" price="45.064" currency="EUR" unit="KS"/>
    </product>
    <product code="0706011799999" title="3M Systém S-200">
       <variant code="0706011799999" title="3M Systém S-200" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706011899999" title="3M M-927 zorník">
-      <variant code="0706011899999" title="3M M-927 zorník" price="45.57" currency="EUR" unit="KS"/>
+      <variant code="0706011899999" title="3M M-927 zorník" price="45.62" currency="EUR" unit="KS"/>
    </product>
    <product code="0706012099999" title="3M M-937 nehor.tesnenie pre M-100,M-300">
-      <variant code="0706012099999" title="3M M-937 nehor.tesnenie pre M-100,M-300" price="31.3" currency="EUR" unit="KS"/>
+      <variant code="0706012099999" title="3M M-937 nehor.tesnenie pre M-100,M-300" price="31.336" currency="EUR" unit="KS"/>
    </product>
    <product code="0706012199999" title="3M TR-3822E Versaflo filtr pev.část,plyn">
       <variant code="0706012199999" title="3M TR-3822E Versaflo filtr pev.část,plyn" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706012299999" title="3M M-306 prilba pre privod vzduchu">
-      <variant code="0706012299999" title="3M M-306 prilba pre privod vzduchu" price="500.71" currency="EUR" unit="KS"/>
+      <variant code="0706012299999" title="3M M-306 prilba pre privod vzduchu" price="501.258" currency="EUR" unit="KS"/>
    </product>
    <product code="0706012399999" title="3M TR-3712E P3 Versaflo filtr pev.částic">
-      <variant code="0706012399999" title="3M TR-3712E P3 Versaflo filtr pev.částic" price="46.24" currency="EUR" unit="KS"/>
+      <variant code="0706012399999" title="3M TR-3712E P3 Versaflo filtr pev.částic" price="46.29" currency="EUR" unit="KS"/>
    </product>
    <product code="0706012499999" title="3M TR-330 Batéria, štandardná kapacita">
       <variant code="0706012499999" title="3M TR-330 Batéria, štandardná kapacita" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706012599999" title="3M TR-3802E Versaflo">
-      <variant code="0706012599999" title="3M TR-3802E Versaflo" price="58.31" currency="EUR" unit="KS"/>
+      <variant code="0706012599999" title="3M TR-3802E Versaflo" price="58.374" currency="EUR" unit="KS"/>
    </product>
    <product code="0706012999999" title="3M Nehorľavá pokrývka náhl.dielu M-972">
-      <variant code="0706012999999" title="3M Nehorľavá pokrývka náhl.dielu M-972" price="44.96" currency="EUR" unit="KS"/>
+      <variant code="0706012999999" title="3M Nehorľavá pokrývka náhl.dielu M-972" price="45.011" currency="EUR" unit="KS"/>
    </product>
    <product code="0706013099999" title="3M BT-922 ochranný kryt dých. hadice BT">
-      <variant code="0706013099999" title="3M BT-922 ochranný kryt dých. hadice BT" price="26.79" currency="EUR" unit="KS"/>
+      <variant code="0706013099999" title="3M BT-922 ochranný kryt dých. hadice BT" price="5.366" currency="EUR" unit="KS"/>
    </product>
    <product code="0706013199999" title="3M M-107 náhlavní díl (zorník)">
       <variant code="0706013199999" title="3M M-107 náhlavní díl (zorník)" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706013499999" title="3M TR-327 pások easy clean">
-      <variant code="0706013499999" title="3M TR-327 pások easy clean" price="91.86" currency="EUR" unit="KS"/>
+      <variant code="0706013499999" title="3M TR-327 pások easy clean" price="91.962" currency="EUR" unit="KS"/>
    </product>
    <product code="0706013599999" title="3M M-935 tesnenie pre M-100,M-300">
-      <variant code="0706013599999" title="3M M-935 tesnenie pre M-100,M-300" price="25.47" currency="EUR" unit="KS"/>
+      <variant code="0706013599999" title="3M M-935 tesnenie pre M-100,M-300" price="25.499" currency="EUR" unit="KS"/>
    </product>
    <product code="0706013699999" title="JSP Powercap peel off visor bal 10ks">
       <variant code="0706013699999" title="JSP Powercap peel off visor bal 10ks" price="54.703" currency="EUR" unit="KS"/>
@@ -25832,31 +25830,31 @@
       <variant code="0706014099999" title="JSP MKII POWERCAP FILTER TH1P" price="78.673" currency="EUR" unit="BAL"/>
    </product>
    <product code="0706014299999" title="3M S-433L Lehký náhlavní díl">
-      <variant code="0706014299999" title="3M S-433L Lehký náhlavní díl" price="114.74" currency="EUR" unit="KS"/>
+      <variant code="0706014299999" title="3M S-433L Lehký náhlavní díl" price="114.865" currency="EUR" unit="KS"/>
    </product>
    <product code="0706014699999" title="JSP POWERCAP náhradný zorník">
       <variant code="0706014699999" title="JSP POWERCAP náhradný zorník" price="71.446" currency="EUR" unit="KS"/>
    </product>
    <product code="0706014899999" title="3M M-921 tesnenie zorníku">
-      <variant code="0706014899999" title="3M M-921 tesnenie zorníku" price="7.4" currency="EUR" unit="KS"/>
+      <variant code="0706014899999" title="3M M-921 tesnenie zorníku" price="7.409" currency="EUR" unit="KS"/>
    </product>
    <product code="0706014999999" title="3M ADFLO nabíjačka Li Ion baterie">
-      <variant code="0706014999999" title="3M ADFLO nabíjačka Li Ion baterie" price="205.05" currency="EUR" unit="KS"/>
+      <variant code="0706014999999" title="3M ADFLO nabíjačka Li Ion baterie" price="161.789" currency="EUR" unit="KS"/>
    </product>
    <product code="0706015099999" title="JSP Powercap Replac.Face Seal">
       <variant code="0706015099999" title="JSP Powercap Replac.Face Seal" price="125.743" currency="EUR" unit="BAL"/>
    </product>
    <product code="0706015399999" title="3M S-133L Lehký náhlavní díl">
-      <variant code="0706015399999" title="3M S-133L Lehký náhlavní díl" price="59.96" currency="EUR" unit="KS"/>
+      <variant code="0706015399999" title="3M S-133L Lehký náhlavní díl" price="60.027" currency="EUR" unit="KS"/>
    </product>
    <product code="0706015899999" title="3M M-407 náhlavní díl s límcom">
-      <variant code="0706015899999" title="3M M-407 náhlavní díl s límcom" price="704.95" currency="EUR" unit="KS"/>
+      <variant code="0706015899999" title="3M M-407 náhlavní díl s límcom" price="705.723" currency="EUR" unit="KS"/>
    </product>
    <product code="0706016099999" title="3M Versaflo vnútorný golier M-444">
       <variant code="0706016099999" title="3M Versaflo vnútorný golier M-444" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0706016199999" title="3M M-936 komfor.tesnenie pre M-100,M-300">
-      <variant code="0706016199999" title="3M M-936 komfor.tesnenie pre M-100,M-300" price="30.53" currency="EUR" unit="KS"/>
+      <variant code="0706016199999" title="3M M-936 komfor.tesnenie pre M-100,M-300" price="30.565" currency="EUR" unit="KS"/>
    </product>
    <product code="0706016599999" title="PAF-0060 CleanSpace EX jednotka P3 filtr">
       <variant code="0706016599999" title="PAF-0060 CleanSpace EX jednotka P3 filtr" price="2229.279" currency="EUR" unit="KS"/>
@@ -25938,13 +25936,13 @@
       <variant code="0706019699999" title="CleanSpace2 upevňovacie pásky" price="83.285" currency="EUR" unit="KS"/>
    </product>
    <product code="0706019799999" title="3M M-406 Prilba s golierom">
-      <variant code="0706019799999" title="3M M-406 Prilba s golierom" price="709.23" currency="EUR" unit="KS"/>
+      <variant code="0706019799999" title="3M M-406 Prilba s golierom" price="710.007" currency="EUR" unit="KS"/>
    </product>
    <product code="0706019899999" title="JSP Jetstream Dust filter TH2PSL">
       <variant code="0706019899999" title="JSP Jetstream Dust filter TH2PSL" price="71.87" currency="EUR" unit="KS"/>
    </product>
    <product code="0706019999999" title="3M V-200E regulátor ohrevu vzduchu">
-      <variant code="0706019999999" title="3M V-200E regulátor ohrevu vzduchu" price="1066.62" currency="EUR" unit="KS"/>
+      <variant code="0706019999999" title="3M V-200E regulátor ohrevu vzduchu" price="1067.789" currency="EUR" unit="KS"/>
    </product>
    <product code="0706020099999" title="SR 99-1 Filtr.jednot.stlač.vzduchu">
       <variant code="0706020099999" title="SR 99-1 Filtr.jednot.stlač.vzduchu" price="1328.219" currency="EUR" unit="KS"/>
@@ -25978,7 +25976,7 @@
       <variant code="0706021199999" title="Batéria SR 502 HD 3,5 Ah" price="633.686" currency="EUR" unit="KS"/>
    </product>
    <product code="0706021299999" title="3M S-133S Lehký náhlavní díl">
-      <variant code="0706021299999" title="3M S-133S Lehký náhlavní díl" price="59.96" currency="EUR" unit="KS"/>
+      <variant code="0706021299999" title="3M S-133S Lehký náhlavní díl" price="60.027" currency="EUR" unit="KS"/>
    </product>
    <product code="0706021499999" title="SR 358 Tlaková hadica 20m">
       <variant code="0706021499999" title="SR 358 Tlaková hadica 20m" price="457.973" currency="EUR" unit="KS"/>
@@ -26047,7 +26045,7 @@
       <variant code="0706024099999" title="SR 570 tvárový štít" price="555.077" currency="EUR" unit="KS"/>
    </product>
    <product code="0706024199999" title="3M M-150 VERSAFLO náhlavný kríž">
-      <variant code="0706024199999" title="3M M-150 VERSAFLO náhlavný kríž" price="77.1" currency="EUR" unit="KS"/>
+      <variant code="0706024199999" title="3M M-150 VERSAFLO náhlavný kríž" price="77.184" currency="EUR" unit="KS"/>
    </product>
    <product code="0706024299999" title="CleanSpace Half Mask Adapt for Fit Test">
       <variant code="0706024299999" title="CleanSpace Half Mask Adapt for Fit Test" price="265.805" currency="EUR" unit="KS"/>
@@ -26080,7 +26078,7 @@
       <variant code="0706025399999" title="CleanSpace FM vnút.maska nos a ústa S" price="190.967" currency="EUR" unit="KS"/>
    </product>
    <product code="0706025499999" title="3M M-956 VERSAFLO redukce velikosti">
-      <variant code="0706025499999" title="3M M-956 VERSAFLO redukce velikosti" price="11.56" currency="EUR" unit="KS"/>
+      <variant code="0706025499999" title="3M M-956 VERSAFLO redukce velikosti" price="11.573" currency="EUR" unit="KS"/>
    </product>
    <product code="0706025599999" title="SR 365 Visor Laminated Glass">
       <variant code="0706025599999" title="SR 365 Visor Laminated Glass" price="221.778" currency="EUR" unit="KS"/>
@@ -26095,7 +26093,7 @@
       <variant code="0706025899999" title="SR 353 Protective Film" price="2.621" currency="EUR" unit="KS"/>
    </product>
    <product code="0706026099999" title="3M S-333SG Lehký náhlavní koš">
-      <variant code="0706026099999" title="3M S-333SG Lehký náhlavní koš" price="114.74" currency="EUR" unit="KS"/>
+      <variant code="0706026099999" title="3M S-333SG Lehký náhlavní koš" price="114.865" currency="EUR" unit="KS"/>
    </product>
    <product code="0706026199999" title="SR Spare visor for SR 540 PC">
       <variant code="0706026199999" title="SR Spare visor for SR 540 PC" price="24.804" currency="EUR" unit="KS"/>
@@ -26188,7 +26186,7 @@
       <variant code="0706029899999" title="potní páska pre SR 592" price="10.952" currency="EUR" unit="KS"/>
    </product>
    <product code="0706029999999" title="3M TR-362 ochranný kryt proti iskrám">
-      <variant code="0706029999999" title="3M TR-362 ochranný kryt proti iskrám" price="13.38" currency="EUR" unit="KS"/>
+      <variant code="0706029999999" title="3M TR-362 ochranný kryt proti iskrám" price="13.396" currency="EUR" unit="KS"/>
    </product>
    <product code="0706030099999" title="SET Membrán pro SR 540">
       <variant code="0706030099999" title="SET Membrán pro SR 540" price="7.625" currency="EUR" unit="SET"/>
@@ -26215,13 +26213,13 @@
       <variant code="0706030899999" title="SR 700/SR 592" price="2321.243" currency="EUR" unit="KS"/>
    </product>
    <product code="0706031199999" title="3M TR-619 Versaflo Starter Kit">
-      <variant code="0706031199999" title="3M TR-619 Versaflo Starter Kit" price="2196.1" currency="EUR" unit="KS"/>
+      <variant code="0706031199999" title="3M TR-619 Versaflo Starter Kit" price="2198.507" currency="EUR" unit="KS"/>
    </product>
    <product code="0706031399999" title="Jetstream Dust Constructor Kit (PSL)">
       <variant code="0706031399999" title="Jetstream Dust Constructor Kit (PSL)" price="1598.596" currency="EUR" unit="KS"/>
    </product>
    <product code="0706031499999" title="3M TR-819E Kit">
-      <variant code="0706031499999" title="3M TR-819E Kit" price="2530.9" currency="EUR" unit="KS"/>
+      <variant code="0706031499999" title="3M TR-819E Kit" price="2533.671" currency="EUR" unit="KS"/>
    </product>
    <product code="0706031599999" title="SR 592 W SHIELD WITH AIR CHANEL">
       <variant code="0706031599999" title="SR 592 W SHIELD WITH AIR CHANEL" price="663.2" currency="EUR" unit="KS"/>
@@ -26248,19 +26246,19 @@
       <variant code="0706032599999" title="CST1010 CleanSpace ULTRA Power jednotka" price="2246.819" currency="EUR" unit="KS"/>
    </product>
    <product code="0706032699999" title="3M Versaflo BT-927 žáruvzdor.kryt had.">
-      <variant code="0706032699999" title="3M Versaflo BT-927 žáruvzdor.kryt had." price="163.15" currency="EUR" unit="KS"/>
+      <variant code="0706032699999" title="3M Versaflo BT-927 žáruvzdor.kryt had." price="163.33" currency="EUR" unit="KS"/>
    </product>
    <product code="0706032899999" title="3M Versaflo Ohňovzdorný kryt M-447">
-      <variant code="0706032899999" title="3M Versaflo Ohňovzdorný kryt M-447" price="236.08" currency="EUR" unit="KS"/>
+      <variant code="0706032899999" title="3M Versaflo Ohňovzdorný kryt M-447" price="236.339" currency="EUR" unit="KS"/>
    </product>
    <product code="0706033099999" title="3M Versaflo M-925 zorník">
-      <variant code="0706033099999" title="3M Versaflo M-925 zorník" price="35.47" currency="EUR" unit="KS"/>
+      <variant code="0706033099999" title="3M Versaflo M-925 zorník" price="35.51" currency="EUR" unit="KS"/>
    </product>
    <product code="0706033199999" title="Jetstream Constructor Kit (TH2A2PSL)">
       <variant code="0706033199999" title="Jetstream Constructor Kit (TH2A2PSL)" price="1812.614" currency="EUR" unit="KS"/>
    </product>
    <product code="0706033299999" title="3M 83 77 30 ADFLO jednotka">
-      <variant code="0706033299999" title="3M 83 77 30 ADFLO jednotka" price="1162.74" currency="EUR" unit="KS"/>
+      <variant code="0706033299999" title="3M 83 77 30 ADFLO jednotka" price="1164.013" currency="EUR" unit="KS"/>
    </product>
    <product code="0706033699999" title="Powercap Infinity Peel Off PC visor PK10">
       <variant code="0706033699999" title="Powercap Infinity Peel Off PC visor PK10" price="53.629" currency="EUR" unit="BAL"/>
@@ -26269,7 +26267,7 @@
       <variant code="0706033899999" title="JSP Jetstream EVO5 Helmet Altern Head" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="0707001599999" title="3M Fit Test sladká FT-10">
-      <variant code="0707001599999" title="3M Fit Test sladká FT-10" price="293.6" currency="EUR" unit="SET"/>
+      <variant code="0707001599999" title="3M Fit Test sladká FT-10" price="293.921" currency="EUR" unit="SET"/>
    </product>
    <product code="0707001799999" title="3M Fit Test Kit horký FT-30">
       <variant code="0707001799999" title="3M Fit Test Kit horký FT-30" price="Bude upresnené" currency="" unit="SET"/>
@@ -26292,7 +26290,7 @@
       <variant code="0799000199999" title="SR 307 Regulátor stlač. vzduchu" price="377.285" currency="EUR" unit="KS"/>
    </product>
    <product code="0799000399999" title="3M TR-371+ Kryt filtra pre TR-300">
-      <variant code="0799000399999" title="3M TR-371+ Kryt filtra pre TR-300" price="28.73" currency="EUR" unit="KS"/>
+      <variant code="0799000399999" title="3M TR-371+ Kryt filtra pre TR-300" price="28.762" currency="EUR" unit="KS"/>
    </product>
    <product code="0799000499999" title="CleanSpace 3 Náhlavný kríž pre HM fabric">
       <variant code="0799000499999" title="CleanSpace 3 Náhlavný kríž pre HM fabric" price="84.979" currency="EUR" unit="KS"/>
@@ -26343,7 +26341,7 @@
       <variant code="0799002099999" title="CLIP, SPRING AND PIN FOR BAT. SR 500/EX" price="5.782" currency="EUR" unit="KS"/>
    </product>
    <product code="0799003699999" title="3M 400+ ochranná plena k pol.4000+">
-      <variant code="0799003699999" title="3M 400+ ochranná plena k pol.4000+" price="16.0" currency="EUR" unit="BAL"/>
+      <variant code="0799003699999" title="3M 400+ ochranná plena k pol.4000+" price="16.017" currency="EUR" unit="BAL"/>
    </product>
    <product code="0799003799999" title="Force 8 Ledvinka pre masku a filtre">
       <variant code="0799003799999" title="Force 8 Ledvinka pre masku a filtre" price="24.923" currency="EUR" unit="KS"/>
@@ -26382,7 +26380,7 @@
       <variant code="0799004899999" title="SR 59018 PROTECTIVE HOOD WELDING" price="41.163" currency="EUR" unit="KS"/>
    </product>
    <product code="0799004999999" title="3M M-207 náhlavní díl">
-      <variant code="0799004999999" title="3M M-207 náhlavní díl" price="305.25" currency="EUR" unit="KS"/>
+      <variant code="0799004999999" title="3M M-207 náhlavní díl" price="305.586" currency="EUR" unit="KS"/>
    </product>
    <product code="0799005299999" title="Powercap Inf. Charge Dock Power Supply">
       <variant code="0799005299999" title="Powercap Inf. Charge Dock Power Supply" price="338.648" currency="EUR" unit="KS"/>
@@ -26394,7 +26392,7 @@
       <variant code="0799005499999" title="BUMP CAP FOR SR 570" price="26.386" currency="EUR" unit="KS"/>
    </product>
    <product code="0799005599999" title="3M M-206 náhlavní díl">
-      <variant code="0799005599999" title="3M M-206 náhlavní díl" price="305.25" currency="EUR" unit="KS"/>
+      <variant code="0799005599999" title="3M M-206 náhlavní díl" price="305.586" currency="EUR" unit="KS"/>
    </product>
    <product code="0799005699999" title="SR 504 EX Gumový pásek">
       <variant code="0799005699999" title="SR 504 EX Gumový pásek" price="109.575" currency="EUR" unit="KS"/>
@@ -26436,13 +26434,13 @@
       <variant code="0799006899999" title="JSP Powercap IP Replac.Face Seal" price="19.16" currency="EUR" unit="KS"/>
    </product>
    <product code="0799006999999" title="3M Versaflo TR-6700FC Kryt filtra">
-      <variant code="0799006999999" title="3M Versaflo TR-6700FC Kryt filtra" price="20.12" currency="EUR" unit="KS"/>
+      <variant code="0799006999999" title="3M Versaflo TR-6700FC Kryt filtra" price="20.143" currency="EUR" unit="KS"/>
    </product>
    <product code="0799007099999" title="3M TR-6600 Versaflo Předfiltr">
-      <variant code="0799007099999" title="3M TR-6600 Versaflo Předfiltr" price="2.61" currency="EUR" unit="KS"/>
+      <variant code="0799007099999" title="3M TR-6600 Versaflo Předfiltr" price="2.613" currency="EUR" unit="KS"/>
    </product>
    <product code="0799007199999" title="TR-830 Iskrovo bezpečná batéria">
-      <variant code="0799007199999" title="TR-830 Iskrovo bezpečná batéria" price="1014.93" currency="EUR" unit="KS"/>
+      <variant code="0799007199999" title="TR-830 Iskrovo bezpečná batéria" price="1016.043" currency="EUR" unit="KS"/>
    </product>
    <product code="0799007299999" title="JSP Powercap Multi Region Charger">
       <variant code="0799007299999" title="JSP Powercap Multi Region Charger" price="99.125" currency="EUR" unit="KS"/>
@@ -26457,13 +26455,13 @@
       <variant code="0799007699999" title="SERVICE KIT SR 307" price="14.031" currency="EUR" unit="KS"/>
    </product>
    <product code="0799007799999" title="3M D701 držiak filtrov">
-      <variant code="0799007799999" title="3M D701 držiak filtrov" price="3.42" currency="EUR" unit="KS"/>
+      <variant code="0799007799999" title="3M D701 držiak filtrov" price="3.426" currency="EUR" unit="KS"/>
    </product>
    <product code="0799007899999" title="3M Versaflo TR-6100FC Kryt filtra">
-      <variant code="0799007899999" title="3M Versaflo TR-6100FC Kryt filtra" price="19.53" currency="EUR" unit="KS"/>
+      <variant code="0799007899999" title="3M Versaflo TR-6100FC Kryt filtra" price="19.552" currency="EUR" unit="KS"/>
    </product>
    <product code="0799007999999" title="3M 308-00-40P hadica 8mm 7,5m">
-      <variant code="0799007999999" title="3M 308-00-40P hadica 8mm 7,5m" price="279.68" currency="EUR" unit="KS"/>
+      <variant code="0799007999999" title="3M 308-00-40P hadica 8mm 7,5m" price="279.986" currency="EUR" unit="KS"/>
    </product>
    <product code="07990086" title="CleanSpace CST Polovičná maska">
       <variant code="0799008699030" title="CleanSpace CST Polovičná maska - L" price="233.852" currency="EUR" unit="KS"/>
@@ -26487,22 +26485,22 @@
       <variant code="0799009199999" title="CleanSpace CST Náhlavný kríž" price="103.398" currency="EUR" unit="KS"/>
    </product>
    <product code="0799009299999" title="3M Versaflo TR-6500FC Kryt filtra">
-      <variant code="0799009299999" title="3M Versaflo TR-6500FC Kryt filtra" price="20.1" currency="EUR" unit="KS"/>
+      <variant code="0799009299999" title="3M Versaflo TR-6500FC Kryt filtra" price="20.121" currency="EUR" unit="KS"/>
    </product>
    <product code="0799009399999" title="3M Versaflo M-973 štít">
-      <variant code="0799009399999" title="3M Versaflo M-973 štít" price="560.13" currency="EUR" unit="KS"/>
+      <variant code="0799009399999" title="3M Versaflo M-973 štít" price="560.745" currency="EUR" unit="KS"/>
    </product>
    <product code="0799009499999" title="3M Versaflo M-961 Rámeček krytu zorníku">
-      <variant code="0799009499999" title="3M Versaflo M-961 Rámeček krytu zorníku" price="129.12" currency="EUR" unit="KS"/>
+      <variant code="0799009499999" title="3M Versaflo M-961 Rámeček krytu zorníku" price="129.264" currency="EUR" unit="KS"/>
    </product>
    <product code="0799009899999" title="3M TR-681 PAPR ochranný kryt">
-      <variant code="0799009899999" title="3M TR-681 PAPR ochranný kryt" price="42.65" currency="EUR" unit="KS"/>
+      <variant code="0799009899999" title="3M TR-681 PAPR ochranný kryt" price="42.699" currency="EUR" unit="KS"/>
    </product>
    <product code="0799009999999" title="Nabíjačka batérií SR500/SR700">
       <variant code="0799009999999" title="Nabíjačka batérií SR500/SR700" price="240.981" currency="EUR" unit="KS"/>
    </product>
    <product code="0799010199999" title="3M Versaflo TR-653 čistiaca súprava">
-      <variant code="0799010199999" title="3M Versaflo TR-653 čistiaca súprava" price="95.2" currency="EUR" unit="KS"/>
+      <variant code="0799010199999" title="3M Versaflo TR-653 čistiaca súprava" price="95.305" currency="EUR" unit="KS"/>
    </product>
    <product code="0799011399999" title="JSP Force10 Ochr.fólia na zorník PK10">
       <variant code="0799011399999" title="JSP Force10 Ochr.fólia na zorník PK10" price="27.919" currency="EUR" unit="BAL"/>
@@ -26971,9 +26969,6 @@
       <variant code="9910002064999" title="JSP reťaz plast 8mm/25m čierna/žltá -" price="86.453" currency="EUR" unit="KS"/>
       <variant code="9910002024999" title="JSP reťaz plast 8mm/25m červená/biela -" price="86.453" currency="EUR" unit="KS"/>
    </product>
-   <product code="9910003199999" title="3M 7671 Páska samolep. R/W  33m/55mm">
-      <variant code="9910003199999" title="3M 7671 Páska samolep. R/W  33m/55mm" price="9.98" currency="EUR" unit="KS"/>
-   </product>
    <product code="9910003499999" title="JSP MIcrolite 2 non photocell">
       <variant code="9910003499999" title="JSP MIcrolite 2 non photocell" price="27.746" currency="EUR" unit="KS"/>
    </product>
@@ -27236,7 +27231,7 @@
       <variant code="9912006399999" title="TILIA tekuté mydlo pomaranč  0,5 l" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="9912007699999" title="3M Priemyselný čistič 200ml">
-      <variant code="9912007699999" title="3M Priemyselný čistič 200ml" price="17.33" currency="EUR" unit="KS"/>
+      <variant code="9912007699999" title="3M Priemyselný čistič 200ml" price="16.98" currency="EUR" unit="KS"/>
    </product>
    <product code="9912007799999" title="WILLI WC čistič, 750ml">
       <variant code="9912007799999" title="WILLI WC čistič, 750ml" price="1.7" currency="EUR" unit="KS"/>
@@ -27575,7 +27570,7 @@
       <variant code="9999012099999" title="Figurína detská10 let MFC-1018" price="Bude upresnené" currency="" unit="KS"/>
    </product>
    <product code="9999012299999" title="3M Stainless Steel Cleaner &amp; Polish">
-      <variant code="9999012299999" title="3M Stainless Steel Cleaner &amp; Polish" price="14.35" currency="EUR" unit="KS"/>
+      <variant code="9999012299999" title="3M Stainless Steel Cleaner &amp; Polish" price="15.805" currency="EUR" unit="KS"/>
    </product>
    <product code="9999012799999" title="CERVA taška">
       <variant code="9999012799999" title="CERVA taška" price="14.959" currency="EUR" unit="KS"/>
@@ -27605,13 +27600,13 @@
       <variant code="9999032899999" title="FINITO kuchyn.utierky,2 vrstvy,1 role" price="2.6" currency="EUR" unit="KS"/>
    </product>
    <product code="9999033399999" title="3M 764i PVC páska 50MMx33M žltá">
-      <variant code="9999033399999" title="3M 764i PVC páska 50MMx33M žltá" price="8.32" currency="EUR" unit="KS"/>
+      <variant code="9999033399999" title="3M 764i PVC páska 50MMx33M žltá" price="7.97" currency="EUR" unit="KS"/>
    </product>
    <product code="9999033499999" title="3M 766i PVC páska 50MMx33M čierna/žltá">
-      <variant code="9999033499999" title="3M 766i PVC páska 50MMx33M čierna/žltá" price="9.98" currency="EUR" unit="KS"/>
+      <variant code="9999033499999" title="3M 766i PVC páska 50MMx33M čierna/žltá" price="9.551" currency="EUR" unit="KS"/>
    </product>
    <product code="9999033599999" title="3M Duct páska 50MMx50M strieborná">
-      <variant code="9999033599999" title="3M Duct páska 50MMx50M strieborná" price="6.38" currency="EUR" unit="KS"/>
+      <variant code="9999033599999" title="3M Duct páska 50MMx50M strieborná" price="6.168" currency="EUR" unit="KS"/>
    </product>
    <product code="9999033699999" title="3M GPT-020F páska 19MMx5M">
       <variant code="9999033699999" title="3M GPT-020F páska 19MMx5M" price="Bude upresnené" currency="" unit="KS"/>
