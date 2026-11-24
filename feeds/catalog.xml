@@ -7197,6 +7197,8 @@
          </colors>
          <standards>
             <standard code="EN ISO 21420" title="EN ISO 21420"/>
+            <standard code="EN 16350" title="EN 16350"/>
+            <standard code="EN 388" title="EN 388 | 1X2XX"/>
             <standard code="EN 61340-5-1" title="EN 61340-5-1"/>
          </standards>
          <brand>CERV</brand>
