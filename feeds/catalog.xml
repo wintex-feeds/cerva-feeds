@@ -965,33 +965,6 @@
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>01010091</code>
-         <title>FF MAGPIE LIGHT HS-01-003 rukavice</title>
-         <description>• kombinované rukavice z hovädzej štiepenky a textilu • zosilnená dlaň s podšívkou • tkanina na chrbte</description>
-         <categoryPath>Produkty/Rukavice/Kožené kombinované</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="105" title="10"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN ISO 21420" title="EN ISO 21420"/>
-            <standard code="EN 388" title="EN 388 | 1111X"/>
-         </standards>
-         <brand>FF</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxNjk5MHxpbWFnZS93ZWJwfDkyNDYwMDgyMTM1MzQvMDEwMTAwOTFfTUFHUElFX0xJR0hUX0hTLTAxLTAwM19DRVJWQV8yMDE2XzE0Mzg2X2FsbC50aWYucG5nfDZiYzcyNzBlZTI2NzMyZjI2OGJlNjU0ZThkMzQ1YzZiODUwYzE2ZGEyY2E5YTg1ODIwNTU2YjA2Y2YwMDdlZDQ</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0101009199-FF-MAGPIE-LIGHT-gloves-01.jpg?context=bWFzdGVyfGltYWdlc3w5Nzk2N3xpbWFnZS9qcGVnfDg5OTcxNDYyNjM1ODIvMDEwMTAwOTE5OV9GRl9NQUdQSUVfTElHSFRfZ2xvdmVzLTAxLmpwZ3xhNjI5OGUwNDM0YzAzNWUwOGE0ZTdjOTA3OTA0MzM5MDU3Mzk1ZmVhYjBiYmJkMDA1Y2VhNWE4NDUwYjM4MjYz</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>01010099</code>
          <title>THRUSH rukavice kombinované</title>
          <description>• rukavice zo syntetickej kože • bavlna/spandex • manžeta na suchý zips</description>

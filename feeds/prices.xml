@@ -131,9 +131,6 @@
       <variant code="0101009099105" title="FF EIDER LIGHT rukavice - 10" price="2.182" currency="EUR" unit="PÁR"/>
       <variant code="0101009099090" title="FF EIDER LIGHT rukavice - 9" price="2.182" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="01010091" title="FF MAGPIE LIGHT HS-01-003 rukavice">
-      <variant code="0101009199105" title="FF MAGPIE LIGHT HS-01-003 rukavice - 10" price="2.795" currency="EUR" unit="PÁR"/>
-   </product>
    <product code="01010099" title="THRUSH rukavice kombinované">
       <variant code="0101009999100" title="THRUSH rukavice kombinované - 10" price="5.746" currency="EUR" unit="PÁR"/>
    </product>
@@ -2754,7 +2751,7 @@
       <variant code="0110022370110" title="STANDARD PLUS rukavice 35cm PVC žltá 11" price="4.624" currency="EUR" unit="PÁR"/>
       <variant code="0110022370100" title="STANDARD PLUS rukavice 35cm PVC žltá 10" price="4.624" currency="EUR" unit="PÁR"/>
       <variant code="0110022370090" title="STANDARD PLUS rukavice 35cm PVC žltá 9" price="4.624" currency="EUR" unit="PÁR"/>
-      <variant code="0110022370080" title="STANDARD PLUS rukavice 35cm PVC žltá 8" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0110022370080" title="STANDARD PLUS rukavice 35cm PVC žltá 8" price="4.62" currency="EUR" unit="PÁR"/>
    </product>
    <product code="01100225" title="Ansell 04-005 AlphaTec rukavice">
       <variant code="0110022599110" title="Ansell 04-005 AlphaTec rukavice - 11" price="15.755" currency="EUR" unit="PÁR"/>
@@ -7008,7 +7005,6 @@
    </product>
    <product code="02030160" title="GAMMA NEOS O1 SRC sandále">
       <variant code="0203016060048" title="GAMMA NEOS O1 SRC sandále čierna 48" price="35.293" currency="EUR" unit="PÁR"/>
-      <variant code="0203016060047" title="GAMMA NEOS O1 SRC sandále čierna 47" price="35.293" currency="EUR" unit="PÁR"/>
       <variant code="0203016060045" title="GAMMA NEOS O1 SRC sandále čierna 45" price="35.293" currency="EUR" unit="PÁR"/>
       <variant code="0203016060044" title="GAMMA NEOS O1 SRC sandále čierna 44" price="35.293" currency="EUR" unit="PÁR"/>
       <variant code="0203016060043" title="GAMMA NEOS O1 SRC sandále čierna 43" price="35.293" currency="EUR" unit="PÁR"/>
