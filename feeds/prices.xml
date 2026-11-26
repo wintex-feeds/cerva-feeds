@@ -3808,7 +3808,6 @@
    </product>
    <product code="02010287" title="RAVEN XT S1P SR SC poltopánka">
       <variant code="0201028760042" title="RAVEN XT S1P SR SC poltopánka 42 čierna" price="32.905" currency="EUR" unit="PÁR"/>
-      <variant code="0201028760040" title="RAVEN XT S1P SR SC poltopánka 40 čierna" price="32.905" currency="EUR" unit="PÁR"/>
       <variant code="0201028760037" title="RAVEN XT S1P SR SC poltopánka 37 čierna" price="32.905" currency="EUR" unit="PÁR"/>
       <variant code="0201028760036" title="RAVEN XT S1P SR SC poltopánka 36 čierna" price="32.905" currency="EUR" unit="PÁR"/>
    </product>
@@ -7627,9 +7626,7 @@
       <variant code="0204015060050" title="RAVEN XT O2 CI SR SC poloholeň 50 čierna" price="44.23" currency="EUR" unit="PÁR"/>
       <variant code="0204015060048" title="RAVEN XT O2 CI SR SC poloholeň 48 čierna" price="44.23" currency="EUR" unit="PÁR"/>
       <variant code="0204015060047" title="RAVEN XT O2 CI SR SC poloholeň 47 čierna" price="44.23" currency="EUR" unit="PÁR"/>
-      <variant code="0204015060045" title="RAVEN XT O2 CI SR SC poloholeň 45 čierna" price="44.23" currency="EUR" unit="PÁR"/>
       <variant code="0204015060039" title="RAVEN XT O2 CI SR SC poloholeň 39 čierna" price="44.23" currency="EUR" unit="PÁR"/>
-      <variant code="0204015060038" title="RAVEN XT O2 CI SR SC poloholeň 38 čierna" price="44.23" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02040151" title="TRACTION MF S3 HRO SRC poloholeň.obuv">
       <variant code="0204015160047" title="TRACTION MF S3 HRO SRC poloholeň.obuv 47" price="131.085" currency="EUR" unit="PÁR"/>
@@ -14374,7 +14371,7 @@
       <variant code="0304018080007" title="JINAI tričko biela 4XL" price="10.076" currency="EUR" unit="KS"/>
       <variant code="0304018080006" title="JINAI tričko biela 3XL" price="10.076" currency="EUR" unit="KS"/>
       <variant code="0304018080005" title="JINAI tričko biela XXL" price="10.076" currency="EUR" unit="KS"/>
-      <variant code="0304018080004" title="JINAI tričko biela XL" price="10.076" currency="EUR" unit="KS"/>
+      <variant code="0304018080004" title="JINAI tričko" price="10.076" currency="EUR" unit="KS"/>
       <variant code="0304018080003" title="JINAI tričko biela L" price="10.076" currency="EUR" unit="KS"/>
       <variant code="0304018080002" title="JINAI tričko biela M" price="10.076" currency="EUR" unit="KS"/>
       <variant code="0304018080001" title="JINAI tričko biela S" price="10.076" currency="EUR" unit="KS"/>
