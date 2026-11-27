@@ -2369,7 +2369,6 @@
    </product>
    <product code="01090088" title="CHICK TPE rukavice">
       <variant code="0109008881100" title="CHICK TPE rukavice číra XL" price="0.59" currency="EUR" unit="BOX"/>
-      <variant code="0109008881090" title="CHICK TPE rukavice číra L" price="0.59" currency="EUR" unit="BOX"/>
       <variant code="0109008881080" title="CHICK TPE rukavice číra M" price="0.59" currency="EUR" unit="BOX"/>
       <variant code="0109008881070" title="CHICK TPE rukavice číra S" price="0.59" currency="EUR" unit="BOX"/>
       <variant code="0109008860100" title="CHICK TPE rukavice čierna XL" price="0.59" currency="EUR" unit="BOX"/>
@@ -2764,6 +2763,12 @@
       <variant code="0110022999100" title="Ansell AlphaTec 58-201 rukavice - 10" price="Bude upresnené" currency="" unit="PÁR"/>
       <variant code="0110022999090" title="Ansell AlphaTec 58-201 rukavice - 9" price="Bude upresnené" currency="" unit="PÁR"/>
       <variant code="0110022999080" title="Ansell AlphaTec 58-201 rukavice - 8" price="Bude upresnené" currency="" unit="PÁR"/>
+   </product>
+   <product code="01100242" title="Ansell 14-663 Edge rukavice">
+      <variant code="0110024299110" title="Ansell 14-663 Edge rukavice - 11" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0110024299100" title="Ansell 14-663 Edge rukavice - 10" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0110024299090" title="Ansell 14-663 Edge rukavice - 9" price="Bude upresnené" currency="" unit="PÁR"/>
+      <variant code="0110024299080" title="Ansell 14-663 Edge rukavice - 8" price="Bude upresnené" currency="" unit="PÁR"/>
    </product>
    <product code="01110001" title="STARLING rukavice pre domácnosť">
       <variant code="0111000199100" title="STARLING rukavice pre domácnosť - 10/XL" price="0.809" currency="EUR" unit="PÁR"/>
@@ -17162,12 +17167,6 @@
    </product>
    <product code="03170002" title="Tyvek 500 návlek na pažu dl.50cm">
       <variant code="0317000200850" title="Tyvek 500 návlek na pažu dl.50cm" price="0.935" currency="EUR" unit="KS"/>
-   </product>
-   <product code="0317000799999" title="OSORNO zváračský rukáv pravý">
-      <variant code="0317000799999" title="OSORNO zváračský rukáv pravý" price="21.978" currency="EUR" unit="KS"/>
-   </product>
-   <product code="0317000899999" title="RECLUS zváračský rukáv ľavý">
-      <variant code="0317000899999" title="RECLUS zváračský rukáv ľavý" price="21.978" currency="EUR" unit="KS"/>
    </product>
    <product code="0317001099999" title="Tychem 6000 F návlek na pažu sivý">
       <variant code="0317001099999" title="Tychem 6000 F návlek na pažu sivý" price="3.722" currency="EUR" unit="KS"/>
