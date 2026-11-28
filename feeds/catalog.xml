@@ -4139,32 +4139,6 @@
          <unit>PÁR</unit>
       </product>
       <product>
-         <code>01050031</code>
-         <title>ANSELL  52-590 WinterHydTuf</title>
-         <description/>
-         <categoryPath>Produkty/Rukavice</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="090" title="9"/>
-            <size code="100" title="10"/>
-         </sizes>
-         <colors>
-            <color code="99" title="-"/>
-         </colors>
-         <standards>
-            <standard code="EN 420" title="EN 420"/>
-            <standard code="EN 388" title="EN 388 | 3222B"/>
-            <standard code="EN 511" title="EN 511 | 110"/>
-         </standards>
-         <brand>ANSE</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDAyNnxpbWFnZS93ZWJwfDkyNDk2ODI5ODA4OTQvMDEwNTAwMzFfQWN0aXZBcm1yIDUyLTU5MCBCcm93biBwcm9kdWN0IEVNRUEudGlmLnBuZ3xhZDgxYjA0MTA4MjI4ZGY2OWZkMGNhM2NhZmUxNGYzMDEzMzdhMTkxMTc2NjU2YTI2MzEyMTEyNzU4NWQ0ZDM4</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
          <code>01050040</code>
          <title>FUNKY FRUITruk. textil.s terčíkmi PVC</title>
          <description>• bavlnené rukavice s PVC bodmi pre lepšie uchopenie • s manžetou • absorbujú vlhkosť • ideálne pre činnosti ako je napr. presádzanie rastlín</description>
@@ -28944,46 +28918,6 @@ Panda Safety – synonymum pre spoľahlivú a vysoko pohodlnú ergonomickú obuv
             </image>
             <image>
                <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w3NTc2fGltYWdlL3dlYnB8OTI1MDAzMTQzNTgwNi8wMjA0MDEwM19HTEVOUk9FXzcwMEFfQ0hFU1RfV0FERVJTX2RldGFpbF9LaF9TaVIudGlmLnBuZ3wyZDFhMmU2NjZmMDA3Nzk3N2M4ZGU0ZWY5ZmY4NDY3ZGVlYjhiZmUzZmRkZDY1NTMxYTY4ZDUyMzU3NjVlODUx</path>
-            </image>
-         </images>
-         <unit>PÁR</unit>
-      </product>
-      <product>
-         <code>02040105</code>
-         <title>COLDMAX zateplené čižmy</title>
-         <description>Vysoká zateplená obuv s podošvou z PVC. Zvršok vyrobený v kombinácii PVC a textílie. Výška obuvi: 36 cm.</description>
-         <categoryPath>Produkty/Obuv/Holeňová obuv</categoryPath>
-         <packaging></packaging>
-         <sizes>
-            <size code="036" title="36"/>
-            <size code="037" title="37"/>
-            <size code="038" title="38"/>
-            <size code="039" title="39"/>
-            <size code="040" title="40"/>
-            <size code="041" title="41"/>
-            <size code="042" title="42"/>
-            <size code="043" title="43"/>
-            <size code="044" title="44"/>
-            <size code="045" title="45"/>
-            <size code="046" title="46"/>
-            <size code="047" title="47"/>
-            <size code="048" title="48"/>
-         </sizes>
-         <colors>
-            <color code="60" title="čierna"/>
-         </colors>
-         <standards>
-         </standards>
-         <brand>CERV</brand>
-         <images>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3wxMDk2OHxpbWFnZS93ZWJwfDkyNTAzODE4NTY3OTgvMDIwNDAxMDVfQ09MRE1BWF9DRVJWQSAwNDIwMTdfODU3My50aWYucG5nfDgwOTY1NTFiZDFkNmY3MjVjODI0M2NmNjI3MWQ3ZGY3NGM5MTM5OGMzZjE5MWQwMmMwZDE4MDJlZGI4NzYxYzc</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/?context=bWFzdGVyfGltYWdlc3w5MjE2fGltYWdlL3dlYnB8OTI1MDQ4OTY2MzUxOC8wMjA0MDEwNV9DT0xETUFYX3NvbGVfQ0VSVkEgMDQyMDE3Xzg1ODEudGlmLnBuZ3wyZmU0ZDA3YzYwYWJiMzkxM2M0NmI4YTZhYzI2NDgwYWE0YTE3MmQwMzkzNDRjYjNmMDg4N2I3YzU2OThkMjNk</path>
-            </image>
-            <image>
-               <path>https://media.cerva.com/medias/0204010560-COLDMAX-boots-black-01.jpg?context=bWFzdGVyfGltYWdlc3w5MTk3MHxpbWFnZS9qcGVnfDg5ODg4NTYzODU1NjYvMDIwNDAxMDU2MF9DT0xETUFYX2Jvb3RzX2JsYWNrLTAxLmpwZ3w3NTAxYjNlYjI4NzY0M2QzODE5ODJiZDJkNWQ0YWQxOWNhMDA0NjlkZTZlN2MxNjY4ZjYwZjk2OWI1Nzc3ZTVl</path>
             </image>
          </images>
          <unit>PÁR</unit>

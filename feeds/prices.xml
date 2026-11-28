@@ -696,9 +696,6 @@
       <variant code="0105003099100" title="Ansell ActivArmr 52547 rukavice - 10" price="7.601" currency="EUR" unit="PÁR"/>
       <variant code="0105003099090" title="Ansell ActivArmr 52547 rukavice - 9" price="7.601" currency="EUR" unit="PÁR"/>
    </product>
-   <product code="01050031" title="ANSELL  52-590 WinterHydTuf">
-      <variant code="0105003199100" title="ANSELL  52-590/100 WinterHydTuf" price="14.548" currency="EUR" unit="PÁR"/>
-   </product>
    <product code="01050040" title="FUNKY FRUITruk. textil.s terčíkmi PVC">
       <variant code="0105004090080" title="FUNKY FRUITruk. textil.s terč oranžová 8" price="3.406" currency="EUR" unit="PÁR"/>
    </product>
@@ -3976,7 +3973,6 @@
       <variant code="0201051440040" title="WADE MF ESD S1P SRC poltopánka modrá 40" price="65.1" currency="EUR" unit="PÁR"/>
       <variant code="0201051440039" title="WADE MF ESD S1P SRC poltopánka modrá 39" price="65.1" currency="EUR" unit="PÁR"/>
       <variant code="0201051440038" title="WADE MF ESD S1P SRC poltopánka modrá 38" price="65.1" currency="EUR" unit="PÁR"/>
-      <variant code="0201051440037" title="WADE MF ESD S1P SRC poltopánka modrá 37" price="65.1" currency="EUR" unit="PÁR"/>
       <variant code="0201051440036" title="WADE MF ESD S1P SRC poltopánka modrá 36" price="65.1" currency="EUR" unit="PÁR"/>
       <variant code="0201051440035" title="WADE MF ESD S1P SRC poltopánka modrá 35" price="65.1" currency="EUR" unit="PÁR"/>
    </product>
@@ -4241,10 +4237,7 @@
    <product code="02010586" title="BRINDISI MF S1P ESD poltopánka">
       <variant code="0201058643047" title="BRINDISI MF S1P ESD poltop.modr/čiern 47" price="66.113" currency="EUR" unit="PÁR"/>
       <variant code="0201058643046" title="BRINDISI MF S1P ESD poltop.modr/čiern 46" price="66.113" currency="EUR" unit="PÁR"/>
-      <variant code="0201058643045" title="BRINDISI MF S1P ESD poltop.modr/čiern 45" price="66.113" currency="EUR" unit="PÁR"/>
       <variant code="0201058643044" title="BRINDISI MF S1P ESD poltop.modr/čiern 44" price="66.113" currency="EUR" unit="PÁR"/>
-      <variant code="0201058643043" title="BRINDISI MF S1P ESD poltop.modr/čiern 43" price="66.113" currency="EUR" unit="PÁR"/>
-      <variant code="0201058643042" title="BRINDISI MF S1P ESD poltop.modr/čiern 42" price="66.113" currency="EUR" unit="PÁR"/>
       <variant code="0201058643041" title="BRINDISI MF S1P ESD poltop.modr/čiern 41" price="66.113" currency="EUR" unit="PÁR"/>
       <variant code="0201058643040" title="BRINDISI MF S1P ESD poltop.modr/čiern 40" price="66.113" currency="EUR" unit="PÁR"/>
       <variant code="0201058643039" title="BRINDISI MF S1P ESD poltop.modr/čiern 39" price="66.113" currency="EUR" unit="PÁR"/>
@@ -4257,7 +4250,6 @@
       <variant code="0201058709047" title="BARI MF S1P ESD poltopánka sivá/čiern 47" price="68.831" currency="EUR" unit="PÁR"/>
       <variant code="0201058709046" title="BARI MF S1P ESD poltopánka sivá/čiern 46" price="68.831" currency="EUR" unit="PÁR"/>
       <variant code="0201058709045" title="BARI MF S1P ESD poltopánka sivá/čiern 45" price="68.831" currency="EUR" unit="PÁR"/>
-      <variant code="0201058709044" title="BARI MF S1P ESD poltopánka sivá/čiern 44" price="68.831" currency="EUR" unit="PÁR"/>
       <variant code="0201058709043" title="BARI MF S1P ESD poltopánka sivá/čiern 43" price="68.831" currency="EUR" unit="PÁR"/>
       <variant code="0201058709042" title="BARI MF S1P ESD poltopánka sivá/čiern 42" price="68.831" currency="EUR" unit="PÁR"/>
       <variant code="0201058709040" title="BARI MF S1P ESD poltopánka sivá/čiern 40" price="68.831" currency="EUR" unit="PÁR"/>
@@ -4319,15 +4311,11 @@
    </product>
    <product code="02010593" title="BRINDISI MF S1 ESD poltopánka">
       <variant code="0201059343048" title="BRINDISI MF S1 ESD poltop.modrá/čier. 48" price="59.598" currency="EUR" unit="PÁR"/>
-      <variant code="0201059343047" title="BRINDISI MF S1 ESD poltop.modrá/čier. 47" price="59.598" currency="EUR" unit="PÁR"/>
       <variant code="0201059343046" title="BRINDISI MF S1 ESD poltop.modrá/čier. 46" price="59.598" currency="EUR" unit="PÁR"/>
-      <variant code="0201059343045" title="BRINDISI MF S1 ESD poltop.modrá/čier. 45" price="59.598" currency="EUR" unit="PÁR"/>
       <variant code="0201059343044" title="BRINDISI MF S1 ESD poltop.modrá/čier. 44" price="59.598" currency="EUR" unit="PÁR"/>
       <variant code="0201059343043" title="BRINDISI MF S1 ESD poltop.modrá/čier. 43" price="59.598" currency="EUR" unit="PÁR"/>
       <variant code="0201059343042" title="BRINDISI MF S1 ESD poltop.modrá/čier. 42" price="59.598" currency="EUR" unit="PÁR"/>
       <variant code="0201059343041" title="BRINDISI MF S1 ESD poltop.modrá/čier. 41" price="59.598" currency="EUR" unit="PÁR"/>
-      <variant code="0201059343040" title="BRINDISI MF S1 ESD poltop.modrá/čier. 40" price="59.598" currency="EUR" unit="PÁR"/>
-      <variant code="0201059343039" title="BRINDISI MF S1 ESD poltop.modrá/čier. 39" price="59.598" currency="EUR" unit="PÁR"/>
       <variant code="0201059343038" title="BRINDISI MF S1 ESD poltop.modrá/čier. 38" price="59.598" currency="EUR" unit="PÁR"/>
       <variant code="0201059343037" title="BRINDISI MF S1 ESD poltop.modrá/čier. 37" price="59.598" currency="EUR" unit="PÁR"/>
       <variant code="0201059343036" title="BRINDISI MF S1 ESD poltop.modrá/čier. 36" price="59.598" currency="EUR" unit="PÁR"/>
@@ -4649,7 +4637,6 @@
    <product code="02010616J" title="ULTRALIGHT MF S1 SR poltopánky.2akosť">
       <variant code="02010616W6048J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel48" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6047J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel47" price="25.0" currency="EUR" unit="PÁR"/>
-      <variant code="02010616W6040J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel40" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6039J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel39" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6038J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel38" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010616W6037J" title="ULTRALIGHT MF S1 SR pol.2.ak.sivá/biel37" price="25.0" currency="EUR" unit="PÁR"/>
@@ -4739,9 +4726,7 @@
       <variant code="02010618W6048J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 48" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6047J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 47" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6046J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 46" price="25.0" currency="EUR" unit="PÁR"/>
-      <variant code="02010618W6045J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 45" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6040J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 40" price="25.0" currency="EUR" unit="PÁR"/>
-      <variant code="02010618W6039J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 39" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6038J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 38" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6037J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 37" price="25.0" currency="EUR" unit="PÁR"/>
       <variant code="02010618W6036J" title="ULTRALIGHT O1 SR pol.2.ak. sivá/biela 36" price="25.0" currency="EUR" unit="PÁR"/>
@@ -6294,7 +6279,6 @@
       <variant code="0202088460036" title="X-507 S3 ESD SRC členok čierna 36" price="100.433" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02020885" title="X-510 S3 ESD SRC členok">
-      <variant code="0202088560047" title="X-510 S3 ESD SRC členok čierna 47" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560040" title="X-510 S3 ESD SRC členok čierna 40" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560039" title="X-510 S3 ESD SRC členok čierna 39" price="91.667" currency="EUR" unit="PÁR"/>
       <variant code="0202088560038" title="X-510 S3 ESD SRC členok čierna 38" price="91.667" currency="EUR" unit="PÁR"/>
@@ -7484,18 +7468,6 @@
       <variant code="0204010314041" title="GLENROE 700A prsačky 41 olivová" price="111.18" currency="EUR" unit="PÁR"/>
       <variant code="0204010314040" title="GLENROE 700A prsačky 40 olivová" price="111.18" currency="EUR" unit="PÁR"/>
       <variant code="0204010314039" title="GLENROE 700A prsačky 39 olivová" price="111.18" currency="EUR" unit="PÁR"/>
-   </product>
-   <product code="02040105" title="COLDMAX zateplené čižmy">
-      <variant code="0204010560046" title="COLDMAX zateplené čižmy 46 čierna" price="23.52" currency="EUR" unit="PÁR"/>
-      <variant code="0204010560045" title="COLDMAX zateplené čižmy 45 čierna" price="23.52" currency="EUR" unit="PÁR"/>
-      <variant code="0204010560044" title="COLDMAX zateplené čižmy 44 čierna" price="23.52" currency="EUR" unit="PÁR"/>
-      <variant code="0204010560043" title="COLDMAX zateplené čižmy 43 čierna" price="23.52" currency="EUR" unit="PÁR"/>
-      <variant code="0204010560042" title="COLDMAX zateplené čižmy 42 čierna" price="23.52" currency="EUR" unit="PÁR"/>
-      <variant code="0204010560041" title="COLDMAX zateplené čižmy 41 čierna" price="23.52" currency="EUR" unit="PÁR"/>
-      <variant code="0204010560040" title="COLDMAX zateplené čižmy 40 čierna" price="23.52" currency="EUR" unit="PÁR"/>
-      <variant code="0204010560039" title="COLDMAX zateplené čižmy 39 čierna" price="23.52" currency="EUR" unit="PÁR"/>
-      <variant code="0204010560038" title="COLDMAX zateplené čižmy 38 čierna" price="23.52" currency="EUR" unit="PÁR"/>
-      <variant code="0204010560036" title="COLDMAX zateplené čižmy 36 čierna" price="23.52" currency="EUR" unit="PÁR"/>
    </product>
    <product code="02040106" title="BC SAFETY S5 SRA čižmy">
       <variant code="0204010670048" title="BC SAFETY S5 SRA čižmy 48 žltá" price="19.845" currency="EUR" unit="PÁR"/>
@@ -9288,7 +9260,6 @@
       <variant code="0301037843048" title="MAX SUMMER bunda modrá/čierna 48" price="24.854" currency="EUR" unit="KS"/>
       <variant code="0301037843046" title="MAX SUMMER bunda modrá/čierna 46" price="24.854" currency="EUR" unit="KS"/>
       <variant code="0301037843044" title="MAX SUMMER bunda modrá/čierna 44" price="24.854" currency="EUR" unit="KS"/>
-      <variant code="0301037818064" title="MAX SUMMER bunda zelená/čierna 64" price="24.854" currency="EUR" unit="KS"/>
       <variant code="0301037818062" title="MAX SUMMER bunda zelená/čierna 62" price="24.854" currency="EUR" unit="KS"/>
       <variant code="0301037818060" title="MAX SUMMER bunda zelená/čierna 60" price="24.854" currency="EUR" unit="KS"/>
       <variant code="0301037818058" title="MAX SUMMER bunda zelená/čierna 58" price="24.854" currency="EUR" unit="KS"/>
@@ -9460,7 +9431,6 @@
    <product code="03010464" title="KNOXFIELD HV 290 bunda">
       <variant code="0301046490064" title="KNOXFIELD HV 290 bunda oranžová 64" price="38.0" currency="EUR" unit="KS"/>
       <variant code="0301046490052" title="KNOXFIELD HV 290 bunda oranžová 52" price="38.0" currency="EUR" unit="KS"/>
-      <variant code="0301046490050" title="KNOXFIELD HV 290 bunda oranžová 50" price="38.0" currency="EUR" unit="KS"/>
       <variant code="0301046490046" title="KNOXFIELD HV 290 bunda oranžová 46" price="38.0" currency="EUR" unit="KS"/>
       <variant code="0301046420064" title="KNOXFIELD HV 290 bunda červená 64" price="38.0" currency="EUR" unit="KS"/>
       <variant code="0301046420060" title="KNOXFIELD HV 290 bunda červená 60" price="38.0" currency="EUR" unit="KS"/>
@@ -9537,7 +9507,6 @@
       <variant code="0301047390006" title="KNOXFIELD printed softshel oranžová 3XL" price="63.595" currency="EUR" unit="KS"/>
       <variant code="0301047390005" title="KNOXFIELD printed softshel oranžová XXL" price="63.595" currency="EUR" unit="KS"/>
       <variant code="0301047390004" title="KNOXFIELD printed softshell oranžová XL" price="63.595" currency="EUR" unit="KS"/>
-      <variant code="0301047390003" title="KNOXFIELD printed softshell oranžová L" price="63.595" currency="EUR" unit="KS"/>
       <variant code="0301047390002" title="KNOXFIELD printed softshell oranžová M" price="63.595" currency="EUR" unit="KS"/>
       <variant code="0301047390001" title="KNOXFIELD printed softshell oranžová S" price="63.595" currency="EUR" unit="KS"/>
       <variant code="0301047390000" title="KNOXFIELD printed softshell oranžová XS" price="63.595" currency="EUR" unit="KS"/>
@@ -9830,7 +9799,6 @@
       <variant code="0301054370000" title="KNOXFIELD PROFI HV softsh.bunda žltá XS" price="110.609" currency="EUR" unit="KS"/>
    </product>
    <product code="03010545" title="KNOXFIELD PROFI HV fr.terry bunda">
-      <variant code="0301054570008" title="KNOXFIELD PROFI HV fr.terry bund žl 5XL" price="83.628" currency="EUR" unit="KS"/>
       <variant code="0301054570007" title="KNOXFIELD PROFI HV fr.terry bund žl 4XL" price="83.628" currency="EUR" unit="KS"/>
       <variant code="0301054570006" title="KNOXFIELD PROFI HV fr.terry bund žl 3XL" price="83.628" currency="EUR" unit="KS"/>
       <variant code="0301054570005" title="KNOXFIELD PROFI HV fr.terry bund žl XXL" price="83.628" currency="EUR" unit="KS"/>
@@ -9996,12 +9964,9 @@
       <variant code="0301055870002" title="KNOXFIELD HVPS WINT.pilot žltá M" price="80.928" currency="EUR" unit="KS"/>
       <variant code="0301055870001" title="KNOXFIELD HVPS WINT.pilot žltá S" price="80.928" currency="EUR" unit="KS"/>
       <variant code="0301055870000" title="KNOXFIELD HVPS WINT.pilot žltá XS" price="80.928" currency="EUR" unit="KS"/>
-      <variant code="0301055820006" title="KNOXFIELD HVPS WINT.pilot červená 3XL" price="80.928" currency="EUR" unit="KS"/>
       <variant code="0301055820005" title="KNOXFIELD HVPS WINT.pilot červená XXL" price="80.928" currency="EUR" unit="KS"/>
-      <variant code="0301055820004" title="KNOXFIELD HVPS WINT.pilot červená XL" price="80.928" currency="EUR" unit="KS"/>
       <variant code="0301055820003" title="KNOXFIELD HVPS WINT.pilot červená L" price="80.928" currency="EUR" unit="KS"/>
       <variant code="0301055820002" title="KNOXFIELD HVPS WINT.pilot červená M" price="80.928" currency="EUR" unit="KS"/>
-      <variant code="0301055820001" title="KNOXFIELD HVPS WINT.pilot červená S" price="80.928" currency="EUR" unit="KS"/>
       <variant code="0301055820000" title="KNOXFIELD HVPS WINT.pilot červená XS" price="80.928" currency="EUR" unit="KS"/>
    </product>
    <product code="03010559" title="KNOXFIELD HVPS softshell bunda">
@@ -10035,7 +10000,6 @@
       <variant code="0301056190004" title="FORMBY HV 7n1 parka oranžová XL" price="79.448" currency="EUR" unit="KS"/>
       <variant code="0301056190003" title="FORMBY HV 7n1 parka oranžová L" price="79.448" currency="EUR" unit="KS"/>
       <variant code="0301056190002" title="FORMBY HV 7n1 parka oranžová M" price="79.448" currency="EUR" unit="KS"/>
-      <variant code="0301056190001" title="FORMBY HV 7n1 parka oranžová S" price="79.448" currency="EUR" unit="KS"/>
       <variant code="0301056170005" title="FORMBY HV 7n1 parka žltá XXL" price="136.594" currency="EUR" unit="KS"/>
       <variant code="0301056170003" title="FORMBY HV 7n1 parka žltá L" price="136.594" currency="EUR" unit="KS"/>
       <variant code="0301056170002" title="FORMBY HV 7n1 parka žltá M" price="136.594" currency="EUR" unit="KS"/>
@@ -10501,7 +10465,6 @@
       <variant code="0301066180003" title="MAX NEO LIGHT bunda biela L" price="33.945" currency="EUR" unit="KS"/>
       <variant code="0301066180002" title="MAX NEO LIGHT bunda biela M" price="33.945" currency="EUR" unit="KS"/>
       <variant code="0301066180001" title="MAX NEO LIGHT bunda biela S" price="33.945" currency="EUR" unit="KS"/>
-      <variant code="0301066161007" title="MAX NEO LIGHT bunda antracit 4XL" price="33.945" currency="EUR" unit="KS"/>
       <variant code="0301066161006" title="MAX NEO LIGHT bunda antracit 3XL" price="33.945" currency="EUR" unit="KS"/>
       <variant code="0301066161005" title="MAX NEO LIGHT bunda antracit XXL" price="33.945" currency="EUR" unit="KS"/>
       <variant code="0301066161004" title="MAX NEO LIGHT bunda antracit XL" price="33.945" currency="EUR" unit="KS"/>
@@ -10518,8 +10481,6 @@
       <variant code="0301066141007" title="MAX NEO LIGHT bunda navy 4XL" price="33.945" currency="EUR" unit="KS"/>
       <variant code="0301066141006" title="MAX NEO LIGHT bunda navy 3XL" price="33.945" currency="EUR" unit="KS"/>
       <variant code="0301066141005" title="MAX NEO LIGHT bunda navy XXL" price="33.945" currency="EUR" unit="KS"/>
-      <variant code="0301066141004" title="MAX NEO LIGHT bunda navy XL" price="33.945" currency="EUR" unit="KS"/>
-      <variant code="0301066141003" title="MAX NEO LIGHT bunda navy L" price="33.945" currency="EUR" unit="KS"/>
       <variant code="0301066141002" title="MAX NEO LIGHT bunda navy M" price="33.945" currency="EUR" unit="KS"/>
       <variant code="0301066141001" title="MAX NEO LIGHT bunda navy S" price="33.945" currency="EUR" unit="KS"/>
       <variant code="0301066140007" title="MAX NEO LIGHT bunda modrá 4XL" price="33.945" currency="EUR" unit="KS"/>
@@ -10570,7 +10531,6 @@
       <variant code="0301067141000" title="MAX NEO LADY LIGHT bunda navy XS" price="30.494" currency="EUR" unit="KS"/>
       <variant code="0301067140006" title="MAX NEO LADY LIGHT bunda modrá 3XL" price="30.494" currency="EUR" unit="KS"/>
       <variant code="0301067140005" title="MAX NEO LADY LIGHT bunda modrá XXL" price="30.494" currency="EUR" unit="KS"/>
-      <variant code="0301067140004" title="MAX NEO LADY LIGHT bunda modrá XL" price="30.494" currency="EUR" unit="KS"/>
       <variant code="0301067140003" title="MAX NEO LADY LIGHT bunda modrá L" price="30.494" currency="EUR" unit="KS"/>
       <variant code="0301067140002" title="MAX NEO LADY LIGHT bunda modrá M" price="30.494" currency="EUR" unit="KS"/>
       <variant code="0301067140001" title="MAX NEO LADY LIGHT bunda modrá S" price="30.494" currency="EUR" unit="KS"/>
@@ -10949,7 +10909,6 @@
    </product>
    <product code="03020003" title="STANMORE nohavice náprs">
       <variant code="0302000369060" title="STANMORE nohavice náprs tm. hnedá 60" price="43.95" currency="EUR" unit="KS"/>
-      <variant code="0302000369056" title="STANMORE nohavice náprs tm. hnedá 56" price="43.95" currency="EUR" unit="KS"/>
       <variant code="0302000369054" title="STANMORE nohavice náprs tm. hnedá 54" price="43.95" currency="EUR" unit="KS"/>
       <variant code="0302000369052" title="STANMORE nohavice náprs tm. hnedá 52" price="43.95" currency="EUR" unit="KS"/>
       <variant code="0302000369048" title="STANMORE nohavice náprs tm. hnedá 48" price="43.95" currency="EUR" unit="KS"/>
@@ -12839,7 +12798,6 @@
    <product code="03030014" title="EMERTON WINTER vesta">
       <variant code="0303001460002" title="EMERTON WINTER vesta čierna-oranž M" price="33.042" currency="EUR" unit="KS"/>
       <variant code="0303001460001" title="EMERTON WINTER vesta čierna-oranž S" price="33.042" currency="EUR" unit="KS"/>
-      <variant code="0303001441006" title="EMERTON WINTER vesta navy 3XL" price="33.042" currency="EUR" unit="KS"/>
       <variant code="0303001441005" title="EMERTON WINTER vesta navy XXL" price="33.042" currency="EUR" unit="KS"/>
       <variant code="0303001441004" title="EMERTON WINTER vesta navy XL" price="33.042" currency="EUR" unit="KS"/>
       <variant code="0303001441003" title="EMERTON WINTER vesta navy L" price="33.042" currency="EUR" unit="KS"/>
@@ -12847,7 +12805,6 @@
       <variant code="0303001441001" title="EMERTON WINTER vesta navy  S" price="33.042" currency="EUR" unit="KS"/>
    </product>
    <product code="03030024" title="BEAVER vesta">
-      <variant code="0303002460003" title="BEAVER vesta čierna L" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002460001" title="BEAVER vesta čierna S" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002450006" title="BEAVER vesta royal modrá 3XL" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002450005" title="BEAVER vesta royal modrá XXL" price="34.479" currency="EUR" unit="KS"/>
@@ -12857,7 +12814,6 @@
       <variant code="0303002450001" title="BEAVER vesta royal modrá S" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002442006" title="BEAVER vesta tm. modrá 3XL" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002442005" title="BEAVER vesta tm. modrá XXL" price="34.479" currency="EUR" unit="KS"/>
-      <variant code="0303002442004" title="BEAVER vesta tm. modrá XL" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002442003" title="BEAVER vesta tm. modrá L" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002442002" title="BEAVER vesta tm. modrá M" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002442001" title="BEAVER vesta tm. modrá S" price="34.479" currency="EUR" unit="KS"/>
@@ -12873,8 +12829,6 @@
       <variant code="0303002410003" title="BEAVER vesta zelená L" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002410002" title="BEAVER vesta zelená M" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002410001" title="BEAVER vesta zelená S" price="34.479" currency="EUR" unit="KS"/>
-      <variant code="0303002400006" title="BEAVER vesta sivá 3XL" price="34.479" currency="EUR" unit="KS"/>
-      <variant code="0303002400005" title="BEAVER vesta sivá XXL" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002400004" title="BEAVER vesta sivá XL" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002400003" title="BEAVER vesta sivá L" price="34.479" currency="EUR" unit="KS"/>
       <variant code="0303002400002" title="BEAVER vesta sivá M" price="34.479" currency="EUR" unit="KS"/>
@@ -13158,7 +13112,6 @@
    </product>
    <product code="03030136" title="KNOXFIELD HV vesta">
       <variant code="0303013690001" title="KNOXFIELD HV vesta oranžová S" price="9.693" currency="EUR" unit="KS"/>
-      <variant code="0303013620002" title="KNOXFIELD HV vesta červená M" price="9.693" currency="EUR" unit="KS"/>
       <variant code="0303013620001" title="KNOXFIELD HV vesta červená S" price="9.693" currency="EUR" unit="KS"/>
    </product>
    <product code="03030137" title="KNOXFIELD LADY oboustr.vesta">
@@ -13318,12 +13271,9 @@
       <variant code="0303016561003" title="MAX NEO vesta antracit L" price="26.081" currency="EUR" unit="KS"/>
       <variant code="0303016561002" title="MAX NEO vesta antracit M" price="26.081" currency="EUR" unit="KS"/>
       <variant code="0303016561001" title="MAX NEO vesta antracit S" price="26.081" currency="EUR" unit="KS"/>
-      <variant code="0303016541007" title="MAX NEO vesta navy 4XL" price="26.081" currency="EUR" unit="KS"/>
       <variant code="0303016541006" title="MAX NEO vesta navy 3XL" price="26.081" currency="EUR" unit="KS"/>
       <variant code="0303016541005" title="MAX NEO vesta navy XXL" price="26.081" currency="EUR" unit="KS"/>
       <variant code="0303016541004" title="MAX NEO vesta navy XL" price="26.081" currency="EUR" unit="KS"/>
-      <variant code="0303016541003" title="MAX NEO vesta navy L" price="26.081" currency="EUR" unit="KS"/>
-      <variant code="0303016541002" title="MAX NEO vesta navy M" price="26.081" currency="EUR" unit="KS"/>
       <variant code="0303016541001" title="MAX NEO vesta navy S" price="26.081" currency="EUR" unit="KS"/>
       <variant code="0303016540007" title="MAX NEO vesta modrá 4XL" price="26.081" currency="EUR" unit="KS"/>
       <variant code="0303016540006" title="MAX NEO vesta modrá 3XL" price="26.081" currency="EUR" unit="KS"/>
@@ -13356,7 +13306,6 @@
       <variant code="03030166C1002" title="MAX VIVO vesta čierna/oranžová M" price="23.101" currency="EUR" unit="KS"/>
       <variant code="03030166C1001" title="MAX VIVO vesta čierna/oranžová S" price="23.101" currency="EUR" unit="KS"/>
       <variant code="0303016664006" title="MAX VIVO vesta černá/žltá 3XL" price="23.101" currency="EUR" unit="KS"/>
-      <variant code="0303016664005" title="MAX VIVO vesta černá/žltá XXL" price="23.101" currency="EUR" unit="KS"/>
       <variant code="0303016664004" title="MAX VIVO vesta černá/žltá XL" price="23.101" currency="EUR" unit="KS"/>
       <variant code="0303016664003" title="MAX VIVO vesta černá/žltá L" price="23.101" currency="EUR" unit="KS"/>
       <variant code="0303016664002" title="MAX VIVO vesta černá/žltá M" price="23.101" currency="EUR" unit="KS"/>
@@ -14053,7 +14002,6 @@
       <variant code="03040109W0000" title="CRAMBE triko béžová kamufláž XS" price="10.481" currency="EUR" unit="KS"/>
       <variant code="03040109G5006" title="CRAMBE triko sivá kamufláž 3XL" price="10.48" currency="EUR" unit="KS"/>
       <variant code="03040109G5005" title="CRAMBE triko sivá kamufláž XXL" price="10.48" currency="EUR" unit="KS"/>
-      <variant code="03040109G5003" title="CRAMBE triko sivá kamufláž L" price="10.48" currency="EUR" unit="KS"/>
       <variant code="03040109G5002" title="CRAMBE triko sivá kamufláž M" price="10.48" currency="EUR" unit="KS"/>
       <variant code="03040109G5001" title="CRAMBE triko sivá kamufláž S" price="10.48" currency="EUR" unit="KS"/>
       <variant code="03040109G5000" title="CRAMBE triko sivá kamufláž XS" price="10.48" currency="EUR" unit="KS"/>
@@ -14073,7 +14021,6 @@
       <variant code="03040110A0000" title="KNOXFIELD triko antracit/červená XS" price="1.74" currency="EUR" unit="KS"/>
       <variant code="0304011061006" title="KNOXFIELD RYO triko 3XL" price="11.43" currency="EUR" unit="KS"/>
       <variant code="0304011061005" title="KNOXFIELD RYO triko XXL" price="11.43" currency="EUR" unit="KS"/>
-      <variant code="0304011061002" title="KNOXFIELD RYO triko M" price="11.43" currency="EUR" unit="KS"/>
    </product>
    <product code="03040111" title="KNOXFIELD HV triko">
       <variant code="0304011190006" title="KNOXFIELD HV triko oranžová 3XL" price="17.864" currency="EUR" unit="KS"/>
@@ -15069,9 +15016,7 @@
    <product code="03060130" title="NEURUM mikina s kapucňou">
       <variant code="03060130E5007" title="NEURUM mikina s kapucňou tm.olivová 4XL" price="45.595" currency="EUR" unit="KS"/>
       <variant code="03060130E5006" title="NEURUM mikina s kapucňou tm.olivová 3XL" price="45.595" currency="EUR" unit="KS"/>
-      <variant code="03060130E5005" title="NEURUM mikina s kapucňou tm.olivová XXL" price="45.595" currency="EUR" unit="KS"/>
       <variant code="03060130E5003" title="NEURUM mikina s kapucňou tm.olivová L" price="45.595" currency="EUR" unit="KS"/>
-      <variant code="03060130E5002" title="NEURUM mikina s kapucňou tm.olivová M" price="45.595" currency="EUR" unit="KS"/>
       <variant code="03060130E5001" title="NEURUM mikina s kapucňou tm.olivová S" price="45.595" currency="EUR" unit="KS"/>
       <variant code="03060130E5000" title="NEURUM mikina s kapucňou tm.olivová XS" price="45.595" currency="EUR" unit="KS"/>
       <variant code="0306013060007" title="NEURUM mikina s kapucňou čierna 4XL" price="45.595" currency="EUR" unit="KS"/>
@@ -16487,7 +16432,6 @@
    <product code="03140114" title="NOORD čiapka">
       <variant code="03140114C1014" title="NOORD čiapka čierna/oranžová XL/XXL" price="15.957" currency="EUR" unit="KS"/>
       <variant code="03140114C1012" title="NOORD čiapka čierna/oranžová M/L" price="15.957" currency="EUR" unit="KS"/>
-      <variant code="0314011467012" title="NOORD čiapka čierna/zelená M/L" price="15.957" currency="EUR" unit="KS"/>
       <variant code="0314011451014" title="NOORD čiapka navy/royal XL/XXL" price="15.957" currency="EUR" unit="KS"/>
       <variant code="0314011451012" title="NOORD čiapka navy/royal M/L" price="15.957" currency="EUR" unit="KS"/>
    </product>
@@ -16565,7 +16509,6 @@
       <variant code="0314017110999" title="STIRLING STRETCH pletená čiapka zelená" price="16.328" currency="EUR" unit="KS"/>
    </product>
    <product code="03150006" title="EMERTON kombinéza">
-      <variant code="0315000690058" title="EMERTON kombinéza - 58" price="67.346" currency="EUR" unit="KS"/>
       <variant code="0315000690054" title="EMERTON kombinéza - 54" price="67.346" currency="EUR" unit="KS"/>
       <variant code="0315000690050" title="EMERTON kombinéza - 50" price="67.346" currency="EUR" unit="KS"/>
       <variant code="0315000690048" title="EMERTON kombinéza - 48" price="67.346" currency="EUR" unit="KS"/>
@@ -17079,13 +17022,10 @@
       <variant code="0316004065739" title="KNOXFIELD BASIC ponožky černá/červ 39/40" price="3.935" currency="EUR" unit="PÁR"/>
       <variant code="0316004064745" title="KNOXFIELD BASIC ponožky černá/žltá 45/46" price="3.935" currency="EUR" unit="PÁR"/>
       <variant code="0316004064743" title="KNOXFIELD BASIC ponožky černá/žltá 43/44" price="3.935" currency="EUR" unit="PÁR"/>
-      <variant code="0316004064741" title="KNOXFIELD BASIC ponožky černá/žltá 41/42" price="3.935" currency="EUR" unit="PÁR"/>
-      <variant code="0316004064739" title="KNOXFIELD BASIC ponožky černá/žltá 39/40" price="3.935" currency="EUR" unit="PÁR"/>
    </product>
    <product code="03160041" title="KNOXFIELD LONG ponožky">
       <variant code="03160041C1741" title="KNOXFIELD LONG ponožky čierna/oran 41/42" price="4.333" currency="EUR" unit="PÁR"/>
       <variant code="03160041C1739" title="KNOXFIELD LONG ponožky čierna/oran 39/40" price="4.333" currency="EUR" unit="PÁR"/>
-      <variant code="0316004165745" title="KNOXFIELD LONG ponožky černá/červ 45/46" price="4.333" currency="EUR" unit="PÁR"/>
       <variant code="0316004165743" title="KNOXFIELD LONG ponožky černá/červ 43/44" price="4.333" currency="EUR" unit="PÁR"/>
       <variant code="0316004165741" title="KNOXFIELD LONG ponožky černá/červ 41/42" price="4.333" currency="EUR" unit="PÁR"/>
       <variant code="0316004165739" title="KNOXFIELD LONG ponožky černá/červ 39/40" price="4.333" currency="EUR" unit="PÁR"/>
@@ -17319,7 +17259,6 @@
       <variant code="0322000660005" title="SANGU polokošeľa dl.rukáv čierna XXL" price="10.213" currency="EUR" unit="KS"/>
       <variant code="0322000660001" title="SANGU polokošeľa dl.rukáv čierna S" price="10.213" currency="EUR" unit="KS"/>
       <variant code="0322000660000" title="SANGU polokošeľa dl.rukáv čierna XS" price="10.213" currency="EUR" unit="KS"/>
-      <variant code="0322000650006" title="SANGU polokošeľa dl.rukáv roy.modrá 3XL" price="10.213" currency="EUR" unit="KS"/>
       <variant code="0322000650005" title="SANGU polokošeľa dl.rukáv roy.modrá XXL" price="10.213" currency="EUR" unit="KS"/>
       <variant code="0322000650004" title="SANGU polokošeľa dl.rukáv royal modrá XL" price="10.213" currency="EUR" unit="KS"/>
       <variant code="0322000650001" title="SANGU polokošeľa dl.rukáv royal modrá S" price="10.213" currency="EUR" unit="KS"/>
@@ -17390,7 +17329,6 @@
       <variant code="03310001E3005" title="DAYBORO parka mech.zelená XXL" price="84.308" currency="EUR" unit="KS"/>
       <variant code="03310001E3004" title="DAYBORO parka mech.zelená XL" price="84.308" currency="EUR" unit="KS"/>
       <variant code="03310001E3003" title="DAYBORO parka mech.zelená L" price="84.308" currency="EUR" unit="KS"/>
-      <variant code="03310001E3002" title="DAYBORO parka mech.zelená M" price="84.308" currency="EUR" unit="KS"/>
       <variant code="03310001E3001" title="DAYBORO parka mech.zelená S" price="84.308" currency="EUR" unit="KS"/>
       <variant code="0331000169007" title="DAYBORO parka tm.hnedá 4XL" price="84.308" currency="EUR" unit="KS"/>
       <variant code="0331000169006" title="DAYBORO parka tm.hnedá 3XL" price="84.308" currency="EUR" unit="KS"/>
@@ -17528,7 +17466,6 @@
       <variant code="03310037C1005" title="MAX VIVO parka čierna/oranžová XXL" price="46.329" currency="EUR" unit="KS"/>
       <variant code="03310037C1004" title="MAX VIVO parka čierna/oranžová XL" price="46.329" currency="EUR" unit="KS"/>
       <variant code="03310037C1003" title="MAX VIVO parka čierna/oranžová L" price="46.329" currency="EUR" unit="KS"/>
-      <variant code="03310037C1002" title="MAX VIVO parka čierna/oranžová M" price="46.329" currency="EUR" unit="KS"/>
       <variant code="0331003764007" title="MAX VIVO parka černá/žltá 4XL" price="46.329" currency="EUR" unit="KS"/>
       <variant code="0331003764005" title="MAX VIVO parka černá/žltá XXL" price="46.329" currency="EUR" unit="KS"/>
       <variant code="0331003764004" title="MAX VIVO parka černá/žltá XL" price="46.329" currency="EUR" unit="KS"/>
@@ -17594,8 +17531,6 @@
       <variant code="0332000180001" title="DAYBORO pilot bunda biela S" price="71.728" currency="EUR" unit="KS"/>
       <variant code="0332000180000" title="DAYBORO pilot bunda biela XS" price="71.728" currency="EUR" unit="KS"/>
       <variant code="0332000169007" title="DAYBORO pilot bunda tm.hnedá 4XL" price="71.728" currency="EUR" unit="KS"/>
-      <variant code="0332000169006" title="DAYBORO pilot bunda tm.hnedá 3XL" price="71.728" currency="EUR" unit="KS"/>
-      <variant code="0332000169005" title="DAYBORO pilot bunda tm.hnedá XXL" price="71.728" currency="EUR" unit="KS"/>
       <variant code="0332000169004" title="DAYBORO pilot bunda tm.hnedá XL" price="71.728" currency="EUR" unit="KS"/>
       <variant code="0332000169003" title="DAYBORO pilot bunda tm.hnedá L" price="71.728" currency="EUR" unit="KS"/>
       <variant code="0332000169002" title="DAYBORO pilot bunda tm.hnedá M" price="71.728" currency="EUR" unit="KS"/>
@@ -17627,7 +17562,6 @@
       <variant code="0332001661003" title="MAX NEO pilot bunda antracit L" price="42.721" currency="EUR" unit="KS"/>
       <variant code="0332001661002" title="MAX NEO pilot bunda antracit M" price="42.721" currency="EUR" unit="KS"/>
       <variant code="0332001661001" title="MAX NEO pilot bunda antracit S" price="42.721" currency="EUR" unit="KS"/>
-      <variant code="0332001641007" title="MAX NEO pilot bunda navy 4XL" price="42.721" currency="EUR" unit="KS"/>
       <variant code="0332001641006" title="MAX NEO pilot bunda navy 3XL" price="42.721" currency="EUR" unit="KS"/>
       <variant code="0332001641005" title="MAX NEO pilot bunda navy XXL" price="42.721" currency="EUR" unit="KS"/>
       <variant code="0332001641004" title="MAX NEO pilot bunda navy XL" price="42.721" currency="EUR" unit="KS"/>
@@ -18065,7 +17999,6 @@
       <variant code="0351000441052" title="NEURUM CLS bunda+kapucňa navy 52" price="75.022" currency="EUR" unit="KS"/>
       <variant code="0351000441050" title="NEURUM CLS bunda+kapucňa navy 50" price="75.022" currency="EUR" unit="KS"/>
       <variant code="0351000441048" title="NEURUM CLS bunda+kapucňa navy 48" price="75.022" currency="EUR" unit="KS"/>
-      <variant code="0351000441046" title="NEURUM CLS bunda+kapucňa navy 46" price="75.022" currency="EUR" unit="KS"/>
    </product>
    <product code="03510005" title="NEURUM CAMOU bunda">
       <variant code="03510005E5062" title="NEURUM CAMOU bunda tm.olivová 62" price="72.76" currency="EUR" unit="KS"/>
@@ -19346,9 +19279,7 @@
       <variant code="0352000455058" title="NEURUM PFM nohavice petrolejová 58" price="81.638" currency="EUR" unit="KS"/>
       <variant code="0352000455056" title="NEURUM PFM nohavice petrolejová 56" price="81.638" currency="EUR" unit="KS"/>
       <variant code="0352000455054" title="NEURUM PFM nohavice petrolejová 54" price="81.638" currency="EUR" unit="KS"/>
-      <variant code="0352000455052" title="NEURUM PFM nohavice petrolejová 52" price="81.638" currency="EUR" unit="KS"/>
       <variant code="0352000455050" title="NEURUM PFM nohavice petrolejová 50" price="81.638" currency="EUR" unit="KS"/>
-      <variant code="0352000455048" title="NEURUM PFM nohavice petrolejová 48" price="81.638" currency="EUR" unit="KS"/>
       <variant code="0352000455046" title="NEURUM PFM nohavice petrolejová 46" price="81.638" currency="EUR" unit="KS"/>
       <variant code="0352000441064" title="NEURUM PFM nohavice navy 64" price="81.638" currency="EUR" unit="KS"/>
       <variant code="0352000441062" title="NEURUM PFM nohavice navy 62" price="81.638" currency="EUR" unit="KS"/>
@@ -19752,7 +19683,6 @@
       <variant code="03520063A4054" title="FF HANS nohavice čierna/antracit 54" price="33.203" currency="EUR" unit="KS"/>
       <variant code="03520063A4052" title="FF HANS nohavice čierna/antracit 52" price="33.203" currency="EUR" unit="KS"/>
       <variant code="03520063A4050" title="FF HANS nohavice čierna/antracit 50" price="33.203" currency="EUR" unit="KS"/>
-      <variant code="03520063A4048" title="FF HANS nohavice čierna/antracit 48" price="33.203" currency="EUR" unit="KS"/>
       <variant code="03520063A4046" title="FF HANS nohavice čierna/antracit 46" price="33.203" currency="EUR" unit="KS"/>
       <variant code="0352006386064" title="FF HANS nohavice biela/sivá 64" price="33.203" currency="EUR" unit="KS"/>
       <variant code="0352006386062" title="FF HANS nohavice biela/sivá 62" price="33.203" currency="EUR" unit="KS"/>
@@ -21600,7 +21530,6 @@
       <variant code="0353005020058" title="KNOXFIELD HVPS FL náprs.noh. červená 58" price="66.413" currency="EUR" unit="KS"/>
       <variant code="0353005020056" title="KNOXFIELD HVPS FL náprs.noh. červená 56" price="66.413" currency="EUR" unit="KS"/>
       <variant code="0353005020054" title="KNOXFIELD HVPS FL náprs.noh. červená 54" price="66.413" currency="EUR" unit="KS"/>
-      <variant code="0353005020052" title="KNOXFIELD HVPS FL náprs.noh. červená 52" price="66.413" currency="EUR" unit="KS"/>
       <variant code="0353005020050" title="KNOXFIELD HVPS FL náprs.noh. červená 50" price="66.413" currency="EUR" unit="KS"/>
       <variant code="0353005020048" title="KNOXFIELD HVPS FL náprs.noh. červená 48" price="66.413" currency="EUR" unit="KS"/>
       <variant code="0353005020046" title="KNOXFIELD HVPS FL náprs.noh. červená 46" price="66.413" currency="EUR" unit="KS"/>
@@ -23723,7 +23652,6 @@
       <variant code="0501058181999" title="MONDION IS Okuliare,TPR tesnenie, číra -" price="7.926" currency="EUR" unit="KS"/>
    </product>
    <product code="05010582" title="OYRE IS okuliare,damske,AF,AS">
-      <variant code="0501058281025" title="OYRE IS okuliare,dams číra růžový rám." price="4.059" currency="EUR" unit="KS"/>
       <variant code="0501058206026" title="OYRE IS okul dýmová růžová/čierna rám." price="4.626" currency="EUR" unit="KS"/>
       <variant code="0501058206018" title="OYRE IS okul dýmová zelená/čierna rám." price="4.626" currency="EUR" unit="KS"/>
    </product>
